@@ -3,6 +3,8 @@ import bisect
 import os
 import subprocess
 
+# This file is run every day using crontab in order to grow the dictionary of valid letter boxed words
+
 script_dir = os.path.dirname(os.path.realpath(__file__))
 os.chdir(script_dir)
 

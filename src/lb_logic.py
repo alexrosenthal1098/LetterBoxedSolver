@@ -6,7 +6,11 @@ class LetterBoxed:
         # sides is a string is given in the format "abc-def-ghi-jkl"
         # self.sides is a set of strings containing the 3 letters of that side
         self.sides = {side for side in sides.split("-")}
-        self.words = dictionary[:]
+        self.words = []
+        for word in dictionary:
+            if self.is_valid_word(word):
+                self.words.append(word)
+
 
     def _get_side(self, letter: str, last_side: str = "") -> str:
         for side in self.sides - {last_side}:
@@ -62,6 +66,6 @@ class LetterBoxed:
         return solutions
 
 
-lb = LetterBoxed(scraping.letters, scraping.todays_words)
-for solution in lb.find_solutions(3):
-    print(solution)
+#lb = LetterBoxed(scraping.letters, scraping.todays_words)
+#for solution in lb.find_solutions(3):
+#    print(solution)
