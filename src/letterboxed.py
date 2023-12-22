@@ -38,7 +38,7 @@ def main():
     else:
         validate_sides(args.sides, "The sides of the puzzle must be given in the format abc-def-ghi-jkl")
         words = []
-        with open("standard_dictionary.txt", "r") as dict_words:
+        with open("../docs/standard_dictionary.txt", "r") as dict_words:
             for word in dict_words.readlines():
                 words.append(word.strip())
         lb = LetterBoxed(args.sides, words)
