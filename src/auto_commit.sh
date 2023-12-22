@@ -1,4 +1,5 @@
 #!/bin/bash
 
-git commit -m "auto commit" $1
+git add lb_words.txt
+git commit -m "auto commit"
 git push origin main
