@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>com.collectwords.script</string>
+    <string>com.letterboxed.autocommit</string>
 
     <key>Program</key>
     <string>/Users/alexrosenthal/LetterBoxedSolver/auto_commit.sh</string>
@@ -11,9 +11,9 @@
     <key>StartCalendarInterval</key>
     <dict>
         <key>Hour</key>
-        <integer>19</integer>
+        <integer>1</integer>
         <key>Minute</key>
-        <integer>10</integer>
+        <integer>01</integer>
     </dict>
 </dict>
 </plist>
