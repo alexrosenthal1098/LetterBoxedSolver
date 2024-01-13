@@ -20,15 +20,13 @@ def validate_sides(sides: str, error_message: str):
         sys.exit()
 
 
-
-
 def main():
     parser = argparse.ArgumentParser()
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument('-t', '--today', action='store_true', help="Uses today's puzzle")
     group.add_argument('-s', '--sides', default='', type=str,
-                        help='Specifies the sides of the puzzle in the format abc-def-ghi-jkl')
-    parser.add_argument('-m', '--max', default='3', type=int, help='Specify the max number of words in a solution')
+                       help='Specifies the sides of the puzzle in the format abc-def-ghi-jkl')
+    parser.add_argument('-m', '--max', default='3', type=int, help='Specify the maximum number of words in a solution')
     args = parser.parse_args()
 
     if args.today:
@@ -38,13 +36,18 @@ def main():
     else:
         validate_sides(args.sides, "The sides of the puzzle must be given in the format abc-def-ghi-jkl")
         words = []
+
         with open("../docs/standard_dictionary.txt", "r") as dict_words:
             for word in dict_words.readlines():
                 words.append(word.strip())
+        with open("../docs/lb_words.txt", "r") as lb_words:
+            for word in lb_words:
+                if word.strip() not in words:
+                    words.append(word.strip())
+
         lb = LetterBoxed(args.sides, words)
         for solution in lb.find_solutions(args.max):
-            print(" + ". join(solution))
-
+            print(" + ".join(solution))
 
 
 if __name__ == "__main__":
