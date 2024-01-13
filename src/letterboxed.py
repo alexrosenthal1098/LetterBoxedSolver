@@ -28,7 +28,7 @@ def main():
     group.add_argument('-t', '--today', action='store_true', help="Uses today's puzzle")
     group.add_argument('-s', '--sides', default='', type=str,
                         help='Specifies the sides of the puzzle in the format abc-def-ghi-jkl')
-    parser.add_argument('-m', '--max', default='3', type=int, help='Specify the max number of words in a solutions')
+    parser.add_argument('-m', '--max', default='3', type=int, help='Specify the max number of words in a solution')
     args = parser.parse_args()
 
     if args.today:
