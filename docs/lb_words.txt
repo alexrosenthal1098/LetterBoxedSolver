@@ -45,6 +45,7 @@ abaters
 abates
 abathagathi
 abathakathi
+abating
 abatis
 abatised
 abatises
@@ -59,6 +60,7 @@ abdast
 abdest
 abear
 abeared
+abearing
 abears
 abeat
 abed
@@ -79,8 +81,10 @@ abider
 abiders
 abides
 abiding
+abient
 abietate
 abietates
+abietene
 abilitate
 abilitated
 abilitates
@@ -119,6 +123,9 @@ abluded
 ablush
 ablute
 ably
+abnegate
+abnegating
+abnegation
 abnet
 abnets
 aboard
@@ -179,6 +186,11 @@ abrin
 abris
 abristle
 abroad
+abrogate
+abrogating
+abrogation
+abrupt
+abruption
 abs
 abscisic
 abseil
@@ -671,6 +683,7 @@ afar
 afara
 afaras
 afear
+afearing
 afion
 afire
 aflare
@@ -682,6 +695,7 @@ afoam
 afoul
 afret
 afrit
+afront
 aft
 after
 afterburn
@@ -735,6 +749,7 @@ agatey
 agathism
 agathist
 agathists
+agatine
 agatise
 agatised
 agaty
@@ -749,6 +764,7 @@ agboin
 agboins
 age
 aged
+ageing
 ageism
 ageist
 ageists
@@ -763,6 +779,7 @@ agenesis
 agenesises
 agent
 agential
+agenting
 agentive
 agents
 ager
@@ -830,6 +847,7 @@ agogos
 agon
 agonadal
 agonal
+agone
 agoniadin
 agonic
 agonizing
@@ -837,9 +855,11 @@ agonizingly
 agons
 agony
 agora
+agorae
 agorot
 agoroth
 agouti
+agrafe
 agrapha
 agraphia
 agrarian
@@ -855,6 +875,7 @@ agrion
 agroecological
 agrogorod
 agrology
+agrupation
 aguacate
 ague
 agues
@@ -923,6 +944,7 @@ aioli
 aionial
 aionian
 air
+airbag
 airbase
 airbases
 airbed
@@ -969,6 +991,7 @@ airs
 airside
 airt
 airted
+airting
 airts
 airview
 airviews
@@ -1665,6 +1688,7 @@ apache
 apam
 apart
 apathy
+apatite
 ape
 apes
 aphagia
@@ -1744,6 +1768,7 @@ aracari
 aracaris
 arachis
 arachnid
+aragonite
 arak
 aralia
 aralias
@@ -1763,6 +1788,9 @@ arbitrage
 arbitrages
 arbitrageur
 arbitrageurs
+arbitrate
+arbitrating
+arbitration
 arbitrator
 arblast
 arblasts
@@ -1841,6 +1869,7 @@ argues
 arguing
 argus
 arguses
+argute
 arhat
 arhats
 aria
@@ -2458,6 +2487,7 @@ bais
 bait
 baited
 baiter
+baiting
 baits
 baiza
 baize
@@ -2569,6 +2599,7 @@ baon
 baons
 baos
 bap
+bapu
 bar
 bara
 baraita
@@ -2595,6 +2626,7 @@ barbets
 barbie
 barbies
 barbital
+barbiturate
 barbotine
 barbs
 bard
@@ -2614,6 +2646,7 @@ bares
 barest
 barf
 bargain
+bargaining
 bargains
 barge
 barged
@@ -2643,6 +2676,8 @@ barnet
 barnets
 barns
 baron
+baronet
+baronetage
 barong
 barongs
 baronies
@@ -2728,6 +2763,7 @@ bathos
 baths
 batik
 batiks
+bating
 batiste
 batman
 bato
@@ -2782,12 +2818,14 @@ bear
 bearability
 bearable
 bearably
+bearbaiting
 beard
 bearded
 beardie
 beardier
 beardy
 bearer
+bearing
 bearlike
 bearpit
 bears
@@ -2797,6 +2835,7 @@ beat
 beatable
 beaten
 beater
+beating
 beau
 beaus
 bebop
@@ -2811,12 +2850,16 @@ bedlinen
 bedload
 bedplate
 bedrail
+befog
 beg
 began
+begat
 beget
 begets
 begin
 begins
+begone
+begonia
 begs
 beguinage
 beguinages
@@ -2852,6 +2895,7 @@ ben
 bend
 bending
 bene
+benga
 benign
 benison
 benisons
@@ -2889,6 +2933,7 @@ bet
 beta
 betaine
 betake
+betatron
 bete
 betel
 beth
@@ -3037,6 +3082,7 @@ binmen
 bins
 bint
 bints
+binturong
 bio
 bioagent
 bioagents
@@ -3072,6 +3118,7 @@ biotite
 biotites
 biotitic
 biotope
+bipartite
 biped
 bipedal
 biplane
@@ -3529,6 +3576,8 @@ brails
 brain
 braindead
 brained
+brainfart
+brainge
 brainier
 braining
 brains
@@ -3724,6 +3773,7 @@ bubal
 bubals
 bubas
 bubele
+bubinga
 bubo
 buboes
 buck
@@ -3805,6 +3855,8 @@ burfi
 burg
 burgage
 burgages
+burgeon
+burgeoning
 burger
 burgonet
 burgrave
@@ -3827,6 +3879,8 @@ burnable
 burnet
 burnets
 burnin
+burning
+burnout
 burns
 burnt
 burs
@@ -3861,6 +3915,7 @@ bustians
 busts
 but
 bute
+buteo
 butle
 butler
 butling
@@ -7122,6 +7177,7 @@ earcups
 eardrop
 eared
 earful
+earing
 earl
 earldom
 earlet
@@ -7140,6 +7196,8 @@ earned
 earner
 earnest
 earnests
+earning
+earnout
 earns
 earnt
 earphone
@@ -7171,6 +7229,7 @@ eateries
 eaters
 eatery
 eatin
+eating
 eats
 eave
 eaver
@@ -7515,6 +7574,8 @@ englacial
 engorge
 engorgement
 engorging
+engraft
+engrafting
 engrain
 engraining
 engrains
@@ -7532,6 +7593,7 @@ enliven
 enoki
 enokis
 enosis
+enpatron
 enplane
 enplaned
 enplume
@@ -7541,6 +7603,8 @@ enquire
 enquirer
 enrage
 enrages
+enrapt
+enrapturing
 enrich
 enrobe
 enrobed
@@ -7587,6 +7651,7 @@ entracte
 entrail
 entrain
 entrained
+entraining
 entrains
 entrance
 entrant
@@ -8121,6 +8186,7 @@ farofa
 farolito
 fart
 farther
+farting
 fascia
 fascial
 fascias
@@ -8165,11 +8231,13 @@ fay
 faze
 fear
 fearful
+fearing
 feart
 feartie
 feat
 feather
 feature
+featuring
 fecal
 feh
 feign
@@ -8191,6 +8259,7 @@ fen
 fend
 feng
 fening
+feninga
 fentanyl
 fer
 feral
@@ -8429,9 +8498,12 @@ fontanel
 fop
 for
 fora
+forage
 foram
 forard
 forb
+forbear
+forbearing
 ford
 fordid
 fordo
@@ -8463,6 +8535,7 @@ formal
 format
 forme
 former
+fornent
 fort
 forte
 forth
@@ -8516,18 +8589,23 @@ frita
 frite
 frith
 fro
+froe
 frog
 frogbit
 from
 front
+frontage
 frontier
 fronting
 frontmen
 fronton
+frontpage
 frore
 froth
+froufrou
 frug
 fruit
+fruitage
 fruiter
 fruiterer
 fruitful
@@ -8544,6 +8622,7 @@ fuel
 fufu
 fug
 fugu
+fugue
 fuhrer
 fulcra
 fulcral
@@ -8590,6 +8669,8 @@ furl
 furling
 furlong
 furls
+furo
+furor
 furs
 further
 furtherer
@@ -8754,6 +8835,7 @@ garb
 garba
 garbage
 garbas
+garbing
 garble
 garbled
 garbler
@@ -8852,6 +8934,7 @@ gean
 geans
 gear
 geared
+gearing
 gearlever
 gearlevers
 gears
@@ -8901,12 +8984,16 @@ genins
 genio
 genios
 genip
+genipap
+genipapo
+genipat
 genitive
 genitives
 genitor
 genitors
 genius
 geniuses
+genoa
 genome
 genomere
 genoneme
@@ -8962,6 +9049,7 @@ getatable
 getaway
 getout
 gets
+getup
 geum
 geums
 gey
@@ -9226,11 +9314,13 @@ gonging
 gongs
 gongshow
 gongshows
+goniatite
 gonif
 goniometer
 gonzo
 gopak
 gopik
+gopura
 gora
 goral
 goras
@@ -9316,6 +9406,7 @@ gradin
 grading
 grads
 graft
+graftage
 grafting
 graham
 grail
@@ -9357,6 +9448,7 @@ graters
 grates
 gratia
 gratin
+gratine
 grating
 gratis
 grats
@@ -9485,6 +9577,7 @@ grot
 grots
 grouch
 group
+groupage
 grouper
 groupie
 grouping
@@ -9493,6 +9586,7 @@ grouse
 grouses
 grout
 grouter
+grouting
 grove
 grovel
 groveler
@@ -9549,6 +9643,7 @@ guipure
 guiro
 guise
 guises
+guitar
 gulag
 gular
 gulars
@@ -10747,6 +10842,8 @@ induna
 inebriant
 inebriate
 inebriated
+inebriating
+inebriation
 inept
 ineptitude
 inert
@@ -10779,6 +10876,7 @@ infringe
 infringement
 infringer
 infringing
+infuriate
 infuriating
 infuriation
 ingenue
@@ -10791,6 +10889,8 @@ ingrafting
 ingrain
 ingraining
 ingrains
+ingrate
+ingratiate
 ingratiating
 ingratiation
 ingroup
@@ -10832,6 +10932,7 @@ inocula
 inoculum
 inorganic
 inosine
+inpatient
 inpouring
 input
 inputs
@@ -10868,6 +10969,9 @@ intaglioing
 integer
 integrant
 integrants
+integrate
+integrating
+integration
 integrin
 integrum
 integument
@@ -10948,6 +11052,11 @@ intrusive
 intrust
 intrusts
 intubate
+intubating
+intubation
+intuit
+intuiting
+intuition
 intwining
 inukshuk
 inukshuks
@@ -15281,20 +15390,26 @@ nazir
 neant
 neants
 neap
+neaping
 neaps
 near
+nearbegoing
 nearer
 nearest
+neargoing
+nearing
 nears
 neat
 neaten
 neatened
+neatening
 neatens
 neater
 neatest
 neath
 neatly
 neato
+neatrup
 neats
 neb
 nebel
@@ -15321,6 +15436,10 @@ nefie
 neg
 negara
 negaras
+negate
+negating
+negation
+negatron
 negeri
 negligent
 negri
@@ -15446,6 +15565,8 @@ neurotome
 neurula
 neuter
 neuters
+neutrino
+neutron
 nevadite
 neve
 nevel
@@ -15619,6 +15740,8 @@ nitinol
 niton
 nitrate
 nitratine
+nitrating
+nitration
 nitratite
 nitre
 nitrene
@@ -15732,6 +15855,7 @@ nonart
 nonary
 nonbank
 nonbanks
+nonbeing
 nonc
 nonce
 nonces
@@ -15792,6 +15916,9 @@ nopal
 nope
 nopo
 nor
+norate
+norating
+noration
 norbornane
 norbornanes
 norbornene
@@ -15863,6 +15990,7 @@ notum
 noud
 noug
 nougat
+nougatine
 noumeite
 noumenon
 noun
@@ -16240,6 +16368,7 @@ oeuvre
 ofay
 oft
 often
+ofuro
 oga
 ogam
 ogams
@@ -16486,6 +16615,7 @@ opianate
 opiate
 opiated
 opiatic
+opiating
 opie
 opihi
 opinant
@@ -16543,6 +16673,8 @@ orarium
 orariums
 orate
 orated
+orating
+oration
 orator
 oratorial
 oratorio
@@ -16638,6 +16770,8 @@ oriental
 orientalia
 orientate
 orientated
+orientating
+orientation
 orientator
 oriented
 orienting
@@ -16847,7 +16981,9 @@ outbound
 outbounds
 outdid
 outearn
+outearning
 outen
+outening
 outer
 outfit
 outfling
@@ -16855,14 +16991,20 @@ outflinging
 outflung
 outgain
 outgaining
+outgate
 outgo
 outgoing
+outgone
+outgrabe
+outgrabing
+outgroup
 outgun
 outhaul
 outhauler
 outher
 outhit
 outhomer
+outie
 outing
 outleager
 outlet
@@ -16870,16 +17012,25 @@ outlining
 outlot
 outman
 outmans
+outpart
+outpatient
 outpoint
 outpointing
+outport
 outpour
 outpouring
+output
+outrage
 outran
 outrant
+outrate
+outrating
 outre
 outreach
+outring
 outro
 outroar
+outroaring
 outroars
 outros
 outwrote
@@ -17094,6 +17245,7 @@ padsaw
 padsaws
 paean
 paeon
+paeonin
 paeony
 paep
 paepae
@@ -17251,6 +17403,7 @@ papacies
 papacy
 papad
 papads
+papagoite
 papain
 papakainga
 papal
@@ -17280,6 +17433,8 @@ papula
 papular
 par
 para
+paraben
+parabiont
 parable
 parachor
 parachordal
@@ -17292,7 +17447,10 @@ paradromic
 paradrop
 paraenetic
 parafoil
+parage
+paragoge
 paragon
+paragonite
 paragraph
 paragraphia
 paragraphing
@@ -17363,6 +17521,9 @@ parer
 parera
 paretic
 parfait
+parge
+parget
+pargeting
 parging
 pargo
 pari
@@ -17370,6 +17531,7 @@ pariah
 parial
 pariasaur
 pariasaurian
+parietin
 paring
 parisis
 park
@@ -17412,6 +17574,7 @@ parp
 parps
 part
 partable
+partage
 partan
 parte
 parter
@@ -17429,6 +17592,7 @@ participial
 partie
 partier
 partile
+parting
 partisan
 partita
 partitas
@@ -17436,12 +17600,15 @@ partite
 partition
 partitionary
 partitioner
+partitioning
 partly
 partner
 partocracy
 partocrat
 partocratic
 parts
+parturient
+parturition
 partway
 party
 parula
@@ -17478,29 +17645,45 @@ patanas
 patard
 patards
 patas
+pate
+paten
+patent
+patenting
+patete
 path
 pathia
 pathic
 pathing
 patia
 patias
+patient
 patina
 patinas
+patine
 patining
 patio
 patly
 patria
+patriae
 patrias
+patriate
+patriating
+patriation
 patrician
+patrie
 patrin
+patrinite
 patrist
 patristic
 patristics
 patrists
 patrol
+patron
+patronite
 pats
 patu
 patulin
+paturon
 patus
 paua
 pauas
@@ -17802,6 +17985,7 @@ petuned
 petunes
 petuning
 peut
+pfui
 phage
 phages
 phakic
@@ -17960,6 +18144,7 @@ piano
 pianola
 piapiac
 piat
+pibgorn
 pic
 pica
 picamar
@@ -18133,8 +18318,10 @@ pink
 pinking
 pinol
 pinon
+pinout
 pinpoint
 pinpointed
+pinpointing
 pinprod
 pint
 pinta
@@ -18200,6 +18387,7 @@ pirarucus
 pirate
 pirated
 piratic
+pirating
 piriform
 piripiri
 piripiris
@@ -18268,7 +18456,9 @@ pitsos
 pitstop
 pitstops
 pitsu
+pituitrin
 pituri
+piturine
 pity
 piu
 pium
@@ -18480,6 +18670,7 @@ poge
 pogo
 pogoing
 pogonia
+pogoniate
 pogonion
 pogonium
 pogrom
@@ -18494,6 +18685,7 @@ poind
 poinded
 poindlar
 point
+pointage
 pointe
 pointed
 pointer
@@ -18572,6 +18764,7 @@ pongo
 poniard
 ponor
 pont
+pontage
 pontil
 pontine
 ponto
@@ -18636,8 +18829,10 @@ porphyry
 porpitid
 porpitoid
 port
+portage
 portal
 portate
+portation
 porte
 ported
 portend
@@ -18664,6 +18859,7 @@ portmote
 portolan
 portpiece
 portrait
+portraiting
 portray
 portrayal
 portrayer
@@ -18747,6 +18943,7 @@ pours
 pous
 pout
 poutful
+poutine
 pouting
 pow
 powan
@@ -19161,7 +19358,9 @@ pteropine
 pterotic
 ptilinum
 ptotic
+ptui
 pub
+pube
 pucan
 pud
 pudu
@@ -19227,10 +19426,17 @@ punto
 punts
 pup
 pupa
+pupae
 pupal
 puparia
 puparial
+pupariate
+pupariating
+pupariation
 puparium
+pupate
+pupating
+pupation
 pupiform
 pupil
 pupils
@@ -19247,6 +19453,8 @@ puraus
 pure
 purer
 purest
+purga
+purgation
 purge
 purger
 puri
@@ -19840,6 +20048,7 @@ rapidly
 rapido
 rapier
 rapin
+rapine
 raping
 rapini
 rapinis
@@ -21703,8 +21912,10 @@ roer
 roes
 roey
 rofe
+rogaine
 rogaining
 rogan
+rogation
 rogatory
 roger
 rogering
@@ -21757,6 +21968,7 @@ rondey
 rone
 roneo
 roneoed
+roneoing
 roneos
 rones
 rongeng
@@ -21868,6 +22080,7 @@ roud
 roue
 roues
 rouet
+rouf
 rouge
 rouges
 rouget
@@ -21902,9 +22115,13 @@ roust
 rousts
 rout
 route
+routeing
 router
 routh
 routhy
+routine
+routing
+routining
 routous
 rove
 rover
@@ -22110,6 +22327,7 @@ rupicapra
 ruption
 rupture
 ruptures
+rupturing
 rural
 rurban
 rurbanist
@@ -22145,6 +22363,7 @@ rustre
 rusts
 rusty
 rut
+rutabaga
 ruth
 ruther
 rutilant
@@ -24719,6 +24938,7 @@ tabouret
 tabs
 tabu
 tabued
+tabuing
 tabula
 tabun
 tabus
@@ -24767,6 +24987,7 @@ tae
 tael
 taenia
 taeniae
+taenite
 tafia
 tag
 tagati
@@ -24937,6 +25158,7 @@ tapas
 tape
 taper
 taperer
+taping
 tapioca
 tapir
 tapis
@@ -24963,6 +25185,7 @@ targes
 target
 targetable
 targeted
+targeting
 targets
 tariqa
 tariqat
@@ -25002,10 +25225,12 @@ tarter
 tartier
 tartily
 tartine
+tarting
 tartlet
 tartly
 tartrate
 tarts
+tartufo
 tarty
 tasca
 tascas
@@ -25108,6 +25333,7 @@ teacups
 teaed
 teahead
 teaheads
+teaing
 teak
 teal
 team
@@ -25128,6 +25354,7 @@ teargas
 teargases
 tearier
 teariest
+tearing
 tears
 teary
 teas
@@ -25287,6 +25514,7 @@ tensons
 tensor
 tensors
 tent
+tentage
 tentative
 tentatively
 tented
@@ -25791,8 +26019,11 @@ titlists
 titratable
 titrate
 titrated
+titrating
+titration
 titre
 tits
+titubation
 tivaevae
 tix
 tiz
@@ -26060,6 +26291,7 @@ toyon
 toys
 tra
 trabeated
+trabeation
 trace
 traceable
 tracer
@@ -26117,6 +26349,7 @@ trailered
 trails
 train
 trained
+training
 trainload
 trains
 trainset
@@ -26287,6 +26520,8 @@ trio
 triode
 trios
 trip
+tripartite
+tripartition
 tripe
 triplane
 triploid
@@ -26305,11 +26540,15 @@ trite
 tritely
 triter
 tritiated
+tritiation
 triticale
 tritium
 triton
 tritone
 tritons
+triturate
+triturating
+trituration
 triumph
 triune
 trivet
@@ -26334,6 +26573,7 @@ trop
 tropal
 tropan
 tropane
+troparion
 tropary
 trope
 troped
@@ -26372,6 +26612,7 @@ trougher
 troupe
 trouper
 trout
+trouting
 trouve
 trove
 trover
@@ -26527,6 +26768,7 @@ turban
 turbid
 turbiditic
 turbinate
+turbine
 turbit
 turbits
 turd
@@ -26543,10 +26785,12 @@ turn
 turner
 turnery
 turning
+turnip
 turnkey
 turnout
 turnt
 turntable
+turon
 turps
 turs
 turtle
@@ -26633,6 +26877,7 @@ udon
 ugh
 ugly
 uhuh
+uintaite
 ukase
 ukases
 uke
@@ -27044,6 +27289,7 @@ unwraps
 unyoke
 uomo
 upas
+upbeat
 upcase
 upcases
 upcast
@@ -27069,6 +27315,8 @@ upstater
 upstaters
 uptempo
 upto
+upturn
+upturning
 upwarp
 upwarps
 uracil
