@@ -833,6 +833,9 @@ aglow
 aglu
 aglus
 aglutition
+aglyph
+aglyphous
+aglyphs
 agma
 agmas
 agnail
@@ -1046,6 +1049,7 @@ akinetic
 akoia
 akoja
 akoya
+akoyas
 akrasia
 akratic
 aks
@@ -1772,6 +1776,7 @@ apsaras
 apse
 apses
 apsis
+apso
 apt
 apter
 aqua
@@ -2401,6 +2406,7 @@ axil
 axis
 axle
 ayah
+ayahs
 aye
 ayes
 ayre
@@ -2412,6 +2418,8 @@ azonal
 azure
 azures
 azurite
+azygos
+azygous
 bab
 baba
 babaco
@@ -4031,7 +4039,9 @@ cachet
 cachets
 cachexia
 cachou
+cachous
 cachucha
+cachuchas
 cacique
 cack
 cacking
@@ -4882,6 +4892,7 @@ chosen
 chota
 choucroute
 chough
+choughs
 chow
 chows
 chrism
@@ -4894,6 +4905,8 @@ chronic
 chronon
 chronotropic
 chronotropy
+chuck
+chucks
 chufa
 chug
 chugs
@@ -4904,6 +4917,7 @@ chumps
 chums
 chun
 chunk
+chup
 church
 churched
 churches
@@ -5137,6 +5151,7 @@ cloud
 clouded
 cloudland
 clough
+cloughs
 clous
 clout
 clove
@@ -5144,6 +5159,7 @@ clover
 clovers
 cloves
 cloy
+cloys
 cloze
 club
 clubrush
@@ -5191,6 +5207,7 @@ cochlea
 cochleae
 cochleate
 cochoa
+cochoas
 cock
 cocker
 cockers
@@ -5200,8 +5217,11 @@ cockrag
 cocks
 cocksucker
 cocksuckers
+cockup
+cockups
 coco
 cocoa
+cocoas
 cocobolo
 cocobolos
 cocos
@@ -5231,6 +5251,7 @@ coherer
 coho
 cohort
 cohos
+cohosh
 cohost
 cohosts
 coil
@@ -5289,6 +5310,7 @@ column
 columnar
 colure
 coly
+colza
 coma
 comb
 combat
@@ -5455,6 +5477,7 @@ cortina
 corundum
 corvina
 cos
+cosh
 cosmic
 cosmos
 cost
@@ -5472,6 +5495,7 @@ costume
 costumer
 costumers
 costus
+cosy
 cot
 cotch
 cote
@@ -5485,6 +5509,7 @@ cougar
 cough
 coughed
 cougher
+coughs
 could
 coulda
 couldst
@@ -5493,7 +5518,9 @@ couloirs
 coulter
 coumarin
 coup
+couply
 coupon
+coups
 cour
 coureur
 courol
@@ -5528,6 +5555,8 @@ coy
 coyer
 coyly
 coyote
+coypu
+coypus
 crack
 cracker
 crackers
@@ -8988,9 +9017,12 @@ gaseous
 gases
 gash
 gashing
+gashly
 gasman
+gasohol
 gasp
 gasps
+gaspy
 gat
 gate
 gateau
@@ -9037,6 +9069,7 @@ gaydiang
 gayer
 gayety
 gaylord
+gays
 gazania
 gazar
 gaze
@@ -9179,6 +9212,7 @@ ghaut
 ghi
 ghis
 ghoul
+ghusl
 giant
 giants
 giaour
@@ -9354,6 +9388,9 @@ gluten
 glycerol
 glyceryl
 glycol
+glycols
+glyph
+glyphs
 gnar
 gnarl
 gnarly
@@ -9499,6 +9536,7 @@ gown
 gowning
 gowns
 goy
+goys
 grab
 graben
 grabens
@@ -9824,6 +9862,7 @@ guv
 guy
 guys
 gweilo
+gypsy
 gyre
 gyro
 hab
@@ -9843,6 +9882,7 @@ hackie
 hackies
 hackish
 hackit
+hackly
 hacks
 hackstock
 hackstocks
@@ -9986,9 +10026,15 @@ haole
 hap
 hapa
 hapas
+haplology
 haplont
+haply
 haps
 haptin
+hapu
+hapuku
+hapukus
+hapus
 harakiri
 haram
 hard
@@ -10091,6 +10137,8 @@ hawsepipes
 hawses
 hawt
 hay
+haycock
+haycocks
 hayride
 hays
 haystack
@@ -10541,6 +10589,7 @@ hots
 hotspot
 hotspots
 hough
+houghs
 houmous
 hound
 hour
@@ -10574,6 +10623,8 @@ hoys
 hsp
 hsps
 huarache
+huck
+hucks
 hue
 hued
 hues
@@ -10586,6 +10637,8 @@ hui
 huia
 huies
 huis
+hukou
+hukous
 hula
 hulas
 hulk
@@ -10613,6 +10666,7 @@ hunk
 hunks
 hunt
 hunting
+hup
 hurds
 hurdses
 hurl
@@ -11537,6 +11591,7 @@ kaons
 kapai
 kapha
 kaphas
+kapu
 kara
 karabiner
 karahi
@@ -11590,9 +11645,14 @@ kayak
 kayaked
 kayaker
 kayaking
+kayaks
 kayo
 kayoed
 kayoing
+kayos
+kazachoc
+kazachok
+kazachoks
 kcal
 kcals
 kea
@@ -11871,6 +11931,7 @@ kochias
 koha
 kohas
 kohen
+kohl
 koi
 koinonia
 koji
@@ -11944,6 +12005,8 @@ kuna
 kunas
 kune
 kung
+kupapa
+kupapas
 kura
 kurbash
 kuri
@@ -11955,6 +12018,8 @@ kush
 kusti
 kustis
 kutai
+kuya
+kuyas
 kwacha
 kwachas
 kwela
@@ -12883,10 +12948,13 @@ locater
 locator
 locavore
 loch
+lochagos
+lochagus
 lochia
 lochial
 lochlet
 lochos
+lochs
 lochter
 lochus
 loci
@@ -12897,6 +12965,8 @@ locking
 locks
 locksmith
 lockstitch
+lockup
+lockups
 loco
 locoed
 locoman
@@ -13008,9 +13078,11 @@ loucher
 loud
 louder
 lough
+loughs
 lound
 lounging
 loup
+loups
 lour
 loured
 louring
@@ -13020,6 +13092,7 @@ louse
 louser
 lousers
 louses
+lousy
 lout
 lovable
 lovat
@@ -16789,6 +16862,7 @@ oka
 okas
 okay
 okayed
+okays
 oke
 oked
 okes
@@ -17583,6 +17657,7 @@ pacamac
 pacarana
 pacas
 pacay
+pacays
 pace
 pacer
 paces
@@ -17590,6 +17665,8 @@ pacey
 pacha
 pachas
 pachisi
+pachuco
+pachucos
 pachyntic
 pachytene
 pachytic
@@ -17600,7 +17677,11 @@ packages
 packie
 packies
 packing
+packs
+packsack
+packsacks
 paco
+pacos
 pact
 paction
 pacu
@@ -17640,6 +17721,7 @@ pagri
 pah
 pahit
 paho
+pahos
 pahu
 pahus
 paiban
@@ -17671,6 +17753,9 @@ paisa
 paisan
 paise
 paitung
+pakapu
+pakay
+pakololo
 pakua
 pakul
 pal
@@ -17810,6 +17895,7 @@ pantun
 panty
 panyar
 paolo
+paolos
 pap
 papa
 papabile
@@ -17833,6 +17919,7 @@ papasan
 papaw
 papaws
 papaya
+papayas
 papayotin
 pape
 papelito
@@ -17848,6 +17935,7 @@ papri
 papris
 paps
 papsak
+papsaks
 papula
 papular
 par
@@ -18044,6 +18132,7 @@ pash
 pasha
 pashas
 pashka
+paso
 past
 pasta
 pastas
@@ -18142,6 +18231,8 @@ pay
 payer
 payor
 payphone
+pays
+paysayg
 pcu
 pcus
 pea
@@ -18480,6 +18571,7 @@ phit
 phlorol
 pho
 phoca
+phocas
 phocid
 phocids
 phocoid
@@ -19041,6 +19133,7 @@ ploating
 ploce
 plock
 plocking
+plocks
 plod
 ploit
 plomb
@@ -19055,7 +19148,10 @@ plot
 plotch
 plotline
 plots
+plough
+ploughs
 plouk
+plouks
 plout
 plouting
 plow
@@ -19063,6 +19159,8 @@ plowable
 plowman
 plowmen
 plows
+ploy
+ploys
 pls
 pluck
 plucking
@@ -19110,6 +19208,7 @@ plute
 plutei
 plutie
 ply
+plz
 pneu
 pneus
 poach
@@ -19875,8 +19974,14 @@ psias
 psilomelane
 psilomelanes
 psis
+psoas
 psocid
 psocids
+psych
+psycho
+psychology
+psychos
+psychs
 pterin
 pterine
 pterion
@@ -19888,9 +19993,17 @@ ptui
 pub
 pube
 pucan
+puck
+pucka
+pucks
 pud
 pudu
 pug
+puha
+puka
+pukas
+puku
+pukus
 pul
 pula
 pulao
@@ -20017,6 +20130,9 @@ purser
 pursers
 purses
 pus
+push
+pushup
+pushups
 pustulin
 put
 puta
@@ -20032,9 +20148,14 @@ putu
 putupap
 puture
 putures
+puy
+puya
+puyas
+puys
 pwn
 pwns
 pya
+pyas
 pycnial
 pycnic
 pycnid
@@ -20059,6 +20180,7 @@ pyrophor
 pyrophore
 pyrophyte
 pyrotechny
+pyu
 qadi
 qadis
 qanat
@@ -23187,6 +23309,8 @@ sarsens
 sarus
 sarvo
 sash
+sashay
+sashays
 sashimi
 sasin
 sasine
@@ -23727,6 +23851,7 @@ sez
 sezes
 shabash
 shack
+shacks
 shag
 shags
 shah
@@ -23742,6 +23867,12 @@ shakas
 shake
 shaken
 shakes
+shako
+shakos
+shakshouka
+shakshoukas
+shakshuka
+shakshukas
 shakuhachi
 shakuhachis
 shale
@@ -23790,6 +23921,8 @@ shaw
 shawm
 shawms
 shaws
+shay
+shays
 shchi
 shchis
 she
@@ -23852,10 +23985,14 @@ shiurim
 shiv
 shiva
 shivah
+shlock
 shlub
 shlubs
 shmuck
 sho
+shochu
+shock
+shocks
 shoe
 shone
 shonen
@@ -23874,6 +24011,7 @@ showings
 showman
 shown
 shows
+shoyu
 shrub
 shrubs
 shrug
@@ -23881,6 +24019,8 @@ shrugs
 shtar
 shtum
 shtums
+shuck
+shucks
 shui
 shul
 shuls
@@ -24175,6 +24315,7 @@ skoal
 skobe
 skobes
 skol
+skosh
 skries
 skua
 skuas
@@ -24250,6 +24391,8 @@ slot
 sloth
 slots
 slouch
+slough
+sloughs
 sloven
 slovens
 slow
@@ -24273,6 +24416,8 @@ slurp
 slurps
 slurs
 slush
+sly
+slyly
 smack
 smacker
 smackers
@@ -24416,6 +24561,9 @@ soakers
 soaking
 soakings
 soaks
+soap
+soaps
+soapy
 soar
 soarer
 soarers
@@ -24564,6 +24712,8 @@ sots
 sou
 soubise
 soubises
+sough
+soughs
 souk
 soukous
 souks
@@ -24580,6 +24730,9 @@ soundbars
 soundboard
 soundboards
 sounds
+soup
+soups
+soupy
 sour
 sourer
 sours
@@ -24611,6 +24764,7 @@ spaceship
 spaceships
 spacespeak
 spack
+spacy
 spad
 spads
 spae
@@ -24636,6 +24790,11 @@ spat
 spats
 spawn
 spawns
+spay
+spays
+spaz
+spaza
+spazas
 speak
 speakeasies
 spear
@@ -24685,6 +24844,7 @@ splint
 splints
 split
 splits
+splosh
 splotch
 splurt
 splurts
@@ -24718,11 +24878,13 @@ spruit
 spruits
 spue
 spues
+spug
 spun
 spur
 spurs
 spurt
 spurts
+spy
 squab
 squabs
 squad
@@ -25208,6 +25370,8 @@ sucker
 suckers
 sucket
 sucks
+suckup
+suckups
 sucre
 sud
 sudan
@@ -25463,6 +25627,8 @@ syce
 syces
 syed
 syeds
+sylph
+sylphs
 sync
 synch
 syncs
@@ -25486,6 +25652,7 @@ system
 systemist
 systemists
 systems
+syzygy
 tab
 tabac
 tabacs
@@ -27877,6 +28044,8 @@ upcase
 upcases
 upcast
 upcasts
+upchuck
+upchucks
 upfront
 uphold
 upon
@@ -29100,8 +29269,12 @@ yag
 yage
 yagna
 yah
+yahs
 yak
 yakitori
+yaks
+yakuza
+yakuzas
 yam
 yams
 yamyam
@@ -29114,6 +29287,7 @@ yanked
 yanking
 yantra
 yap
+yaps
 yarak
 yard
 yardang
@@ -29176,6 +29350,8 @@ ylide
 ylidic
 yngling
 yob
+yock
+yocks
 yod
 yodel
 yodeled
@@ -29184,6 +29360,7 @@ yods
 yoga
 yogh
 yoghourt
+yoghs
 yogurt
 yogurty
 yohah
@@ -29206,7 +29383,10 @@ yoks
 yolk
 yolked
 yolker
+yolks
 yolky
+yolp
+yolps
 yon
 yond
 yong
@@ -29222,6 +29402,7 @@ you
 younker
 your
 yourn
+yous
 youth
 yow
 yowl
@@ -29233,14 +29414,26 @@ yoyoes
 yoyoing
 yoyos
 yuan
+yuca
+yucas
+yuck
+yucks
+yuga
+yugas
 yuh
 yuk
 yukata
+yuks
 yule
 yum
+yup
+yupa
+yups
 yurt
 yurts
 yus
+yuzu
+yuzus
 zac
 zack
 zacks
@@ -29254,6 +29447,8 @@ zakuskas
 zanier
 zanily
 zany
+zap
+zaps
 zarda
 zardozi
 zari
@@ -29270,6 +29465,10 @@ zests
 zesty
 zeta
 zetas
+zho
+zhos
+zhush
+zhuzh
 zin
 zinc
 zincing
