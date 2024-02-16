@@ -11,6 +11,7 @@ abacot
 abacots
 abacs
 abactor
+abactors
 abaculus
 abacus
 abadjad
@@ -53,6 +54,7 @@ abatises
 abaton
 abatons
 abator
+abators
 abature
 abaxile
 abaya
@@ -76,6 +78,8 @@ abet
 abets
 abey
 abeyed
+abhor
+abhors
 abidable
 abide
 abided
@@ -161,7 +165,9 @@ aboulia
 abound
 abounds
 about
+abouts
 above
+abox
 abracadabra
 abrade
 abraded
@@ -416,7 +422,10 @@ acridly
 acridology
 acritarch
 acritical
+acroama
 acroatic
+acrobat
+acrobats
 acrochord
 acrodynia
 acrography
@@ -429,6 +438,7 @@ acronic
 acronical
 acrophonetic
 acrophony
+acrost
 acryl
 acryloyl
 acsacal
@@ -462,6 +472,7 @@ actograph
 acton
 actor
 actorly
+actors
 actory
 acts
 actual
@@ -1527,6 +1538,7 @@ amateurism
 amateurs
 amatikati
 amatol
+ambatch
 amber
 ambers
 ambiance
@@ -1981,6 +1993,7 @@ aquatic
 aquifer
 aquorin
 araba
+arabah
 araban
 arabans
 arabas
@@ -2903,6 +2916,7 @@ bapu
 bar
 bara
 baraita
+baraza
 barb
 barback
 barbacks
@@ -3062,9 +3076,13 @@ bates
 batgirl
 bath
 bathing
+bathmat
+bathmats
 batholith
 bathos
 baths
+bathtub
+bathtubs
 batik
 batiks
 bating
@@ -3683,11 +3701,14 @@ boatel
 boater
 boatlike
 boatload
+boats
 boaty
 boatyard
 bob
 boba
 bobas
+bobcat
+bobcats
 bobol
 bobolink
 bobolinks
@@ -3844,6 +3865,8 @@ bornite
 boron
 boronia
 boronias
+borsch
+borscht
 bort
 bosh
 bosie
@@ -3902,6 +3925,7 @@ bourses
 bout
 bouton
 boutons
+bouts
 boutu
 boutus
 bove
@@ -3924,6 +3948,11 @@ bowsie
 bowsies
 bowtel
 bowtie
+box
+boxcar
+boxcars
+boxout
+boxouts
 boy
 boyar
 boyau
@@ -3932,6 +3961,8 @@ boyly
 boylya
 boyo
 boytoy
+bozo
+bozos
 bra
 brace
 bracer
@@ -4166,6 +4197,7 @@ bubele
 bubinga
 bubo
 buboes
+buchu
 buck
 buckra
 buckram
@@ -4210,6 +4242,8 @@ bum
 bumble
 bumbled
 bumbling
+bumboat
+bumboats
 bumf
 bump
 bumped
@@ -4309,12 +4343,14 @@ busts
 but
 butadiene
 butane
+butch
 bute
 buteo
 butle
 butled
 butler
 butling
+butoh
 buts
 butut
 bututs
@@ -4554,6 +4590,7 @@ canto
 canton
 cantor
 cantrail
+caoutchouc
 cap
 capable
 capacitor
@@ -4588,6 +4625,7 @@ captor
 capuchin
 car
 carabao
+carabaos
 carabid
 caracal
 caracals
@@ -4679,6 +4717,8 @@ carne
 carnet
 carnita
 carny
+carob
+carobs
 carol
 caroler
 caroling
@@ -5289,6 +5329,7 @@ chota
 choucroute
 chough
 choughs
+choux
 chow
 chowder
 chowderhead
@@ -5305,6 +5346,8 @@ chronic
 chronon
 chronotropic
 chronotropy
+chub
+chubs
 chuck
 chucks
 chufa
@@ -6029,6 +6072,8 @@ coyly
 coyote
 coypu
 coypus
+crab
+crabs
 crack
 cracker
 crackers
@@ -6042,6 +6087,7 @@ craic
 craisin
 crake
 cram
+crambo
 cramp
 cramps
 crams
@@ -6195,6 +6241,7 @@ crony
 crop
 cropland
 crore
+crostata
 crotal
 crotch
 crotched
@@ -6239,6 +6286,8 @@ cruelty
 cruet
 cruets
 cruft
+crumb
+crumbs
 crump
 crumps
 cruor
@@ -6254,6 +6303,7 @@ crustose
 crusts
 crutch
 crutches
+crux
 cry
 cryer
 cryne
@@ -6359,10 +6409,13 @@ curare
 curate
 curates
 curative
+curator
+curators
 curb
 curbs
 curculio
 curculios
+curcuma
 curd
 curds
 curdy
@@ -6437,6 +6490,7 @@ cusum
 cusums
 cut
 cutaway
+cutch
 cute
 cutely
 cuter
@@ -11163,6 +11217,7 @@ hamfat
 hams
 hamster
 hamsters
+hamza
 hanami
 hand
 handbag
@@ -11362,6 +11417,8 @@ haystack
 haystacks
 haze
 hazes
+hazmat
+hazmats
 hazy
 head
 headache
@@ -11663,6 +11720,7 @@ hoar
 hoard
 hoarhound
 hoary
+hoax
 hob
 hobnail
 hobnails
@@ -11793,6 +11851,7 @@ hops
 hopscotch
 hora
 horah
+horahs
 horal
 horary
 horchata
@@ -11852,8 +11911,11 @@ hotpot
 hotrod
 hotrods
 hots
+hotshot
+hotshots
 hotspot
 hotspots
+houbara
 hough
 houghs
 houmous
@@ -11885,6 +11947,7 @@ howled
 howlet
 howto
 howtos
+hox
 hoy
 hoya
 hoyas
@@ -11894,6 +11957,8 @@ hoys
 hsp
 hsps
 huarache
+hub
+hubs
 huck
 hucks
 hue
@@ -14910,6 +14975,7 @@ machilid
 machina
 machinima
 macho
+machos
 mack
 macka
 macker
@@ -14922,6 +14988,8 @@ macomere
 macrame
 macraner
 macraners
+macro
+macros
 macruran
 macs
 macte
@@ -15021,6 +15089,8 @@ mahis
 mahmal
 mahonia
 mahonias
+mahout
+mahouts
 mahr
 mahrs
 mahua
@@ -15366,6 +15436,7 @@ marabou
 marabous
 marabout
 maraboutism
+marabouts
 maraca
 maracas
 maracock
@@ -15399,6 +15470,7 @@ marblers
 marbles
 marc
 marcato
+march
 marcot
 marcots
 marcs
@@ -15591,6 +15663,7 @@ matatu
 matatus
 match
 matcha
+matchbox
 matcher
 matchers
 matchet
@@ -15647,6 +15720,12 @@ maturer
 matures
 maturest
 matutinal
+matzah
+matzo
+matzoh
+matzohs
+matzos
+matzoth
 maud
 maudit
 maudle
@@ -15701,6 +15780,15 @@ maya
 mayday
 maydays
 mays
+maza
+mazac
+mazama
+mazar
+mazars
+mazout
+mazuma
+mazut
+mazuts
 mbar
 mbari
 mbaris
@@ -17082,6 +17170,7 @@ mucate
 much
 muchacha
 muchacho
+muchachos
 mucho
 mucicarmin
 mucid
@@ -17106,6 +17195,7 @@ mucolipids
 mucor
 mucous
 mucro
+mucros
 mucuna
 mucus
 mud
@@ -17335,7 +17425,9 @@ mutate
 mutated
 mutative
 mutator
+mutators
 mutatory
+mutch
 mute
 muted
 mutha
@@ -18606,6 +18698,7 @@ oath
 oathed
 oathing
 oathlet
+oaths
 oatier
 oatland
 oats
@@ -18671,6 +18764,7 @@ obosoms
 obosum
 oboval
 oboy
+obscura
 obsidian
 obstat
 obtain
@@ -19114,6 +19208,7 @@ optophone
 ora
 orach
 orache
+orachs
 oracle
 oracular
 oraculum
@@ -19140,6 +19235,7 @@ orator
 oratorial
 oratoric
 oratorio
+orators
 oratory
 oratrix
 orature
@@ -19159,6 +19255,7 @@ orcein
 orch
 orchard
 orchat
+orchats
 orchid
 orchidian
 orchidology
@@ -19454,8 +19551,11 @@ oustitis
 ousts
 out
 outa
+outact
+outacts
 outage
 outarm
+outarms
 outbid
 outbids
 outboard
@@ -19464,6 +19564,8 @@ outborn
 outborns
 outbound
 outbounds
+outcharm
+outcharms
 outcut
 outcuts
 outdid
@@ -19508,6 +19610,8 @@ outlining
 outlot
 outman
 outmans
+outmarch
+outmatch
 outpart
 outpatient
 outpoint
@@ -19537,8 +19641,15 @@ outscore
 outscores
 outsert
 outserts
+outshot
+outshout
+outshouts
+outshut
+outshuts
 outsit
 outsits
+outsoar
+outsoars
 outswore
 outvote
 outvoted
@@ -23220,6 +23331,8 @@ ramarama
 ramaramas
 rambai
 rambais
+rambour
+rambours
 rame
 ramen
 ramenas
@@ -23578,6 +23691,7 @@ razes
 razing
 razor
 razoring
+razors
 rdv
 rea
 reable
@@ -25093,6 +25207,9 @@ rhoptry
 rhos
 rhotic
 rhoticity
+rhumb
+rhumba
+rhumbs
 rhus
 rhuses
 rhusma
@@ -25675,6 +25792,7 @@ roses
 roset
 roseted
 rosets
+rosha
 rosier
 rosiest
 rosin
@@ -25704,6 +25822,7 @@ rotated
 rotator
 rotatorial
 rotatorian
+rotators
 rotatory
 rotavate
 rotavated
@@ -25795,6 +25914,7 @@ routing
 routining
 routous
 routs
+roux
 rove
 roved
 rover
@@ -25838,6 +25958,7 @@ rubashka
 rubashkas
 rubati
 rubato
+rubatos
 rube
 rubeoses
 rubeosis
@@ -25856,6 +25977,8 @@ rubious
 ruble
 rubor
 rubors
+rubout
+rubouts
 rubral
 rubrene
 rubric
@@ -25944,6 +26067,8 @@ rumal
 rumals
 rumba
 rumbas
+rumbo
+rumbos
 rumdum
 rumdums
 rumen
@@ -26580,11 +26705,14 @@ schmick
 schmo
 schmuck
 schmucks
+schmutz
 schnoz
 scholia
 scholiast
 scholiasts
 scholium
+schtum
+schtums
 sciaterics
 sciatheric
 sciatherics
@@ -26637,6 +26765,8 @@ scowler
 scowlers
 scowls
 scows
+scrab
+scrabs
 scram
 scramjet
 scramjets
@@ -26644,6 +26774,7 @@ scrams
 scran
 scrap
 scraps
+scratch
 scrawl
 scrawls
 scream
@@ -26659,14 +26790,19 @@ scrips
 scritch
 scrod
 scrods
+scrota
 scrote
 scrotes
+scrotum
+scrotums
 scrub
 scrubs
 scrum
 scrump
 scrumps
 scrums
+scrutator
+scrutators
 scry
 scuba
 scubas
@@ -26683,6 +26819,7 @@ scurf
 scut
 scuta
 scutate
+scutch
 scute
 scutes
 scuts
@@ -27105,6 +27242,7 @@ shawms
 shaws
 shay
 shays
+shazam
 shchi
 shchis
 she
@@ -27185,7 +27323,10 @@ shlock
 shlub
 shlubs
 shmuck
+shmutz
 sho
+shoat
+shoats
 shochu
 shock
 shocks
@@ -27196,8 +27337,13 @@ shonk
 shonks
 shosha
 shot
+shots
 shounen
 shoush
+shout
+shoutout
+shoutouts
+shouts
 show
 showd
 showding
@@ -27217,6 +27363,7 @@ shtetl
 shtetls
 shtum
 shtums
+shuba
 shuck
 shucks
 shufti
@@ -27231,6 +27378,8 @@ shura
 shuras
 shush
 shut
+shutout
+shutouts
 shuts
 shy
 shyer
@@ -28048,6 +28197,10 @@ souse
 souses
 souslik
 sousliks
+soutar
+soutars
+south
+souths
 sov
 sovereign
 sovereigns
@@ -28370,6 +28523,7 @@ starbase
 starbases
 starbeam
 starbeams
+starch
 stare
 stared
 starer
@@ -28387,6 +28541,8 @@ starko
 starlet
 starlets
 starlit
+starost
+starosta
 starquake
 stars
 start
@@ -28439,6 +28595,8 @@ statoblasts
 statolith
 statometer
 statometers
+stator
+stators
 stats
 statu
 statuarist
@@ -28628,12 +28786,15 @@ stope
 stopes
 stops
 storage
+storax
 store
 storer
 storers
 stores
 stories
 storing
+storm
+storms
 story
 stot
 stotin
@@ -29204,6 +29365,7 @@ tabls
 tabo
 tabor
 taboret
+tabors
 tabos
 tabouli
 tabouret
@@ -29252,6 +29414,7 @@ tacticity
 tactics
 tactile
 tactor
+tactors
 tactual
 tactus
 tad
@@ -29387,6 +29550,10 @@ tamas
 tamases
 tamasha
 tamashas
+tambour
+tamboura
+tambours
+tambura
 tame
 tamed
 tamer
@@ -29501,7 +29668,9 @@ tarmacs
 tarn
 tarnation
 taro
+taros
 tarot
+tarots
 tarp
 tarpan
 tarpaper
@@ -30092,6 +30261,7 @@ thong
 thonging
 thongs
 thoracic
+thorax
 thorn
 thornily
 thorntail
@@ -30130,7 +30300,10 @@ throated
 throater
 throatily
 throatlet
+throats
 throaty
+throb
+throbs
 throe
 throes
 through
@@ -30163,6 +30336,8 @@ thug
 thugs
 thuja
 thulium
+thumb
+thumbs
 thump
 thumps
 thumri
@@ -30462,6 +30637,7 @@ togas
 together
 togs
 togt
+tohubohu
 toidy
 toil
 toile
@@ -31413,6 +31589,8 @@ tyrant
 tyre
 tyro
 tystie
+tzar
+tzars
 uakari
 ubac
 ubacs
@@ -33458,6 +33636,7 @@ zakouska
 zakouskas
 zakuska
 zakuskas
+zamac
 zanier
 zanily
 zany
