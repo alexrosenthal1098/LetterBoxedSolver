@@ -992,6 +992,7 @@ agush
 agy
 aha
 ahead
+aheap
 aheight
 ahem
 ahi
@@ -1213,6 +1214,7 @@ alb
 alba
 albas
 albedo
+albeit
 albid
 albinic
 albite
@@ -1225,6 +1227,7 @@ albricia
 albs
 album
 albumen
+alburn
 alc
 alcabala
 alcabalas
@@ -1943,6 +1946,7 @@ aphonia
 aphonic
 aphony
 aphtha
+aphthae
 apian
 apiarian
 apiarist
@@ -1957,6 +1961,7 @@ aping
 apish
 aplanat
 aplanatic
+aplite
 aplitic
 aplomb
 aplome
@@ -2039,6 +2044,7 @@ arbitrage
 arbitrages
 arbitrageur
 arbitrageurs
+arbitral
 arbitrate
 arbitrating
 arbitration
@@ -3190,6 +3196,7 @@ beatnik
 beats
 beau
 beaus
+beaut
 bebop
 becard
 become
@@ -3316,6 +3323,7 @@ bevans
 bevel
 bevies
 bevy
+bewail
 beware
 bey
 bhai
@@ -3325,6 +3333,7 @@ bhajia
 bhajias
 bhajis
 bhang
+bharal
 bhasha
 bhashas
 bhava
@@ -3432,6 +3441,7 @@ bimbling
 bin
 binaries
 binate
+binaural
 binbag
 binbags
 bind
@@ -3524,6 +3534,7 @@ birls
 biro
 biros
 birse
+birth
 birze
 bis
 bison
@@ -3640,6 +3651,7 @@ blip
 blister
 blistered
 blisters
+blithe
 bloat
 bloated
 bloater
@@ -3675,6 +3687,7 @@ blueing
 blueish
 blueline
 bluely
+blueprint
 bluer
 bluet
 bluetail
@@ -3993,6 +4006,7 @@ brae
 braes
 brag
 brags
+brah
 braid
 brail
 brails
@@ -4043,6 +4057,7 @@ bravoes
 bravos
 bravura
 braw
+brawl
 brawn
 brawnier
 bread
@@ -4148,6 +4163,7 @@ brisks
 bristle
 bristled
 bristles
+brith
 bro
 broad
 broadax
@@ -4176,6 +4192,7 @@ brubru
 brubrus
 bruck
 brucks
+bruh
 bruin
 bruins
 bruise
@@ -4201,7 +4218,10 @@ brushbacks
 brut
 brutal
 brute
+brutha
 bruv
+buahaha
+buahahaha
 bub
 buba
 bubal
@@ -4233,6 +4253,7 @@ bugbanes
 bugbear
 bugbears
 bugs
+buhl
 built
 bulb
 bulbar
@@ -4324,6 +4345,7 @@ burning
 burnout
 burns
 burnt
+burp
 burs
 bursa
 bursae
@@ -4337,6 +4359,7 @@ burses
 bursitis
 burst
 bursts
+burthen
 burton
 bus
 busbar
@@ -8635,6 +8658,7 @@ enteral
 enteric
 entering
 enters
+enthral
 enthusiast
 enthusiasts
 entice
@@ -8739,6 +8763,7 @@ epene
 epergne
 ephah
 ephahs
+ephebe
 epic
 epicene
 epicenes
@@ -8750,8 +8775,10 @@ epilated
 epilator
 epimer
 epimera
+epinephrine
 epistases
 epistasis
+epithet
 epitome
 epitope
 epode
@@ -11199,6 +11226,8 @@ hair
 hairdo
 hairdye
 hairier
+hairnet
+hairpin
 hairs
 hairshirt
 hairshirts
@@ -11226,6 +11255,7 @@ halers
 haleru
 half
 halfwit
+halibut
 halide
 halier
 haliers
@@ -11312,6 +11342,7 @@ haole
 hap
 hapa
 hapas
+haplite
 haplodiploid
 haplodiploidy
 haplography
@@ -11322,8 +11353,10 @@ haplont
 haplotypic
 haply
 haps
+hapten
 haptic
 haptin
+haptine
 haptophor
 haptophoric
 hapu
@@ -11425,6 +11458,7 @@ haunch
 haunt
 haunter
 haunting
+haurient
 haut
 haute
 hauteur
@@ -11584,12 +11618,16 @@ hemiola
 hems
 hen
 henbane
+henbit
 hence
 hench
 henequen
 henley
 henry
 hens
+hep
+heparin
+hept
 her
 herd
 here
@@ -12389,6 +12427,7 @@ inartistic
 inaudible
 inboard
 inborn
+inbuilt
 inca
 incant
 incapacitant
@@ -17697,6 +17736,8 @@ nap
 napa
 nape
 napes
+naphtha
+naphthene
 naphthyl
 naphtyl
 napkin
@@ -17864,6 +17905,11 @@ nebhel
 nebris
 nebrises
 nebs
+nebula
+nebulae
+nebular
+nebularin
+nebularine
 neche
 necher
 necial
@@ -17956,10 +18002,14 @@ neotesites
 neotropic
 neoza
 neozas
+nepenthe
+nepenthean
 neper
 nepers
 nepeta
 nepetas
+nephew
+nephrite
 nepotal
 neptunite
 neral
@@ -18068,6 +18118,7 @@ neweled
 newer
 newest
 newie
+newline
 newman
 news
 newsak
@@ -20093,6 +20144,8 @@ palones
 palp
 palpable
 palpal
+palpebra
+palpebral
 palpi
 palpicorn
 palpitant
@@ -20102,6 +20155,7 @@ palps
 pals
 palsies
 paludal
+palwar
 paly
 pame
 pampaean
@@ -20317,6 +20371,7 @@ paramoudra
 paramour
 paranatal
 paranete
+paranitraniline
 paranoia
 paranoiac
 paranoic
@@ -20328,12 +20383,16 @@ paraparetic
 parapathia
 parapathy
 parapatric
+parapente
+parapet
 paraph
 paraphilia
 paraphiliac
 paraphilic
 paraphonic
 paraphyly
+paraplane
+parapluie
 parapod
 parapodia
 parapodial
@@ -20458,6 +20517,7 @@ parotid
 parotitic
 parotoid
 parp
+parpen
 parps
 pars
 parse
@@ -20478,6 +20538,7 @@ partan
 partans
 parte
 parter
+parthenin
 parti
 partial
 partiality
@@ -20673,6 +20734,7 @@ peaeaters
 peag
 peage
 peages
+peahen
 peai
 peaiman
 peak
@@ -20681,6 +20743,7 @@ peakier
 peakiest
 peakish
 peal
+pealite
 peals
 pean
 peanut
@@ -20807,6 +20870,7 @@ peniform
 penis
 penises
 penitent
+penitential
 penitude
 penman
 penmaster
@@ -21015,6 +21079,7 @@ petrol
 petroline
 pets
 petsat
+petulant
 petune
 petuned
 petunes
@@ -21028,7 +21093,9 @@ phage
 phages
 phagolytic
 phakic
+phalaena
 pharaoh
+pharbitin
 pharma
 pharology
 phase
@@ -21044,6 +21111,7 @@ phenon
 phenotypic
 pheon
 pheran
+phew
 phi
 phial
 phies
@@ -21164,6 +21232,10 @@ photy
 phrator
 phrenotropic
 phthalo
+phthanite
+phub
+phulwa
+phulwara
 phut
 phuthu
 phutphuti
@@ -21305,6 +21377,7 @@ pikipikis
 pikul
 piladex
 pilar
+pilau
 pilch
 pilcorn
 pile
@@ -21353,6 +21426,7 @@ pinacoid
 pinacol
 pinacolic
 pinacolin
+pinalua
 pinard
 pinards
 pinas
@@ -21490,6 +21564,7 @@ pir
 pira
 piragua
 pirai
+piranha
 piraracu
 pirarucu
 pirarucus
@@ -21636,6 +21711,7 @@ plantain
 plantar
 planted
 plantocracy
+plantula
 plap
 plaps
 plat
@@ -21650,6 +21726,7 @@ platinic
 platy
 platycranial
 platypod
+plaur
 plav
 plavs
 play
@@ -21767,6 +21844,7 @@ pluot
 pluots
 plup
 plups
+plural
 pluriarc
 pluriarcs
 pluricuspid
@@ -21775,6 +21853,7 @@ pluriparas
 plus
 plut
 plute
+pluteal
 plutei
 plutie
 ply
@@ -22681,6 +22760,7 @@ pruno
 prunt
 prunts
 prunus
+prurient
 prurigo
 prurit
 pruritic
@@ -22713,6 +22793,7 @@ pterine
 pterion
 pteropine
 pterotic
+ptilinal
 ptilinum
 ptotic
 ptui
@@ -23349,6 +23430,7 @@ rainish
 rainland
 rainout
 rains
+rainwear
 rainy
 raioid
 raird
@@ -23544,6 +23626,8 @@ raper
 rapers
 rapes
 rapful
+raphae
+raphania
 raphe
 raphid
 rapid
@@ -30124,6 +30208,8 @@ tenuto
 tenzon
 tenzons
 teosinte
+tepal
+tephra
 tequila
 terai
 terais
@@ -30265,6 +30351,7 @@ theater
 theatre
 theatric
 theatrical
+thebe
 theca
 thecae
 thecal
@@ -30688,6 +30775,7 @@ titre
 titres
 tits
 titubation
+titular
 tivaevae
 tix
 tiz
@@ -31137,6 +31225,7 @@ transtasman
 trap
 trapes
 trapeses
+trapline
 trapo
 traps
 trapyard
@@ -31489,6 +31578,7 @@ tube
 tubed
 tubing
 tubs
+tubular
 tubule
 tubulin
 tuck
@@ -31572,6 +31662,7 @@ tur
 turban
 turbid
 turbiditic
+turbinal
 turbinate
 turbine
 turbit
@@ -31603,6 +31694,7 @@ turnt
 turntable
 turon
 turons
+turpentine
 turps
 turs
 turtle
@@ -31642,6 +31734,7 @@ tweakers
 twelfth
 twelve
 twenties
+twentieth
 twerk
 twice
 twig
@@ -33068,6 +33161,7 @@ warp
 warpaint
 warper
 warpers
+warplane
 warps
 wars
 wart
@@ -33498,6 +33592,7 @@ wowses
 woylie
 wpb
 wrack
+wraith
 wrap
 wraps
 wrapt
