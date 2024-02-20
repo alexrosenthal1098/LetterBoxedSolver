@@ -104,6 +104,7 @@ abkari
 ablate
 ablated
 ablates
+ablator
 ablaut
 ablauts
 able
@@ -229,6 +230,7 @@ absurdists
 abt
 abthain
 abud
+abuela
 abuelita
 abuelo
 abujad
@@ -738,6 +740,7 @@ aeonial
 aeonian
 aeonic
 aeons
+aequoreal
 aerarian
 aerate
 aerated
@@ -1242,6 +1245,8 @@ albitise
 albitised
 albitite
 albitites
+albitize
+albizia
 albricia
 albs
 album
@@ -1366,6 +1371,7 @@ alinasal
 alinasals
 alios
 aliped
+aliquot
 alisma
 alismad
 alismads
@@ -1955,6 +1961,7 @@ apemen
 aperient
 aperients
 aperies
+aperture
 apes
 aphagia
 aphagic
@@ -2864,6 +2871,7 @@ balalaikas
 balas
 balata
 balatas
+balboa
 bald
 balder
 baldest
@@ -2957,6 +2965,7 @@ baobabs
 baon
 baons
 baos
+baozi
 bap
 baps
 baptise
@@ -2966,6 +2975,7 @@ baptisms
 baptist
 baptistries
 baptists
+baptize
 bapu
 bar
 bara
@@ -3598,6 +3608,7 @@ bitsers
 bitstream
 bitstreams
 bitumen
+bitzer
 bivalence
 bivalve
 bivalved
@@ -3686,6 +3697,8 @@ blister
 blistered
 blisters
 blithe
+blitz
+blitzer
 bloat
 bloated
 bloater
@@ -3760,8 +3773,10 @@ boatable
 boated
 boatel
 boater
+boatie
 boatlike
 boatload
+boatpeople
 boats
 boaty
 boatyard
@@ -3789,6 +3804,8 @@ body
 bodykit
 boe
 boer
+boerboel
+boerbul
 boerie
 boet
 boeti
@@ -3810,6 +3827,7 @@ bohos
 bohunk
 bohunks
 boil
+boiler
 boilie
 boilies
 boils
@@ -3909,6 +3927,7 @@ bordered
 borderer
 bordure
 bore
+boreal
 bored
 borek
 boreks
@@ -3984,6 +4003,7 @@ bourns
 bourse
 bourses
 bout
+boutique
 bouton
 boutons
 bouts
@@ -4251,6 +4271,7 @@ brushback
 brushbacks
 brut
 brutal
+brutalize
 brute
 brutha
 bruv
@@ -4367,7 +4388,9 @@ burkas
 burke
 burks
 burl
+burlap
 burley
+burlier
 burls
 burly
 burn
@@ -4380,6 +4403,7 @@ burnout
 burns
 burnt
 burp
+burqa
 burs
 bursa
 bursae
@@ -8898,11 +8922,18 @@ epode
 epoque
 epsilon
 epsilons
+equable
 equal
+equalize
+equalizer
 equant
+equatable
 equate
+equator
+equatorial
 eques
 equine
+equoreal
 era
 eras
 erasable
@@ -13879,12 +13910,17 @@ labia
 labial
 labialise
 labialises
+labialize
 labials
 labile
 labium
 lablab
 labne
 labneh
+labor
+laborer
+labour
+labourer
 labra
 labral
 labrat
@@ -14081,6 +14117,7 @@ lapels
 laps
 lapse
 lapses
+laptop
 lar
 larboard
 larch
@@ -14402,6 +14439,7 @@ leonine
 leotard
 leper
 leperdom
+leperize
 lepra
 leproid
 lepta
@@ -14715,6 +14753,7 @@ lipotropin
 lipread
 lips
 lipstatin
+liqueur
 liquor
 liquoring
 lira
@@ -15173,6 +15212,7 @@ lutino
 lutist
 lutists
 lutung
+lutz
 luv
 lux
 luxate
@@ -19098,6 +19138,7 @@ obis
 obit
 obiter
 obits
+obitual
 obituarian
 obituarians
 object
@@ -19110,6 +19151,7 @@ oblasts
 oblata
 oblatas
 oblate
+oblique
 obliterate
 obliterated
 obliterator
@@ -19516,8 +19558,11 @@ opakapaka
 opal
 opalinid
 opalise
+opalize
 opals
 opanci
+opaque
+opaquer
 opaquing
 ope
 oped
@@ -19563,6 +19608,7 @@ opry
 ops
 opsin
 opt
+optable
 optant
 optate
 optated
@@ -19581,6 +19627,7 @@ opto
 optometer
 optomotor
 optophone
+opzit
 ora
 orach
 orache
@@ -19621,6 +19668,8 @@ orbat
 orbed
 orbing
 orbit
+orbital
+orbitale
 orbiter
 orbiting
 orbitoid
@@ -19981,7 +20030,9 @@ outie
 outies
 outing
 outjut
+outlabour
 outleager
+outleap
 outlet
 outlie
 outlier
@@ -19999,6 +20050,7 @@ outpoint
 outpointing
 outport
 outpour
+outpourer
 outpouring
 output
 outrage
@@ -20041,6 +20093,9 @@ outwore
 outwrote
 outy
 ouze
+ouzel
+ouzeri
+ouzeria
 ouzo
 ouzos
 ova
@@ -20369,13 +20424,17 @@ pal
 pala
 palacio
 paladar
+palaeoequator
+palaeoequatorial
 palaeopole
 palaeopoles
 palais
 palapa
 palar
+palatable
 palatal
 palatality
+palatalize
 palatial
 palatian
 palatinal
@@ -20388,6 +20447,7 @@ palemen
 paleola
 paleopole
 paleopoles
+paler
 pales
 pali
 palilalia
@@ -20412,6 +20472,7 @@ palpons
 palps
 pals
 palsies
+paltrier
 paludal
 palwar
 paly
@@ -20546,6 +20607,7 @@ papal
 papalise
 papalism
 papality
+papalize
 papaloi
 papalois
 paparchy
@@ -20912,6 +20974,7 @@ patkas
 patly
 patria
 patriae
+patrial
 patrias
 patriate
 patriating
@@ -20922,6 +20985,7 @@ patries
 patrin
 patrinite
 patrins
+patriot
 patrist
 patristic
 patristics
@@ -20935,6 +20999,7 @@ patu
 patulin
 paturon
 patus
+patzer
 paua
 pauas
 paulin
@@ -21078,6 +21143,7 @@ pekea
 pekes
 pel
 pela
+pelau
 pele
 peles
 peloid
@@ -21088,6 +21154,8 @@ pelt
 pelta
 peltae
 peltoid
+pelu
+pelure
 pen
 penal
 penalise
@@ -21174,8 +21242,11 @@ peonin
 peons
 people
 peopleise
+peopleize
+peopler
 peoples
 peoplise
+peoplize
 pep
 peperino
 peperite
@@ -21194,6 +21265,8 @@ peps
 pepsin
 peptide
 peptise
+peptize
+peptizer
 peptone
 pequi
 pequis
@@ -21223,13 +21296,18 @@ perforin
 perform
 performer
 peri
+periapt
 periegete
+peril
 perine
 perinea
 perines
 perineum
 perineurium
+periople
+periorbital
 peripter
+perique
 peris
 perisperm
 perisperms
@@ -21268,6 +21346,7 @@ permit
 permitable
 permits
 perms
+peroba
 peronium
 perorator
 perp
@@ -21278,6 +21357,7 @@ perpetuanas
 perpetuate
 perpetuates
 perps
+perqueir
 perscrutate
 perscrutates
 perse
@@ -21293,6 +21373,11 @@ pert
 perten
 pertinent
 pertransient
+perturb
+perturbable
+perturbator
+perula
+perule
 pes
 pesage
 pesages
@@ -21972,6 +22057,7 @@ plantocracy
 plantula
 plap
 plaps
+plaque
 plat
 platan
 plate
@@ -22216,6 +22302,7 @@ poise
 poises
 poising
 poitrail
+poitrel
 pol
 polar
 polaric
@@ -22439,6 +22526,7 @@ porpoise
 porpoises
 porpoising
 port
+portable
 portage
 portal
 portate
@@ -22463,6 +22551,7 @@ portion
 portionary
 portioner
 portioning
+portlier
 portlight
 portly
 portmen
@@ -22494,6 +22583,7 @@ postmitotic
 postmitotics
 posts
 pot
+potable
 potae
 potai
 potail
@@ -22534,6 +22624,7 @@ pots
 potsie
 potsies
 pou
+pouble
 pouch
 pouchy
 pouf
@@ -22541,7 +22632,9 @@ poui
 pouk
 poulard
 pouldron
+poule
 poulp
+poulpe
 poulps
 poult
 poults
@@ -22553,14 +22646,17 @@ poundman
 poupeton
 poupou
 pour
+pourboire
 pourer
 pourie
 pouring
+pouriture
 pourpoint
 pours
 pous
 pout
 poutful
+poutier
 poutine
 pouting
 povo
@@ -22656,6 +22752,9 @@ precipitron
 preclear
 precoracoid
 precordia
+prelabial
+prelatial
+prelature
 prelect
 prelector
 prelim
@@ -22680,8 +22779,10 @@ prenup
 prenups
 preon
 preoptic
+preorbital
 prep
 prepaid
+prepalatal
 preparable
 preparator
 prepare
@@ -22690,6 +22791,7 @@ prepense
 preps
 prepster
 prepsters
+prequel
 prereaction
 prerecord
 presa
@@ -22714,6 +22816,7 @@ pretone
 pretor
 prey
 preyer
+prez
 prial
 prian
 priapic
@@ -22721,6 +22824,7 @@ priapist
 priapists
 pridy
 pried
+prier
 pries
 priest
 priests
@@ -22766,6 +22870,7 @@ priorate
 priori
 prioric
 priories
+prioritize
 priority
 priorly
 priors
@@ -22778,6 +22883,8 @@ pritch
 prius
 prix
 prize
+prizeable
+prizer
 prizes
 prizing
 pro
@@ -22788,9 +22895,13 @@ proaction
 proal
 proanthocyanidin
 prob
+probabilize
+probable
+probablize
 probe
 probed
 probie
+probit
 procacity
 procain
 procarp
@@ -22860,11 +22971,13 @@ propanol
 propanone
 propargyl
 proped
+propel
 propenal
 propend
 propended
 propendent
 propene
+proper
 propham
 prophet
 prophetic
@@ -22996,6 +23109,8 @@ prototypal
 prototypic
 prototypical
 prototypicality
+protozoa
+protozoal
 protract
 protractible
 protractile
@@ -23301,7 +23416,9 @@ qat
 qats
 qena
 qgp
+qibla
 qigong
+qila
 qipao
 qtr
 qua
@@ -23331,6 +23448,7 @@ quailing
 quaite
 quake
 quaking
+quale
 qualia
 qualie
 qualifier
@@ -23372,11 +23490,14 @@ quaverers
 quavers
 quaw
 quawk
+qubit
 que
 quean
 queck
 quecks
 quek
+quel
+quelea
 quem
 quena
 quench
@@ -23474,6 +23595,7 @@ quo
 quoad
 quob
 quoi
+quoiler
 quoin
 quoining
 quois
@@ -23483,10 +23605,13 @@ quop
 quork
 quorl
 quos
+quota
+quotable
 quotidian
 quotum
 quotums
 quouk
+quoz
 rab
 rabato
 rabdoid
@@ -24188,11 +24313,14 @@ realism
 realist
 realists
 realities
+realize
+realizer
 realm
 realms
 realo
 realos
 reals
+realtor
 ream
 reamer
 reamers
@@ -24777,6 +24905,7 @@ relaters
 relates
 relatival
 relative
+relator
 relearn
 relearns
 relearnt
@@ -24837,6 +24966,7 @@ reliner
 reliners
 relink
 relinks
+reliquaire
 relish
 relisher
 relishers
@@ -24988,6 +25118,9 @@ reorgs
 rep
 repace
 repaid
+repair
+repairer
+repairpeople
 repaper
 repapers
 reparable
@@ -25005,6 +25138,9 @@ repast
 repasts
 repat
 repats
+repeal
+repealable
+repealer
 repeat
 repeatable
 repeater
@@ -25019,10 +25155,12 @@ repenter
 repentine
 repenting
 repents
+repeople
 reperform
 repermit
 repermits
 repertoire
+repertorial
 repertorium
 repetiteur
 repetition
@@ -25036,9 +25174,11 @@ repiners
 repines
 repining
 repins
+replait
 replead
 repleat
 replier
+replique
 replot
 repo
 repoint
@@ -25046,13 +25186,18 @@ repointing
 repone
 reponing
 report
+reportable
 reporter
 reporting
+reportorial
 repot
 repour
 repouring
 represa
+reprioritize
 repro
+reprobable
+reprobator
 reprune
 reprunes
 reps
@@ -25597,6 +25742,7 @@ rews
 reyoke
 reyoked
 rez
+rezero
 rhachis
 rhagon
 rhandir
@@ -25963,7 +26109,10 @@ rith
 rithe
 ritual
 ritualia
+ritualize
 rituals
+ritz
+ritzier
 riva
 rival
 rivaled
@@ -26068,6 +26217,7 @@ robotian
 robotise
 robotises
 robotism
+robotize
 robotlike
 robots
 roboty
@@ -26191,8 +26341,10 @@ rontgen
 rontgenite
 ronuk
 ronuking
+ropable
 ropalic
 rope
+ropeable
 roped
 roper
 ropes
@@ -26205,6 +26357,7 @@ roquet
 roquets
 rorie
 roritorious
+rorqual
 rort
 rorted
 rorter
@@ -26308,6 +26461,8 @@ rotundal
 rotundo
 roture
 rotures
+roturier
+roturiere
 rouble
 roucou
 roud
@@ -26350,6 +26505,7 @@ rouses
 roust
 rousts
 rout
+routable
 route
 routed
 routeing
@@ -26500,6 +26656,7 @@ ruining
 ruins
 rukh
 rukhs
+rulable
 rule
 ruleable
 ruled
@@ -29848,6 +30005,7 @@ tabi
 tabl
 tabla
 tablas
+tablature
 table
 tableau
 tableaux
@@ -29876,6 +30034,7 @@ tabu
 tabued
 tabuing
 tabula
+tabulator
 tabun
 tabus
 tacamahac
@@ -30011,6 +30170,7 @@ takraw
 tal
 tala
 talapoin
+talaq
 talaria
 talas
 talbot
@@ -30136,6 +30296,7 @@ tapirs
 tapis
 taps
 tapu
+taqueria
 tar
 tara
 tarakihi
@@ -31343,6 +31504,7 @@ torturers
 tortures
 torturing
 torula
+torulae
 torus
 toruses
 tosa
@@ -31351,6 +31513,8 @@ tosh
 tot
 total
 totality
+totalize
+totalizer
 totara
 tote
 toted
@@ -31998,6 +32162,9 @@ turbinate
 turbine
 turbit
 turbits
+turbo
+turboprop
+turbot
 turd
 turds
 turf
@@ -34206,6 +34373,7 @@ zeal
 zealous
 zef
 zein
+zero
 zes
 zest
 zests
@@ -34229,6 +34397,7 @@ zino
 zins
 zit
 ziti
+zito
 zoea
 zoeae
 zoeas
