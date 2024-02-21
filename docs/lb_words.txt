@@ -274,6 +274,7 @@ acalculia
 acanonical
 acanth
 acanthodian
+acanths
 acapnia
 acara
 acaras
@@ -338,6 +339,7 @@ ach
 achalasia
 achar
 acharya
+acharyas
 achcha
 ache
 ached
@@ -347,6 +349,7 @@ acher
 achers
 aches
 achey
+achiasmatic
 achier
 achime
 achimenes
@@ -421,8 +424,10 @@ acquit
 acral
 acrania
 acranial
+acranias
 acrasia
 acrasies
+acrasy
 acratic
 acre
 acreage
@@ -1153,6 +1158,7 @@ ait
 aitch
 aits
 aiya
+aiyah
 aiyo
 ajar
 aji
@@ -1577,6 +1583,8 @@ amanuenses
 amapakati
 amapakatis
 amaqueta
+amaranth
+amaranths
 amari
 amaro
 amaros
@@ -1607,6 +1615,7 @@ ambo
 ambones
 ambos
 ambries
+ambry
 ambulance
 ambulanced
 ambulate
@@ -1636,6 +1645,7 @@ amiright
 amirite
 amirs
 amitosis
+amity
 amnesia
 amnesiac
 amnesiacs
@@ -1658,6 +1668,8 @@ amputate
 amputates
 amrit
 amrita
+amscray
+amscrays
 amtrac
 amtracs
 amuck
@@ -1766,12 +1778,16 @@ angry
 ani
 aniline
 anima
+animacy
 animal
 animalcula
 animalcular
 animalic
 animas
+animastic
 animati
+animatic
+animatics
 animatism
 animatisms
 animato
@@ -1838,6 +1854,7 @@ antacid
 antagonal
 antalgic
 antas
+antasthmatic
 antatrophic
 antbear
 antbears
@@ -1887,6 +1904,8 @@ anthropophilic
 anthypophora
 anti
 antiabortion
+antiasthmatic
+antiasthmatics
 antiatrophic
 antibiosis
 antic
@@ -1947,6 +1966,7 @@ antrorse
 ants
 antsier
 antsiest
+antsy
 antu
 anura
 anuran
@@ -2097,6 +2117,7 @@ arbitrages
 arbitrageur
 arbitrageurs
 arbitral
+arbitrary
 arbitrate
 arbitrating
 arbitration
@@ -2114,6 +2135,7 @@ arcane
 arced
 arch
 archaea
+archaic
 arched
 archenemies
 archenteron
@@ -2255,7 +2277,9 @@ armrest
 armrests
 arms
 armure
+army
 arnica
+arnicas
 arnis
 arnises
 aroha
@@ -2331,6 +2355,7 @@ artsier
 artsiest
 artsman
 artspeak
+artsy
 arty
 arugula
 arum
@@ -2375,6 +2400,8 @@ ashrama
 ashramas
 ashrams
 ashtanga
+ashtray
+ashtrays
 aside
 asides
 asinine
@@ -2424,11 +2451,15 @@ asterisms
 astern
 asters
 asthenia
+asthma
+asthmatic
+asthmatics
 astigmatism
 astir
 astral
 astrantia
 astrantias
+astray
 astroite
 astroites
 astute
@@ -3518,6 +3549,7 @@ bimbles
 bimbling
 bin
 binaries
+binary
 binate
 binaural
 binbag
@@ -4107,6 +4139,9 @@ braes
 brag
 brags
 brah
+brahma
+brahmas
+brahs
 braid
 brail
 brails
@@ -4115,6 +4150,8 @@ braindead
 brained
 brainfart
 brainge
+brainiac
+brainiacs
 brainier
 braining
 brains
@@ -4133,6 +4170,8 @@ braking
 bralet
 bralets
 bran
+branch
+branchia
 brand
 brandade
 branded
@@ -4160,6 +4199,8 @@ braw
 brawl
 brawn
 brawnier
+bray
+brays
 bread
 breaded
 breadier
@@ -4729,16 +4770,19 @@ canst
 cant
 cantal
 cantata
+cantatas
 canter
 canthi
 canthic
 canti
 cantina
+cantinas
 cantle
 canto
 canton
 cantor
 cantrail
+cants
 canvas
 canvases
 caoutchouc
@@ -4800,6 +4844,7 @@ carb
 carbie
 carbro
 carbs
+carby
 carcanet
 carcanets
 carcase
@@ -4874,6 +4919,7 @@ carnality
 carne
 carnet
 carnita
+carnitas
 carny
 carob
 carobs
@@ -4960,6 +5006,7 @@ casters
 castes
 castmate
 castmates
+castrati
 casts
 casus
 cat
@@ -5016,6 +5063,7 @@ caterwaul
 cates
 catharsis
 cathartic
+cathartics
 cathead
 catheads
 cathectic
@@ -5079,6 +5127,8 @@ caw
 cawed
 caws
 cay
+cayman
+caymans
 cays
 cease
 ceases
@@ -5196,6 +5246,8 @@ chads
 chaeta
 chaetae
 chai
+chain
+chains
 chair
 chairs
 chakra
@@ -5205,11 +5257,18 @@ chalks
 chalot
 chaloth
 cham
+chambray
 chamcha
 chameli
 chana
 chance
 chancer
+chancy
+chant
+chantant
+chantry
+chants
+chanty
 chaology
 chaos
 chaoses
@@ -5223,6 +5282,7 @@ chapes
 chaps
 char
 characin
+characins
 character
 characterism
 characterisms
@@ -5230,6 +5290,7 @@ characterist
 characterists
 characters
 charade
+charas
 chard
 charier
 chariot
@@ -5258,10 +5319,12 @@ chary
 chase
 chases
 chasm
+chasmic
 chasms
 chaste
 chasten
 chastens
+chastity
 chat
 chatbot
 chatbots
@@ -5341,8 +5404,10 @@ chiacks
 chianti
 chias
 chiasma
+chiasmata
 chiasmi
 chiasmus
+chiastic
 chib
 chiba
 chibs
@@ -5405,10 +5470,12 @@ chimes
 chin
 china
 chinar
+chinas
 chinaware
 chinch
 chine
 chino
+chins
 chip
 chips
 chiral
@@ -5525,6 +5592,8 @@ chronon
 chronons
 chronotropic
 chronotropy
+chrysanth
+chrysanths
 chub
 chubs
 chuck
@@ -5621,6 +5690,7 @@ cited
 citer
 cithar
 cithara
+citharas
 cither
 cithern
 citied
@@ -5640,6 +5710,7 @@ city
 civet
 civic
 civicism
+civics
 civil
 civilian
 civility
@@ -6299,6 +6370,8 @@ cramp
 cramps
 crams
 cran
+cranachan
+cranachans
 crane
 cranes
 crania
@@ -6342,6 +6415,7 @@ cray
 crayon
 crayoning
 craypot
+crays
 crazily
 crazing
 crazy
@@ -6736,6 +6810,7 @@ cyan
 cyanic
 cyanitic
 cyathia
+cybrary
 cycad
 cycads
 cyclase
@@ -6765,6 +6840,7 @@ cynical
 cynodont
 cynodonts
 cyst
+cystic
 cysts
 cytoid
 cytology
@@ -11542,6 +11618,8 @@ halwa
 halwah
 ham
 hamachi
+hamartia
+hamartias
 hamate
 hame
 hamel
@@ -12030,6 +12108,7 @@ hinky
 hins
 hint
 hinting
+hints
 hip
 hipcat
 hipe
@@ -12315,6 +12394,10 @@ hoyas
 hoyden
 hoyed
 hoys
+hryvna
+hryvnas
+hryvnia
+hryvnias
 hsp
 hsps
 huarache
@@ -12714,9 +12797,11 @@ inborn
 inbuilt
 inca
 incant
+incants
 incapacitant
 incapacity
 incarnate
+incas
 inch
 incidence
 incinerate
@@ -12918,7 +13003,9 @@ inros
 inrush
 ins
 insane
+insanitary
 insanities
+insanity
 inseam
 inseams
 inseing
@@ -12945,6 +13032,7 @@ inspires
 inspirit
 inspirits
 inspo
+instancy
 instant
 instants
 instar
@@ -13058,6 +13146,7 @@ intestine
 intestines
 inti
 intima
+intimacy
 intimae
 intimism
 intimist
@@ -13078,6 +13167,7 @@ intransitive
 intransitives
 intrathoracic
 intray
+intrays
 intricate
 intrigant
 intrigue
@@ -15394,9 +15484,12 @@ macerate
 macers
 maces
 machaca
+machacas
 machair
 machaira
 machairs
+machan
+machans
 mache
 macher
 machera
@@ -15407,6 +15500,7 @@ machilas
 machilid
 machina
 machinima
+machinimas
 macho
 machos
 mack
@@ -15517,6 +15611,8 @@ mahal
 mahala
 mahalo
 mahant
+mahants
+maharani
 maharishi
 mahatma
 mahatmas
@@ -15564,9 +15660,13 @@ maims
 main
 mainland
 mainman
+mainmast
+mainmasts
 mainmen
 mainour
 mains
+mainstay
+mainstays
 maintain
 maintaining
 maintains
@@ -15690,6 +15790,7 @@ malves
 mam
 mama
 mamacita
+mamacitas
 mamak
 mamaks
 mamaku
@@ -15741,6 +15842,7 @@ manbot
 manbun
 mancala
 mancia
+mancias
 mand
 mandala
 mandalic
@@ -15780,6 +15882,7 @@ mani
 mania
 maniac
 maniacal
+maniacs
 manias
 manic
 manicate
@@ -15820,6 +15923,8 @@ manswears
 mant
 manta
 mantas
+mantay
+mantic
 mantid
 mantids
 mantie
@@ -15838,6 +15943,7 @@ mantri
 mantris
 mants
 mantua
+manty
 manual
 manubial
 manul
@@ -15893,6 +15999,7 @@ maran
 marans
 maranta
 marantas
+marantic
 marara
 mararas
 marari
@@ -15902,6 +16009,8 @@ marasmic
 marasmus
 maraud
 marauds
+maray
+marays
 marble
 marbled
 marbleise
@@ -16039,6 +16148,8 @@ martini
 martinis
 martins
 marts
+martyr
+martyry
 marua
 marula
 marulas
@@ -16051,6 +16162,7 @@ marvelries
 marver
 marvered
 marvers
+marvy
 mas
 masa
 masala
@@ -16096,12 +16208,17 @@ mastered
 masterer
 masterers
 masters
+mastic
+mastica
+masticha
+mastics
 mastika
 mastikas
 mastitis
 mastman
 mastmen
 masts
+masty
 masu
 masula
 masulas
@@ -16110,6 +16227,9 @@ masurium
 masurs
 masus
 mat
+matachin
+matachina
+matachins
 matador
 matadora
 matai
@@ -16144,6 +16264,7 @@ mathom
 mathoms
 maths
 maticin
+maticins
 matier
 matiere
 matieres
@@ -16158,6 +16279,7 @@ matmen
 matoke
 matra
 matraca
+matracas
 matral
 matras
 matric
@@ -16182,6 +16304,7 @@ maturer
 matures
 maturest
 matutinal
+maty
 matzah
 matzo
 matzoh
@@ -16242,6 +16365,7 @@ maya
 mayday
 maydays
 mays
+mayst
 maza
 mazac
 mazama
@@ -16670,11 +16794,13 @@ miacids
 miai
 miais
 miaow
+miascitic
 miasm
 miasma
 miasmal
 miasmas
 miasmata
+miasmatic
 miasmic
 miasms
 mic
@@ -16862,12 +16988,14 @@ mimpin
 mimsy
 mimulus
 mina
+minacity
 minakari
 minar
 minars
 minas
 minbar
 minbars
+mincy
 mind
 mindbending
 minded
@@ -16897,7 +17025,10 @@ minibike
 minibikes
 minibreak
 minicam
+minicams
 minicar
+minichain
+minichains
 minicom
 minikin
 minikini
@@ -16937,6 +17068,7 @@ mintier
 mintiest
 minting
 mints
+minty
 minuend
 minuet
 minueted
@@ -17155,8 +17287,10 @@ miters
 mites
 mitey
 mithai
+mithan
 mither
 mithers
+mithramycin
 mithril
 mitie
 mitigable
@@ -17173,6 +17307,7 @@ mitre
 mitred
 mitres
 mitriform
+mitry
 mitumba
 mity
 mivey
@@ -17189,6 +17324,8 @@ mixite
 mixt
 mixte
 mixtil
+miya
+miyas
 mlungu
 mneme
 mnemes
@@ -17953,7 +18090,13 @@ myricas
 mysid
 mysids
 mysie
+mystic
+mysticity
+mystics
 myth
+mythi
+mythic
+myths
 mythy
 nab
 nabam
@@ -17974,6 +18117,7 @@ nabs
 nacarat
 nace
 nach
+nachas
 naches
 nacho
 nacket
@@ -18175,6 +18319,7 @@ nasalisable
 nasals
 nasbandhi
 nasbandi
+nascha
 nasher
 nashi
 nashis
@@ -18196,6 +18341,7 @@ nasties
 nastiest
 nasturtian
 nasturtians
+nasty
 nasus
 nasuses
 nasute
@@ -18268,6 +18414,9 @@ nawal
 nawn
 nay
 nayaka
+nays
+naysay
+naysays
 nazar
 nazir
 neant
@@ -18655,6 +18804,7 @@ nimb
 nimbed
 nimbi
 nimbs
+nimby
 nimite
 nind
 nine
@@ -24151,6 +24301,7 @@ raith
 raiths
 raiverie
 raiyat
+raiyats
 raj
 raja
 rajah
@@ -24253,6 +24404,7 @@ rancher
 ranchera
 ranchero
 ranchito
+ranchman
 ranchy
 rancid
 rancidity
@@ -24547,11 +24699,13 @@ raxed
 ray
 raya
 rayah
+rayahs
 rayed
 rayl
 raylet
 raylike
 rayon
+rays
 razai
 raze
 razer
@@ -26057,6 +26211,8 @@ rez
 rezero
 rhachis
 rhagon
+rhamnin
+rhamnins
 rhandir
 rhatania
 rhatany
@@ -27213,6 +27369,7 @@ sahab
 sahabs
 sahib
 sahibs
+sahitya
 sai
 said
 saiga
@@ -27324,6 +27481,7 @@ sambals
 sambar
 sambars
 sambas
+sambhar
 sambuca
 sambucas
 same
@@ -27389,10 +27547,12 @@ sangshaw
 sanies
 sanitaria
 sanitarian
+sanitary
 sanitise
 sanitiser
 sanitisers
 sanitises
+sanity
 sank
 sans
 sansa
@@ -27426,6 +27586,9 @@ sarangi
 sarangis
 sarape
 sarapes
+sarcasm
+sarcasms
+sarcastic
 sard
 sardar
 sarge
@@ -27505,6 +27668,7 @@ saturant
 saturants
 saturate
 saturates
+satyr
 sauerkraut
 sauerkrauts
 sauna
@@ -27590,6 +27754,9 @@ scamsters
 scan
 scans
 scansion
+scant
+scants
+scanty
 scape
 scapes
 scar
@@ -27597,6 +27764,7 @@ scarab
 scarabs
 scarce
 scarcer
+scarcity
 scare
 scarer
 scarers
@@ -27613,6 +27781,7 @@ scarpers
 scarps
 scars
 scarves
+scary
 scat
 scathe
 scathes
@@ -27653,6 +27822,7 @@ schlub
 schlubs
 schlump
 schlumps
+schmancy
 schmear
 schmears
 schmick
@@ -27675,6 +27845,7 @@ sciatica
 sciatical
 science
 sciences
+scimitar
 scind
 scindapsus
 scinds
@@ -28141,6 +28312,8 @@ shaikh
 shaikha
 shaikhas
 shaikhs
+shaitan
+shaitans
 shaka
 shakas
 shake
@@ -28160,6 +28333,7 @@ shalt
 sham
 shama
 shaman
+shamanic
 shamans
 shamas
 shamateur
@@ -28182,6 +28356,8 @@ shankh
 shankha
 shanks
 shanti
+shanty
+shantyman
 shape
 shapes
 shapka
@@ -28213,6 +28389,8 @@ shawms
 shaws
 shay
 shays
+shaytan
+shaytans
 shazam
 shchi
 shchis
@@ -28264,6 +28442,7 @@ shikars
 shikra
 shikras
 shim
+shimiyana
 shims
 shin
 shinbone
@@ -28272,6 +28451,7 @@ shindigs
 shine
 shining
 shins
+shinty
 ship
 ships
 shipshape
@@ -28295,6 +28475,7 @@ shivs
 shlock
 shlub
 shlubs
+shmancy
 shmear
 shmears
 shmuck
@@ -28815,6 +28996,7 @@ smarm
 smarmier
 smarmiest
 smarms
+smarmy
 smart
 smartarse
 smartarses
@@ -28823,6 +29005,7 @@ smarties
 smartism
 smartisms
 smarts
+smarty
 smash
 smashing
 smeg
@@ -28858,9 +29041,12 @@ smiter
 smiters
 smites
 smith
+smitham
 smither
 smithers
 smithery
+smithiantha
+smithianthas
 smiths
 smithum
 smithy
@@ -29466,6 +29652,7 @@ stagiest
 stags
 staid
 stain
+stains
 stair
 stairs
 stake
@@ -29491,6 +29678,7 @@ stamper
 stampers
 stamps
 stan
+stanch
 stand
 standard
 standards
@@ -29521,6 +29709,8 @@ starko
 starlet
 starlets
 starlit
+starn
+starns
 starost
 starosta
 starquake
@@ -29531,18 +29721,23 @@ starters
 starts
 startup
 startups
+starty
 starve
 starved
 starver
 starvers
 starves
+starvy
 starward
+stary
 stases
+stash
 stasis
 stat
 statable
 statal
 statant
+statary
 state
 stated
 statelet
@@ -29570,6 +29765,7 @@ statistical
 statistician
 statistics
 statists
+stativity
 statoblast
 statoblasts
 statolith
@@ -29798,8 +29994,10 @@ strait
 straiten
 straitens
 straits
+straitsman
 strake
 strakes
+stramash
 strand
 strands
 strap
@@ -29825,6 +30023,8 @@ stravaig
 stravaigs
 straw
 straws
+stray
+strays
 streak
 streaker
 streakers
@@ -30310,6 +30510,7 @@ synthy
 syrtos
 syrtoses
 systases
+systatic
 system
 systemist
 systemists
@@ -30593,6 +30794,7 @@ tanpura
 tanpuras
 tans
 tansies
+tansy
 tant
 tantalic
 tante
@@ -30659,6 +30861,7 @@ tarmac
 tarmacs
 tarn
 tarnation
+tarns
 taro
 taros
 tarot
@@ -30794,6 +30997,7 @@ taximeter
 taximeters
 taxis
 tayra
+tayras
 tbs
 tch
 tchagra
@@ -31283,6 +31487,7 @@ thoughtlet
 thoughtway
 thoughty
 thous
+thrash
 thrawn
 thread
 threaded
@@ -31509,6 +31714,8 @@ tinktinkie
 tinktinkies
 tinpot
 tins
+tinsmith
+tinsmiths
 tinsnips
 tint
 tinted
@@ -31608,6 +31815,8 @@ titubation
 titular
 tivaevae
 tix
+tiyin
+tiyins
 tiz
 tmeses
 tmrw
@@ -32001,6 +32210,7 @@ trainer
 trainers
 training
 trainload
+trainman
 trains
 trainset
 trainsets
@@ -32070,6 +32280,8 @@ trapo
 traps
 trapyard
 trash
+trashcan
+trashcans
 trauma
 traumata
 travel
@@ -32080,6 +32292,7 @@ travois
 trawl
 trawls
 tray
+trays
 traytop
 treachery
 treacle
@@ -32628,6 +32841,7 @@ typographic
 typography
 typology
 tyrant
+tyrants
 tyre
 tyro
 tystie
@@ -33670,6 +33884,7 @@ vibes
 vibing
 vibist
 vibists
+vibrancy
 vibrant
 vibrer
 vicar
@@ -33677,6 +33892,7 @@ vice
 vices
 vici
 vicinal
+vicinity
 victual
 victualed
 vid
@@ -33703,6 +33919,8 @@ vigneron
 vignerons
 vigor
 vigoro
+vihara
+viharas
 vihuela
 vihuelas
 vile
@@ -33714,6 +33932,7 @@ vin
 vina
 vinas
 vinca
+vincas
 vincible
 vine
 vinegar
@@ -33787,6 +34006,9 @@ visuals
 vita
 vitae
 vital
+vitamin
+vitamins
+vitas
 vitiate
 vitiated
 vitiation
@@ -34526,6 +34748,7 @@ xlnt
 xolo
 yacht
 yachts
+yachtsman
 yack
 yacks
 yada
@@ -34550,6 +34773,7 @@ yank
 yanked
 yanking
 yantra
+yantras
 yap
 yaps
 yarak
@@ -34565,8 +34789,10 @@ yarlin
 yarling
 yarn
 yarning
+yarns
 yas
 yatra
+yatras
 yaw
 yawed
 yawl
@@ -34608,6 +34834,7 @@ yew
 yews
 yield
 yike
+yin
 yip
 ylid
 ylide
