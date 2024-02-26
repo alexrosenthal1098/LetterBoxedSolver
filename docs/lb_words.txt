@@ -213,6 +213,12 @@ abseiled
 abseiler
 abseilers
 abseils
+absinth
+absinthial
+absinthin
+absinthism
+absinthium
+absinths
 absit
 absolvable
 absonant
@@ -221,6 +227,8 @@ absorb
 absorber
 absorbing
 absorbs
+abstain
+abstains
 absterge
 absterged
 absterges
@@ -815,6 +823,7 @@ afeard
 afeared
 afearing
 afion
+afions
 afire
 aflank
 aflare
@@ -836,6 +845,9 @@ aftersale
 aftershaft
 aftershafts
 afto
+aftos
+aftosa
+aftosas
 afty
 afzelia
 aga
@@ -1252,6 +1264,7 @@ alated
 alatern
 alation
 alaunt
+alaunts
 alazon
 alazony
 alb
@@ -1274,6 +1287,9 @@ albricia
 albs
 album
 albumen
+albumin
+albumins
+albums
 alburn
 alc
 alcabala
@@ -1340,6 +1356,8 @@ alfaki
 alfalfa
 alfaqui
 alfoil
+alfonsino
+alfonsinos
 alga
 algae
 algal
@@ -1489,6 +1507,8 @@ alquerque
 alse
 alsike
 also
+alstonia
+alstonias
 alt
 altaite
 altar
@@ -1665,6 +1685,8 @@ amnia
 amnio
 amnion
 amnionia
+amnions
+amnios
 amniotic
 amok
 amole
@@ -2477,6 +2499,7 @@ asthmatic
 asthmatics
 astigmatism
 astir
+astonish
 astral
 astrantia
 astrantias
@@ -2671,6 +2694,8 @@ autocrats
 autocue
 autocycle
 autogyro
+autoist
+autoists
 autoland
 autoload
 autolocate
@@ -2841,6 +2866,8 @@ babord
 babords
 babs
 babu
+babuism
+babuisms
 babul
 babuls
 babus
@@ -2946,12 +2973,15 @@ bakes
 bakeware
 baking
 bal
+balafon
+balafons
 balalaika
 balalaikas
 balas
 balata
 balatas
 balboa
+balboas
 bald
 balder
 baldest
@@ -3226,6 +3256,7 @@ bateaux
 bated
 bateleur
 bates
+batfish
 batgirl
 bath
 bathing
@@ -3764,6 +3795,8 @@ blasted
 blaster
 blasters
 blasts
+blastula
+blastulas
 blat
 blatant
 blats
@@ -3847,11 +3880,13 @@ bluer
 bluet
 bluetail
 bluey
+bluish
 blunging
 blunt
 blunted
 blunter
 blunting
+blunts
 blur
 blurb
 blurbs
@@ -3883,6 +3918,8 @@ boatel
 boater
 boatie
 boating
+boatlift
+boatlifts
 boatlike
 boatload
 boatpeople
@@ -4094,12 +4131,17 @@ botnets
 boto
 botos
 bots
+botulin
+botulinum
+botulinums
+botulism
 boubou
 boubous
 boue
 boule
 boult
 boulted
+boults
 bound
 bounds
 bounteous
@@ -4477,8 +4519,10 @@ bung
 bunger
 bunging
 bunion
+bunions
 buns
 bunt
+buntal
 bunted
 bunting
 buntline
@@ -9653,6 +9697,8 @@ fabliaux
 fabric
 fabrics
 fabs
+fabulist
+fabulists
 face
 faceache
 facelift
@@ -9727,6 +9773,9 @@ familial
 familiar
 familiars
 familic
+familism
+familist
+famish
 fams
 famuli
 famulus
@@ -9780,6 +9829,10 @@ fascicular
 fasciculi
 fasciculus
 fash
+fashion
+fashionista
+fashionistas
+fashions
 fast
 fasten
 fastener
@@ -9791,6 +9844,9 @@ fasts
 fat
 fatal
 fatale
+fatalism
+fatalist
+fatalists
 fatcat
 fate
 fateful
@@ -9798,6 +9854,9 @@ father
 fating
 fatling
 fatly
+fats
+fatso
+fatsos
 fatwa
 fauch
 faucial
@@ -9805,11 +9864,13 @@ fault
 faultier
 faultily
 faulting
+faults
 faulty
 faun
 fauna
 faunae
 faunal
+fauns
 faut
 faute
 fauteuil
@@ -9925,6 +9986,7 @@ fez
 fiacre
 fiasco
 fiat
+fiats
 fib
 fibre
 fibrin
@@ -10027,6 +10089,7 @@ finito
 fink
 finks
 fino
+finos
 fins
 fiord
 fioriture
@@ -10070,12 +10133,17 @@ fishlike
 fishnet
 fishnets
 fisho
+fishos
+fishtail
+fishtails
 fisk
 fisks
 fist
 fistful
 fistfuls
 fists
+fistula
+fistulas
 fit
 fitch
 fitche
@@ -10125,6 +10193,8 @@ flare
 flash
 flashback
 flashbacks
+flashbulb
+flashbulbs
 flasher
 flashers
 flask
@@ -10132,12 +10202,16 @@ flasks
 flat
 flatcar
 flatfile
+flatfish
 flatiron
 flatland
+flats
 flatware
 flaunt
 flaunter
+flaunts
 flauta
+flautas
 flautist
 flautists
 flaw
@@ -10224,7 +10298,11 @@ flux
 fly
 flyleaf
 foal
+foals
 foam
+foams
+fob
+fobs
 fodient
 foe
 foefie
@@ -10245,6 +10323,11 @@ fohns
 foie
 foil
 foiling
+foilist
+foilists
+foils
+foist
+foists
 fold
 folia
 foliar
@@ -10263,9 +10346,12 @@ fondue
 fone
 fones
 fonio
+fonios
 fons
 font
+fontal
 fontanel
+fonts
 fop
 for
 fora
@@ -10324,11 +10410,14 @@ forum
 fou
 foul
 fouling
+fouls
 found
 foundation
 fount
 fountain
 fountaining
+fountains
+founts
 four
 fovea
 foveae
@@ -12622,6 +12711,7 @@ hotlist
 hotlists
 hotly
 hotnot
+hotnots
 hotpant
 hotpot
 hotrod
@@ -12730,6 +12820,7 @@ hunk
 hunks
 hunt
 hunting
+hunts
 hup
 hurds
 hurdses
@@ -13169,6 +13260,8 @@ infauna
 infer
 inferior
 infertile
+infimum
+infimums
 infinite
 infirm
 inflation
@@ -13177,6 +13270,8 @@ inflexible
 inflow
 influx
 info
+infobot
+infobots
 infoglut
 infoliating
 infoliation
@@ -13293,6 +13388,8 @@ inroad
 inros
 inrush
 ins
+insalata
+insalatas
 insane
 insanitary
 insanities
@@ -13323,6 +13420,8 @@ inspires
 inspirit
 inspirits
 inspo
+instal
+instals
 instancy
 instant
 instants
@@ -14561,6 +14660,8 @@ lama
 lamas
 lamaseries
 lamb
+lambast
+lambasts
 lambda
 lambic
 lambs
@@ -14574,6 +14675,7 @@ lamina
 laminal
 laminar
 laminin
+lamish
 lamium
 lamiums
 lamp
@@ -14724,6 +14826,7 @@ lathe
 lather
 lathi
 lathis
+laths
 lati
 laticifer
 latitude
@@ -15904,6 +16007,14 @@ maerl
 maeshie
 maeshies
 maestri
+mafia
+mafias
+mafiosa
+mafiosas
+mafioso
+mafiosos
+maft
+mafts
 mag
 maga
 magadis
@@ -15980,6 +16091,8 @@ maieutic
 mail
 mailable
 mailak
+mailboat
+mailboats
 mailcoach
 maildrop
 maile
@@ -15987,6 +16100,8 @@ mailed
 mailes
 mailo
 mails
+mailshot
+mailshots
 maim
 maimai
 maimais
@@ -16001,6 +16116,8 @@ mainmasts
 mainmen
 mainour
 mains
+mainsail
+mainsails
 mainstay
 mainstays
 maintain
@@ -16065,6 +16182,7 @@ malai
 malaise
 malaises
 malambo
+malambos
 malamute
 malaprop
 malapropian
@@ -16076,6 +16194,7 @@ malars
 malas
 malate
 malates
+malathion
 male
 maleate
 maleates
@@ -16093,9 +16212,12 @@ malic
 malicho
 maliform
 malihini
+malihinis
 malik
 maliks
 malis
+malison
+malisons
 malist
 malists
 malm
@@ -16537,9 +16659,13 @@ mashies
 mashing
 mashman
 mashmen
+mashua
+mashuas
 mashwa
 mask
 masks
+maslin
+maslins
 mason
 masoning
 masons
@@ -17184,6 +17310,7 @@ miasmatic
 miasmic
 miasms
 miaul
+miauls
 mic
 mica
 mice
@@ -17315,6 +17442,7 @@ miler
 milers
 miles
 milfoil
+milfoils
 milia
 miliaria
 miliarial
@@ -17441,9 +17569,14 @@ minikin
 minikini
 minikinis
 minikins
+minilab
+minilabs
 minim
 minima
 minimal
+minimalism
+minimalist
+minimalists
 minimart
 minimarts
 minimise
@@ -17452,8 +17585,11 @@ minimisers
 minimises
 minims
 minimum
+minimums
 mining
 minion
+minionism
+minionisms
 minions
 minipiano
 minis
@@ -17613,6 +17749,8 @@ mish
 mishear
 mishears
 mishes
+mishla
+mishlas
 mishmash
 mishmashes
 misjudge
@@ -17622,6 +17760,7 @@ mislaid
 mislay
 mislays
 misled
+mislist
 mislive
 mislives
 misls
@@ -17669,6 +17808,7 @@ mistake
 mistaken
 mistakes
 mistal
+mistals
 mistaught
 misted
 mister
@@ -18306,6 +18446,7 @@ mukluk
 mukti
 muktuk
 mulai
+mulais
 mulata
 mulch
 mulct
@@ -18316,6 +18457,9 @@ muleta
 muletas
 mulie
 muling
+mulish
+mulism
+mulisms
 mulmul
 mulmuls
 multeity
@@ -18383,25 +18527,32 @@ mungite
 mungo
 muni
 munia
+munias
 municipal
 municipium
 muniment
+munis
 munition
 munitioner
 munitioning
 munk
+munshi
+munshis
+munsif
 munt
 munted
 munter
 munthu
 muntin
 muntined
+munts
 muntu
 muntus
 munyeru
 muon
 muonic
 muonium
+muoniums
 muons
 muqueca
 mura
@@ -18507,6 +18658,7 @@ musty
 muta
 mutant
 mutarotate
+mutas
 mutate
 mutated
 mutative
@@ -18526,6 +18678,10 @@ mutism
 muton
 mutons
 mutual
+mutualism
+mutualist
+mutualists
+mutuals
 mutuca
 mutuel
 mutule
@@ -19188,6 +19344,7 @@ niacin
 niaiserie
 niaiseries
 niaouli
+niaoulis
 niauli
 nib
 niblet
@@ -19253,6 +19410,9 @@ nigrosines
 nigrous
 nigua
 nihil
+nihilism
+nihilist
+nihilists
 nihility
 nihilo
 nikah
@@ -19514,6 +19674,7 @@ noninteger
 noninvasive
 nonionic
 nonis
+nonism
 nonlogical
 nonmoral
 nonoic
@@ -19594,6 +19755,7 @@ nosing
 nosings
 nosir
 nosism
+nostos
 nosy
 not
 nota
@@ -19649,6 +19811,8 @@ noumenon
 noun
 nounal
 nouning
+nounism
+nounisms
 nounou
 nounous
 nouns
@@ -19715,6 +19879,7 @@ nuance
 nuanced
 nub
 nubile
+nubs
 nucin
 nucular
 nude
@@ -19732,8 +19897,12 @@ nukes
 nukespeak
 nuking
 numb
+numbat
+numbats
 numbed
+numbfish
 numbing
+numbnuts
 numbs
 numen
 numerary
@@ -19831,6 +20000,8 @@ nutriture
 nutrix
 nuts
 nutsiest
+nutso
+nutsos
 nux
 nyah
 nyala
@@ -19844,7 +20015,9 @@ nyong
 nyrl
 oaf
 oafdom
+oafish
 oafo
+oafos
 oak
 oaked
 oaken
@@ -20140,6 +20313,7 @@ oiler
 oilers
 oilet
 oilfield
+oilfish
 oilier
 oiliest
 oilily
@@ -20818,6 +20992,7 @@ outfielder
 outfight
 outfit
 outfits
+outflash
 outfling
 outflinging
 outflung
@@ -20844,6 +21019,10 @@ outies
 outing
 outjut
 outlabour
+outlain
+outlash
+outlast
+outlasts
 outleager
 outleap
 outlet
@@ -20887,6 +21066,9 @@ outros
 outrow
 outrows
 outs
+outsail
+outsails
+outsat
 outscore
 outscores
 outsert
@@ -28086,12 +28268,15 @@ saiga
 saigas
 sail
 sailable
+sailboat
+sailboats
 sailcloth
 sailer
 sailers
 sailfin
 sailfish
 sails
+sainfoin
 saint
 saintlier
 saintlike
@@ -28166,6 +28351,7 @@ saltus
 saluki
 salukis
 salumi
+salut
 salvable
 salve
 salved
@@ -28387,6 +28573,7 @@ sauerkraut
 sauerkrauts
 sauna
 saunas
+saunf
 saurian
 sausage
 sausages
@@ -29152,6 +29339,8 @@ shiatsu
 shicer
 shicers
 shies
+shift
+shifts
 shikar
 shikara
 shikaras
@@ -29199,6 +29388,8 @@ shmears
 shmuck
 shmutz
 sho
+shoal
+shoals
 shoat
 shoats
 shochu
@@ -29252,6 +29443,8 @@ shuls
 shumai
 shun
 shuns
+shunt
+shunts
 shura
 shuras
 shush
@@ -29438,6 +29631,8 @@ sinew
 sinewave
 sinewaves
 sinews
+sinfonia
+sinfonias
 sing
 singe
 singeing
@@ -29623,6 +29818,7 @@ slaps
 slash
 slasher
 slashers
+slasto
 slat
 slats
 slave
@@ -29715,6 +29911,8 @@ smackers
 smacks
 smalt
 smaltite
+smalto
+smaltos
 smalts
 smaltses
 smarm
@@ -29877,6 +30075,7 @@ snorts
 snot
 snots
 snout
+snouts
 snow
 snowing
 snowman
@@ -29887,6 +30086,7 @@ snowplow
 snowplows
 snows
 snub
+snubs
 snug
 snugs
 snus
@@ -29929,6 +30129,11 @@ sodas
 sods
 soebak
 soever
+sofa
+sofas
+soft
+softa
+softas
 sogo
 soh
 soie
@@ -30003,6 +30208,8 @@ songman
 songo
 songos
 songs
+sonofa
+sonofas
 sonorant
 sonorous
 sons
@@ -30054,6 +30261,7 @@ sotong
 sotongs
 sots
 sou
+soubashi
 soubise
 soubises
 sough
@@ -30364,6 +30572,7 @@ stabled
 stabler
 stables
 stablest
+stablish
 stabs
 stache
 staches
@@ -30857,6 +31066,8 @@ stums
 stun
 stung
 stuns
+stunsail
+stunsails
 stunt
 stunts
 stupa
@@ -31285,6 +31496,8 @@ tabletop
 tablets
 tablier
 tabliers
+tablinum
+tablinums
 tabloid
 tabls
 tabo
@@ -31356,6 +31569,7 @@ taenia
 taeniae
 taenite
 tafia
+tafias
 tag
 tagati
 tagatied
@@ -31381,6 +31595,7 @@ taiaha
 taiga
 taihoa
 taihoaing
+taihoas
 taiko
 taikos
 tail
@@ -31391,6 +31606,7 @@ tailcoat
 tailed
 tailend
 tailfin
+tailfins
 tailgate
 tailgater
 tailgating
@@ -31450,6 +31666,7 @@ tales
 tali
 talik
 taliks
+talionis
 talipot
 talk
 talkback
@@ -31480,6 +31697,8 @@ tamas
 tamases
 tamasha
 tamashas
+tambala
+tambalas
 tambour
 tamboura
 tambours
@@ -32618,6 +32837,7 @@ toenail
 toes
 toey
 toft
+tofts
 tofu
 tog
 toga
@@ -32720,6 +32940,8 @@ tonka
 tonking
 tonometer
 tons
+tonsil
+tonsils
 tontine
 tonus
 tony
@@ -32836,11 +33058,13 @@ toruses
 tosa
 tosas
 tosh
+toston
 tot
 total
 totality
 totalize
 totalizer
+totals
 totara
 tote
 toted
@@ -33422,6 +33646,7 @@ tuataria
 tub
 tuba
 tubal
+tubas
 tube
 tubed
 tubing
@@ -33477,6 +33702,7 @@ tumpline
 tums
 tumuli
 tumult
+tumults
 tun
 tuna
 tunable
@@ -33743,6 +33969,7 @@ unbars
 unbent
 unborn
 unbound
+unbuilt
 unburnt
 uncage
 uncages
@@ -33844,6 +34071,8 @@ uniform
 unilocular
 unimpeded
 uninitiated
+uninstal
+uninstals
 unintended
 uninventive
 uninvited
@@ -33855,6 +34084,7 @@ unioniform
 unionise
 unionises
 unionising
+unionism
 unionist
 unionists
 unionize
@@ -33921,6 +34151,7 @@ unlaid
 unlamed
 unlanced
 unlap
+unlash
 unlatined
 unlaw
 unlawful
@@ -33939,6 +34170,7 @@ unlid
 unlimb
 unlimbed
 unlimbing
+unlimbs
 unlimed
 unlimited
 unline
@@ -33962,6 +34194,7 @@ unmaid
 unmaided
 unmaids
 unmail
+unmails
 unmalted
 unman
 unmanacle
@@ -33995,6 +34228,8 @@ unminding
 unmined
 unminted
 unminuted
+unmist
+unmists
 unmix
 unmixed
 unmixing
