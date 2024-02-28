@@ -141,6 +141,7 @@ aboard
 abob
 abode
 aboil
+aboiteau
 abolish
 abolishable
 aboma
@@ -1694,6 +1695,8 @@ amnionia
 amnions
 amnios
 amniotic
+amoeba
+amoebae
 amok
 amole
 amoles
@@ -2175,6 +2178,7 @@ arblast
 arblasts
 arbor
 arbors
+arborvitae
 arbour
 arbours
 arbs
@@ -4026,12 +4030,15 @@ bolus
 boma
 bomas
 bomb
+bombe
 bombing
 bombings
+bombora
 bombs
 bomo
 bomoh
 bomohs
+bomor
 bon
 bona
 bonbon
@@ -4409,6 +4416,7 @@ broken
 broker
 brokering
 broking
+bromate
 brome
 bromeliad
 bromic
@@ -4419,6 +4427,8 @@ brond
 bronde
 bros
 brose
+brow
+browbeat
 brubru
 brubrus
 bruck
@@ -9526,6 +9536,7 @@ evils
 evince
 evinced
 evincible
+evirate
 evite
 evited
 evites
@@ -13122,6 +13133,7 @@ imbibitions
 imbo
 imbongi
 imbos
+imbrue
 imbue
 imbued
 imide
@@ -13131,6 +13143,7 @@ imitate
 imitated
 imitates
 imitation
+imitative
 imitator
 imli
 imlis
@@ -13168,6 +13181,7 @@ impermanent
 impermeable
 impertinent
 impest
+impetrate
 impi
 impious
 impis
@@ -13180,8 +13194,13 @@ impolitic
 import
 impost
 imposts
+imprimatur
 impro
+impromptu
+impropriate
 imps
+imputative
+impute
 imshi
 imu
 imus
@@ -13722,6 +13741,7 @@ iota
 iotas
 ipecac
 ipecacs
+ipomoea
 ipsa
 ipse
 ipso
@@ -16685,6 +16705,7 @@ martin
 martini
 martinis
 martins
+martite
 marts
 martyr
 martyry
@@ -16692,6 +16713,7 @@ marua
 marula
 marulas
 marumage
+maruti
 marvel
 marveled
 marveler
@@ -16781,6 +16803,8 @@ matais
 mataitai
 matamata
 matamatas
+matamora
+matamoro
 matapi
 matapie
 matata
@@ -16819,6 +16843,8 @@ matildites
 matin
 matinal
 matins
+matipo
+matipou
 matman
 matmen
 matoke
@@ -16845,6 +16871,7 @@ maturase
 maturases
 maturate
 maturates
+maturative
 mature
 maturer
 matures
@@ -17935,6 +17962,7 @@ mitosis
 mitotic
 mitout
 mitral
+mitrate
 mitre
 mitred
 mitres
@@ -17983,6 +18011,7 @@ moat
 moats
 mob
 mobaton
+mobe
 mobie
 mobies
 mobile
@@ -18295,6 +18324,7 @@ morin
 morine
 morinite
 morion
+morita
 mormal
 mormaor
 mormo
@@ -18319,6 +18349,7 @@ morphonic
 morphophonic
 mort
 mortar
+mortaria
 mortgagor
 mortice
 morticed
@@ -18330,6 +18361,7 @@ morucho
 moruk
 morula
 morular
+moruti
 mory
 moscato
 mosh
@@ -20231,8 +20263,11 @@ obtruder
 obtrusive
 obtund
 obtunds
+obturate
 obtusion
 obv
+obviate
+obviative
 obvious
 obvs
 oca
@@ -20676,12 +20711,16 @@ optate
 optated
 optating
 optation
+optative
 opted
 optic
 optician
 opticity
 optima
 optimal
+optimate
+optimum
+optimuma
 opting
 option
 optioning
@@ -21063,6 +21102,7 @@ outacts
 outage
 outarm
 outarms
+outbeam
 outbid
 outbids
 outboard
@@ -21071,6 +21111,8 @@ outborn
 outborns
 outbound
 outbounds
+outbow
+outbrave
 outcharm
 outcharms
 outcut
@@ -21184,7 +21226,10 @@ outvoted
 outwatch
 outwatched
 outwear
+outwept
+outwit
 outwore
+outwrite
 outwrote
 outy
 ouze
@@ -22592,6 +22637,7 @@ petitio
 petition
 petitioner
 petitioning
+petitive
 peto
 petraean
 petrifier
@@ -22609,6 +22655,7 @@ petuning
 petuntse
 peut
 pew
+pewit
 pews
 pfui
 phage
@@ -23089,6 +23136,7 @@ pipas
 pipcorn
 pipe
 pipeage
+pipebomb
 piped
 pipegun
 pipeguns
@@ -23106,6 +23154,7 @@ piperines
 pipers
 pipes
 pipet
+pipewort
 pipfruit
 pipgorn
 pipi
@@ -23236,6 +23285,7 @@ pium
 piuma
 piums
 piupiu
+piva
 piwari
 piwaris
 pix
@@ -23684,6 +23734,8 @@ polytopic
 polytypic
 polytypy
 poma
+pomatum
+pombe
 pome
 pomeis
 pomeises
@@ -23835,6 +23887,7 @@ portage
 portal
 portate
 portation
+portative
 porte
 ported
 portend
@@ -24005,6 +24058,7 @@ praetexta
 praetor
 praetorial
 praetorian
+praevia
 prag
 prahu
 prairie
@@ -24182,12 +24236,16 @@ primal
 primar
 primarian
 primatal
+primate
 primip
 primipara
 primipilar
 primipile
 primipilus
 primips
+primite
+primitiae
+primitive
 primo
 primos
 primost
@@ -24222,6 +24280,7 @@ priorate
 priori
 prioric
 priories
+priorite
 prioritize
 priority
 priorly
@@ -24233,6 +24292,9 @@ prises
 prising
 pritch
 prius
+private
+privative
+privet
 prix
 prize
 prizeable
@@ -24253,6 +24315,7 @@ probablize
 probang
 probate
 probating
+probative
 probe
 probed
 probie
@@ -24316,6 +24379,7 @@ promorph
 promotable
 promotor
 prompt
+promptive
 pronaoi
 pronate
 pronating
@@ -24366,6 +24430,7 @@ propitiable
 propitial
 propitiate
 propitiating
+propitiative
 propitiator
 proplyd
 propodaeal
@@ -24749,6 +24814,7 @@ purpurates
 purpure
 purpuric
 purpurin
+purpurite
 purpuroid
 purpy
 purse
@@ -24758,6 +24824,7 @@ purses
 pursing
 purty
 puruloid
+purview
 pus
 push
 pushup
@@ -24769,6 +24836,7 @@ putain
 putamen
 putamens
 putas
+putative
 puter
 puters
 putid
@@ -25633,6 +25701,7 @@ raulis
 raun
 raunch
 raupatu
+raupo
 raurakau
 raureka
 raurekau
@@ -25658,6 +25727,7 @@ raveries
 ravers
 ravery
 raves
+raveup
 ravey
 ravin
 ravine
@@ -27487,6 +27557,7 @@ rimaye
 rimayes
 rimbase
 rimbases
+rimbomb
 rime
 rimed
 rimer
@@ -27737,6 +27808,7 @@ robinias
 robins
 robiola
 roble
+robomb
 roborant
 roborants
 roborating
@@ -28066,8 +28138,10 @@ roving
 rovings
 row
 rowan
+rowboat
 rowdy
 rowed
+roweite
 rowel
 roweled
 rowen
@@ -28283,6 +28357,7 @@ rupial
 rupias
 rupicapra
 ruption
+ruptive
 rupture
 ruptures
 rupturing
@@ -33749,6 +33824,7 @@ trueish
 truer
 trues
 truest
+truewit
 trug
 trugo
 trugs
@@ -34002,6 +34078,7 @@ twirk
 twirl
 twirler
 twirlier
+twirp
 twit
 twitch
 twitchel
@@ -34099,6 +34176,7 @@ umbilicus
 umbo
 umbos
 umbra
+umbrae
 umbral
 umbras
 ume
@@ -34862,9 +34940,11 @@ vapes
 vara
 varas
 varec
+variate
 variceal
 varies
 variform
+variorum
 varna
 varnas
 varus
@@ -35222,6 +35302,8 @@ virinos
 virion
 virions
 virological
+virtu
+virtue
 vis
 visa
 visage
@@ -35645,6 +35727,7 @@ wet
 weta
 wether
 wetware
+wetwipe
 wey
 weys
 wham
@@ -35797,6 +35880,7 @@ winterer
 wintrier
 winy
 wipe
+wipeout
 wipes
 wire
 wired
@@ -35967,6 +36051,7 @@ wristwear
 writ
 write
 writer
+writeup
 writhe
 writhen
 writs
