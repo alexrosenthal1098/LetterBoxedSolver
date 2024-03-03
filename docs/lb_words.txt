@@ -173,6 +173,7 @@ abortoriums
 aborts
 abortus
 aboulia
+aboulic
 abound
 abounds
 about
@@ -248,6 +249,8 @@ abstract
 abstracter
 abstractive
 abstractives
+abstractor
+abstractors
 abstracts
 abstrict
 abstricts
@@ -539,6 +542,7 @@ acto
 actograph
 acton
 actor
+actorish
 actorly
 actors
 actory
@@ -548,6 +552,8 @@ actualite
 actuate
 actuated
 actuates
+actuator
+actuators
 actus
 acuate
 acuates
@@ -1088,6 +1094,7 @@ ahight
 ahimsa
 ahind
 ahis
+ahistoric
 ahold
 ahole
 aholehole
@@ -2243,6 +2250,7 @@ archetype
 archetypes
 archicortical
 archil
+archils
 architect
 architrave
 architraves
@@ -2253,6 +2261,8 @@ archivists
 archly
 archon
 archons
+archosaur
+archosaurs
 archpriest
 archpriests
 archrival
@@ -2339,6 +2349,10 @@ arisen
 arises
 arising
 arisings
+aristo
+aristocrat
+aristocrats
+aristos
 arith
 ark
 arkose
@@ -2743,8 +2757,10 @@ auric
 auricle
 auricula
 auricular
+aurochs
 aurora
 aurorae
+auroras
 auspice
 auspices
 austenite
@@ -2752,12 +2768,19 @@ austere
 austerer
 austral
 australite
+autarch
+autarchic
+autarchist
+autarchists
+autarchs
 autarkic
 autecology
 auteur
 auteurs
 auth
 author
+authorish
+authors
 autism
 autist
 autistic
@@ -2766,10 +2789,14 @@ autists
 auto
 autobio
 autobios
+autobox
 autocar
 autocars
 autocoherer
 autocrat
+autocrator
+autocratoric
+autocrators
 autocrats
 autocue
 autocycle
@@ -2943,6 +2970,7 @@ babies
 babingtonite
 babirusa
 babirusas
+babish
 babka
 babkas
 babord
@@ -3241,6 +3269,7 @@ barges
 barging
 bargirl
 bari
+bariatric
 baring
 barista
 baristas
@@ -3321,6 +3350,8 @@ basics
 basij
 basil
 basilar
+basilica
+basilicas
 basilisk
 basilisks
 basils
@@ -3359,6 +3390,8 @@ bates
 batfish
 batgirl
 bath
+bathchair
+bathchairs
 bathe
 bather
 bathes
@@ -3642,6 +3675,7 @@ bhunas
 bias
 biases
 biasing
+biatch
 biaxial
 bib
 bibelot
@@ -3650,6 +3684,8 @@ bibimbap
 bibis
 bible
 bibles
+biblicist
+biblicists
 bibliomane
 bibliomanes
 bibliopole
@@ -3719,6 +3755,7 @@ bilats
 bilbies
 bilbo
 bilboes
+bilbos
 bile
 bilevel
 bilevels
@@ -3773,6 +3810,7 @@ binturong
 bio
 bioagent
 bioagents
+biochar
 biocompatible
 biodata
 biodome
@@ -3803,6 +3841,7 @@ biosensor
 biosensors
 bioses
 biosonar
+biostasis
 biota
 biotech
 biotechnic
@@ -3843,8 +3882,10 @@ biros
 birse
 birth
 birther
+births
 birze
 bis
+bish
 bison
 bistable
 bistables
@@ -4024,6 +4065,7 @@ blunts
 blur
 blurb
 blurbs
+blurs
 blurt
 blurted
 blurts
@@ -4073,6 +4115,7 @@ bobotie
 bobs
 bobtail
 bobtailed
+bobtails
 bobwhite
 bock
 bocks
@@ -4200,6 +4243,7 @@ bonus
 bop
 bops
 bora
+boracic
 borage
 borages
 borak
@@ -4219,6 +4263,7 @@ borek
 boreks
 borer
 bores
+boric
 boride
 boring
 bork
@@ -4639,6 +4684,7 @@ built
 bulb
 bulbar
 bulbil
+bulbils
 bulblike
 bulbs
 bulbul
@@ -5145,6 +5191,9 @@ cariama
 cariamas
 caribe
 caribes
+caribou
+caricaturist
+caricaturists
 caries
 carina
 carinal
@@ -5223,6 +5272,7 @@ caryatid
 casaba
 casabas
 casbah
+casbahs
 cascara
 cascaras
 case
@@ -5264,9 +5314,15 @@ casters
 castes
 castmate
 castmates
+castor
+castors
 castrate
 castrates
 castrati
+castrato
+castrator
+castrators
+castratos
 casts
 casus
 cat
@@ -5580,6 +5636,7 @@ chard
 charier
 chariest
 chariot
+chariots
 charism
 charisma
 charismata
@@ -5753,6 +5810,7 @@ chile
 chili
 chiliad
 chiliarch
+chiliarchs
 chiliasm
 chiliasms
 chiliast
@@ -5925,8 +5983,10 @@ churchdom
 churched
 churches
 churchful
+churchish
 churchy
 churl
+churlish
 churls
 churn
 chute
@@ -5934,6 +5994,7 @@ chutes
 chypre
 chyron
 ciao
+ciboria
 cicada
 cicadas
 cicatrice
@@ -6216,6 +6277,7 @@ clunch
 clung
 clunk
 clunking
+clutch
 cnidarian
 coacervate
 coach
@@ -6250,11 +6312,14 @@ coaxial
 cob
 cobalt
 cobalts
+cobia
 cobot
 cobots
 cobs
 coca
 cocas
+cochair
+cochairs
 cochere
 cochlea
 cochleae
@@ -6318,6 +6383,7 @@ coho
 cohoe
 cohoes
 cohort
+cohorts
 cohos
 cohosh
 cohost
@@ -6640,6 +6706,7 @@ coughs
 could
 coulda
 couldst
+coulibiac
 coulis
 couloir
 couloirs
@@ -6669,6 +6736,7 @@ courtois
 courts
 couscous
 couta
+coutas
 couth
 couture
 couvade
@@ -6831,6 +6899,8 @@ crewed
 crewel
 cri
 crib
+cribo
+cribos
 cribs
 crick
 cricking
@@ -6909,6 +6979,7 @@ crop
 cropland
 crore
 crostata
+crostatas
 crotal
 crotch
 crotched
@@ -12160,6 +12231,7 @@ hairdo
 hairdye
 hairier
 hairnet
+hairoil
 hairpin
 hairs
 hairshirt
@@ -12316,6 +12388,8 @@ harelip
 harem
 harems
 hares
+haricot
+haricots
 haring
 hark
 harken
@@ -12363,6 +12437,7 @@ hatamoto
 hatamotos
 hatband
 hatbands
+hatbox
 hatch
 hatchback
 hatchbacks
@@ -12412,6 +12487,7 @@ haunter
 haunting
 haurient
 haut
+hautbois
 haute
 hauteur
 hav
@@ -12822,7 +12898,14 @@ histers
 histic
 histoblast
 histoblasts
+historic
+historicist
+historicists
+historist
+historists
 histosol
+histrio
+histrios
 hit
 hitch
 hitched
@@ -13046,6 +13129,7 @@ hosted
 hosts
 hot
 hotbed
+hotbox
 hotch
 hotcha
 hotched
@@ -13075,6 +13159,7 @@ hotshots
 hotspot
 hotspots
 houbara
+houbaras
 hough
 houghed
 houghs
@@ -13082,6 +13167,7 @@ houmous
 hound
 hour
 houri
+houris
 hourlong
 hours
 housal
@@ -14151,6 +14237,7 @@ islets
 ism
 isms
 isobar
+isobaric
 isobars
 isohel
 isohels
@@ -15599,6 +15686,8 @@ lick
 licking
 licks
 licorice
+lictor
+lictors
 lid
 lidar
 lido
@@ -15818,6 +15907,7 @@ lisp
 lisps
 list
 listable
+listbox
 listed
 listel
 listels
@@ -20604,6 +20694,8 @@ obtrusive
 obtund
 obtunds
 obturate
+obturator
+obturators
 obtusion
 obv
 obviate
@@ -20636,6 +20728,7 @@ ochred
 ochroid
 ochry
 ocicat
+ocicats
 ocietrova
 ocker
 ockers
@@ -21102,6 +21195,7 @@ orator
 oratorial
 oratoric
 oratorio
+oratorios
 orators
 oratory
 oratrix
@@ -21132,11 +21226,13 @@ orchid
 orchidian
 orchidology
 orchil
+orchils
 orchis
 orchises
 orchitic
 orcin
 orcinol
+orcish
 orcs
 ordain
 ordained
@@ -21239,6 +21335,7 @@ orks
 orl
 orle
 orles
+orlistat
 orlop
 ormer
 ormering
@@ -21300,6 +21397,9 @@ orthoploid
 orthopod
 orthose
 orthoses
+orthosis
+orthostat
+orthostats
 orthotic
 orthotonic
 orthotopic
@@ -21328,6 +21428,8 @@ osetrs
 osey
 oseys
 oshi
+oshibori
+oshiboris
 osier
 osiers
 oskin
@@ -21424,6 +21526,7 @@ our
 ourey
 ourie
 ourn
+ouroboric
 ouroboros
 ouroboroses
 ours
@@ -21445,6 +21548,8 @@ outarms
 outbeam
 outbid
 outbids
+outbirth
+outbirths
 outboard
 outboards
 outborn
@@ -21452,7 +21557,13 @@ outborns
 outbound
 outbounds
 outbow
+outbox
 outbrave
+outbuilt
+outburst
+outbursts
+outcast
+outcasts
 outcharm
 outcharms
 outcut
@@ -21487,6 +21598,7 @@ outgroup
 outgun
 outhaul
 outhauler
+outhauls
 outheld
 outher
 outhit
@@ -21560,6 +21672,8 @@ outsit
 outsits
 outsoar
 outsoars
+outstart
+outstarts
 outswore
 outvote
 outvoted
@@ -25634,6 +25748,7 @@ rabdoid
 rabe
 rabi
 rabiator
+rabiators
 rabic
 rabid
 rabidity
@@ -28282,6 +28397,7 @@ rishis
 rishon
 rishons
 rishta
+rishtas
 risible
 rising
 risings
@@ -28402,6 +28518,7 @@ rob
 roband
 robands
 robata
+robatas
 robatayaki
 robe
 robed
@@ -28586,6 +28703,8 @@ rosaria
 rosarian
 rosarians
 rosaries
+rosarist
+rosarists
 rosasite
 rosasites
 rosco
@@ -28603,6 +28722,9 @@ roset
 roseted
 rosets
 rosha
+roshas
+roshi
+roshis
 rosier
 rosiest
 rosin
@@ -28626,6 +28748,7 @@ rotaline
 rotan
 rotang
 rotary
+rotas
 rotatable
 rotatably
 rotate
@@ -29087,6 +29210,7 @@ sacrist
 sacristies
 sacrists
 sacristy
+sacroiliac
 sacs
 sad
 sadic
@@ -29125,6 +29249,8 @@ sahabs
 sahib
 sahibs
 sahitya
+sahuaro
+sahuaros
 sai
 said
 saiga
@@ -29424,6 +29550,7 @@ satirists
 satis
 sativa
 sativas
+satori
 satrap
 satrapies
 satraps
@@ -29447,6 +29574,8 @@ sausie
 sausies
 saute
 sautes
+sautoir
+sautoirs
 sav
 savable
 savage
@@ -30305,6 +30434,14 @@ shonen
 shonk
 shonks
 shorn
+short
+shorthair
+shorthairs
+shorthaul
+shorthauls
+shortlist
+shortlists
+shorts
 shosha
 shot
 shots
@@ -30476,7 +30613,10 @@ sileni
 silent
 silenus
 silex
+silica
+silicas
 silicic
+silicosis
 silk
 silken
 silkie
@@ -30758,6 +30898,9 @@ slims
 slink
 slinkier
 slinks
+sliotair
+sliotar
+sliotars
 slip
 slips
 slipstitch
@@ -31018,6 +31161,10 @@ sobering
 sobs
 soc
 soca
+socia
+socias
+sociocrat
+sociocrats
 socius
 sock
 socket
@@ -31196,6 +31343,7 @@ soupy
 sour
 sourer
 sourest
+sourish
 sours
 soursop
 soursops
@@ -31576,11 +31724,13 @@ starn
 starns
 starost
 starosta
+starostas
 starquake
 stars
 start
 starter
 starters
+startlish
 starts
 startup
 startups
@@ -31966,6 +32116,7 @@ striver
 strives
 strobe
 strobes
+strobili
 strode
 strong
 strongest
@@ -32545,6 +32696,8 @@ tahina
 tahini
 tahr
 tahrs
+tahsil
+tahsils
 tai
 taiaha
 taiga
@@ -33424,6 +33577,7 @@ thonging
 thongs
 thoracic
 thorax
+thoria
 thorn
 thornily
 thorntail
@@ -34019,6 +34173,7 @@ torso
 torsos
 tort
 torta
+tortas
 torte
 torten
 tortes
@@ -34054,6 +34209,7 @@ totalize
 totalizer
 totals
 totara
+totaras
 tote
 toted
 totem
@@ -34082,10 +34238,13 @@ toughly
 touman
 tour
 touraco
+touracos
 toured
 tourer
 tourers
 touring
+tourist
+tourists
 tourney
 tours
 tourtiere
@@ -34119,6 +34278,9 @@ tows
 towy
 tox
 toxifies
+toxocara
+toxocaras
+toxocariasis
 toy
 toyboy
 toyed
@@ -34156,6 +34318,7 @@ tractates
 traction
 tractive
 tractor
+tractors
 tractrix
 tracts
 trad
@@ -34378,6 +34541,7 @@ tricars
 tricast
 tricasts
 trice
+trichiasis
 trichina
 trichotomic
 trichotomous
@@ -34493,6 +34657,7 @@ trivia
 trivial
 trixie
 trocar
+trocars
 trochaic
 trochlea
 trochleae
@@ -34744,6 +34909,8 @@ tupunas
 tuque
 tuques
 tur
+turaco
+turacos
 turban
 turbid
 turbiditic
@@ -34923,6 +35090,7 @@ ultimate
 ultimately
 ultimo
 ultra
+ultrabasic
 ultracareful
 ultracritical
 ultraist
@@ -34930,6 +35098,7 @@ ultraists
 ultramarathon
 ultras
 ultrasaurus
+ultrashort
 ulu
 ululant
 ululate
@@ -35540,6 +35709,7 @@ urn
 urnful
 urning
 urns
+uroboric
 uroboros
 uroboroses
 urochord
