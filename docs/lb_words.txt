@@ -327,6 +327,7 @@ acatries
 acatry
 acaudal
 acaudate
+acauline
 acause
 ace
 aced
@@ -335,6 +336,7 @@ acedies
 acedy
 acene
 acenes
+acequia
 acer
 aceramic
 acerb
@@ -579,6 +581,7 @@ actus
 acuate
 acuates
 aculeate
+acumen
 acupunctuate
 acupunctuates
 acupuncture
@@ -815,6 +818,7 @@ adzing
 aechmea
 aechmeas
 aecial
+aecium
 aedile
 aediles
 aedilities
@@ -919,6 +923,7 @@ afearing
 afion
 afions
 afire
+aflame
 aflank
 aflare
 aflash
@@ -926,6 +931,7 @@ aflight
 afloat
 aflush
 afoam
+afocal
 afoul
 afret
 afrit
@@ -1700,6 +1706,7 @@ alumen
 alumian
 alumic
 alumina
+alumine
 aluminian
 aluminic
 aluminium
@@ -1789,6 +1796,7 @@ ambulate
 ambulated
 ambush
 amdram
+amebic
 amen
 amenable
 amens
@@ -1827,6 +1835,7 @@ amnios
 amniotic
 amoeba
 amoebae
+amoebic
 amok
 amole
 amoles
@@ -1875,6 +1884,7 @@ anacreontic
 anacronym
 anadama
 anaemia
+anaemic
 anagen
 anagenesis
 anagenetic
@@ -1947,6 +1957,7 @@ anele
 aneled
 aneles
 anemia
+anemic
 anemometer
 anemone
 anemones
@@ -1999,6 +2010,7 @@ animatron
 animatronic
 animatronics
 animatrons
+anime
 animism
 animist
 animists
@@ -3661,6 +3673,7 @@ beaus
 beaut
 beaver
 bebop
+became
 becard
 become
 bed
@@ -3720,6 +3733,8 @@ belt
 belted
 belter
 belve
+bema
+bemoan
 ben
 bend
 bending
@@ -3834,10 +3849,13 @@ bibimbap
 bibis
 bible
 bibles
+biblical
 biblicist
 biblicists
 bibliomane
 bibliomanes
+bibliomania
+bibliomaniac
 bibliopole
 bibliopoles
 bibs
@@ -3965,6 +3983,7 @@ biocompatible
 biodata
 biodome
 bioform
+biofuel
 biog
 biogas
 biogen
@@ -3977,6 +3996,7 @@ biome
 biomes
 biometer
 biomining
+biomolecule
 bion
 bionic
 bionomic
@@ -4103,6 +4123,7 @@ blameable
 blamed
 blames
 blanc
+blanco
 bland
 blank
 blanket
@@ -4284,6 +4305,7 @@ boet
 boeti
 boetie
 boets
+boeuf
 bog
 bogan
 bogans
@@ -4813,6 +4835,8 @@ buckra
 buckram
 buckras
 bucks
+buco
+bucolic
 bucu
 bud
 bude
@@ -5038,6 +5062,7 @@ cads
 caeca
 caecal
 caecilian
+caecum
 caesarean
 caesareans
 caesarian
@@ -5059,6 +5084,7 @@ cahiers
 cahoun
 caiman
 caimans
+caique
 cairn
 cairns
 cake
@@ -5068,10 +5094,12 @@ cakes
 caking
 calabash
 caladium
+calamanco
 calamansi
 calamari
 calamaro
 calami
+calamine
 calamint
 calamints
 calamus
@@ -5111,6 +5139,7 @@ calm
 calmed
 calmly
 calms
+calomel
 caloric
 calorie
 calque
@@ -5158,6 +5187,7 @@ cami
 camis
 camlock
 camo
+camomile
 camp
 camper
 campers
@@ -5171,6 +5201,7 @@ canaled
 canaler
 canalet
 canalicular
+canalicule
 canaliculi
 canals
 cananga
@@ -5677,6 +5708,7 @@ celeriac
 celery
 celiac
 celom
+celomic
 cels
 celt
 celts
@@ -6221,6 +6253,7 @@ cine
 cinema
 cinematic
 cinq
+cinquain
 cinque
 cion
 cipher
@@ -6469,6 +6502,7 @@ clung
 clunk
 clunking
 clutch
+cnemial
 cnidarian
 coacervate
 coach
@@ -6482,6 +6516,7 @@ coadjutor
 coal
 coaled
 coaler
+coalface
 coaly
 coarct
 coarctate
@@ -6504,10 +6539,12 @@ cob
 cobalt
 cobalts
 cobia
+coble
 cobot
 cobots
 cobs
 coca
+cocaine
 cocas
 cochair
 cochairs
@@ -6553,6 +6590,8 @@ coecilian
 coed
 coeliac
 coelom
+coelomic
+coequal
 coerce
 coercer
 coercers
@@ -6603,6 +6642,7 @@ cold
 coldie
 colds
 cole
+colemice
 colewort
 coley
 coli
@@ -6611,6 +6651,8 @@ colicin
 colicins
 colics
 colitis
+colobine
+coloboma
 colocate
 colon
 colonial
@@ -6654,6 +6696,8 @@ coltan
 colter
 colts
 colugo
+columbine
+columbium
 column
 columnar
 columniation
@@ -6661,12 +6705,15 @@ colure
 coly
 colza
 coma
+comae
 comas
 comb
 combat
 combe
 comber
 combi
+combine
+combo
 come
 comeatable
 comelier
@@ -6680,6 +6727,7 @@ comicry
 comics
 comicstrip
 comicstrips
+comique
 comix
 comorbid
 comp
@@ -6838,6 +6886,8 @@ copycat
 coq
 coquet
 coquets
+coqui
+coquina
 cor
 coracle
 coracoid
@@ -7377,6 +7427,8 @@ ctenophoran
 ctenophore
 cuatro
 cub
+cube
+cubeb
 cubic
 cubical
 cubics
@@ -7399,6 +7451,7 @@ cuke
 culch
 culcha
 culex
+culicine
 culm
 culms
 culpa
@@ -7431,6 +7484,7 @@ cumbia
 cumbias
 cumec
 cumecs
+cumene
 cumin
 cumquat
 cumquats
@@ -9323,6 +9377,8 @@ ectoderm
 ectopic
 ectropion
 ecu
+ecumene
+ecumenical
 ecus
 edamame
 edema
@@ -9498,6 +9554,7 @@ elmy
 elodea
 elope
 elopes
+eloquence
 els
 else
 eluant
@@ -9533,6 +9590,7 @@ emblematic
 emblematical
 emblems
 emboli
+embolic
 embolism
 embolisms
 embrace
@@ -9560,6 +9618,7 @@ emics
 emigrant
 emigration
 emigre
+eminence
 eminent
 emir
 emirate
@@ -9603,6 +9662,7 @@ emptor
 empts
 ems
 emu
+emubob
 emulate
 emulated
 emulative
@@ -9633,6 +9693,8 @@ enchase
 enchases
 encipher
 enclave
+encomia
+encomium
 encroach
 encroacher
 encrypt
@@ -10454,13 +10516,16 @@ falterer
 falterers
 falters
 fam
+fame
 familia
+familiae
 familial
 familiar
 familiars
 familic
 familism
 familist
+famine
 famish
 fams
 famuli
@@ -10863,6 +10928,11 @@ flails
 flair
 flak
 flam
+flambe
+flambeau
+flame
+flamen
+flamenco
 flams
 flan
 flanerie
@@ -10939,6 +11009,8 @@ flits
 float
 floatation
 floating
+flob
+floc
 floe
 flog
 flop
@@ -10964,11 +11036,13 @@ flub
 flubs
 fluctuant
 flue
+fluence
 fluent
 fluently
 fluid
 fluidity
 fluidly
+flume
 flung
 fluor
 fluoride
@@ -10989,6 +11063,8 @@ foam
 foams
 fob
 fobs
+focal
+foci
 fodient
 foe
 foefie
@@ -11006,6 +11082,7 @@ fogo
 fogou
 fohn
 fohns
+foible
 foie
 foil
 foiling
@@ -11014,12 +11091,16 @@ foilists
 foils
 foist
 foists
+folacin
 fold
 folia
 foliar
 foliating
 foliation
+folic
 folio
+foliole
+folium
 foment
 fomenter
 fomenting
@@ -11255,6 +11336,8 @@ fulvid
 fulwa
 fulyie
 fumaric
+fumble
+fume
 fun
 funana
 fund
@@ -13984,6 +14067,8 @@ imam
 imamate
 imamates
 imams
+imbecile
+imbecilic
 imbed
 imbibe
 imbibed
@@ -14112,10 +14197,12 @@ include
 included
 includible
 incog
+income
 incorporator
 increate
 incrust
 incrusts
+incubi
 incur
 incus
 indebt
@@ -14188,10 +14275,12 @@ infimum
 infimums
 infinite
 infirm
+inflame
 inflation
 inflator
 inflexible
 inflow
+influence
 influx
 info
 infobot
@@ -14199,7 +14288,10 @@ infobots
 infoglut
 infoliating
 infoliation
+infoline
 infolio
+infomania
+infomaniac
 infonaut
 inform
 informer
@@ -14210,6 +14302,7 @@ infringement
 infringer
 infringing
 infula
+infulae
 infuriate
 infuriating
 infuriation
@@ -14308,6 +14401,7 @@ input
 inputs
 inquest
 inquests
+inquiline
 inquire
 inquirer
 inquiries
@@ -15642,6 +15736,7 @@ lamia
 lamiae
 lamias
 lamina
+laminae
 laminal
 laminals
 laminar
@@ -15892,6 +15987,7 @@ leafier
 leaflet
 leaflets
 leaflike
+leafmeal
 leafy
 league
 leaguer
@@ -16087,7 +16183,9 @@ leterato
 lethal
 lets
 leu
+leucine
 leucocyte
+leucoma
 leucosis
 lev
 leva
@@ -16172,6 +16270,7 @@ libre
 libris
 libtard
 lice
+licence
 licet
 licht
 lichts
@@ -16287,6 +16386,8 @@ limen
 limens
 limepit
 limes
+limicole
+limicoline
 limicolous
 limier
 limiest
@@ -16336,6 +16437,7 @@ lineal
 linear
 lined
 linein
+lineman
 linemen
 linen
 linens
@@ -16587,6 +16689,8 @@ lockups
 loco
 locoed
 locoman
+locomen
+locomobile
 locomotor
 locomotory
 locos
@@ -16790,6 +16894,7 @@ luce
 luchter
 lucid
 lucifer
+lucine
 luck
 lucking
 lucks
@@ -16820,6 +16925,7 @@ lumen
 lumiere
 lumina
 luminal
+luminance
 luminaria
 lump
 lumped
@@ -16997,6 +17103,7 @@ macle
 macles
 maclurin
 macomere
+macqui
 macrame
 macraner
 macraners
@@ -17017,7 +17124,9 @@ macruran
 macs
 macte
 macula
+maculae
 macular
+macule
 maculopapular
 macumba
 macushla
@@ -17168,6 +17277,7 @@ maiming
 maims
 main
 mainland
+mainline
 mainman
 mainmast
 mainmasts
@@ -17274,12 +17384,14 @@ males
 malf
 mali
 malic
+malice
 malicho
 maliform
 malihini
 malihinis
 malik
 maliks
+malimbe
 malis
 malison
 malisons
@@ -17345,6 +17457,7 @@ mambu
 mambus
 mamelon
 mamelons
+mameluco
 mamey
 mameys
 mamil
@@ -17404,6 +17517,8 @@ manent
 manents
 manerial
 manes
+manflu
+manful
 mang
 manga
 mangas
@@ -17423,6 +17538,7 @@ manias
 manic
 manicate
 manicou
+manicule
 manie
 maniera
 manieras
@@ -17452,6 +17568,7 @@ manorial
 manors
 manostat
 manostats
+manque
 mans
 manse
 manses
@@ -18132,10 +18249,12 @@ melam
 melambo
 melamed
 melameds
+melamine
 melanaemia
 melanemia
 melanian
 melanic
+melaniline
 melanin
 melanite
 melanoma
@@ -18152,6 +18271,7 @@ melena
 melene
 melenes
 meles
+melic
 melilot
 meliorator
 melisma
@@ -18164,6 +18284,9 @@ meloid
 melologue
 melomane
 melomanes
+melomania
+melomaniac
+melomanic
 melon
 melons
 melopoeia
@@ -18591,6 +18714,7 @@ miliaria
 miliarial
 miliarium
 miliary
+milice
 miliciana
 milicianas
 miliciano
@@ -18600,6 +18724,7 @@ milieux
 miling
 miliolid
 miliolids
+milioline
 miliolitic
 militaries
 militarise
@@ -18691,6 +18816,7 @@ mindon
 minds
 mine
 mined
+mineman
 minemen
 miner
 minera
@@ -19062,6 +19188,7 @@ mkay
 mlungu
 mneme
 mnemes
+mnemic
 mnemon
 mnemons
 moa
@@ -19072,6 +19199,7 @@ moan
 moana
 moaned
 moaner
+moanful
 moany
 moar
 moars
@@ -19130,6 +19258,7 @@ modoc
 modom
 moe
 moegoe
+moeni
 moeone
 moeones
 moepel
@@ -19189,6 +19318,8 @@ moldable
 moldier
 molds
 mole
+molecula
+molecule
 moler
 moles
 molie
@@ -19198,6 +19329,7 @@ molimens
 molimo
 molimos
 molinary
+moline
 molino
 molo
 moloch
@@ -19209,6 +19341,7 @@ mols
 molt
 molto
 molts
+molue
 moly
 mom
 mombin
@@ -19650,6 +19783,7 @@ muckrake
 muckraker
 muckrakers
 mucks
+mucocele
 mucocoele
 mucoid
 mucolipid
@@ -20347,6 +20481,7 @@ naysay
 naysays
 nazar
 nazir
+neanic
 neant
 neants
 neap
@@ -20386,6 +20521,8 @@ nebulae
 nebular
 nebularin
 nebularine
+nebule
+nebulium
 neche
 necher
 necial
@@ -20437,9 +20574,11 @@ nelia
 nelias
 nelson
 nelsons
+nelumbo
 nem
 nema
 nemacide
+nemaline
 nemas
 nematacidal
 nematic
@@ -20454,6 +20593,7 @@ nemesias
 nemesis
 nemesism
 nemesisms
+nemic
 nemo
 nene
 nenes
@@ -20466,6 +20606,8 @@ neocon
 neocons
 neoist
 neoists
+neolocal
+neomenia
 neon
 neonatal
 neonate
@@ -20555,6 +20697,7 @@ neu
 neum
 neumatic
 neume
+neumic
 neural
 neurasthenia
 neurenteric
@@ -20658,6 +20801,7 @@ niaouli
 niaoulis
 niauli
 nib
+nibful
 niblet
 nibong
 nibongs
@@ -20746,10 +20890,13 @@ nim
 nimb
 nimbed
 nimbi
+nimble
 nimbs
 nimby
 nimite
 nimrod
+nincom
+nincum
 nind
 nine
 ninepins
@@ -20765,8 +20912,10 @@ ninthly
 ninths
 ninyam
 niobian
+niobic
 niobite
 niobites
+niobium
 niopo
 nioza
 nip
@@ -21436,6 +21585,7 @@ obdurately
 obeah
 obeli
 obelia
+obeliac
 obelias
 obelion
 obelions
@@ -21476,6 +21626,7 @@ obliterated
 obliterator
 oblivion
 oblivious
+obloquial
 obo
 oboe
 oboes
@@ -21520,6 +21671,7 @@ ocarinas
 ocas
 ocean
 oceanaria
+oceanful
 oceanic
 oceanological
 oceans
@@ -21632,6 +21784,9 @@ ods
 odum
 odyle
 odylic
+oecium
+oecumene
+oecumenical
 oedema
 oeil
 oenanthate
@@ -21803,6 +21958,7 @@ olivinic
 olm
 olms
 ology
+ololiuque
 ololiuqui
 olona
 olonas
@@ -26709,18 +26865,22 @@ quietner
 quiets
 quiety
 quila
+quilombo
 quilt
 quilter
 quim
 quims
 quin
 quina
+quinamicine
+quinamine
 quinaquina
 quinate
 quince
 quinch
 quincite
 quinet
+quinible
 quinic
 quinicine
 quinie
@@ -36573,6 +36733,7 @@ ululated
 ululation
 ulus
 umami
+umbel
 umbilical
 umbilicals
 umbilici
