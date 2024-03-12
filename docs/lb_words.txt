@@ -660,6 +660,8 @@ adevism
 adhan
 adhere
 adhered
+adherend
+adherent
 adherer
 adhoc
 adhorn
@@ -690,6 +692,7 @@ adinole
 adios
 adipic
 adit
+adither
 adits
 aditus
 adjure
@@ -800,6 +803,7 @@ advanced
 advect
 advected
 advective
+advehent
 advene
 advened
 advent
@@ -807,12 +811,15 @@ advention
 adventitia
 adventition
 adventive
+adventure
+adventurer
 adverb
 adverbal
 adverbs
 adversaries
 adverse
 adversities
+advert
 advice
 advices
 advisal
@@ -2173,6 +2180,9 @@ anterne
 antes
 antevert
 anthelia
+anthem
+anthemia
+anthemize
 anther
 antheral
 anthers
@@ -2276,6 +2286,7 @@ antres
 antrin
 antrorse
 antrostomy
+antrum
 ants
 antsier
 antsiest
@@ -2425,6 +2436,7 @@ arame
 aramid
 aramids
 arancini
+araneid
 arapaima
 arational
 araucaria
@@ -3206,6 +3218,7 @@ ays
 azalea
 azaleas
 azan
+azimuth
 azo
 azoic
 azonal
@@ -8030,6 +8043,7 @@ dancing
 dancy
 danda
 dandas
+dandier
 dandiya
 dandle
 dandled
@@ -8799,6 +8813,7 @@ die
 died
 diegeses
 diegesis
+diehard
 diel
 dieldrin
 diem
@@ -9044,18 +9059,24 @@ dits
 ditsier
 ditsiest
 ditsy
+ditz
+ditzier
 div
 diva
 divan
 divas
 dive
 dived
+diver
+divert
+divertimenti
 dives
 divey
 divi
 divide
 divided
 divides
+divier
 divine
 divined
 divis
@@ -9386,6 +9407,7 @@ drugs
 drugster
 drugsters
 drum
+drumhead
 drumin
 drums
 drumster
@@ -9496,7 +9518,9 @@ durability
 durable
 durably
 dural
+durative
 dure
+durene
 durian
 duricrust
 duricrusts
@@ -9504,6 +9528,7 @@ durn
 durst
 durum
 durwan
+durzi
 dust
 dusted
 duster
@@ -9559,6 +9584,7 @@ earaches
 earcup
 earcups
 eardrop
+eardrum
 eared
 earful
 earing
@@ -9599,6 +9625,8 @@ earthier
 earthiest
 earthlier
 earthlike
+earthmen
+earthnut
 earths
 earthware
 earthy
@@ -10059,6 +10087,8 @@ endrin
 ends
 endue
 endued
+endure
+endurer
 endzone
 endzones
 enema
@@ -10237,6 +10267,7 @@ entryphone
 entryway
 ents
 enumerate
+enumerative
 enumerator
 enunciate
 enunciated
@@ -10413,6 +10444,7 @@ erupting
 eruption
 erupts
 eruv
+eruvim
 erven
 erw
 erws
@@ -10594,6 +10626,7 @@ evensongs
 event
 eventer
 eventful
+eventime
 eventive
 events
 eventuate
@@ -13155,6 +13188,7 @@ hairshirt
 hairshirts
 hairy
 haitch
+haiverer
 haj
 haji
 hajis
@@ -13237,6 +13271,7 @@ handhold
 handhole
 handhorn
 handi
+handier
 handily
 handing
 handiwork
@@ -13246,6 +13281,7 @@ handling
 handmaid
 handmaids
 handman
+handmen
 handplay
 hands
 handsaw
@@ -13315,8 +13351,13 @@ hardfought
 hardhat
 hardhay
 hardhead
+hardier
+hardihead
 hardly
+hardmen
+hardnut
 hardtop
+hardun
 hardy
 hare
 hared
@@ -13467,8 +13508,12 @@ hayride
 hays
 haystack
 haystacks
+hazard
+hazardize
 haze
+hazer
 hazes
+hazier
 hazmat
 hazmats
 hazy
@@ -13485,8 +13530,10 @@ header
 headful
 headgate
 headgear
+headier
 headlet
 headload
+headmen
 heads
 headset
 headsets
@@ -13535,6 +13582,7 @@ heartikins
 heartlet
 heartlets
 heartlike
+heartnut
 heartrate
 heartrates
 hearts
@@ -13695,6 +13743,7 @@ heritors
 herl
 herls
 herm
+hermeneut
 hermit
 hermitic
 hermitism
@@ -13720,6 +13769,7 @@ herpes
 herpetic
 herps
 hers
+hertz
 hes
 hesitancies
 hesitant
@@ -13900,6 +13950,7 @@ hither
 hithes
 hitlist
 hitlists
+hitmen
 hits
 hive
 hived
@@ -18794,6 +18845,7 @@ meat
 meatal
 meateater
 meateaters
+meathead
 meatier
 meatpie
 meats
@@ -18866,6 +18918,8 @@ meh
 mehara
 mehari
 meharis
+mehendi
+mehndi
 mehtar
 mehtars
 mehter
@@ -19019,6 +19073,8 @@ mentalites
 mentalities
 mentation
 menthane
+menthe
+menthene
 mention
 mentioned
 mentioner
@@ -19049,6 +19105,7 @@ merde
 merdle
 mere
 mereing
+merenda
 merengue
 meres
 merese
@@ -19079,6 +19136,7 @@ merle
 merlot
 merman
 mermen
+mermithid
 merodiploid
 merogon
 merogone
@@ -19222,6 +19280,7 @@ mewled
 mewls
 mews
 meze
+mezereum
 mezuza
 mezuzas
 mgal
@@ -19900,6 +19959,7 @@ mixy
 miya
 miyas
 miz
+mizen
 mkay
 mlungu
 mneme
@@ -20520,6 +20580,7 @@ mudcat
 mudge
 mudging
 mudguts
+mudhead
 mudim
 mudims
 mudir
@@ -20638,7 +20699,9 @@ munchkin
 mund
 mundan
 mundana
+mundane
 mundans
+mundarah
 munds
 mundu
 mundum
@@ -21189,7 +21252,9 @@ nationality
 native
 natively
 nativity
+nativize
 natron
+natrum
 naturae
 nature
 naturel
@@ -21251,6 +21316,7 @@ naysay
 naysays
 nazar
 nazir
+nazrana
 neanic
 neant
 neants
@@ -21263,6 +21329,7 @@ neared
 nearer
 nearest
 neargoing
+nearhand
 nearing
 nearish
 nears
@@ -21274,6 +21341,7 @@ neatens
 neater
 neatest
 neath
+neatherd
 neatly
 neatnik
 neato
@@ -21421,7 +21489,10 @@ neptunium
 neral
 neram
 nerams
+nerand
 nerd
+nerdier
+nereid
 nerf
 nerfing
 nerine
@@ -21437,8 +21508,10 @@ nerkas
 nerks
 nero
 nerts
+nertz
 nervate
 nerve
+nervier
 nervure
 nervy
 nescience
@@ -22194,9 +22267,11 @@ numbing
 numbles
 numbnuts
 numbs
+numdah
 numen
 numerary
 numerate
+numerative
 numerator
 numero
 numina
@@ -22241,6 +22316,7 @@ nupa
 nuque
 nuques
 nurd
+nurdier
 nurds
 nurl
 nurse
@@ -22277,6 +22353,7 @@ nutcake
 nutcase
 nutcases
 nuthatch
+nuthead
 nuthin
 nutlet
 nutmeat
@@ -28099,6 +28176,7 @@ radiata
 radiating
 radiation
 radiational
+radiative
 radiator
 radiatore
 radiatory
@@ -28372,6 +28450,7 @@ rand
 randan
 randans
 randed
+randier
 randily
 randing
 randir
@@ -29569,6 +29648,7 @@ rememorable
 rememorate
 rememory
 remen
+remend
 remens
 remerge
 remerged
@@ -29601,9 +29681,11 @@ remove
 remover
 removers
 remuage
+remuda
 remueur
 remueurs
 remunerate
+remunerative
 remunerator
 remuneratory
 remurmur
@@ -29618,6 +29700,8 @@ renames
 renature
 renatures
 rencil
+rend
+rendu
 renege
 reneged
 reneger
@@ -29661,6 +29745,7 @@ rentiers
 renting
 rents
 renumerate
+renumerative
 renunciant
 reo
 reorder
@@ -30271,6 +30356,7 @@ reveals
 revegetate
 revegetated
 revegetates
+revehent
 revel
 revelabilities
 revelative
@@ -30279,9 +30365,12 @@ reveler
 revelers
 revelries
 revenant
+revend
 revenging
 revent
 reventa
+revenue
+revenuer
 reverable
 reverb
 reverbed
@@ -30289,8 +30378,11 @@ reverberate
 reverberates
 reverberative
 reverbs
+reverdie
 revere
 revered
+reverend
+reverendize
 reverent
 reverer
 reverers
@@ -30322,6 +30414,7 @@ reverter
 reverters
 revertive
 reverts
+reverture
 revest
 revested
 revestries
@@ -30356,6 +30449,7 @@ revivalist
 revivalists
 revive
 revived
+revivement
 reviver
 revivers
 revives
@@ -31426,6 +31520,7 @@ ruder
 rudera
 rudest
 rudie
+rudiment
 rudish
 rudist
 rudistid
@@ -31546,6 +31641,7 @@ runrig
 runs
 runt
 runtier
+runtime
 runting
 runts
 runty
@@ -31616,6 +31712,7 @@ rutile
 rutilite
 rutin
 ruts
+ruvid
 rya
 ryas
 rybat
@@ -35804,6 +35901,7 @@ tantric
 tantrism
 tantrist
 tantrists
+tantrum
 tanzanite
 taonga
 tap
@@ -35836,6 +35934,7 @@ taratas
 tard
 tardier
 tardily
+tardive
 tardon
 tards
 tardy
@@ -36581,6 +36680,7 @@ thrawn
 thread
 threaded
 threader
+threadier
 threap
 threaps
 threat
@@ -36912,6 +37012,7 @@ titfers
 tithal
 tithe
 tithed
+tithemen
 tither
 tithers
 tithes
@@ -37374,6 +37475,7 @@ traditional
 traditionality
 traditionary
 traditions
+traditive
 traditor
 traditors
 trady
@@ -37552,6 +37654,8 @@ trench
 trenchant
 trencher
 trenches
+trend
+trendier
 trente
 trepan
 trepans
@@ -37829,6 +37933,7 @@ truish
 truistic
 truistical
 truly
+trumeau
 trump
 trumpet
 trumpeter
@@ -38310,6 +38415,7 @@ undue
 undulation
 unduly
 undutiful
+unearth
 unease
 uneatable
 uneaten
@@ -38341,6 +38447,7 @@ unguis
 unhand
 unhasp
 unhasps
+unheard
 unhinging
 unhip
 unhitch
@@ -38699,7 +38806,9 @@ untamable
 untameable
 untenable
 untended
+unthread
 untick
+untidier
 untidily
 untie
 untied
@@ -38709,6 +38818,7 @@ untiring
 unto
 untreatable
 untrue
+untruth
 untunable
 untuned
 unum
@@ -38776,6 +38886,7 @@ upwarp
 upwarps
 uracil
 uraei
+uraemia
 uraeus
 uramil
 uranage
@@ -39097,6 +39208,7 @@ vegies
 vego
 vegolate
 vegos
+vehement
 veil
 veiled
 veils
@@ -39160,6 +39272,7 @@ ventil
 ventis
 ventouse
 ventouses
+ventre
 vents
 venture
 venturer
@@ -39170,6 +39283,9 @@ venus
 venuses
 vera
 veracity
+veranda
+verandah
+veratrum
 verb
 verba
 verbage
@@ -39191,6 +39307,8 @@ verbenas
 verbing
 verbose
 verbs
+verdant
+verdure
 verge
 verged
 verger
@@ -39213,6 +39331,7 @@ verity
 verlig
 verligte
 verligtes
+vermian
 vermin
 vermis
 vermouth
@@ -39491,6 +39610,8 @@ vivifies
 vivo
 vivos
 vivre
+vizard
+vizier
 vlast
 vlasti
 vlei
@@ -40509,6 +40630,7 @@ zed
 zeds
 zef
 zein
+zenana
 zero
 zes
 zest
@@ -40532,9 +40654,11 @@ zings
 zino
 zins
 zit
+zither
 ziti
 zito
 zits
+zizith
 zoea
 zoeae
 zoeas
