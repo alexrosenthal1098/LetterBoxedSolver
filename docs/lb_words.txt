@@ -1074,6 +1074,7 @@ agila
 agilas
 agile
 agin
+aginer
 aging
 agio
 agios
@@ -1112,6 +1113,7 @@ aglyphs
 agma
 agmas
 agnail
+agname
 agnaming
 agnathan
 agnathans
@@ -1909,10 +1911,12 @@ amorosos
 amour
 amp
 ampelopsis
+amperage
 ampere
 amperes
 amphiuma
 amphora
+amping
 ample
 ampler
 amps
@@ -1955,6 +1959,7 @@ anaesthesia
 anagen
 anagenesis
 anagenetic
+anagram
 anal
 analcite
 analect
@@ -2043,6 +2048,7 @@ angekok
 angel
 anger
 angered
+angering
 angina
 anginal
 angioid
@@ -2057,6 +2063,7 @@ angoras
 angrier
 angrily
 angry
+anhinga
 ani
 aniline
 anima
@@ -2535,6 +2542,7 @@ areolae
 areolar
 areolate
 areole
+areophane
 arepa
 arepas
 ares
@@ -2621,6 +2629,7 @@ armiger
 armigeral
 armigers
 armil
+arming
 armlet
 armlets
 armload
@@ -3114,12 +3123,16 @@ avaunt
 ave
 avel
 avels
+avenge
+avenger
 avenging
 avens
 avenses
 avenue
 avenues
 aver
+average
+averaging
 averment
 avers
 aversive
@@ -3155,6 +3168,7 @@ avow
 avowal
 avowals
 avowed
+avowing
 avows
 avulsion
 await
@@ -9966,6 +9980,7 @@ emerg
 emerge
 emerged
 emergent
+emerging
 emergs
 emerita
 emeritus
@@ -10013,6 +10028,8 @@ emplumed
 emplumes
 empluming
 emporium
+empower
+empowering
 empt
 empted
 emptied
@@ -10109,8 +10126,10 @@ enforce
 enforces
 engage
 engages
+engaging
 engine
 engined
+engineman
 enginemen
 engines
 engining
@@ -10127,6 +10146,7 @@ engraftment
 engrain
 engraining
 engrains
+engram
 engrave
 engraver
 engraves
@@ -10163,6 +10183,7 @@ enquire
 enquirer
 enrage
 enrages
+enraging
 enrapt
 enrapturing
 enrich
@@ -10328,6 +10349,9 @@ ephahs
 ephebe
 ephebes
 ephebic
+ephemera
+ephemeron
+ephor
 ephyra
 ephyrae
 epic
@@ -10345,13 +10369,18 @@ epigene
 epigenesis
 epigone
 epigoni
+epigram
+epigraph
+epigrapher
 epilate
 epilated
 epilator
 epimer
 epimera
+epimeron
 epinephrine
 epiphany
+epiphora
 epistases
 epistasis
 epistatic
@@ -10415,6 +10444,7 @@ erhu
 erhus
 erica
 ericas
+erigeron
 eristic
 eristics
 erk
@@ -10618,6 +10648,7 @@ evenement
 evener
 evenest
 evening
+eveninger
 evenings
 evenly
 evens
@@ -10631,6 +10662,7 @@ eventive
 events
 eventuate
 ever
+evergrowing
 everin
 evering
 everings
@@ -10644,6 +10676,9 @@ evertebrates
 everted
 evertor
 everts
+everwhen
+everwhere
+everwho
 every
 eves
 evesong
@@ -11941,6 +11976,7 @@ gambos
 gambow
 gambs
 game
+gamene
 gamer
 gamers
 gamete
@@ -11948,6 +11984,7 @@ gamic
 gamier
 gamiest
 gamin
+gamine
 gaming
 gamins
 gamomania
@@ -11976,7 +12013,10 @@ ganglionic
 ganglord
 gangly
 gangman
+gangrape
+gangraping
 gangrene
+gangrening
 gangril
 gangs
 gangsman
@@ -11996,6 +12036,7 @@ gap
 gape
 gaper
 gapes
+gapeworm
 gaping
 gaps
 gar
@@ -12027,6 +12068,8 @@ garish
 garlic
 garlicky
 garms
+garner
+garnering
 garnet
 garnets
 garni
@@ -12088,6 +12131,7 @@ gavage
 gave
 gavel
 gavial
+gavone
 gawk
 gawkish
 gawp
@@ -12166,6 +12210,7 @@ genetic
 genetical
 genets
 geneva
+genever
 genial
 genian
 genie
@@ -12188,7 +12233,9 @@ geniuses
 genoa
 genome
 genomere
+genonema
 genoneme
+genophore
 genre
 genres
 gens
@@ -12218,10 +12265,12 @@ geokronite
 geologer
 geologers
 geopark
+geophone
 geoplanarian
 geoponies
 geoponist
 geoponists
+georama
 georgina
 georginas
 geos
@@ -12233,11 +12282,14 @@ geriatrician
 geriatricians
 geriatrics
 germ
+german
+germane
 germen
 germier
 germiest
 germigen
 germigene
+germing
 germon
 germs
 gestae
@@ -12262,6 +12314,7 @@ getup
 getups
 geum
 geums
+gewgaw
 gey
 ghaghra
 ghagra
@@ -12276,6 +12329,7 @@ ghatams
 ghats
 ghaut
 gherao
+gheraoing
 gheraos
 ghi
 ghis
@@ -12332,6 +12386,7 @@ gimlet
 gimlets
 gimp
 gimped
+gimping
 gin
 ginestra
 ginestras
@@ -12339,6 +12394,8 @@ ging
 ginga
 gingas
 ginge
+ginger
+gingering
 ginges
 gingham
 ginghams
@@ -12731,6 +12788,7 @@ gramp
 grams
 gran
 grana
+granam
 granaries
 granary
 granbairn
@@ -12763,7 +12821,10 @@ grantor
 grantors
 grants
 grape
+grapevine
 graph
+grapheme
+graphene
 graphic
 graphing
 graphitic
@@ -12786,6 +12847,8 @@ grating
 gratingly
 gratis
 grats
+gravamen
+gravamina
 grave
 graven
 graver
@@ -12826,6 +12889,7 @@ grebe
 grebes
 grebo
 grebos
+gregarine
 greige
 greigite
 greisen
@@ -12871,6 +12935,7 @@ grime
 grimed
 grimier
 grimiest
+griming
 grimoire
 grin
 grind
@@ -12948,6 +13013,7 @@ groveler
 groves
 grow
 grower
+growing
 growl
 growler
 growlier
@@ -13076,6 +13142,7 @@ guy
 guys
 gweilo
 gweilos
+gwine
 gyan
 gym
 gymp
@@ -13252,6 +13319,7 @@ hame
 hamel
 hamfat
 hamper
+hampering
 hams
 hamster
 hamsters
@@ -13295,6 +13363,10 @@ handwork
 handworked
 handy
 hang
+hangar
+hangarage
+hangaring
+hanger
 hangi
 hanging
 hangings
@@ -13376,9 +13448,11 @@ harlot
 harlotry
 harlots
 harm
+harming
 harms
 harp
 harper
+harping
 harps
 harpy
 harsh
@@ -13473,19 +13547,24 @@ haute
 hauteur
 hav
 havable
+havage
 havala
 havan
 havans
 havarti
 have
 haven
+havenage
 havener
+havenor
 haver
 havered
 haverer
 haverers
+havering
 havers
 haves
+having
 havoc
 havs
 haw
@@ -13676,6 +13755,8 @@ heme
 hemialgia
 hemic
 hemiola
+hemp
+hempen
 hems
 hen
 henbane
@@ -13683,6 +13764,7 @@ henbit
 hence
 hench
 henequen
+henge
 henley
 henries
 henry
@@ -13761,6 +13843,7 @@ heroicity
 heroid
 heroified
 heroin
+heroine
 herology
 heron
 heronite
@@ -13815,6 +13898,7 @@ hew
 hewed
 hewer
 hewers
+hewing
 hewn
 hews
 hex
@@ -13868,6 +13952,7 @@ hight
 hightail
 hightailing
 hightop
+highwire
 hijab
 hijabs
 hijack
@@ -13900,6 +13985,7 @@ hindered
 hinds
 hindwing
 hindwings
+hinge
 hinging
 hinky
 hins
@@ -13914,8 +14000,10 @@ hipe
 hiper
 hipes
 hiphop
+hiping
 hiply
 hips
+hiragana
 hire
 hirer
 hirers
@@ -13955,6 +14043,7 @@ hits
 hive
 hived
 hives
+hiving
 hiya
 hoach
 hoaches
@@ -14116,6 +14205,9 @@ honour
 honouring
 hons
 hop
+hope
+hoper
+hoping
 hops
 hopscotch
 hora
@@ -14220,6 +14312,7 @@ hove
 hover
 hovered
 hoverer
+hovering
 how
 howay
 howbeit
@@ -14586,6 +14679,8 @@ imagers
 images
 imagic
 imaginant
+imagine
+imaginer
 imaging
 imagining
 imaginings
@@ -14617,6 +14712,7 @@ imbue
 imbued
 imide
 imine
+imipramine
 imitable
 imitate
 imitated
@@ -14664,6 +14760,10 @@ impetrate
 impetus
 impetuses
 impi
+imping
+impinge
+impinger
+impinging
 impious
 impis
 implant
@@ -14682,7 +14782,12 @@ imposts
 imprimatur
 impro
 impromptu
+improper
 impropriate
+improv
+improve
+improver
+improving
 imps
 impulse
 impulses
@@ -14870,6 +14975,7 @@ ingratiating
 ingratiatingly
 ingratiation
 ingroup
+ingrowing
 ingulf
 ingulfing
 ingurgitating
@@ -14888,6 +14994,7 @@ inhere
 inhered
 inherence
 inherent
+inhering
 inherit
 inheritance
 inhibin
@@ -15251,6 +15358,7 @@ iodizing
 iodoform
 iodophor
 ion
+ionamine
 ionene
 ionenes
 ionic
@@ -17862,6 +17970,7 @@ magian
 magic
 magics
 magilp
+magine
 magister
 magisteries
 magistrate
@@ -17899,6 +18008,7 @@ mahimahi
 mahimahis
 mahis
 mahmal
+mahoe
 mahonia
 mahonias
 mahorka
@@ -18144,6 +18254,7 @@ mampalons
 mampara
 mamparas
 mampelon
+mampoer
 mams
 man
 mana
@@ -18152,6 +18263,8 @@ manaca
 manacle
 manacled
 manada
+manage
+manager
 managing
 manaia
 manakin
@@ -18187,6 +18300,7 @@ maneater
 maneaters
 maneb
 maned
+manege
 maneh
 manehs
 manent
@@ -18197,14 +18311,22 @@ manflu
 manful
 mang
 manga
+manganoan
 mangas
+mange
+mangemange
+mangeo
+manger
+manghir
 mangi
 mangia
 manging
 mango
 mangos
+mangrove
 mangs
 manhour
+manhwa
 mani
 mania
 maniac
@@ -18245,6 +18367,7 @@ manors
 manostat
 manostats
 manque
+manrope
 mans
 manse
 manses
@@ -18322,6 +18445,7 @@ mapleleaves
 maples
 mapmaker
 mapmakers
+mapoer
 mapou
 maps
 mapwise
@@ -18348,6 +18472,7 @@ marae
 marage
 maraged
 marages
+maraging
 maral
 marals
 maran
@@ -18393,11 +18518,13 @@ mardana
 mards
 mare
 marena
+marenga
 mares
 marg
 marga
 margarate
 margarates
+margarine
 margarita
 margaritas
 margarite
@@ -18407,6 +18534,10 @@ margate
 margates
 marge
 marges
+margin
+margining
+margrave
+margravine
 maria
 mariachi
 mariachis
@@ -18417,6 +18548,7 @@ marid
 marids
 marigram
 marigrams
+marigraph
 maril
 marimay
 marimba
@@ -18902,6 +19034,9 @@ meds
 meg
 mega
 megagamete
+megaphone
+megaphoning
+megaron
 megathere
 megatheria
 megatherm
@@ -19038,6 +19173,7 @@ men
 menace
 menaced
 menaces
+menage
 menald
 menarche
 menarches
@@ -19055,6 +19191,7 @@ menilites
 menina
 meninas
 meno
+menorah
 mens
 mensal
 mensch
@@ -19090,6 +19227,7 @@ mentum
 menu
 menus
 meow
+meowing
 meows
 meq
 mer
@@ -19116,6 +19254,7 @@ merge
 merged
 merger
 mergers
+merging
 meringue
 merino
 merisis
@@ -19275,6 +19414,7 @@ meurtriere
 meus
 mew
 mewed
+mewing
 mewl
 mewled
 mewls
@@ -19288,6 +19428,7 @@ mganga
 mgangas
 mho
 mhos
+mhowra
 miacid
 miacids
 miai
@@ -19425,6 +19566,7 @@ migrator
 mihanere
 mihi
 mihied
+mihinare
 mihing
 mihis
 mihrab
@@ -19543,6 +19685,7 @@ mimosa
 mimosas
 mimosin
 mimpin
+mimping
 mimsy
 mimulus
 mimuluses
@@ -19576,15 +19719,19 @@ mineman
 minemen
 miner
 minera
+mineragrapher
 mineras
 mineries
 miners
 mines
 minestra
 minestras
+minger
 mingi
 mingimingi
 minging
+minhag
+minhagim
 mini
 miniator
 minibar
@@ -19600,6 +19747,7 @@ minicar
 minichain
 minichains
 minicom
+minigene
 minikin
 minikini
 minikinis
@@ -19641,6 +19789,7 @@ ministries
 ministry
 minitrack
 minium
+minivan
 miniver
 minivet
 mink
@@ -19653,6 +19802,7 @@ minorant
 minorants
 minoration
 minored
+minoring
 minotaur
 minse
 mint
@@ -19716,6 +19866,7 @@ mirex
 mirid
 mirids
 mirin
+miring
 miriti
 miritis
 mirity
@@ -19967,6 +20118,7 @@ mnemes
 mnemic
 mnemon
 mnemons
+mninga
 moa
 moai
 moaky
@@ -21016,6 +21168,7 @@ nages
 nagiere
 nags
 nagsman
+nagware
 nah
 nahal
 nahals
@@ -21455,6 +21608,7 @@ neoned
 neonomian
 neonomians
 neons
+neopagan
 neopentane
 neophron
 neophyte
@@ -21584,6 +21738,7 @@ nevermore
 neves
 neveses
 nevi
+nevirapine
 nevis
 nevoid
 nevus
@@ -21599,8 +21754,10 @@ neweled
 newer
 newest
 newie
+newing
 newline
 newman
+newmen
 news
 newsak
 newsie
@@ -21642,6 +21799,7 @@ ngoma
 ngomas
 ngoni
 ngonis
+ngram
 ngs
 niacin
 niaiserie
@@ -21697,6 +21855,8 @@ nif
 nife
 nifle
 niftier
+niger
+nigeran
 nigh
 nighly
 night
@@ -21906,6 +22066,7 @@ nogaika
 nogaku
 nogal
 nogs
+nohoanga
 nohow
 noi
 noia
@@ -21961,10 +22122,12 @@ nomos
 noms
 non
 nonabrasive
+nonage
 nonagon
 nonagonal
 nonagons
 nonalcoholic
+nonamer
 nonan
 nonane
 nonanoate
@@ -22038,6 +22201,7 @@ nontrivial
 nontronite
 nonuniform
 nonunion
+nonveg
 nonviable
 nonvoter
 nonwhite
@@ -22073,6 +22237,7 @@ norm
 normal
 normie
 normies
+norming
 normochromic
 norms
 nors
@@ -22701,6 +22866,7 @@ ohelos
 ohia
 ohias
 ohm
+ohmage
 ohmic
 ohms
 ohmygod
@@ -22872,6 +23038,7 @@ oms
 omul
 omuls
 omun
+onager
 onagrad
 onanist
 onanists
@@ -22905,6 +23072,7 @@ onglet
 ongoing
 ongon
 ongons
+onhanger
 onigiri
 oniomania
 oniomanias
@@ -22928,6 +23096,7 @@ onolatry
 onomast
 onomasts
 onomatomania
+onramp
 onroad
 onsen
 onsens
@@ -22972,10 +23141,13 @@ opening
 opens
 opepe
 opepes
+opera
 operon
 opes
 opex
 opgaf
+ophanim
+opherion
 ophidian
 ophidioid
 ophiolatry
@@ -23138,6 +23310,7 @@ oread
 orebody
 orectic
 ored
+oregano
 oregonite
 oreide
 oreodont
@@ -23153,6 +23326,7 @@ organ
 organa
 organal
 organic
+organigram
 organise
 organises
 organist
@@ -23256,6 +23430,7 @@ orotund
 orp
 orped
 orphan
+orphanage
 orphaning
 orpharion
 orphion
@@ -23631,6 +23806,8 @@ ovenware
 over
 overage
 overages
+overamp
+overamping
 overarch
 overarched
 overarm
@@ -23638,6 +23815,7 @@ overate
 overawe
 overawed
 overawes
+overawing
 overbake
 overbakes
 overbaking
@@ -23673,6 +23851,8 @@ overeat
 overeater
 overeaters
 overeats
+overgang
+overganging
 overgave
 overget
 overgets
@@ -23699,6 +23879,7 @@ overgrazes
 overgrew
 overgrieving
 overgrow
+overgrowing
 overgrown
 overhead
 overhear
@@ -23726,13 +23907,17 @@ overlit
 overlove
 overloves
 overlow
+overman
 overmark
 overmarks
+overmen
 overmore
 overner
 overnice
 overnote
 overornate
+overpower
+overpowering
 overs
 oversalt
 oversalts
@@ -23765,6 +23950,8 @@ overview
 overviewer
 overvote
 overvoted
+overwarm
+overwarming
 overwash
 overwatch
 overwatched
@@ -23775,7 +23962,12 @@ overwear
 overweave
 overwet
 overwets
+overwin
+overwing
+overworn
 overwove
+overwoven
+overwrap
 overwrite
 overwrote
 overzeal
@@ -23945,6 +24137,7 @@ pah
 pahit
 pahits
 paho
+pahoehoe
 pahos
 pahu
 pahus
@@ -24075,7 +24268,10 @@ pampean
 pamper
 pamperer
 pamperers
+pampering
+pampero
 pampers
+pampre
 pan
 panabase
 panacea
@@ -24083,6 +24279,7 @@ panacean
 panache
 panada
 panaesthesia
+panagraph
 panama
 panamas
 panarchy
@@ -24134,8 +24331,12 @@ panentheists
 panes
 panesthesia
 pang
+panga
 pangen
 pangene
+pangeran
+pangram
+panham
 panhandling
 pani
 panic
@@ -24241,6 +24442,7 @@ papas
 papasan
 papasans
 papaumu
+papaverine
 papaw
 papaws
 papaya
@@ -24254,10 +24456,12 @@ paperbark
 paperen
 paperer
 paperers
+papering
 papermaker
 papermakers
 papern
 papers
+paperware
 papier
 papilio
 papish
@@ -24308,7 +24512,9 @@ paragoge
 paragogic
 paragon
 paragonite
+paragram
 paragraph
+paragrapher
 paragraphia
 paragraphic
 paragraphing
@@ -24317,6 +24523,7 @@ paralic
 paralytic
 paralytical
 paramalic
+paramere
 paramo
 paramorph
 paramorphic
@@ -24344,6 +24551,7 @@ parapatry
 parapente
 parapet
 paraph
+parapherna
 paraphilia
 paraphiliac
 paraphilic
@@ -24382,8 +24590,10 @@ paratone
 paratonia
 paratrophic
 paratyphoid
+paravane
 parawai
 parawais
+parawing
 parbreak
 parc
 parcenary
@@ -24410,12 +24620,16 @@ pareo
 parer
 parera
 pareras
+parerga
 parers
 pares
 pareses
 paresis
 paretic
+parev
+pareve
 parfait
+pargana
 parge
 parget
 pargeting
@@ -24680,23 +24894,30 @@ pauropod
 pause
 pauses
 pav
+pavage
 pavan
 pavane
 pavanes
 pavans
 pave
+paver
 paves
 pavie
 pavies
 pavilion
 pavilions
+paving
+pavior
 pavis
 pavise
 pavises
 pavon
+pavonine
 pavons
 pavs
 paw
+pawang
+pawing
 pawl
 pawls
 pawn
@@ -24978,6 +25199,7 @@ penwoman
 penwomen
 peola
 peon
+peonage
 peones
 peonies
 peonin
@@ -25045,6 +25267,7 @@ peremption
 perempts
 perentie
 perenties
+pereon
 peres
 perester
 peresters
@@ -25070,6 +25293,7 @@ pericarps
 periegesis
 periegesises
 periegete
+perigraph
 perihepatic
 perihepatitis
 perihilar
@@ -25103,6 +25327,7 @@ peritreme
 peritrich
 peritriches
 peritrope
+periwig
 perjure
 perjurer
 perjurers
@@ -25133,6 +25358,8 @@ permeates
 permeator
 permie
 permies
+perming
+perminvar
 permit
 permitable
 permits
@@ -25141,6 +25368,9 @@ permy
 pern
 pernancies
 perne
+perning
+pernio
+pernor
 perns
 peroba
 peronium
@@ -25272,6 +25502,7 @@ petuning
 petuntse
 peut
 pew
+pewing
 pewit
 pews
 pfui
@@ -25293,6 +25524,7 @@ pharbitin
 phare
 phares
 pharma
+pharming
 pharology
 phase
 phaser
@@ -25302,6 +25534,8 @@ phasis
 phat
 phatagin
 phatic
+pheme
+phememe
 phenacite
 phenetic
 phenon
@@ -25343,6 +25577,7 @@ phonation
 phonational
 phonatory
 phone
+phoneme
 phoner
 phonetic
 phonetician
@@ -25459,6 +25694,7 @@ phut
 phuthu
 phutphuti
 phutu
+phwoah
 phwoar
 phy
 phycocyan
@@ -25604,6 +25840,7 @@ piety
 pig
 pigboat
 pigeon
+pigeongram
 pigeonite
 pightle
 piglet
@@ -25685,6 +25922,7 @@ pimbina
 pimelodid
 pimp
 pimpernel
+pimping
 pimple
 pimpler
 pimplier
@@ -25740,6 +25978,7 @@ pingo
 pingpong
 pinguin
 pinguite
+pingwing
 piniform
 pining
 pinion
@@ -25806,6 +26045,7 @@ pipeguns
 pipelay
 pipelayer
 pipelet
+pipeman
 pipemen
 piper
 piperi
@@ -25835,6 +26075,7 @@ pipkrake
 pipkrakes
 pipradol
 pipradrol
+piprage
 piprick
 pips
 pipy
@@ -25958,6 +26199,7 @@ piuma
 piums
 piupiu
 piva
+pivo
 piwari
 piwaris
 pix
@@ -26592,6 +26834,7 @@ popos
 popote
 popotes
 popout
+popover
 pops
 popsie
 popsies
@@ -26643,6 +26886,7 @@ poroporoaki
 pororoca
 porotic
 porphin
+porphine
 porphyria
 porphyric
 porphyrin
@@ -26814,6 +27058,10 @@ povo
 pow
 powan
 powans
+power
+powering
+powerpop
+powhiri
 powie
 powis
 powises
@@ -26932,6 +27180,13 @@ prefire
 prefired
 preflight
 preg
+pregame
+pregaming
+pregave
+pregive
+pregiven
+pregiving
+pregnane
 preharvest
 preheat
 preheater
@@ -26965,6 +27220,7 @@ premotor
 prenarial
 preneural
 prenotion
+prenova
 prentice
 prenup
 prenups
@@ -26982,8 +27238,11 @@ preparable
 preparator
 prepare
 preparer
+preparing
 prepense
 preplan
+prepone
+preponing
 prepreg
 preps
 prepster
@@ -27059,6 +27318,11 @@ prevert
 preverts
 previse
 previses
+prewar
+prewarn
+prewarning
+prewire
+prewiring
 prey
 preyer
 prez
@@ -27091,11 +27355,18 @@ prig
 prigs
 prim
 prima
+primage
 primal
 primar
 primarian
 primatal
 primate
+primavera
+prime
+primer
+primero
+primigene
+priming
 primip
 primipara
 primipilar
@@ -27109,6 +27380,7 @@ primo
 primos
 primost
 primp
+primping
 primps
 prims
 primula
@@ -27186,6 +27458,7 @@ proach
 proact
 proaction
 proal
+proamnion
 proanthocyanidin
 prob
 probabilize
@@ -27220,6 +27493,7 @@ prodigy
 prodrome
 prodrug
 proem
+proepimeron
 prof
 profit
 proform
@@ -27288,6 +27562,8 @@ prop
 propachlor
 propagator
 propagatory
+propage
+propaging
 propalation
 propalinal
 propanal
@@ -27307,6 +27583,7 @@ propendent
 propene
 propenoate
 proper
+prophage
 propham
 prophet
 prophetic
@@ -27485,6 +27762,13 @@ protruded
 proud
 prouded
 prouder
+provan
+prove
+proven
+provene
+provening
+prover
+proving
 prow
 prude
 prunase
@@ -28254,6 +28538,7 @@ ragtail
 ragtop
 ragu
 ragus
+ragworm
 rah
 rahdar
 rahdari
@@ -28403,6 +28688,9 @@ ramnas
 ramon
 ramons
 ramp
+rampage
+rampager
+rampaging
 rampant
 rampart
 ramparts
@@ -28412,6 +28700,8 @@ ramphoid
 rampier
 rampike
 rampikes
+ramping
+rampion
 rampire
 rampires
 ramps
@@ -28716,7 +29006,9 @@ rauriki
 rauwacke
 rav
 ravage
+ravager
 ravages
+ravaging
 ravary
 rave
 raved
@@ -29312,6 +29604,7 @@ regardful
 regather
 regathers
 regauge
+regave
 regelate
 regelated
 regelates
@@ -29357,6 +29650,9 @@ registery
 registrar
 registrars
 registrate
+regive
+regiven
+regiving
 reglaze
 reglazes
 regle
@@ -29388,6 +29684,7 @@ regratified
 regrator
 regrators
 regrave
+regraving
 regrede
 regreded
 regredes
@@ -29399,6 +29696,8 @@ regroup
 regrouping
 regroupment
 regrout
+regrow
+regrowing
 regs
 regtech
 regula
@@ -29417,6 +29716,8 @@ rehab
 rehabs
 rehair
 rehairs
+rehang
+rehanging
 rehash
 rehaul
 rehear
@@ -29431,8 +29732,11 @@ reheated
 reheater
 reheaters
 reheats
+rehinge
+rehinging
 rehire
 rehires
+rehiring
 reif
 reified
 reifies
@@ -29625,6 +29929,9 @@ remanets
 remans
 remanure
 remanures
+remap
+remargin
+remargining
 remark
 remarker
 remarkers
@@ -29652,6 +29959,7 @@ remend
 remens
 remerge
 remerged
+remerging
 remet
 remex
 remf
@@ -29697,6 +30005,7 @@ ren
 renal
 rename
 renames
+renaming
 renature
 renatures
 rencil
@@ -29706,6 +30015,7 @@ renege
 reneged
 reneger
 reneges
+reneging
 renegotiation
 renegue
 reneguing
@@ -29714,9 +30024,11 @@ renew
 renewance
 renewer
 renewers
+renewing
 renews
 reng
 renga
+rengarenga
 rengs
 renierite
 reniform
@@ -29747,7 +30059,11 @@ rents
 renumerate
 renumerative
 renunciant
+renvoi
 reo
+reopen
+reopener
+reopening
 reorder
 reordered
 reorg
@@ -29764,6 +30080,7 @@ repair
 repairer
 repairpeople
 repaper
+repapering
 repapers
 reparable
 reparator
@@ -29780,6 +30097,8 @@ repast
 repasts
 repat
 repats
+repave
+repaving
 repeal
 repealable
 repealer
@@ -29857,6 +30176,9 @@ repricks
 reprieve
 repriever
 reprieves
+reprime
+reprimer
+repriming
 reprioritize
 reprise
 repriser
@@ -29865,6 +30187,9 @@ reprivatise
 repro
 reprobable
 reprobator
+reprove
+reprover
+reproving
 reprune
 reprunes
 reps
@@ -30345,6 +30670,8 @@ reutilise
 reutilises
 reutilize
 rev
+revamp
+revamping
 revaries
 revary
 reveal
@@ -30366,6 +30693,8 @@ revelers
 revelries
 revenant
 revend
+revenge
+revenger
 revenging
 revent
 reventa
@@ -30483,6 +30812,7 @@ revomited
 revote
 revow
 revowed
+revowing
 revs
 revue
 rew
@@ -30495,6 +30825,8 @@ rewaking
 rewakings
 rewarewa
 rewarewas
+rewarm
+rewarming
 rewash
 rewatch
 rewatched
@@ -30504,7 +30836,9 @@ rewaters
 reweave
 rewed
 rewire
+rewiring
 rewove
+rewoven
 rewrap
 rewraps
 rewrite
@@ -30785,6 +31119,7 @@ rimfire
 rimier
 rimiest
 rimiform
+riming
 rimon
 rimons
 rimous
@@ -30837,6 +31172,7 @@ ringspot
 ringspots
 ringtail
 ringtone
+ringworm
 ringy
 rink
 rinking
@@ -30946,6 +31282,7 @@ rituals
 ritz
 ritzier
 riva
+rivage
 rival
 rivaled
 rivalries
@@ -30967,6 +31304,8 @@ rivering
 riverings
 riverish
 riverlet
+riverman
+rivermen
 rivers
 riverso
 riversos
@@ -31015,6 +31354,8 @@ roak
 roake
 roaky
 roam
+roamer
+roaming
 roamish
 roams
 roan
@@ -31437,6 +31778,7 @@ roweled
 rowen
 rower
 rowet
+rowing
 rowk
 rown
 rowner
@@ -39105,6 +39447,8 @@ valves
 valvular
 valvule
 vamp
+vamping
+vampire
 vamps
 van
 vanadate
@@ -39114,11 +39458,18 @@ vane
 vaned
 vanes
 vang
+vanga
 vangs
 vanish
 vans
 vape
+vaper
 vapes
+vaping
+vapor
+vaporer
+vaporing
+vaporware
 vara
 varas
 varec
@@ -39205,6 +39556,7 @@ vegetative
 vegetivorous
 vegie
 vegies
+veging
 vego
 vegolate
 vegos
@@ -39521,6 +39873,8 @@ violists
 violone
 violones
 viols
+viper
+viperine
 viraemia
 viral
 virelai
@@ -39684,6 +40038,7 @@ voulu
 vow
 vowed
 vowel
+vowing
 vows
 vrou
 vrous
@@ -39721,6 +40076,7 @@ waft
 wag
 wage
 wager
+wagering
 wages
 waging
 wagon
@@ -39806,6 +40162,7 @@ wanwort
 wapiti
 wapitis
 war
+waragi
 waratah
 waratahs
 warble
@@ -39823,6 +40180,9 @@ wared
 warehou
 wares
 warfare
+wargame
+wargamer
+wargaming
 warhead
 warier
 waring
@@ -39832,6 +40192,7 @@ warmed
 warmer
 warmers
 warmest
+warming
 warmonger
 warn
 warned
@@ -39840,9 +40201,11 @@ warning
 warnings
 warns
 warp
+warpage
 warpaint
 warper
 warpers
+warping
 warplane
 warps
 wars
@@ -40031,14 +40394,18 @@ whams
 whanau
 whang
 whangai
+whanger
 whanging
 whangs
+whap
+whare
 what
 whatnot
 wheal
 wheat
 when
 whence
+whenever
 where
 whereat
 whereon
@@ -40054,8 +40421,15 @@ which
 whift
 while
 whim
+whimper
+whimperer
+whimpering
 whims
 whin
+whine
+whiner
+whinge
+whinger
 whinging
 whining
 whinings
@@ -40074,6 +40448,7 @@ whiter
 whitlow
 who
 whoa
+whoever
 whole
 wholecloth
 whom
@@ -40112,6 +40487,7 @@ wigeon
 wight
 wigs
 wigwag
+wigwam
 wiki
 wikis
 wilco
@@ -40127,6 +40503,7 @@ wiliest
 wilt
 wilts
 wimp
+wimping
 wimple
 wimples
 wimps
@@ -40153,10 +40530,12 @@ windward
 windy
 wine
 wined
+winegrower
 winey
 wing
 wingding
 wingdings
+winger
 winging
 wingman
 wings
@@ -40177,15 +40556,20 @@ wintrier
 winy
 wipe
 wipeout
+wiper
 wipes
+wiping
 wire
 wired
 wiredraw
 wiredrawn
+wireman
 wiremen
 wirer
 wirers
+wireworm
 wirier
+wiring
 wiry
 wis
 wise
@@ -40226,6 +40610,7 @@ wive
 wived
 wivern
 wives
+wiving
 woad
 woaded
 woader
@@ -40274,6 +40659,9 @@ world
 worlde
 worlded
 worldwide
+worm
+wormer
+worming
 worn
 wors
 worse
@@ -40347,6 +40735,7 @@ wretcheder
 wrier
 wriest
 wring
+wringer
 wringing
 wrings
 wrinkle
@@ -40365,6 +40754,7 @@ writhe
 writhen
 writs
 wrong
+wronger
 wronging
 wrongs
 wrot
