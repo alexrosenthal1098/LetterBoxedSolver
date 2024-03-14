@@ -3906,11 +3906,14 @@ beloid
 belote
 below
 bels
+belsire
+belsires
 belt
 belted
 belter
 beluga
 belve
+belves
 bema
 bemoan
 ben
@@ -3980,6 +3983,9 @@ betas
 betatron
 bete
 betel
+betelnut
+betelnuts
+betels
 beth
 bethel
 betide
@@ -3996,6 +4002,7 @@ beun
 bevan
 bevans
 bevel
+bevels
 bevies
 bevy
 bewail
@@ -4436,6 +4443,7 @@ blunging
 blunt
 blunted
 blunter
+bluntest
 blunting
 blunts
 blur
@@ -4446,6 +4454,8 @@ blurt
 blurted
 blurts
 blush
+bluster
+blusterer
 boa
 boab
 boabs
@@ -5018,6 +5028,7 @@ bruh
 bruin
 bruins
 bruise
+bruiser
 bruises
 bruit
 bruiter
@@ -5025,6 +5036,7 @@ bruiting
 bruits
 bruja
 brule
+brules
 brulie
 brulzie
 brumal
@@ -5033,6 +5045,7 @@ brunet
 brunets
 brung
 brunie
+brunies
 brunt
 brush
 brushback
@@ -5041,8 +5054,10 @@ brut
 brutal
 brutalize
 brute
+brutes
 brutha
 bruv
+bruvs
 buahaha
 buahahaha
 bub
@@ -5051,6 +5066,7 @@ bubal
 bubals
 bubas
 bubele
+bubeles
 bubinga
 bubo
 buboes
@@ -5135,12 +5151,14 @@ bur
 burb
 burble
 burbler
+burbles
 burbot
 burbots
 burbs
 bureau
 bureaux
 buret
+burets
 burfi
 burg
 burgage
@@ -5158,7 +5176,9 @@ burgraves
 burgs
 burial
 burials
+buries
 burin
+burins
 burk
 burka
 burkas
@@ -5172,6 +5192,7 @@ burls
 burly
 burn
 burnable
+burner
 burnet
 burnets
 burnin
@@ -5199,6 +5220,7 @@ burton
 bus
 busbar
 busbars
+busbies
 buscarl
 buscarls
 buse
@@ -5206,9 +5228,13 @@ buses
 bush
 bushbuck
 bushbucks
+busier
+busies
+busiest
 busk
 busks
 bust
+buster
 bustian
 bustians
 busts
@@ -9935,6 +9961,7 @@ eluded
 eluent
 elusion
 elusions
+elusive
 elute
 eluted
 elutes
@@ -10221,6 +10248,7 @@ ensues
 ensuite
 ensuites
 ensure
+ensures
 ent
 entablement
 entail
@@ -10296,6 +10324,7 @@ enunciative
 enure
 enurement
 enures
+enuresis
 enuretic
 enuring
 enurn
@@ -10475,6 +10504,7 @@ eruption
 erupts
 eruv
 eruvim
+eruvs
 erven
 erw
 erws
@@ -10537,6 +10567,7 @@ estreats
 estrin
 estrous
 estrus
+esurient
 eta
 etagere
 etageres
@@ -10553,6 +10584,8 @@ etcher
 etchers
 etches
 eternal
+eternise
+eternises
 eternize
 eth
 ethanal
@@ -14791,6 +14824,8 @@ improving
 imps
 impulse
 impulses
+impulsive
+impure
 imputable
 imputative
 impute
@@ -15039,6 +15074,7 @@ inlaid
 inland
 inlay
 inlet
+inlets
 inlier
 inline
 inmate
@@ -15080,6 +15116,7 @@ insensible
 insensitive
 insentient
 insert
+inserter
 inserts
 inset
 insets
@@ -15129,6 +15166,7 @@ insult
 insure
 insurer
 insurers
+insures
 insurgent
 insurgents
 inswing
@@ -15157,6 +15195,7 @@ intendant
 intended
 intending
 intense
+intenser
 intensest
 intensifier
 intensifiers
@@ -15178,6 +15217,8 @@ interceded
 interceder
 intercolonial
 interconvert
+interest
+interests
 interfaith
 interfere
 interferer
@@ -15189,6 +15230,8 @@ interglacial
 intergrew
 intergrow
 intergrown
+interim
+interims
 interior
 interknit
 interknits
@@ -15213,6 +15256,7 @@ internasals
 internaut
 internauts
 interne
+internes
 interneural
 interneurals
 internist
@@ -15228,6 +15272,10 @@ intertitle
 intertrigo
 interurban
 interval
+intervene
+intervener
+intervenes
+intervenient
 interview
 interviewer
 intervocalic
@@ -15301,6 +15349,7 @@ inulin
 inundation
 inure
 inurement
+inures
 inuring
 inurn
 inurning
@@ -17653,6 +17702,7 @@ luau
 luaus
 lube
 lubed
+lubes
 lubing
 lubra
 lubras
@@ -17731,6 +17781,9 @@ lunules
 lupara
 luparas
 lupin
+lupine
+lupines
+lupins
 lupoid
 lupulin
 lupus
@@ -17756,7 +17809,11 @@ lurves
 luscious
 lush
 lust
+luster
 lustra
+lustre
+lustres
+lustrine
 lustrum
 lustrums
 lusts
@@ -17770,6 +17827,8 @@ luteal
 lutecium
 luted
 lutein
+lutenist
+lutenists
 lutes
 lutetium
 luteum
@@ -17780,6 +17839,7 @@ lutists
 lutung
 lutz
 luv
+luvs
 lux
 luxate
 luxe
@@ -19741,6 +19801,8 @@ minibeasts
 minibike
 minibikes
 minibreak
+minibus
+minibuses
 minicam
 minicams
 minicar
@@ -19782,16 +19844,19 @@ minions
 minipiano
 minis
 miniseries
+minister
 ministrant
 ministrants
 ministrator
 ministries
 ministry
+minisuper
 minitrack
 minium
 minivan
 miniver
 minivet
+minivets
 mink
 minke
 minkeries
@@ -19805,6 +19870,9 @@ minored
 minoring
 minotaur
 minse
+minster
+minstrel
+minstrels
 mint
 minted
 minter
@@ -19824,7 +19892,11 @@ minute
 minuted
 minuteman
 minutemen
+minuter
+minuterie
+minuteries
 minutes
+minutest
 minuting
 minx
 minxy
@@ -19932,6 +20004,7 @@ misease
 miseases
 misenite
 misenites
+misenter
 misentries
 miser
 miserabilism
@@ -19962,6 +20035,7 @@ mishlas
 mishmash
 mishmashes
 misintent
+misintents
 misjudge
 miskal
 misl
@@ -19969,6 +20043,8 @@ mislaid
 mislay
 mislays
 misled
+mislest
+mislests
 misline
 mislines
 mislist
@@ -19996,6 +20072,8 @@ misname
 misnames
 misnome
 misnomes
+misnurture
+misnurtures
 miso
 misper
 mispers
@@ -20050,9 +20128,12 @@ mistrusters
 mistrusts
 mistry
 mists
+mistune
+mistunes
 misty
 mistyish
 misuse
+misuser
 misuses
 mita
 mitas
@@ -21054,6 +21135,8 @@ mux
 muxe
 muxed
 muxing
+mvule
+mvules
 mwa
 mwah
 mwahaha
@@ -21513,6 +21596,7 @@ nebular
 nebularin
 nebularine
 nebule
+nebules
 nebulium
 neche
 necher
@@ -21665,8 +21749,19 @@ nerts
 nertz
 nervate
 nerve
+nervelet
+nervelets
+nerves
 nervier
+nerviest
+nervine
+nervines
+nervism
+nervisms
+nervule
+nervules
 nervure
+nervures
 nervy
 nescience
 nescient
@@ -21810,6 +21905,7 @@ niauli
 nib
 nibful
 niblet
+niblets
 nibong
 nibongs
 nibs
@@ -21901,7 +21997,11 @@ nimb
 nimbed
 nimbi
 nimble
+nimbler
+nimblest
 nimbs
+nimbus
+nimbuses
 nimby
 nimite
 nimites
@@ -21935,6 +22035,7 @@ nipa
 nipas
 nipet
 niplet
+niplets
 nips
 nipslip
 nipslips
@@ -21942,6 +22043,7 @@ nirl
 nirled
 nirling
 nirls
+nirlses
 nirvana
 nirvanic
 nis
@@ -22012,6 +22114,7 @@ nival
 nivas
 nivases
 nivel
+nivels
 nivenite
 nivenites
 niveous
@@ -22468,6 +22571,7 @@ nunkies
 nunks
 nunky
 nunlet
+nunlets
 nuns
 nunship
 nunships
@@ -22495,6 +22599,7 @@ nurts
 nurturant
 nurture
 nurturer
+nurtures
 nurturing
 nurturist
 nurturists
@@ -22525,6 +22630,8 @@ nutmeat
 nutmeats
 nutria
 nutrias
+nutrient
+nutrients
 nutritial
 nutrition
 nutritional
@@ -22534,6 +22641,7 @@ nutritors
 nutriture
 nutrix
 nuts
+nutsier
 nutsiest
 nutso
 nutsos
@@ -25076,6 +25184,10 @@ pelargone
 pelargonin
 pelau
 pele
+pelerin
+pelerine
+pelerines
+pelerins
 peles
 pelham
 pelite
@@ -25094,7 +25206,11 @@ pelting
 peltoid
 pelu
 pelure
+pelures
 pelus
+pelves
+pelvis
+pelvises
 pembina
 pembinas
 pen
@@ -25301,6 +25417,8 @@ peril
 perilune
 perine
 perinea
+perinerve
+perinerves
 perines
 perineum
 perineurium
@@ -25308,7 +25426,10 @@ periople
 periorbital
 peripancreatic
 periplum
+periplus
+peripluses
 peripter
+peripteries
 perique
 perirenal
 peris
@@ -25327,6 +25448,7 @@ peritreme
 peritrich
 peritriches
 peritrope
+periuterine
 periwig
 perjure
 perjurer
@@ -25340,6 +25462,7 @@ perks
 perky
 perle
 perlid
+perls
 perm
 permanent
 permanentise
@@ -25408,9 +25531,17 @@ pertransient
 perturb
 perturbable
 perturbator
+perturber
+perturbs
+pertuse
 peruke
 perula
 perule
+peruse
+peruser
+peruses
+peruvin
+peruvins
 perv
 pervasive
 perve
@@ -25485,6 +25616,8 @@ peto
 petraean
 petraries
 petrary
+petrel
+petrels
 petrifier
 petroil
 petrol
@@ -25817,6 +25950,7 @@ piedroit
 piehole
 pieing
 pielet
+pielets
 piemen
 piemontite
 piend
@@ -25836,6 +25970,7 @@ piet
 pieta
 pietic
 pietra
+piets
 piety
 pig
 pigboat
@@ -25922,9 +26057,11 @@ pimbina
 pimelodid
 pimp
 pimpernel
+pimpernels
 pimping
 pimple
 pimpler
+pimples
 pimplier
 pimps
 pin
@@ -25957,6 +26094,8 @@ pine
 pineal
 pined
 pinene
+pinenut
+pinenuts
 piner
 piners
 pines
@@ -26045,6 +26184,7 @@ pipeguns
 pipelay
 pipelayer
 pipelet
+pipelets
 pipeman
 pipemen
 piper
@@ -26067,6 +26207,7 @@ pipier
 pipiest
 piping
 pipis
+pipistrel
 pipit
 pipits
 pipkin
@@ -26108,6 +26249,7 @@ pirling
 pirls
 pirn
 pirnie
+pirnies
 pirns
 pirog
 pirogen
@@ -26138,6 +26280,9 @@ piskies
 pismire
 pismires
 pistacia
+piste
+pisteler
+pistes
 pistic
 pistics
 pistil
@@ -26198,6 +26343,7 @@ pium
 piuma
 piums
 piupiu
+piupius
 piva
 pivo
 piwari
@@ -26343,6 +26489,8 @@ pleat
 pleating
 pleb
 plebe
+plebes
+plebs
 plec
 plectra
 pled
@@ -26366,6 +26514,8 @@ plenilune
 plenilunes
 plenilunium
 plenipo
+plenist
+plenists
 pleno
 plenum
 pleon
@@ -26373,6 +26523,7 @@ pleons
 plereme
 plerome
 plet
+plets
 pleura
 pleurae
 pleural
@@ -26511,7 +26662,10 @@ plups
 plural
 pluriarc
 pluriarcs
+pluribus
 pluricuspid
+pluries
+plurieses
 plurified
 pluripara
 pluriparas
@@ -26525,6 +26679,8 @@ plutes
 plutie
 plutogog
 plutogogue
+pluvius
+pluviuses
 ply
 plz
 pneu
@@ -27826,6 +27982,7 @@ psychos
 psychs
 pterin
 pterine
+pterins
 pterion
 pteris
 pterises
@@ -27840,6 +27997,10 @@ ptyalin
 ptype
 pub
 pube
+puberulent
+pubes
+pubis
+pubs
 pucan
 puck
 pucka
@@ -27871,7 +28032,9 @@ puler
 pules
 puli
 pulp
+pulper
 pulpier
+pulpiest
 pulpified
 pulpit
 pulpitarian
@@ -27888,7 +28051,9 @@ pulsatile
 pulsatilities
 pulse
 pulsejet
+pulser
 pulses
+pulsive
 pult
 pultan
 pultans
@@ -27898,6 +28063,17 @@ pulu
 pulut
 pulutan
 puluts
+pulverise
+pulveriser
+pulverises
+pulverulent
+pulvin
+pulvini
+pulvinule
+pulvinules
+pulvinulus
+pulvinuluses
+pulvinus
 pulwar
 puma
 pumas
@@ -27945,6 +28121,7 @@ punicin
 punier
 puniest
 punim
+punims
 punition
 puns
 punster
@@ -28007,17 +28184,20 @@ purified
 purifier
 puriform
 purine
+purines
 puring
 purings
 puriri
 puriris
 puris
+purism
 purist
 puristic
 purists
 puritan
 puritanic
 purl
+purler
 purlin
 purls
 puro
@@ -28048,12 +28228,16 @@ pursers
 purses
 pursing
 purty
+purulent
 puruloid
 purview
 pus
 push
 pushup
 pushups
+pustule
+pustulent
+pustules
 pustulin
 put
 puta
@@ -29227,6 +29411,8 @@ rebeget
 rebegot
 rebel
 rebeldom
+rebelries
+rebels
 rebent
 rebete
 rebetic
@@ -29272,7 +29458,11 @@ rebud
 rebuilt
 rebuoy
 rebuoyed
+reburies
+rebus
+rebuses
 rebut
+rebuts
 rebuy
 rec
 recado
@@ -29753,6 +29943,7 @@ reimbibes
 reimpart
 reimparts
 reimpel
+reimpels
 rein
 reincite
 reincited
@@ -29778,6 +29969,7 @@ reinstitute
 reinsure
 reinsurer
 reinsurers
+reinsures
 reinter
 reinterment
 reintern
@@ -29857,7 +30049,9 @@ relevance
 relevant
 releve
 relevel
+relevels
 releves
+relevies
 relexifies
 reliability
 reliable
@@ -30020,6 +30214,7 @@ renegotiation
 renegue
 reneguing
 renerve
+renerves
 renew
 renewance
 renewer
@@ -30050,6 +30245,7 @@ rente
 renter
 rentering
 renters
+rentes
 rentier
 rentiere
 rentieres
@@ -30108,6 +30304,7 @@ repeater
 repeaters
 repeats
 repel
+repels
 repen
 repens
 repent
@@ -30123,6 +30320,8 @@ repermits
 repertoire
 repertorial
 repertorium
+reperuse
+reperuses
 repetiteur
 repetition
 repetitive
@@ -30145,6 +30344,12 @@ replan
 replay
 replead
 repleat
+replete
+repleve
+repleves
+replevies
+replevin
+replevins
 replier
 replique
 replot
@@ -30199,6 +30404,11 @@ reptiloid
 repugn
 repugner
 repugning
+repulp
+repulse
+repulser
+repulses
+repulsive
 repump
 repumping
 repun
@@ -30283,6 +30493,7 @@ reselect
 reselects
 resensitise
 resent
+resenter
 resents
 reserve
 reserved
@@ -30441,6 +30652,7 @@ restricts
 restrike
 restrikes
 restrive
+restriven
 restrives
 restructure
 restructures
@@ -30450,6 +30662,7 @@ resuck
 resucks
 resue
 resues
+resupine
 resurge
 resurges
 reswarm
@@ -30609,6 +30822,7 @@ retrench
 retrencher
 retrial
 retribute
+retributes
 retrick
 retries
 retrieval
@@ -30636,6 +30850,7 @@ rets
 retsina
 retsinas
 retube
+retubes
 retune
 retunes
 returf
@@ -30647,6 +30862,7 @@ returner
 returners
 returnment
 returns
+retuse
 retwist
 retwists
 retype
@@ -30691,6 +30907,7 @@ reveled
 reveler
 revelers
 revelries
+revels
 revenant
 revend
 revenge
@@ -30698,6 +30915,7 @@ revenger
 revenging
 revent
 reventa
+revents
 revenue
 revenuer
 reverable
@@ -30744,6 +30962,7 @@ reverters
 revertive
 reverts
 reverture
+revertures
 revest
 revested
 revestries
@@ -30768,6 +30987,7 @@ revisal
 revise
 reviser
 revises
+revisible
 revising
 revisit
 revisits
@@ -30815,6 +31035,10 @@ revowed
 revowing
 revs
 revue
+revulse
+revulses
+revulsive
+revulsives
 rew
 rewake
 rewaken
@@ -31124,6 +31348,7 @@ rimon
 rimons
 rimous
 rimple
+rimples
 rims
 rimu
 rimus
@@ -31304,6 +31529,7 @@ rivering
 riverings
 riverish
 riverlet
+riverlets
 riverman
 rivermen
 rivers
@@ -31324,6 +31550,10 @@ rivinas
 riving
 rivose
 rivotite
+rivulet
+rivulets
+rivulus
+rivuluses
 riyal
 riyo
 riza
@@ -31821,6 +32051,7 @@ rubianin
 rubianine
 rubianins
 rubiate
+rubies
 rubine
 rubineous
 rubines
@@ -31828,12 +32059,14 @@ rubio
 rubios
 rubious
 ruble
+rubles
 rubor
 rubors
 rubout
 rubouts
 rubral
 rubrene
+rubrenes
 rubric
 rubrical
 rubricist
@@ -31841,6 +32074,7 @@ rubricists
 rubrics
 rubriform
 rubs
+rubster
 rubus
 rubuses
 ruche
@@ -31977,6 +32211,7 @@ rungs
 runic
 runiform
 runlet
+runlets
 runo
 runout
 runrig
@@ -31991,6 +32226,7 @@ runup
 runups
 ruote
 ruotes
+rupestrine
 rupia
 rupial
 rupias
@@ -32041,6 +32277,7 @@ rustle
 rustler
 rustlers
 rustre
+rustres
 rusts
 rusty
 rut
@@ -33071,6 +33308,8 @@ sensibilite
 sensibilites
 sensibilities
 sensible
+sensiblerie
+sensibleries
 sensie
 sensile
 sensing
@@ -33145,6 +33384,7 @@ septum
 septuple
 septuples
 septuplet
+septuplets
 seq
 sequin
 sequins
@@ -33777,7 +34017,9 @@ simp
 simper
 simpers
 simple
+simpler
 simples
+simplest
 simplism
 simps
 sims
@@ -34287,6 +34529,9 @@ snips
 snit
 snits
 snive
+snivel
+sniveler
+snivels
 snob
 snobs
 snoek
@@ -35116,6 +35361,8 @@ stentor
 stentors
 stents
 step
+stepin
+stepins
 steps
 stepsister
 sterane
@@ -35142,6 +35389,7 @@ stern
 sterna
 sternal
 sterner
+sternest
 sternie
 sternite
 sterns
@@ -35396,6 +35644,7 @@ stripier
 stripiest
 strips
 strive
+striven
 striver
 strives
 strobe
@@ -35497,6 +35746,11 @@ subcrustal
 subcrusts
 subdial
 subdials
+subentries
+suber
+suberin
+suberise
+suberises
 subfusc
 subgenus
 subgiant
@@ -35508,25 +35762,48 @@ subiculums
 subintrant
 subitise
 subito
+sublet
+sublets
+sublevel
+sublevels
+subminister
 subnet
 subnets
 subnivean
 suborn
 suborns
+subrepent
+subrisive
 subs
+subsense
+subsenses
+subsensible
+subsere
+subseres
+subserve
+subserves
+subservient
+subset
+subsets
 subshrub
 subshrubs
 subsidist
 subsidists
 subsist
+subsistent
 subsists
 subtenant
 subtenants
 subtense
 subtenses
+subtenure
+subtenures
 subtest
 subtests
 subtiaba
+subtribe
+subtribes
+subtriple
 subucula
 subuculas
 subunist
@@ -35649,7 +35926,11 @@ suni
 sunis
 sunk
 sunken
+sunlet
+sunlets
 sunlit
+sunrise
+sunrises
 sunround
 sunrounds
 suns
@@ -35683,7 +35964,23 @@ sup
 supari
 suparis
 supe
+super
+superb
+superius
+supermini
+superminis
+supern
+superuser
+supervene
+supervenes
+supervenient
+supervirus
+superviruses
+supervise
+supervises
 supes
+supine
+supines
 supra
 supraspinatus
 sups
@@ -35700,6 +35997,7 @@ surd
 surds
 sure
 surer
+surest
 surety
 surf
 surfari
@@ -35710,6 +36008,8 @@ surges
 suricate
 surimi
 surlier
+surmise
+surmises
 surplus
 sursumduct
 sursumducts
@@ -35737,6 +36037,7 @@ sutra
 sutras
 sutural
 suture
+sutures
 svelte
 svelter
 sveltest
@@ -36545,6 +36846,8 @@ tekotekos
 tektite
 telco
 tele
+telebus
+telebuses
 telecine
 telecinema
 telecon
@@ -36588,11 +36891,16 @@ teletheatre
 televersities
 teleview
 televiewer
+televise
+televiser
+televises
+televisible
 telex
 telic
 telicity
 telnet
 telnetable
+telnets
 teloi
 tem
 temenoi
@@ -36647,6 +36955,9 @@ tendons
 tendril
 tends
 tendu
+tenebrism
+tenebrist
+tenebrists
 tenebrous
 tenement
 tenemental
@@ -36666,6 +36977,7 @@ tenor
 tenorini
 tenorino
 tenpin
+tenpins
 tenrec
 tens
 tense
@@ -36734,7 +37046,13 @@ termer
 termers
 termes
 termeses
+terminer
 termini
+terminism
+terminist
+terminists
+terminus
+terminuses
 termitaries
 termite
 termites
@@ -36750,6 +37068,7 @@ ternary
 ternate
 terne
 ternlet
+ternlets
 terns
 terpene
 terpenes
@@ -37973,6 +38292,7 @@ treats
 treaty
 treble
 trebled
+trebles
 treblier
 trebly
 trecento
@@ -38036,11 +38356,14 @@ tribe
 tribes
 tribesman
 triblet
+triblets
 tribrach
 tribrachic
 tribunate
 tribune
+tribunes
 tribute
+tributes
 tricar
 tricars
 tricast
@@ -38136,7 +38459,9 @@ tripe
 triplane
 triple
 tripled
+triples
 triplet
+triplets
 triploid
 triploids
 tripmeter
@@ -38272,6 +38597,8 @@ trugo
 trugs
 truing
 truish
+truism
+truisms
 truistic
 truistical
 truly
@@ -38285,6 +38612,7 @@ trumps
 truncation
 trunk
 trust
+trustbuster
 trusted
 truster
 trusters
@@ -38347,10 +38675,12 @@ tubas
 tube
 tubed
 tuber
+tubes
 tubing
 tubs
 tubular
 tubule
+tubules
 tubulin
 tuck
 tucker
@@ -38447,11 +38777,13 @@ turbiditic
 turbinal
 turbinate
 turbine
+turbines
 turbit
 turbits
 turbo
 turboprop
 turbot
+turbulent
 turd
 turds
 turf
@@ -38487,6 +38819,7 @@ turps
 turs
 turtle
 turtles
+turves
 tusche
 tusches
 tush
@@ -38624,6 +38957,7 @@ ulna
 ulnae
 ulnar
 ulnas
+ulster
 ultima
 ultimata
 ultimate
@@ -38903,8 +39237,10 @@ unleave
 unled
 unleft
 unlent
+unlest
 unlet
 unlevel
+unlevels
 unlevied
 unliable
 unlid
@@ -38973,6 +39309,7 @@ unmind
 unminded
 unminding
 unmined
+unminister
 unminted
 unminuted
 unmist
@@ -39022,6 +39359,8 @@ unpenal
 unpenitent
 unpens
 unpent
+unpervert
+unperverts
 unpianistic
 unpick
 unpile
@@ -39029,6 +39368,7 @@ unpiling
 unpin
 unpinion
 unpinioning
+unpins
 unplan
 unplans
 unplant
@@ -39084,10 +39424,17 @@ unrank
 unreal
 unregal
 unrein
+unreins
+unrelenter
 unreliable
 unremote
 unrent
+unrepent
+unrepents
+unrepulsive
 unrequiter
+unreserve
+unrest
 unretire
 unreturnable
 unreverent
@@ -39098,7 +39445,11 @@ unring
 unringing
 unrip
 unripe
+unrisen
 unritual
+unriven
+unrivet
+unrivets
 unroast
 unrobe
 unrobes
@@ -39108,6 +39459,7 @@ unround
 unrounds
 unrove
 unrule
+unrules
 unrulier
 unrumple
 unrung
@@ -39138,8 +39490,10 @@ unstringing
 unstrings
 unstrung
 unsub
+unsubs
 unsuitable
 unsung
+unsure
 unt
 untack
 untag
@@ -39224,6 +39578,7 @@ uptime
 upto
 upturn
 upturning
+upturns
 upwarp
 upwarps
 uracil
@@ -39322,6 +39677,7 @@ user
 users
 uses
 useta
+useter
 usher
 ushers
 ustad
@@ -39343,6 +39699,7 @@ uterine
 uteritis
 utero
 uterus
+uteruses
 utes
 utile
 utiles
@@ -39572,8 +39929,10 @@ veined
 veiner
 veineries
 veinier
+veiniest
 veining
 veinlet
+veinlets
 veins
 vela
 velamen
@@ -39593,6 +39952,7 @@ veligers
 velitation
 velum
 velure
+velures
 velvet
 velveted
 velvetleaf
@@ -39628,9 +39988,13 @@ ventre
 vents
 venture
 venturer
+ventures
+venturi
+venturis
 venue
 venues
 venule
+venules
 venus
 venuses
 vera
@@ -39739,6 +40103,7 @@ vestiges
 vestries
 vestry
 vests
+vesture
 vesuvianite
 vet
 vetch
@@ -39847,6 +40212,7 @@ vineries
 vines
 vinho
 vinier
+viniest
 vining
 vino
 vinos
@@ -39854,6 +40220,7 @@ vinous
 vins
 vint
 vinted
+vintner
 vints
 viol
 viola
@@ -39899,6 +40266,10 @@ virions
 virological
 virtu
 virtue
+virtuise
+virulent
+virus
+viruses
 vis
 visa
 visage
@@ -40045,6 +40416,9 @@ vrous
 vrouw
 vug
 vugs
+vuln
+vulns
+vulpine
 vult
 vulva
 vulval
