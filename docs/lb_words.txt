@@ -638,6 +638,7 @@ adaption
 adaptly
 adaptor
 adaptorial
+adapts
 adarce
 adat
 adatom
@@ -1673,6 +1674,7 @@ aloud
 alow
 alp
 alpaca
+alpacas
 alpha
 alpharion
 alphatron
@@ -2168,6 +2170,7 @@ antbears
 antbird
 antbirds
 antcap
+antcaps
 antdom
 ante
 anteal
@@ -2369,6 +2372,7 @@ aping
 apish
 aplanat
 aplanatic
+aplanats
 aplite
 aplitic
 aplomb
@@ -2777,6 +2781,8 @@ ashets
 ashine
 ashlar
 ashlars
+ashplant
+ashplants
 ashram
 ashrama
 ashramas
@@ -2791,6 +2797,7 @@ asities
 asity
 ask
 askable
+askant
 askar
 askari
 askaris
@@ -5727,6 +5734,8 @@ carotene
 carotid
 carp
 carpal
+carpark
+carparks
 carpe
 carpel
 carper
@@ -5838,6 +5847,7 @@ catacomb
 catalectic
 catalog
 catalpa
+catalpas
 catalufa
 catalysis
 catalyst
@@ -5852,6 +5862,8 @@ cataphatic
 cataphor
 cataphora
 cataphoric
+cataphract
+cataphracts
 cataract
 cataracts
 catastases
@@ -5891,6 +5903,8 @@ caterers
 caters
 caterwaul
 cates
+catflap
+catflaps
 catharsis
 cathartic
 cathartics
@@ -6672,7 +6686,9 @@ clangor
 clank
 clanking
 clankingly
+clanks
 clap
+claps
 clarifier
 clarion
 clarkia
@@ -6683,6 +6699,8 @@ clart
 clarty
 clary
 clash
+clasp
+clasps
 clast
 clasts
 clausus
@@ -7446,6 +7464,7 @@ craniotomy
 crank
 crankily
 cranking
+cranks
 cranky
 crans
 crap
@@ -8111,6 +8130,8 @@ darg
 dargah
 daring
 daringly
+dark
+darks
 darl
 darling
 darls
@@ -8128,6 +8149,7 @@ darting
 dartitis
 darts
 das
+dash
 dastard
 dastards
 dastur
@@ -11422,6 +11444,8 @@ flanker
 flankers
 flanks
 flans
+flap
+flaps
 flare
 flash
 flashback
@@ -11436,12 +11460,16 @@ flat
 flatboat
 flatbread
 flatbug
+flatcap
+flatcaps
 flatcar
+flatcars
 flatfile
 flatfish
 flathead
 flatiron
 flatland
+flatlands
 flats
 flatware
 flaunt
@@ -11706,6 +11734,9 @@ frameas
 frames
 framis
 frampold
+franc
+franca
+francs
 frank
 franker
 frankers
@@ -11715,9 +11746,11 @@ franklin
 franklins
 franks
 frap
+fraps
 frat
 fratch
 frater
+frats
 fraught
 freight
 frenetic
@@ -15766,6 +15799,8 @@ kalis
 kalmia
 kalmias
 kalong
+kalpa
+kalpas
 kalua
 kamahi
 kame
@@ -16559,6 +16594,7 @@ landnam
 landpirate
 landplane
 landrail
+lands
 lane
 laned
 lanes
@@ -16584,6 +16620,7 @@ lanyard
 laogai
 lap
 lapa
+lapas
 lapel
 lapels
 laps
@@ -16601,6 +16638,7 @@ lards
 lardy
 lares
 larf
+larfs
 larga
 largas
 large
@@ -24161,6 +24199,7 @@ paca
 pacai
 pacamac
 pacarana
+pacaranas
 pacas
 pacay
 pacays
@@ -24194,6 +24233,7 @@ paco
 pacos
 pact
 paction
+pacts
 pacu
 pacy
 pad
@@ -24294,6 +24334,7 @@ pal
 pala
 palacio
 paladar
+paladars
 paladin
 palaeoequator
 palaeoequatorial
@@ -24302,9 +24343,13 @@ palaeoplain
 palaeopole
 palaeopoles
 palais
+palak
 palang
 palapa
+palapas
 palar
+palas
+palash
 palatable
 palatal
 palatality
@@ -24637,6 +24682,7 @@ paramorph
 paramorphic
 paramoudra
 paramour
+paranasal
 paranatal
 paranete
 parang
@@ -24664,6 +24710,9 @@ paraphilia
 paraphiliac
 paraphilic
 paraphonic
+paraphrast
+paraphrasts
+paraphs
 paraphyly
 paraplane
 paraplegia
@@ -24686,6 +24735,7 @@ parasitises
 parasitism
 parastas
 parastases
+parastatal
 paratactic
 paratartaric
 paratha
@@ -24771,7 +24821,10 @@ parkies
 parkiest
 parkin
 parking
+parkland
+parklands
 parklet
+parks
 parlando
 parlatic
 parlatory
@@ -24787,6 +24840,7 @@ parma
 parmelioid
 parmo
 parms
+parnas
 parnel
 parochial
 parochiality
@@ -24879,6 +24933,7 @@ pasanda
 pasandas
 pasar
 pasars
+pascal
 pasch
 pascuant
 pase
@@ -24911,6 +24966,7 @@ paswak
 pat
 pata
 pataca
+patacas
 patache
 pataches
 patagia
@@ -25810,6 +25866,7 @@ phototypography
 phototypy
 phots
 photy
+phrasal
 phrator
 phreak
 phreaker
@@ -26399,6 +26456,7 @@ planetas
 planetesimal
 planetesimals
 planh
+planhs
 planigraph
 planigraphy
 planing
@@ -26406,6 +26464,7 @@ planities
 planity
 plank
 planking
+planks
 plankton
 plans
 plant
@@ -26416,6 +26475,7 @@ plantar
 planted
 plantlet
 plantocracy
+plants
 plantula
 plantulas
 plantule
@@ -26429,12 +26489,14 @@ plap
 plaps
 plaque
 plasaj
+plash
 plat
 platan
 platano
 platans
 platanus
 platanuses
+platch
 plate
 platea
 plateas
@@ -26460,6 +26522,8 @@ platinite
 platinites
 platinoid
 platinum
+plats
+platsh
 platy
 platycranial
 platypod
@@ -27269,6 +27333,7 @@ pranging
 pranic
 prank
 pranking
+pranks
 praps
 prasad
 prasads
@@ -28830,6 +28895,7 @@ rale
 rales
 ralph
 ralphing
+ralphs
 rals
 ram
 ramada
@@ -32512,6 +32578,7 @@ saltines
 saltire
 saltires
 saltish
+saltpan
 salts
 saltus
 saltuses
@@ -32590,6 +32657,9 @@ sanads
 sanatoria
 sanctus
 sand
+sandal
+sandarac
+sandarach
 sandbag
 sandbags
 sandhi
@@ -32697,6 +32767,7 @@ sarong
 sarongs
 saros
 saroses
+sarpanch
 sarsen
 sarsenet
 sarsenets
@@ -32858,6 +32929,8 @@ scale
 scaleable
 scaled
 scales
+scalp
+scalps
 scaly
 scam
 scamp
@@ -32868,6 +32941,7 @@ scams
 scamster
 scamsters
 scan
+scandal
 scans
 scansion
 scant
@@ -33054,6 +33128,8 @@ scratchier
 scratchies
 scratchiest
 scratchiti
+scratchpad
+scratchpads
 scratchy
 scrawl
 scrawls
@@ -33796,6 +33872,7 @@ showman
 shown
 shows
 shoyu
+shrank
 shrew
 shrewish
 shrews
@@ -34867,6 +34944,7 @@ sparkers
 sparkier
 sparkies
 sparkiest
+sparks
 spars
 sparse
 sparser
@@ -34974,7 +35052,11 @@ spirulina
 spit
 spits
 spitup
+splash
+splashpad
+splashpads
 splat
+splats
 splenitis
 splenium
 splenius
@@ -35172,6 +35254,8 @@ stands
 stank
 stans
 stapes
+staph
+staphs
 star
 starbase
 starbases
