@@ -309,11 +309,15 @@ academise
 academism
 academy
 acai
+acajou
+acajous
 acalculia
 acanonical
 acanth
 acanthodian
+acanthodians
 acanths
+acanthus
 acapnia
 acara
 acaras
@@ -407,6 +411,7 @@ acholia
 acholic
 acholuria
 acholuric
+achondritic
 achroite
 achromic
 achronical
@@ -433,6 +438,7 @@ acidotic
 acids
 acidulate
 acidulated
+aciduric
 acidy
 acierage
 acies
@@ -491,12 +497,15 @@ acreman
 acremen
 acres
 acrid
+acridian
+acridians
 acridid
 acridids
 acridity
 acridly
 acridology
 acrimony
+acrious
 acritarch
 acritarches
 acritical
@@ -511,6 +520,8 @@ acrobats
 acrochord
 acroclinium
 acrocyanosis
+acrodont
+acrodonts
 acrodynia
 acrography
 acrolect
@@ -562,6 +573,8 @@ actinium
 actinula
 action
 actioner
+actions
+actious
 activase
 activases
 activate
@@ -607,6 +620,7 @@ acute
 acutely
 acutes
 acutest
+acutish
 acyclic
 acyl
 acyloin
@@ -674,6 +688,7 @@ adiabat
 adiabatic
 adiabatics
 adiabats
+adianthus
 adiantum
 adiantums
 adiaphoral
@@ -771,6 +786,7 @@ adornation
 adorned
 adorning
 adorningly
+adorns
 adown
 adoze
 adprep
@@ -800,6 +816,9 @@ adultly
 adultoid
 adunation
 aduncate
+adust
+adustion
+adustions
 advance
 advanced
 advect
@@ -1255,6 +1274,7 @@ airbrush
 airbus
 aircon
 aircrew
+airdash
 airdate
 airdrop
 aired
@@ -1956,6 +1976,7 @@ anaclitic
 anaconda
 anacreontic
 anacronym
+anacrusis
 anadama
 anaemia
 anaemic
@@ -2017,6 +2038,10 @@ ancho
 anchor
 anchoret
 anchoretic
+anchoritic
+anchors
+anchusa
+anchusas
 ancien
 ancient
 ancients
@@ -2287,6 +2312,7 @@ antlions
 antode
 antoeci
 antoecian
+antojito
 antonomasia
 antonomasy
 antonym
@@ -2326,6 +2352,7 @@ anywhen
 anywhence
 anywhere
 aorist
+aoristic
 aorists
 aorta
 aortic
@@ -2958,6 +2985,9 @@ aubrietia
 auburn
 aucht
 auchts
+auction
+auctions
+audacious
 audial
 audibility
 audible
@@ -2982,6 +3012,7 @@ auditoria
 auditorium
 auditoriums
 auditors
+audits
 auge
 augen
 augens
@@ -3092,6 +3123,9 @@ autocrators
 autocrats
 autocue
 autocycle
+autodidact
+autodidactic
+autodidacts
 autoflare
 autogyro
 autoist
@@ -5405,6 +5439,8 @@ caimans
 caique
 cairn
 cairns
+cajon
+cajons
 cake
 cakeage
 cakeages
@@ -5550,9 +5586,15 @@ cancerine
 cancerwort
 cancroid
 candid
+candida
+candidas
+candidiasis
 candidly
+candiru
+candirus
 cando
 candor
+candour
 candy
 cane
 caned
@@ -5577,6 +5619,7 @@ canonries
 canonry
 canons
 canopy
+canorous
 cans
 canst
 cant
@@ -5586,6 +5629,7 @@ cantatas
 canter
 canthi
 canthic
+canthus
 canti
 cantina
 cantinas
@@ -5597,12 +5641,14 @@ cantons
 cantor
 cantorial
 cantoris
+cantors
 cantos
 cantrail
 cantrails
 cantrip
 cantrips
 cants
+cantus
 canvas
 canvases
 canyon
@@ -5999,6 +6045,9 @@ causes
 caustic
 caustics
 cautery
+caution
+cautions
+cautious
 cava
 cavalcade
 cavalcades
@@ -6150,6 +6199,7 @@ chacma
 chad
 chadar
 chador
+chadors
 chads
 chaeta
 chaetae
@@ -6178,6 +6228,8 @@ chancier
 chanciest
 chancre
 chancres
+chancroid
+chancrous
 chancy
 chank
 chanks
@@ -6461,6 +6513,7 @@ chiti
 chitin
 chitlin
 chiton
+chitons
 chits
 chiva
 chivas
@@ -6513,6 +6566,7 @@ cholis
 chomp
 chomps
 chondral
+chondritic
 chop
 chops
 choral
@@ -6529,6 +6583,7 @@ chorions
 chorographic
 chorography
 choroid
+choroids
 chorten
 chortle
 chorus
@@ -6588,8 +6643,11 @@ churl
 churlish
 churls
 churn
+churns
 chute
 chutes
+chutist
+chutists
 chypre
 chyron
 ciao
@@ -6639,6 +6697,7 @@ cion
 cipher
 cipolin
 circa
+circadian
 circinate
 circle
 circled
@@ -7719,6 +7778,8 @@ crouch
 croup
 croupy
 croute
+crouton
+croutons
 crow
 crowd
 crowded
@@ -7736,6 +7797,7 @@ crows
 cru
 crucial
 crucian
+crucians
 crucifer
 crucifier
 crud
@@ -7764,6 +7826,7 @@ crural
 crus
 cruse
 cruses
+crush
 crust
 crustal
 crusted
@@ -7964,6 +8027,8 @@ cush
 cushat
 cushats
 cushier
+cushion
+cushions
 cusk
 cusks
 cusp
@@ -7972,6 +8037,8 @@ cuspids
 cusps
 custard
 custards
+custodian
+custodians
 custom
 customer
 customers
@@ -8094,9 +8161,11 @@ daftar
 dag
 dah
 dahi
+dahis
 dahl
 dahlia
 dahling
+dahs
 dai
 daikon
 daily
@@ -8165,6 +8234,7 @@ danio
 dank
 dankly
 dans
+dansant
 dap
 daphnia
 daps
@@ -8198,9 +8268,12 @@ dartitis
 darts
 das
 dash
+dashi
+dashis
 dastard
 dastards
 dastur
+dasturs
 dat
 data
 databack
@@ -8819,6 +8892,7 @@ dhyana
 diabatic
 diable
 diabolo
+diachronous
 diacritic
 diacritical
 diacritics
@@ -8852,6 +8926,7 @@ diamond
 diamonds
 diana
 dianas
+dianthus
 diaper
 diarchic
 diarchy
@@ -8869,13 +8944,17 @@ dice
 diced
 dices
 dicey
+dichasia
 dichoptic
 dichord
+dichords
 dichotic
 dichotomic
 dichotomous
 dichroic
+dichroistic
 dichroitic
+dichronous
 dicing
 dick
 dicks
@@ -8890,6 +8969,7 @@ dictated
 dictative
 dictator
 dictatory
+diction
 dicto
 dictograph
 dictu
@@ -8905,6 +8985,7 @@ didact
 didactic
 didactical
 didactician
+didacticians
 didacticity
 didactics
 didactive
@@ -9110,6 +9191,8 @@ disadvised
 disadvises
 disalarm
 disalarms
+disanchor
+disanchors
 disarm
 disarms
 disaster
@@ -9129,6 +9212,10 @@ diseases
 disgust
 disgusts
 dish
+dishonor
+dishonors
+dishonour
+dishonours
 dishy
 disk
 diskal
@@ -9147,6 +9234,9 @@ disrated
 disrates
 distal
 distaste
+distich
+distichous
+distichs
 distil
 district
 districts
@@ -9283,7 +9373,10 @@ domino
 don
 dona
 donah
+donahs
 donair
+donairs
+donas
 donate
 donating
 donatio
@@ -9297,8 +9390,11 @@ donga
 donged
 donger
 donging
+donjon
+donjons
 donko
 donor
+donors
 dons
 donut
 dop
@@ -9310,7 +9406,9 @@ dopily
 dopy
 dor
 dorado
+dorcas
 dore
+doris
 dorje
 dorjes
 dork
@@ -9320,6 +9418,7 @@ dormer
 dormice
 dorp
 dors
+dorsa
 dory
 dos
 dosa
@@ -9339,6 +9438,7 @@ dotes
 doth
 doting
 dotingly
+dotish
 dots
 douane
 double
@@ -9365,6 +9465,7 @@ dour
 dourly
 dout
 douted
+douts
 dove
 dovecot
 dovecote
@@ -9488,6 +9589,7 @@ drogue
 droid
 droids
 droit
+droits
 drome
 dromoi
 dromond
@@ -9503,6 +9605,7 @@ drot
 drought
 droughtier
 drouth
+drouths
 drowse
 drowsed
 drowses
@@ -9555,6 +9658,7 @@ duco
 duct
 ducti
 ducts
+ductus
 dud
 dude
 duded
@@ -9581,6 +9685,7 @@ dugout
 dugs
 duh
 duiker
+dujour
 dulcamara
 dulce
 dulcet
@@ -9632,9 +9737,11 @@ durative
 dure
 durene
 durian
+durians
 duricrust
 duricrusts
 durn
+durns
 durst
 durum
 durwan
@@ -13314,6 +13421,7 @@ hadeda
 hading
 hadj
 hadron
+hadrons
 hadst
 hae
 haem
@@ -13354,6 +13462,8 @@ hailers
 hailing
 hails
 hair
+haircut
+haircuts
 hairdo
 hairdye
 hairgrip
@@ -13456,6 +13566,7 @@ handi
 handier
 handily
 handing
+handis
 handiwork
 handle
 handled
@@ -13464,11 +13575,14 @@ handmaid
 handmaids
 handman
 handmen
+handout
+handouts
 handplay
 hands
 handsaw
 handsaws
 handturn
+handturns
 handwash
 handwashing
 handwashings
@@ -13655,6 +13769,7 @@ haunt
 haunter
 haunting
 haurient
+haustoria
 haut
 hautbois
 haute
@@ -14132,9 +14247,15 @@ hist
 hister
 histers
 histic
+histioid
 histoblast
 histoblasts
+histoid
+historian
+historians
 historic
+historician
+historicians
 historicist
 historicists
 historist
@@ -14314,9 +14435,12 @@ honorial
 honorifies
 honoring
 honoris
+honorous
 honors
 honour
 honouring
+honourous
+honours
 hons
 hop
 hope
@@ -14649,6 +14773,7 @@ icetray
 icewater
 icewine
 ichor
+ichorous
 ichthus
 ichthyic
 ichthyoid
@@ -14677,6 +14802,7 @@ icterus
 ictus
 icy
 idant
+idants
 ide
 idea
 ideaed
@@ -14724,6 +14850,7 @@ idiota
 idiotas
 idiotic
 idiotical
+idiotish
 idiotry
 idiots
 idiotypic
@@ -14759,6 +14886,8 @@ ignore
 ignorer
 ignores
 ignoring
+ijtihad
+ijtihads
 ikat
 ikats
 ikebana
@@ -15577,6 +15706,7 @@ ironmen
 ironmonger
 ironmongering
 irons
+ironsand
 ironware
 ironwort
 irony
@@ -15657,6 +15787,8 @@ jabot
 jabots
 jabs
 jacal
+jacana
+jacanas
 jack
 jackal
 jackals
@@ -15712,16 +15844,24 @@ jetsets
 jeu
 jewel
 jhil
+jiao
 jib
 jibs
 jig
 jigs
+jihad
+jihadi
+jihadis
+jihadist
+jihadists
+jihads
 jilbab
 jilbabs
 jilt
 jilts
 jim
 jird
+jirds
 jism
 jisms
 jit
@@ -15736,6 +15876,8 @@ joe
 joes
 joey
 joeys
+john
+johns
 joie
 joist
 joists
@@ -15750,6 +15892,11 @@ jot
 jota
 jotas
 jots
+jour
+journo
+jours
+joust
+jousts
 jowl
 jowly
 joy
@@ -15757,11 +15904,15 @@ joyed
 joys
 jua
 juba
+judas
 judge
 judger
 judgers
 judgey
+judicious
 judo
+judoist
+judoists
 judy
 jug
 jugs
@@ -15790,6 +15941,8 @@ jurats
 jure
 juridical
 juris
+jurisdiction
+jurisdictions
 jurist
 juristic
 jurists
@@ -21330,6 +21483,7 @@ nacho
 nacket
 nacre
 nacrite
+nacrous
 nad
 nada
 nadger
@@ -21469,6 +21623,7 @@ nanoplankton
 nanopore
 nanorobot
 nanorod
+nanorods
 nanotech
 nanovolt
 nanowire
@@ -21550,6 +21705,8 @@ nasbandi
 nascha
 nasher
 nashi
+nashiji
+nashijis
 nashis
 nashki
 nasho
@@ -21665,6 +21822,7 @@ naysays
 nazar
 nazir
 nazrana
+nduja
 neanic
 neant
 neants
@@ -22241,6 +22399,7 @@ nmoli
 nmols
 noa
 noah
+noahs
 noakes
 nob
 nobile
@@ -22264,9 +22423,11 @@ nodhead
 nodheads
 nodi
 nodose
+nodous
 nods
 nodulation
 nodule
+nodus
 noel
 noels
 noema
@@ -22412,6 +22573,7 @@ nonsense
 nonsenses
 nonsensible
 nonstop
+nonsuch
 nonsuit
 nonsunt
 nontrivial
@@ -22448,6 +22610,7 @@ norimon
 norimono
 norimons
 norite
+noritic
 nork
 norks
 norland
@@ -22541,6 +22704,7 @@ notionality
 notionary
 notions
 notitia
+notitias
 notopodial
 notorious
 notornis
@@ -22551,6 +22715,7 @@ noud
 noug
 nougat
 nougatine
+nouja
 noumeite
 noumenon
 noun
@@ -22563,7 +22728,10 @@ nounous
 nouns
 nouny
 noup
+nourish
 nous
+noust
+nousts
 nova
 novae
 novas
@@ -23018,6 +23186,9 @@ odeon
 odes
 odeum
 odic
+odious
+odist
+odists
 odium
 odograph
 odom
@@ -23025,16 +23196,22 @@ odonata
 odonatan
 odonate
 odontic
+odontist
+odontists
+odontitis
 odontoid
+odontoids
 odontome
 odor
 odorable
 odorant
 odorizing
+odorous
 odors
 odour
 odoured
 odourful
+odours
 ods
 odum
 odyle
@@ -23141,6 +23318,7 @@ oiran
 oirans
 ois
 oiticica
+oiticicas
 oka
 okas
 okay
@@ -23326,6 +23504,7 @@ onomasts
 onomatomania
 onramp
 onroad
+onrush
 onsen
 onsens
 onset
@@ -23503,12 +23682,16 @@ orchat
 orchats
 orchid
 orchidian
+orchidist
+orchidists
 orchidology
+orchids
 orchil
 orchils
 orchis
 orchises
 orchitic
+orchitis
 orcin
 orcinol
 orcish
@@ -23533,6 +23716,7 @@ ordinator
 ordo
 ordos
 ordure
+ordurous
 ore
 oread
 orebody
@@ -23617,6 +23801,7 @@ orinasal
 oriole
 orison
 orisons
+oristic
 ork
 orks
 orl
@@ -23922,12 +24107,14 @@ outhauls
 outheld
 outher
 outhit
+outhits
 outhold
 outhomer
 outie
 outies
 outing
 outjut
+outjuts
 outlabour
 outlain
 outlash
@@ -31230,11 +31417,13 @@ reyoke
 reyoked
 rez
 rezero
+rhachidian
 rhachis
 rhagon
 rhamnin
 rhamnins
 rhandir
+rhandirs
 rhapis
 rhapises
 rhatania
@@ -31285,6 +31474,7 @@ rhomb
 rhombed
 rhombi
 rhombic
+rhonchus
 rhopalic
 rhopalium
 rhoptry
@@ -32069,6 +32259,7 @@ rotolos
 rotometer
 roton
 rotonda
+rotondas
 rotons
 rotor
 rotors
@@ -32147,6 +32338,7 @@ routinary
 routine
 routing
 routining
+routish
 routous
 routs
 roux
@@ -32250,6 +32442,8 @@ rucksacks
 ruckus
 ruckuses
 rucola
+ruction
+ructions
 rud
 rude
 rudeboy
@@ -32262,6 +32456,7 @@ rudiment
 rudish
 rudist
 rudistid
+rudistids
 rudists
 rudite
 rudity
@@ -32538,6 +32733,7 @@ sad
 sadic
 sadism
 sadist
+sadistic
 sadists
 sadsack
 sadsacks
@@ -32759,6 +32955,8 @@ san
 sanad
 sanads
 sanatoria
+sanction
+sanctions
 sanctus
 sand
 sandal
@@ -32946,6 +33144,7 @@ sauna
 saunas
 saunf
 saurian
+saurians
 sausage
 sausages
 sausie
@@ -33709,6 +33908,10 @@ sezes
 shabash
 shack
 shacks
+shad
+shadchan
+shadchans
+shads
 shaft
 shafter
 shafters
@@ -33716,6 +33919,10 @@ shafts
 shag
 shags
 shah
+shahada
+shahadah
+shahadahs
+shahadas
 shahid
 shahids
 shahs
@@ -33940,10 +34147,14 @@ shoats
 shochu
 shock
 shocks
+shod
 shoe
 shoehorn
 shoehorns
 shoes
+shoji
+shojis
+shojo
 shone
 shonen
 shonk
@@ -33960,6 +34171,8 @@ shorts
 shosha
 shot
 shots
+shoud
+shoujo
 shounen
 shoush
 shout
@@ -33987,6 +34200,8 @@ shrieval
 shrike
 shrikes
 shrive
+shroud
+shrouds
 shrove
 shrub
 shrubs
@@ -35608,6 +35823,7 @@ stickish
 stickit
 sticklac
 sticks
+stiction
 stied
 sties
 stifle
@@ -35724,7 +35940,9 @@ stotin
 stotins
 stots
 stour
+stoush
 stout
+stoutish
 stouts
 stove
 stoves
@@ -35877,6 +36095,8 @@ stude
 studes
 studier
 studiers
+studio
+studious
 studs
 study
 stultifier
@@ -36018,6 +36238,10 @@ sucks
 suckup
 suckups
 sucre
+suction
+suctions
+suctorian
+suctorians
 sud
 sudan
 sudaria
@@ -37351,6 +37575,7 @@ thana
 thanage
 thanas
 thandai
+thandais
 thane
 thanes
 thang
@@ -37483,6 +37708,7 @@ thionyl
 thiram
 third
 thirdhand
+thirds
 thirst
 thirstier
 thirsts
@@ -37508,6 +37734,7 @@ thorax
 thoria
 thorn
 thornily
+thorns
 thorntail
 thorny
 thorough
@@ -37525,6 +37752,10 @@ thoughtlet
 thoughtway
 thoughty
 thous
+thousand
+thousands
+thousandth
+thousandths
 thrash
 thrasher
 thrashers
@@ -37598,6 +37829,7 @@ thuds
 thug
 thugs
 thuja
+thujas
 thulium
 thumb
 thumbs
@@ -37918,6 +38150,7 @@ tmeses
 tmrw
 tns
 toad
+toadish
 toadlet
 toads
 toady
@@ -38117,6 +38350,7 @@ torches
 torchiere
 torchlit
 torchon
+torchons
 torcs
 tore
 toreador
@@ -38130,6 +38364,7 @@ torment
 tormenting
 tormentor
 torn
+tornadic
 tornado
 toro
 toroid
@@ -38213,6 +38448,8 @@ totipotent
 toto
 tots
 toty
+toucan
+toucans
 touch
 touche
 toucher
@@ -38232,8 +38469,10 @@ tourer
 tourers
 touring
 tourist
+touristic
 tourists
 tourney
+tournois
 tours
 tourtiere
 tourtieres
@@ -38875,6 +39114,7 @@ tubular
 tubule
 tubules
 tubulin
+tuchis
 tuck
 tucker
 tuckers
@@ -39002,6 +39242,7 @@ turning
 turnip
 turnkey
 turnout
+turnouts
 turns
 turnstile
 turnt
