@@ -392,6 +392,7 @@ ache
 ached
 achene
 achenes
+achenial
 acher
 achers
 aches
@@ -458,14 +459,18 @@ acne
 acned
 acnestis
 acnestises
+acnodal
+acnode
 acock
 acoel
 acolyte
 acone
 aconic
+aconine
 aconitia
 aconitic
 acorn
+acorned
 acorning
 acorns
 acosmism
@@ -790,6 +795,7 @@ adorning
 adorningly
 adorns
 adown
+adoxal
 adoze
 adprep
 adradial
@@ -1295,6 +1301,8 @@ airframes
 airglow
 airgraph
 airgun
+airhead
+airheaded
 airhorn
 airhorns
 airier
@@ -1311,6 +1319,7 @@ airleg
 airlift
 airlifting
 airlike
+airline
 airling
 airlock
 airmail
@@ -1495,6 +1504,7 @@ alcoholism
 alcoholist
 alcoholists
 alcopop
+alcornoco
 alcosol
 alcyonarian
 alcyonian
@@ -1592,6 +1602,7 @@ aliened
 alienise
 alienist
 alienists
+alienor
 aliens
 alif
 aliform
@@ -3304,11 +3315,13 @@ axe
 axed
 axel
 axels
+axenic
 axi
 axial
 axil
 axis
 axle
+axon
 ayah
 ayahs
 aye
@@ -5499,6 +5512,8 @@ cacique
 cack
 cacked
 cacking
+cackle
+cackled
 cackling
 cacks
 cacodyl
@@ -5591,6 +5606,9 @@ caldarium
 caldron
 calean
 caleche
+calendar
+calendric
+calendrical
 calf
 caliche
 calico
@@ -5598,6 +5616,7 @@ calicos
 caliph
 calix
 calk
+calked
 calks
 calm
 calmed
@@ -5909,6 +5928,7 @@ carking
 carks
 carl
 carlin
+carline
 carling
 carlins
 carload
@@ -5922,6 +5942,7 @@ carnal
 carnality
 carne
 carnet
+carnie
 carnita
 carnitas
 carny
@@ -6302,6 +6323,7 @@ chacham
 chachams
 chachas
 chack
+chacked
 chacks
 chacma
 chad
@@ -6313,6 +6335,8 @@ chaeta
 chaetae
 chai
 chain
+chaine
+chained
 chainmail
 chains
 chair
@@ -6321,7 +6345,11 @@ chaise
 chaises
 chakra
 chal
+chalcone
 chalk
+chalked
+chalkie
+chalkone
 chalks
 chalot
 chaloth
@@ -6396,11 +6424,13 @@ charivari
 charivaris
 charka
 charkha
+charlie
 charlock
 charm
 charmer
 charmers
 charms
+charnel
 chars
 chart
 charter
@@ -6517,6 +6547,7 @@ chez
 chi
 chia
 chiack
+chiacked
 chiacks
 chianti
 chias
@@ -6541,6 +6572,7 @@ chichi
 chichis
 chick
 chicken
+chickened
 chickenhawk
 chickens
 chickenwire
@@ -6562,6 +6594,8 @@ chiko
 chikos
 child
 childed
+childhead
+childlike
 childmind
 chile
 chili
@@ -6593,8 +6627,10 @@ chinas
 chinaware
 chinch
 chine
+chined
 chino
 chins
+chionodoxa
 chip
 chips
 chiral
@@ -6718,6 +6754,8 @@ chromium
 chromo
 chromophoric
 chronic
+chronicle
+chronicled
 chronon
 chronons
 chronotropic
@@ -6885,6 +6923,7 @@ clades
 cladism
 cladistic
 cladistics
+cladode
 clads
 clag
 claim
@@ -6938,6 +6977,7 @@ clays
 clear
 clearable
 clearer
+clearheaded
 clearly
 clears
 cleat
@@ -6948,6 +6988,8 @@ clefs
 cleft
 clefts
 cleg
+clench
+clenched
 cleome
 clepe
 clept
@@ -6964,7 +7006,9 @@ clew
 clewed
 clews
 cliche
+cliched
 click
+clicked
 clicking
 clicks
 clicky
@@ -6981,6 +7025,8 @@ climbs
 clime
 clinal
 clinch
+clinched
+cline
 cling
 clinic
 clinical
@@ -7109,15 +7155,20 @@ cocas
 cochair
 cochairs
 cochere
+cochineal
 cochlea
 cochleae
 cochleate
 cochoa
 cochoas
 cock
+cocked
 cocker
 cockers
+cockie
 cocking
+cockle
+cockled
 cockling
 cockrag
 cockroach
@@ -7142,10 +7193,12 @@ coda
 code
 codec
 coded
+codeine
 coder
 codex
 codicil
 codomain
+codon
 codpiece
 coecilian
 coed
@@ -7187,6 +7240,7 @@ coiled
 coiling
 coils
 coin
+coined
 coining
 coins
 coir
@@ -7194,6 +7248,7 @@ coirs
 coital
 coition
 coke
+coked
 col
 cola
 colada
@@ -7333,6 +7388,8 @@ concerter
 concertgoer
 conch
 concha
+conchae
+conchie
 concho
 conciliar
 conciliate
@@ -7340,9 +7397,17 @@ conciliation
 conciliator
 concoct
 concocter
+concord
 concrete
+condo
+condone
+condoned
+condor
 cone
+coned
+conehead
 cones
+conex
 confirm
 conform
 conga
@@ -7356,6 +7421,7 @@ conk
 conking
 conman
 conmen
+conrod
 cons
 consist
 consistorial
@@ -7464,8 +7530,12 @@ corbel
 corbie
 cord
 corda
+corded
 cordial
 cordiality
+cordlike
+cordon
+cordoned
 core
 cored
 corer
@@ -7476,13 +7546,21 @@ corgi
 coring
 corium
 cork
+corked
+corkie
 corking
+corklike
 corm
 cormel
 corn
+corncockle
 cornea
+corneal
 corneas
+corned
+cornel
 cornice
+corniche
 cornichon
 cornier
 cornily
@@ -8276,6 +8354,7 @@ dadler
 dado
 dadoed
 dados
+dadrock
 dads
 dadther
 daemon
@@ -8374,12 +8453,15 @@ dargah
 daring
 daringly
 dark
+darken
+darkened
 darks
 darl
 darling
 darls
 darn
 darned
+darnel
 darner
 darning
 darns
@@ -8486,6 +8568,8 @@ dazing
 dbag
 dbags
 dbx
+deacon
+deaconed
 dead
 deadbeat
 deadbolt
@@ -9424,7 +9508,11 @@ dobe
 doble
 dobra
 dobro
+docile
 docility
+dock
+docked
+docken
 doco
 doctor
 doctorate
@@ -9648,6 +9736,7 @@ drachm
 drachma
 drachy
 drack
+dracone
 draconian
 draconic
 draegermen
@@ -9659,6 +9748,7 @@ drail
 drails
 drain
 drainboard
+draincock
 drained
 draining
 drainpipe
@@ -9724,6 +9814,7 @@ drivels
 drives
 driveway
 driveways
+drock
 drogue
 droid
 droids
@@ -10231,6 +10322,7 @@ element
 elemental
 elementals
 elemi
+elenchi
 elevate
 elevated
 elevation
@@ -10424,12 +10516,17 @@ encamps
 encase
 encases
 encash
+enchain
+enchained
 enchant
 enchants
 enchase
 enchases
+enchilada
 encipher
 enclave
+encode
+encoded
 encomia
 encomium
 encroach
@@ -10540,6 +10637,7 @@ enraging
 enrapt
 enrapturing
 enrich
+enriched
 enriches
 enrobe
 enrobed
@@ -11143,6 +11241,8 @@ exited
 exitelite
 exiting
 exits
+exon
+exonic
 exostoses
 exostosis
 expedient
@@ -13607,8 +13707,11 @@ haceks
 hacendado
 hacendados
 hachure
+hacienda
+haciendado
 hack
 hackathon
+hacked
 hacker
 hacket
 hackia
@@ -13619,6 +13722,8 @@ hackies
 hackiest
 hackish
 hackit
+hackle
+hackled
 hackly
 hacks
 hackstock
@@ -13637,6 +13742,7 @@ hadeda
 hading
 hadj
 hadron
+hadronic
 hadrons
 hadst
 hae
@@ -13687,6 +13793,8 @@ hairgrips
 hairier
 hairiest
 hairily
+hairlike
+hairline
 hairnet
 hairoil
 hairpin
@@ -13864,15 +13972,24 @@ harbourage
 harbourer
 hard
 hardboard
+hardcode
+hardcoded
+harden
+hardened
 hardfought
+hardhack
 hardhat
 hardhay
 hardhead
+hardheaded
 hardier
 hardihead
+hardline
 hardly
 hardmen
 hardnut
+hardon
+hardrock
 hardtop
 hardun
 hardy
@@ -13886,7 +14003,9 @@ haricot
 haricots
 haring
 hark
+harked
 harken
+harkened
 harkens
 harks
 harlot
@@ -14052,14 +14171,18 @@ headboard
 headcase
 headcases
 headed
+headend
 header
 headful
 headgate
 headgear
 headier
 headlet
+headline
+headlined
 headload
 headmen
+headrail
 heads
 headset
 headsets
@@ -14085,6 +14208,7 @@ heard
 hearer
 hearers
 hearken
+hearkened
 hearkens
 hears
 hearse
@@ -14181,6 +14305,8 @@ held
 heliacal
 helianthus
 helical
+helicon
+heliconia
 heliport
 heliski
 heliskier
@@ -14349,6 +14475,10 @@ hewing
 hewn
 hews
 hex
+hexad
+hexahedra
+hexahedral
+hexahedron
 hexameter
 hexameters
 hexametric
@@ -14435,6 +14565,7 @@ hindwings
 hinge
 hinging
 hinky
+hinoki
 hins
 hint
 hinted
@@ -15007,6 +15138,7 @@ icing
 ick
 ickier
 ickiest
+ickle
 icky
 icon
 iconic
@@ -15313,6 +15445,8 @@ incitation
 incite
 incited
 inciter
+incline
+inclined
 inclining
 include
 included
@@ -15353,6 +15487,7 @@ indigos
 indite
 indited
 inditing
+indocile
 indocility
 indrawn
 indri
@@ -15464,6 +15599,7 @@ inhalation
 inhalational
 inhalator
 inhale
+inhaled
 inhaler
 inhalers
 inhaling
@@ -15921,6 +16057,7 @@ irone
 ironed
 ironer
 irones
+ironhead
 ironia
 ironias
 ironic
@@ -15936,6 +16073,7 @@ ironists
 ironize
 ironizes
 ironizing
+ironlike
 ironman
 ironmen
 ironmonger
@@ -16477,6 +16615,7 @@ kibitka
 kibitkas
 kibla
 kick
+kicked
 kicker
 kickier
 kickiest
@@ -16506,6 +16645,7 @@ kilikiti
 kilim
 kilims
 kiln
+kilned
 kilo
 kilobit
 kiloliter
@@ -16631,6 +16771,7 @@ kiwis
 kiyaki
 klatch
 klatsch
+klaxon
 klick
 klik
 kliket
@@ -16692,6 +16833,7 @@ kohas
 kohen
 kohl
 koi
+koine
 koinonia
 koji
 kokako
@@ -16882,6 +17024,7 @@ lacked
 lackey
 lackeyed
 lackeys
+lackie
 lacks
 lacky
 laconic
@@ -17274,6 +17417,7 @@ leached
 lead
 leadable
 leaded
+leaden
 leader
 leaders
 leads
@@ -17307,6 +17451,7 @@ leaps
 leapt
 learn
 learnable
+learned
 learner
 learners
 learnfare
@@ -17597,11 +17742,14 @@ libtard
 lice
 licence
 licet
+lichen
+lichened
 licht
 lichts
 licit
 licitly
 lick
+licked
 licking
 licks
 licorice
@@ -17618,6 +17766,7 @@ lief
 liege
 lieges
 lien
+lienor
 liens
 lierne
 lies
@@ -17676,6 +17825,7 @@ liked
 likelier
 likely
 liken
+likened
 likener
 likeners
 likens
@@ -17817,7 +17967,9 @@ linties
 linty
 liny
 lion
+lionhead
 lionizing
+lionlike
 lions
 lip
 lipa
@@ -17844,6 +17996,7 @@ liquor
 liquoring
 lira
 lire
+liriodendron
 liripipe
 lis
 lisente
@@ -22290,6 +22443,7 @@ neon
 neonatal
 neonate
 neoned
+neonic
 neonomian
 neonomians
 neons
@@ -22527,7 +22681,13 @@ nicher
 nichered
 nichevo
 nick
+nicked
+nickel
+nickeled
+nickelic
+nickeline
 nicker
+nickie
 nicking
 nickum
 nicky
@@ -22742,6 +22902,7 @@ noa
 noah
 noahs
 noakes
+noax
 nob
 nobile
 nobiliary
@@ -22758,11 +22919,13 @@ nobly
 nobs
 nocive
 nock
+nocked
 nocking
 nod
 nodal
 nodality
 nodalizing
+nodcock
 node
 noded
 nodhead
@@ -22812,6 +22975,7 @@ noisily
 noising
 noisy
 noix
+nokehick
 nokes
 nokeses
 nokick
@@ -22869,6 +23033,7 @@ nonces
 noncey
 nonchaotic
 nonchurch
+nonclinical
 noncore
 noncount
 noncy
@@ -22901,6 +23066,8 @@ noninvasive
 nonionic
 nonis
 nonism
+nonleaded
+nonlinear
 nonliteral
 nonliterary
 nonliterate
@@ -23132,6 +23299,9 @@ nowp
 nowt
 nowter
 nowy
+nox
+noxa
+noxal
 noy
 noyade
 noyau
@@ -23846,6 +24016,7 @@ one
 onehow
 oneing
 oneings
+oneiric
 oneirocrisies
 oneism
 oneisms
@@ -24151,6 +24322,7 @@ orgy
 oribatid
 oribi
 oribis
+orichalc
 oriel
 orieled
 orient
@@ -24211,6 +24383,7 @@ ornithophily
 ornithopod
 orobus
 orobuses
+orocline
 orocratic
 orogen
 orogenital
@@ -24833,8 +25006,10 @@ owt
 oxalaemia
 oxalamide
 oxalemia
+oxalic
 oxamide
 oxea
+oxen
 oxer
 oxers
 oxheal
@@ -29387,7 +29562,9 @@ racketers
 rackets
 rackful
 rackfuls
+rackie
 racking
+rackle
 racks
 racloir
 racon
@@ -29536,6 +29713,7 @@ railodoc
 railodok
 railplane
 railroad
+railroaded
 rails
 raiment
 rain
@@ -31896,6 +32074,7 @@ reyoke
 reyoked
 rez
 rezero
+rhachial
 rhachidian
 rhachis
 rhagon
@@ -31917,6 +32096,7 @@ rheme
 rhemes
 rhenate
 rhenite
+rheocline
 rheophore
 rheophyte
 rheophytic
@@ -32028,6 +32208,7 @@ ricey
 rich
 riche
 richen
+richened
 richens
 richer
 riches
@@ -32044,16 +32225,20 @@ ricinoleate
 ricinolein
 ricinus
 rick
+ricked
 ricker
 ricket
 ricketic
 ricking
+rickle
+ricklie
 rickling
 rickly
 rickrack
 ricks
 ricksha
 rickyard
+ricordo
 ricrac
 rictal
 rictus
@@ -32389,6 +32574,7 @@ riyo
 riza
 roa
 roach
+roached
 roaches
 roachy
 road
@@ -32487,7 +32673,11 @@ roc
 roche
 rochet
 rock
+rockcod
+rocked
+rockhard
 rocking
+rocklike
 rockling
 rococo
 rocs
@@ -32503,6 +32693,7 @@ rodham
 rodinal
 roding
 rodizio
+rodlike
 rodny
 rodomont
 rods
@@ -32585,6 +32776,7 @@ romping
 rompu
 rompy
 rond
+rondache
 ronde
 rondel
 rondena
@@ -32592,6 +32784,7 @@ rondey
 rondo
 rone
 roneo
+roneod
 roneoed
 roneoing
 roneos
@@ -42156,6 +42349,7 @@ wyn
 wynd
 wythe
 xenia
+xenon
 xeric
 xerox
 xeroxes
