@@ -866,6 +866,7 @@ adyt
 adyta
 adz
 adze
+adzed
 adzes
 adzing
 aechmea
@@ -1055,6 +1056,9 @@ agathists
 agatine
 agatise
 agatised
+agatize
+agatized
+agatizing
 agaty
 agave
 agaves
@@ -1075,11 +1079,13 @@ agelast
 agelasts
 agenbite
 agencies
+agenda
 agene
 agenesia
 agenesic
 agenesis
 agenesises
+agenized
 agent
 agential
 agenting
@@ -1127,6 +1133,7 @@ agitates
 agitating
 agitation
 agitational
+agitative
 agitato
 agitator
 agitpop
@@ -1152,6 +1159,8 @@ agnaming
 agnathan
 agnathans
 agnition
+agnize
+agnized
 agnizing
 ago
 agog
@@ -3222,6 +3231,7 @@ ave
 avel
 avels
 avenge
+avenged
 avenger
 avenging
 avens
@@ -3244,6 +3254,7 @@ avians
 aviaries
 aviate
 aviated
+aviating
 aviation
 avid
 avidin
@@ -3260,6 +3271,8 @@ avocet
 avocets
 avoid
 avoidant
+avoided
+avoiding
 avoision
 avos
 avow
@@ -3270,6 +3283,8 @@ avowing
 avows
 avulsion
 await
+awaited
+awaiting
 awaits
 awake
 awaken
@@ -3333,7 +3348,9 @@ ays
 azalea
 azaleas
 azan
+azide
 azimuth
+azine
 azo
 azoic
 azonal
@@ -8533,6 +8550,7 @@ daunt
 daunts
 daven
 davened
+davening
 davit
 daw
 dawd
@@ -8541,6 +8559,7 @@ dawdled
 dawg
 dawn
 dawned
+dawning
 daws
 day
 dayal
@@ -8563,6 +8582,7 @@ daytal
 daytrading
 daywork
 daze
+dazed
 dazes
 dazing
 dbag
@@ -8576,6 +8596,7 @@ deadbolt
 deaden
 deadened
 deadener
+deadening
 deader
 deadest
 deadhead
@@ -8878,6 +8899,7 @@ deni
 denial
 denied
 denim
+denizen
 denotation
 dent
 dental
@@ -9000,6 +9022,7 @@ detailed
 detailer
 detain
 detained
+detaining
 detect
 detected
 detection
@@ -9051,6 +9074,7 @@ devi
 deviance
 deviate
 deviated
+deviating
 device
 devices
 devis
@@ -9060,9 +9084,11 @@ devises
 devo
 devoice
 devoiced
+devoid
 devore
 devote
 devoted
+devoting
 devotion
 devour
 devoured
@@ -9077,6 +9103,7 @@ dewatered
 dewclaw
 dewclaws
 dewed
+dewing
 dews
 dewy
 dex
@@ -9274,6 +9301,10 @@ digitised
 digitiser
 digitisers
 digitises
+digitize
+digitized
+digitizing
+digitogenin
 digitonin
 digits
 digitus
@@ -9326,10 +9357,12 @@ dine
 dined
 ding
 dingdong
+dinged
 dinghy
 dingily
 dinging
 dingo
+dingoed
 dingoing
 dingos
 dings
@@ -9349,6 +9382,7 @@ dinted
 dinting
 dioch
 diode
+diogenite
 diol
 diols
 diorama
@@ -9476,6 +9510,9 @@ ditz
 ditzier
 div
 diva
+divagate
+divagated
+divagating
 divan
 divas
 dive
@@ -9488,10 +9525,17 @@ divey
 divi
 divide
 divided
+dividend
 divides
+dividing
 divier
 divine
 divined
+diving
+divining
+divinize
+divinized
+divinizing
 divis
 divisi
 divisive
@@ -9705,13 +9749,18 @@ downed
 downer
 downgrade
 downgraded
+downing
 downlow
 downrange
 downtime
 downtown
 downtowner
+downvote
+downvoted
+downvoting
 downward
 downwarp
+downwind
 dowse
 dowsed
 dowses
@@ -9722,6 +9771,7 @@ dox
 doxed
 doyley
 doze
+dozed
 dozen
 dozens
 dozenth
@@ -10224,6 +10274,9 @@ egoists
 egos
 egotist
 egotists
+egotize
+egotized
+egotizing
 egret
 egrets
 eide
@@ -10539,6 +10592,9 @@ end
 endear
 ended
 endekad
+endenizen
+endenizened
+endenizening
 endian
 ending
 endite
@@ -10546,6 +10602,9 @@ endive
 endline
 endnote
 endopod
+endow
+endowed
+endowing
 endplate
 endpoint
 endrin
@@ -10574,6 +10633,7 @@ enfant
 enforce
 enforces
 engage
+engaged
 engages
 engaging
 engine
@@ -11091,6 +11151,7 @@ evade
 evaded
 evader
 evades
+evading
 evaginate
 evaluate
 evaluated
@@ -11117,7 +11178,9 @@ evensongs
 event
 eventer
 eventful
+eventide
 eventime
+eventing
 eventive
 events
 eventuate
@@ -11153,6 +11216,7 @@ evictor
 evicts
 evidence
 evidenced
+evident
 evil
 evils
 evince
@@ -11163,6 +11227,7 @@ evirates
 evite
 evited
 evites
+eviting
 evoke
 evoker
 evokers
@@ -11343,6 +11408,7 @@ eyre
 eyrie
 eyries
 eyrir
+ezine
 fab
 fable
 fabler
@@ -11382,6 +11448,7 @@ fade
 faded
 fader
 fadge
+fading
 fado
 fae
 faecal
@@ -11396,6 +11463,7 @@ fain
 faineant
 faineants
 faint
+fainted
 fainter
 fainting
 faints
@@ -11506,6 +11574,7 @@ fatalist
 fatalists
 fatcat
 fate
+fated
 fateful
 father
 fating
@@ -11542,9 +11611,13 @@ favrile
 fawn
 fawned
 fawner
+fawning
 fax
 fay
 faze
+fazed
+fazenda
+fazing
 fear
 feard
 feared
@@ -12396,6 +12469,7 @@ gaiatri
 gaiety
 gaily
 gain
+gained
 gainer
 gainful
 gaining
@@ -12637,6 +12711,7 @@ gays
 gazania
 gazar
 gaze
+gazed
 gazer
 gazers
 gazes
@@ -12761,6 +12836,8 @@ geocode
 geocoded
 geodata
 geode
+geodete
+geodized
 geogeny
 geogonies
 geogony
@@ -12908,6 +12985,7 @@ gingham
 ginghams
 ginging
 gingiva
+gingivae
 gingko
 gingkoes
 gingkos
@@ -13119,7 +13197,11 @@ gobs
 goby
 god
 godchild
+godet
+godetia
 godhead
+godize
+godized
 godizing
 godkin
 godlet
@@ -13244,6 +13326,7 @@ gourmet
 gout
 gouty
 gove
+goved
 govern
 governance
 governante
@@ -15172,6 +15255,8 @@ ideas
 ideate
 ideated
 ideates
+ideating
+ideative
 ideist
 ideists
 idem
@@ -15204,6 +15289,9 @@ idiotas
 idiotic
 idiotical
 idiotish
+idiotize
+idiotized
+idiotizing
 idiotry
 idiots
 idiotypic
@@ -15478,15 +15566,22 @@ indicant
 indicator
 indicia
 indie
+indigene
+indigenize
+indigenized
+indigenizing
+indigent
 indignant
 indignation
 indignity
 indigo
 indigoid
 indigos
+indigotin
 indite
 indited
 inditing
+individ
 indocile
 indocility
 indrawn
@@ -15941,6 +16036,7 @@ inutile
 inutility
 invade
 invaded
+invading
 invaginate
 invaluable
 invasion
@@ -15950,6 +16046,8 @@ invected
 invective
 inveigle
 invent
+invented
+inventing
 inventive
 inventor
 inventors
@@ -15970,6 +16068,7 @@ invite
 invited
 inviter
 invites
+inviting
 invitro
 invoice
 invoiced
@@ -15987,6 +16086,9 @@ iodic
 iodide
 iodinating
 iodination
+iodine
+iodize
+iodized
 iodizing
 iodoform
 iodophor
@@ -22369,10 +22471,15 @@ neg
 negara
 negaras
 negate
+negated
 negater
 negating
 negation
 negational
+negativa
+negative
+negatived
+negativing
 negatron
 negeri
 negeris
@@ -22383,6 +22490,7 @@ negligibly
 negotiable
 negotiant
 negotiate
+negotiated
 negotiating
 negotiation
 negotiator
@@ -22459,6 +22567,9 @@ neotene
 neotenes
 neotenin
 neotenise
+neotenize
+neotenized
+neotenizing
 neoteny
 neotesite
 neotesites
@@ -22542,6 +22653,7 @@ nethead
 netheads
 nether
 neti
+netizen
 netlike
 netop
 nets
@@ -22705,6 +22817,7 @@ nidal
 nidality
 nidation
 nide
+nideot
 nidi
 nidiot
 nido
@@ -22895,6 +23008,7 @@ nixer
 nixie
 nixing
 nixtamal
+nizatidine
 nmol
 nmoli
 nmols
@@ -24783,6 +24897,7 @@ ovator
 ovators
 oven
 ovenable
+ovened
 ovens
 ovenware
 over
@@ -37401,6 +37516,7 @@ tael
 taels
 taenia
 taeniae
+taenioid
 taenite
 taenites
 tafia
@@ -38072,6 +38188,7 @@ tenge
 tenia
 teniae
 tenias
+tenioid
 tenon
 tenoner
 tenoning
@@ -38692,6 +38809,7 @@ tines
 tinfoil
 ting
 tinge
+tinged
 tingeing
 tinging
 tingle
@@ -38814,6 +38932,7 @@ titivated
 titivater
 titivaters
 titivates
+titivating
 titivation
 titivator
 titivators
@@ -38890,6 +39009,7 @@ tofts
 tofu
 tog
 toga
+togaed
 togas
 together
 togs
@@ -39186,6 +39306,7 @@ touts
 tov
 tovarish
 tow
+towage
 towai
 toward
 towed
@@ -41100,6 +41221,7 @@ vegetal
 vegetate
 vegetated
 vegetates
+vegetating
 vegetative
 vegetivorous
 vegie
@@ -41154,6 +41276,8 @@ venas
 venation
 venator
 vend
+vended
+vending
 vendue
 venerate
 venerator
@@ -41169,9 +41293,11 @@ venoms
 venose
 vent
 ventail
+vented
 venter
 venti
 ventil
+venting
 ventis
 ventouse
 ventouses
@@ -41313,6 +41439,7 @@ vetoed
 vetoer
 vetoers
 vetoes
+vetoing
 vetoist
 vetoists
 vets
@@ -41357,6 +41484,9 @@ victual
 victualed
 vid
 vide
+video
+videoed
+videoing
 vidiot
 vids
 vie
@@ -41401,6 +41531,7 @@ vinegar
 vinegars
 vineries
 vines
+vinewed
 vinho
 vinier
 viniest
@@ -41410,7 +41541,9 @@ vinos
 vinous
 vins
 vint
+vintage
 vinted
+vinting
 vintner
 vints
 viol
@@ -41503,12 +41636,14 @@ vitamins
 vitas
 vitiate
 vitiated
+vitiating
 vitiation
 vitro
 viva
 vivace
 vivaces
 vivacity
+vivaed
 vivaing
 vivant
 vivaria
@@ -41552,6 +41687,8 @@ voiceovered
 voicer
 voici
 void
+voided
+voiding
 voila
 voile
 voiles
@@ -41594,6 +41731,7 @@ voted
 voter
 voters
 votes
+voting
 votive
 votives
 voulu
@@ -41633,14 +41771,18 @@ wader
 wades
 wadi
 wadies
+wading
 wadis
 wads
 wady
 wafer
 wafered
 waft
+wafted
+wafting
 wag
 wage
+waged
 wager
 wagering
 wages
@@ -41666,7 +41808,9 @@ wairuas
 waist
 waists
 wait
+waited
 waiter
+waiting
 waitlist
 waitlists
 waitron
@@ -41902,6 +42046,7 @@ weave
 weaved
 weaver
 weavers
+weaving
 web
 weber
 webers
@@ -41939,6 +42084,8 @@ wench
 wencher
 wend
 wended
+wendigo
+wending
 wens
 went
 wept
@@ -42037,7 +42184,11 @@ wid
 wide
 widen
 widened
+widening
 wides
+widow
+widowed
+widowing
 width
 widths
 wield
@@ -42084,6 +42235,7 @@ wincer
 winch
 wincher
 wind
+windage
 windbag
 windbags
 winded
@@ -42092,7 +42244,9 @@ windigos
 winding
 windings
 window
+windowed
 windowful
+windowing
 windrow
 winds
 windsail
@@ -42101,11 +42255,13 @@ windward
 windy
 wine
 wined
+winedot
 winegrower
 winey
 wing
 wingding
 wingdings
+winged
 winger
 winging
 wingman
@@ -42125,6 +42281,7 @@ winter
 winterer
 wintrier
 winy
+winze
 wipe
 wipeout
 wiper
@@ -42182,6 +42339,9 @@ wived
 wivern
 wives
 wiving
+wiz
+wizen
+wizened
 woad
 woaded
 woader
@@ -42568,7 +42728,9 @@ zac
 zack
 zacks
 zacs
+zaftig
 zag
+zaide
 zaire
 zakouska
 zakouskas
@@ -42586,6 +42748,7 @@ zarda
 zardozi
 zari
 zas
+zawn
 zax
 zazen
 zeal
@@ -42610,10 +42773,13 @@ zhush
 zhuzh
 zig
 zigs
+zigzag
 zin
 zinc
 zincing
+zine
 zing
+zinged
 zingiest
 zinging
 zings
@@ -42630,6 +42796,7 @@ zoeae
 zoeas
 zoetrope
 zoetropes
+zoftig
 zoic
 zokor
 zol
