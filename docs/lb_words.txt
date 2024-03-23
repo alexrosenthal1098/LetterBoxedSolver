@@ -13,7 +13,9 @@ abacs
 abactor
 abactors
 abaculus
+abaculuses
 abacus
+abacuses
 abadjad
 abaft
 abaht
@@ -345,6 +347,7 @@ acatry
 acaudal
 acaudate
 acauline
+acaulous
 acause
 ace
 aced
@@ -478,6 +481,7 @@ acosmist
 acosmists
 acouchi
 acouri
+acousma
 acquihire
 acquire
 acquirer
@@ -984,6 +988,7 @@ aflare
 aflash
 aflight
 afloat
+aflow
 aflush
 afoam
 afocal
@@ -1637,6 +1642,7 @@ aliquot
 aliseptal
 aliseptals
 alisma
+alismaceous
 alismad
 alismads
 alismas
@@ -3040,6 +3046,7 @@ aucht
 auchts
 auction
 auctions
+aucuba
 audacious
 audial
 audibility
@@ -3107,6 +3114,8 @@ auletes
 auletic
 aulic
 aulical
+aulicism
+aulicisms
 aulnage
 aulnager
 aulos
@@ -3374,6 +3383,7 @@ babels
 baberies
 babery
 babes
+babesial
 babesiasis
 babesiosis
 babiche
@@ -3976,6 +3986,7 @@ beaver
 bebop
 became
 becard
+because
 become
 bed
 bedad
@@ -3992,6 +4003,7 @@ bedrail
 beds
 befog
 befoul
+befouls
 beg
 begad
 began
@@ -4141,11 +4153,13 @@ bevels
 bevies
 bevy
 bewail
+bewails
 beware
 bey
 beys
 bezel
 bezels
+bfs
 bhadralog
 bhai
 bhais
@@ -4178,6 +4192,8 @@ bibis
 bible
 bibles
 biblical
+biblicism
+biblicisms
 biblicist
 biblicists
 bibliomane
@@ -4187,6 +4203,7 @@ bibliomaniac
 bibliopole
 bibliopoles
 bibs
+bibulous
 bicarb
 bice
 bichir
@@ -4265,6 +4282,7 @@ bilevels
 bilge
 biliary
 bilinear
+bilious
 bilirubin
 bilk
 bilked
@@ -4324,6 +4342,8 @@ biocompatible
 biodata
 biodome
 bioenergy
+biofacies
+biofacieses
 bioform
 biofuel
 biog
@@ -4575,9 +4595,12 @@ blonks
 blot
 blotch
 blots
+blouse
+blouses
 blouson
 blousons
 blow
+blowflies
 blowie
 blowies
 blowin
@@ -4601,6 +4624,7 @@ blueliner
 bluely
 blueprint
 bluer
+blues
 bluet
 bluetail
 bluey
@@ -4754,10 +4778,12 @@ bolter
 bolton
 bolts
 bolus
+boluses
 boma
 bomas
 bomb
 bombe
+bombes
 bombing
 bombings
 bombora
@@ -5268,6 +5294,7 @@ buckras
 bucks
 buco
 bucolic
+bucolics
 bucu
 bud
 bude
@@ -5296,6 +5323,7 @@ bulbar
 bulbil
 bulbils
 bulblike
+bulbous
 bulbs
 bulbul
 bulbuls
@@ -5308,6 +5336,7 @@ bulgy
 bulimia
 bulimic
 bulimics
+bulimious
 bulk
 bulkbuy
 bulked
@@ -5560,6 +5589,7 @@ caesura
 caesural
 caesuras
 cafe
+cafes
 cafeteria
 cafetiere
 cage
@@ -5608,6 +5638,7 @@ calcaneum
 calcareous
 calces
 calcic
+calcicolous
 calcific
 calcine
 calcined
@@ -5627,8 +5658,10 @@ calendar
 calendric
 calendrical
 calf
+calices
 caliche
 calico
+calicoes
 calicos
 caliph
 calix
@@ -6175,6 +6208,7 @@ catsits
 catsuit
 catsuits
 caucus
+caucuses
 cauda
 caudal
 caudate
@@ -6830,6 +6864,7 @@ cicheto
 cichlid
 cichlids
 cicisbei
+cicisbeo
 cierge
 cierges
 cig
@@ -6845,7 +6880,10 @@ ciliary
 ciliate
 ciliation
 cilice
+cilices
 cilium
+cimbalom
+cimbaloms
 cinch
 cinched
 cinchonic
@@ -6878,6 +6916,7 @@ cirl
 cirque
 cis
 cisco
+ciscoes
 cislunar
 cist
 cistron
@@ -6976,6 +7015,9 @@ clasp
 clasps
 clast
 clasts
+clause
+clauses
+clausum
 clausus
 clavate
 clave
@@ -7105,6 +7147,8 @@ cloy
 cloys
 cloze
 club
+clubface
+clubfaces
 clubman
 clubmate
 clubmen
@@ -7283,9 +7327,13 @@ colic
 colicin
 colicins
 colics
+colies
+coliseum
+coliseums
 colitis
 colobine
 coloboma
+colobus
 colocate
 colon
 colonial
@@ -7345,9 +7393,12 @@ comb
 combat
 combe
 comber
+combes
 combi
 combine
+combis
 combo
+combs
 come
 comeatable
 comelier
@@ -7668,6 +7719,7 @@ cotise
 cotises
 cots
 coucal
+coucals
 couch
 couche
 couched
@@ -7681,9 +7733,12 @@ could
 coulda
 couldst
 coulibiac
+coulibiacs
 coulis
 couloir
 couloirs
+coulomb
+coulombs
 coulter
 coumarin
 council
@@ -8107,9 +8162,12 @@ cuatro
 cub
 cube
 cubeb
+cubebs
+cubes
 cubic
 cubical
 cubics
+cubism
 cubs
 cuck
 cucks
@@ -8129,6 +8187,7 @@ cuke
 culch
 culcha
 culex
+culices
 culicine
 culm
 culms
@@ -10208,6 +10267,8 @@ ecole
 ecologic
 ecological
 ecology
+ecomuseum
+ecomuseums
 econ
 ecorat
 ecorche
@@ -11129,6 +11190,7 @@ etuis
 etyma
 euchology
 euchre
+eucies
 eucrite
 eucy
 eugenist
@@ -11419,15 +11481,18 @@ fabrics
 fabs
 fabulist
 fabulists
+fabulous
 face
 faceache
 facelift
 facer
+faces
 facia
 facial
 facials
 facias
 facie
+facies
 facile
 facilitative
 fact
@@ -11452,6 +11517,7 @@ fading
 fado
 fae
 faecal
+faeces
 faerie
 fah
 fail
@@ -11483,6 +11549,8 @@ fakirs
 falafel
 falcial
 fale
+false
+falsies
 falsifier
 falsifiers
 falter
@@ -11497,10 +11565,12 @@ familial
 familiar
 familiars
 familic
+families
 familism
 familist
 famine
 famish
+famous
 fams
 famuli
 famulus
@@ -11584,6 +11654,7 @@ fats
 fatso
 fatsos
 fatwa
+fauces
 fauch
 faucial
 fault
@@ -11709,6 +11780,7 @@ feud
 feuded
 feued
 feuing
+feus
 fever
 feverfew
 few
@@ -11911,6 +11983,8 @@ flak
 flam
 flambe
 flambeau
+flambeaus
+flambes
 flame
 flamen
 flamenco
@@ -11962,6 +12036,7 @@ flautas
 flautist
 flautists
 flaw
+flaws
 flea
 fleabite
 fleadh
@@ -11983,10 +12058,12 @@ flics
 flied
 flier
 fliers
+flies
 flight
 flightier
 flimflam
 flimflams
+flimsies
 fling
 flinging
 flint
@@ -12004,8 +12081,11 @@ floatel
 floater
 floating
 flob
+flobs
 floc
+flocs
 floe
+floes
 flog
 flop
 flor
@@ -12024,6 +12104,7 @@ flouring
 flout
 flouting
 flow
+flows
 flu
 fluatation
 fluate
@@ -12034,6 +12115,7 @@ flue
 fluence
 fluent
 fluently
+flues
 fluid
 fluidity
 fluidly
@@ -12059,7 +12141,11 @@ foams
 fob
 fobs
 focal
+focalise
+focalises
 foci
+focus
+focuses
 fodgel
 fodient
 foe
@@ -12094,10 +12180,12 @@ folate
 fold
 foldout
 folia
+foliaceous
 foliar
 foliating
 foliation
 folic
+folie
 folio
 foliole
 folium
@@ -12195,6 +12283,7 @@ fovea
 foveae
 foveate
 fowl
+fowls
 foyaite
 fracas
 fracases
@@ -15179,6 +15268,7 @@ iambic
 iambics
 iambs
 iambus
+iambuses
 iatric
 iberis
 ibex
@@ -15395,6 +15485,7 @@ imbos
 imbrue
 imbue
 imbued
+imbues
 imide
 imine
 imipramine
@@ -17940,6 +18031,7 @@ likins
 likuta
 lilac
 lilacs
+liliaceous
 lilied
 lilies
 lilo
@@ -18246,17 +18338,21 @@ lobe
 lobed
 lobelia
 lobelias
+lobes
 lobo
 lobola
 lobolo
 lobopod
 lobos
 lobs
+lobscouse
 lobular
 lobulate
 lobule
 local
 locale
+localise
+localises
 localism
 localisms
 localist
@@ -18284,6 +18380,7 @@ lochter
 lochus
 loci
 locie
+locies
 lock
 lockin
 locking
@@ -18296,6 +18393,8 @@ lockup
 lockups
 loco
 locoed
+locofocoism
+locofocoisms
 locoman
 locomen
 locomobile
@@ -18476,6 +18575,7 @@ loweite
 lowen
 lower
 lowerer
+lowes
 lowies
 lowkey
 lowland
@@ -18738,6 +18838,7 @@ macle
 macles
 maclurin
 macomere
+macouba
 macqui
 macrame
 macraner
@@ -19040,12 +19141,14 @@ mali
 malic
 malice
 malicho
+malicious
 maliform
 malihini
 malihinis
 malik
 maliks
 malimbe
+malimbes
 malintent
 malis
 malison
@@ -19819,6 +19922,7 @@ mbira
 mbiras
 mbongo
 mbongos
+mboube
 mbret
 mbube
 mbuga
@@ -20327,6 +20431,8 @@ miaul
 miauls
 mic
 mica
+micaceous
+micacious
 mice
 michi
 michis
@@ -20493,11 +20599,13 @@ miliarial
 miliarium
 miliary
 milice
+milices
 miliciana
 milicianas
 miliciano
 milicianos
 milieu
+milieus
 milieux
 miling
 miliolid
@@ -20560,6 +20668,7 @@ mimi
 mimiamb
 mimiambs
 mimiambus
+mimiambuses
 mimic
 mimical
 mimicries
@@ -20813,6 +20922,7 @@ miscin
 misclaim
 misclaims
 miscue
+miscues
 misdate
 misdated
 misdates
@@ -21046,6 +21156,9 @@ moats
 mob
 mobaton
 mobe
+mobes
+mobese
+mobeses
 mobie
 mobies
 mobile
@@ -21184,6 +21297,7 @@ molt
 molto
 molts
 molue
+molues
 moly
 mom
 mombin
@@ -21547,11 +21661,13 @@ mouch
 mouchoir
 mouchoirs
 moue
+moues
 mougat
 mouket
 moul
 mould
 moulds
+moulie
 moulin
 mouls
 moult
@@ -21565,6 +21681,10 @@ mourn
 mourne
 mourner
 mous
+mouse
+mouses
+mouseweb
+mousewebs
 mouth
 mouthy
 mouvemente
@@ -21658,6 +21778,8 @@ mudirs
 mudmap
 mudra
 mudrun
+muesli
+mueslis
 mug
 muga
 mugil
@@ -21760,6 +21882,7 @@ mumps
 mumpsimus
 mumpsimuses
 mums
+mumsies
 mumsy
 mun
 munch
@@ -21861,6 +21984,7 @@ murva
 mus
 musambi
 musambis
+muscae
 muscari
 muscaris
 muscat
@@ -21874,9 +21998,13 @@ muscoids
 muscular
 musculous
 musculus
+musculuses
 muse
 museau
 muses
+museum
+museumise
+museums
 mush
 musha
 mushaira
@@ -21889,8 +22017,13 @@ mushrats
 mushy
 music
 musica
+musical
+musicalise
+musicalises
+musicals
 musicist
 musicists
+musico
 musion
 musions
 musique
@@ -23719,6 +23852,7 @@ obole
 oboles
 obols
 obolus
+oboluses
 obosom
 obosoms
 obosum
@@ -23745,6 +23879,7 @@ obturator
 obturators
 obturbinate
 obtusion
+obulus
 obv
 obviate
 obviative
@@ -24072,6 +24207,7 @@ omasal
 omatsu
 ombre
 ombu
+ombus
 omda
 omdah
 omdeh
@@ -24690,6 +24826,7 @@ ought
 oui
 ouklip
 ouma
+oumiesies
 oupa
 our
 ourey
@@ -25098,6 +25235,7 @@ owari
 owe
 owed
 ower
+owes
 owie
 owies
 owing
@@ -34012,6 +34150,8 @@ saz
 sazes
 scab
 scabies
+scabious
+scabiouses
 scabs
 scad
 scads
@@ -34156,6 +34296,7 @@ scimitar
 scind
 scindapsus
 scinds
+sciolism
 sciolist
 sciolists
 scion
@@ -34167,8 +34308,11 @@ scleroses
 sclerosis
 sclerotitis
 sclerotitises
+scobe
+scobes
 scold
 scolds
+scolices
 scoliosis
 scoliotic
 scone
@@ -34342,6 +34486,8 @@ seats
 seaward
 seawards
 seawater
+sebaceous
+sebum
 sec
 secede
 seceded
@@ -35162,7 +35308,9 @@ silenus
 silex
 silica
 silicas
+siliceous
 silicic
+silicious
 silicon
 silicosis
 silk
@@ -35490,6 +35638,8 @@ slewed
 slews
 sley
 sleys
+slice
+slices
 slick
 slicks
 slid
@@ -36955,6 +37105,13 @@ suber
 suberin
 suberise
 suberises
+subface
+subfaces
+subfacies
+subfacieses
+subfamilies
+subfeu
+subfeus
 subfusc
 subgenus
 subgiant
@@ -36970,7 +37127,9 @@ sublet
 sublets
 sublevel
 sublevels
+sublimise
 subminister
+submucous
 subnet
 subnets
 subnivean
@@ -36979,6 +37138,7 @@ suborns
 subrepent
 subrisive
 subs
+subsea
 subsense
 subsenses
 subsensible
@@ -37355,6 +37515,7 @@ swords
 swore
 swot
 swots
+swum
 swung
 swy
 sybarite
@@ -40266,6 +40427,7 @@ umbilical
 umbilicals
 umbilici
 umbilicus
+umbilicuses
 umbles
 umbo
 umbos
@@ -42052,6 +42214,7 @@ weber
 webers
 webinar
 webinars
+webmail
 webring
 webrings
 webs
@@ -42355,6 +42518,7 @@ woes
 wok
 wold
 wolf
+wolfs
 woma
 woman
 womas
