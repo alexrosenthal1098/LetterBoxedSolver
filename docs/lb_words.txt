@@ -2565,6 +2565,7 @@ arbs
 arc
 arcana
 arcane
+arcanum
 arced
 arch
 archaea
@@ -5882,6 +5883,7 @@ caracoling
 caracul
 caraculs
 carafe
+caragana
 caramba
 carapace
 carat
@@ -6377,6 +6379,7 @@ chack
 chacked
 chacks
 chacma
+chacun
 chad
 chadar
 chador
@@ -6384,6 +6387,7 @@ chadors
 chads
 chaeta
 chaetae
+chagrin
 chai
 chain
 chaine
@@ -6681,6 +6685,7 @@ chine
 chined
 chino
 chins
+chinwag
 chionodoxa
 chip
 chips
@@ -7840,6 +7845,7 @@ cranial
 craning
 craniosacral
 craniotomy
+cranium
 crank
 crankily
 cranking
@@ -7983,6 +7989,7 @@ crinkly
 crinoid
 crinoidal
 crins
+crinum
 criophoric
 crip
 cripes
@@ -8238,6 +8245,7 @@ cur
 curacao
 curacaos
 curacoa
+curacy
 curare
 curate
 curates
@@ -13512,6 +13520,7 @@ granulate
 granulation
 granule
 granulite
+granum
 grape
 grapevine
 graph
@@ -13812,6 +13821,7 @@ guns
 gunship
 gunships
 gunter
+gunyah
 gur
 gurgle
 gurgler
@@ -13853,6 +13863,7 @@ gwine
 gyan
 gym
 gymp
+gynarchy
 gypsy
 gyral
 gyrate
@@ -14701,6 +14712,7 @@ hight
 hightail
 hightailing
 hightop
+highway
 highwire
 hijab
 hijabs
@@ -15228,6 +15240,7 @@ hyla
 hylic
 hymn
 hymnal
+hymnic
 hyoid
 hypanthia
 hypanthial
@@ -21789,6 +21802,7 @@ mugo
 mugs
 muguet
 muguets
+mugwump
 muhr
 mui
 muid
@@ -21940,12 +21954,14 @@ murage
 mural
 murals
 muras
+murchana
 murdrum
 mure
 murein
 murena
 murex
 murgh
+murghi
 murghs
 murgi
 murgis
@@ -22099,6 +22115,8 @@ mutule
 mutules
 mutum
 mutums
+muwahaha
+muwahahaha
 mux
 muxe
 muxed
@@ -22109,6 +22127,7 @@ mwa
 mwah
 mwahaha
 mwahahaha
+mwchin
 myagrum
 myal
 myalist
@@ -23565,6 +23584,7 @@ nubilation
 nubile
 nubility
 nubs
+nucha
 nucin
 nucular
 nude
@@ -23639,6 +23659,9 @@ nuoc
 nupa
 nuque
 nuques
+nuragh
+nuraghi
+nuraghic
 nurd
 nurdier
 nurds
@@ -25355,8 +25378,10 @@ paepaes
 paf
 pagador
 pagan
+paganic
 paganries
 pagans
+pagany
 pagati
 pagatis
 page
@@ -25665,6 +25690,8 @@ pantskirt
 pantskirts
 pantun
 panty
+panurgic
+panurgy
 panyar
 panyaring
 paolo
@@ -25792,6 +25819,7 @@ paranoic
 paranoid
 paranormal
 paranotal
+paranym
 parapack
 parapak
 paraparesis
@@ -27139,6 +27167,7 @@ pigeonite
 pightle
 piglet
 pigly
+pigmy
 pignon
 pignorate
 pignorating
@@ -27388,6 +27417,7 @@ piquia
 piquing
 pir
 pira
+piracy
 piragua
 pirai
 piranha
@@ -28670,6 +28700,7 @@ priciest
 prick
 pricker
 pricks
+pricy
 pride
 prided
 prideful
@@ -33516,6 +33547,7 @@ runts
 runty
 runup
 runups
+runway
 ruote
 ruotes
 rupestrine
@@ -40800,6 +40832,7 @@ unordain
 unos
 unpack
 unpacking
+unpagan
 unpainful
 unpaint
 unpainting
@@ -40810,6 +40843,7 @@ unpause
 unpauses
 unpawn
 unpawns
+unpay
 unpeace
 unpeaces
 unpeg
@@ -40878,6 +40912,7 @@ unquailing
 unquaking
 unquick
 unquiet
+unracy
 unrainy
 unrake
 unraking
@@ -41084,6 +41119,7 @@ urbanize
 urbarial
 urbe
 urbs
+urchin
 urea
 ureal
 urease
@@ -42299,6 +42335,7 @@ whets
 whew
 whey
 which
+whichaway
 whift
 while
 whim
@@ -42315,6 +42352,7 @@ whinging
 whining
 whinings
 whins
+whiny
 whip
 whir
 whirl
@@ -42746,6 +42784,7 @@ yawls
 yawn
 yawner
 yawny
+yawp
 yaws
 yay
 yaya
