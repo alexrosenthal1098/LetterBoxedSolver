@@ -723,6 +723,11 @@ adit
 adither
 adits
 aditus
+adject
+adjected
+adjectival
+adjective
+adjectived
 adjure
 adjured
 adjurer
@@ -861,6 +866,8 @@ advise
 advised
 advises
 advisive
+advoke
+advoked
 advouter
 advt
 advts
@@ -1418,6 +1425,7 @@ aksakals
 aksed
 akses
 aksing
+akvavit
 alabamine
 alabaster
 alaborate
@@ -1541,6 +1549,7 @@ aldrin
 ale
 aleak
 alec
+aleck
 alegar
 aleing
 alembic
@@ -1662,6 +1671,7 @@ alizarin
 alkadiene
 alkali
 alkalic
+alkalied
 alkalinity
 alkalinizing
 alkalis
@@ -1669,6 +1679,7 @@ alkalizing
 alkaloid
 alkaloidal
 alkalosis
+alkalotic
 alkane
 alkanol
 alkekeng
@@ -2578,6 +2589,8 @@ arbour
 arbours
 arbs
 arc
+arcade
+arcaded
 arcana
 arcane
 arcanum
@@ -3254,6 +3267,7 @@ auxin
 avadavat
 avail
 available
+availed
 avails
 avarice
 avast
@@ -3300,6 +3314,7 @@ avisions
 aviso
 avisos
 avo
+avocado
 avocet
 avocets
 avoid
@@ -5902,6 +5917,7 @@ caracals
 caracara
 caracaras
 caracole
+caracoled
 caracoling
 caracul
 caraculs
@@ -5925,6 +5941,7 @@ carbs
 carby
 carbyl
 carbyls
+carcade
 carcanet
 carcanets
 carcase
@@ -5996,6 +6013,7 @@ carinate
 caring
 carioca
 cariocas
+cariole
 caritas
 cark
 carked
@@ -6053,6 +6071,8 @@ carses
 cart
 cartage
 carte
+carted
+cartel
 carter
 carters
 cartes
@@ -6068,6 +6088,7 @@ cartron
 cartrons
 carts
 carve
+carved
 carvel
 carver
 carveries
@@ -6276,6 +6297,7 @@ caviar
 caviars
 cavies
 cavil
+caviled
 caviler
 cavitary
 cavities
@@ -6306,6 +6328,7 @@ cedi
 cedis
 ceiba
 ceil
+ceiled
 ceili
 ceilis
 ceils
@@ -7207,11 +7230,14 @@ coaches
 coachload
 coachman
 coachmen
+coactive
 coadjutor
 coal
 coaled
 coaler
 coalface
+coalite
+coalited
 coaly
 coarct
 coarctate
@@ -7251,6 +7277,8 @@ cochleate
 cochoa
 cochoas
 cock
+cockade
+cockaded
 cocked
 cocker
 cockers
@@ -7840,11 +7868,16 @@ crab
 crabeater
 crabs
 crack
+cracked
 cracker
 crackers
 cracking
+crackle
+crackled
 crackling
 cracks
+cradle
+cradled
 craft
 craftier
 crag
@@ -7978,7 +8011,11 @@ cribo
 cribos
 cribs
 crick
+cricked
+cricket
 cricking
+crickle
+crickled
 crickling
 cricks
 cricoid
@@ -8559,6 +8596,7 @@ darg
 dargah
 daring
 daringly
+dariole
 dark
 darken
 darkened
@@ -8694,6 +8732,8 @@ deadheaded
 deadlier
 deadliest
 deadline
+deadlock
+deadlocked
 deadmen
 deadtime
 deaerate
@@ -8783,6 +8823,7 @@ decides
 decidua
 decidual
 deciduate
+decile
 decim
 decima
 decimal
@@ -8793,6 +8834,9 @@ decimes
 decims
 decisis
 decisive
+deck
+decked
+deckle
 declaim
 declaimed
 declaims
@@ -8806,6 +8850,8 @@ decocture
 decode
 decoded
 decoder
+decoke
+decoked
 decor
 decorate
 decorated
@@ -8915,6 +8961,9 @@ deliberate
 deliberated
 deliberately
 deliberator
+delict
+delicti
+delicto
 delight
 delightful
 delimit
@@ -9138,6 +9187,9 @@ detests
 detinue
 detour
 detoured
+detract
+detracted
+detractive
 detrain
 detrained
 detrusor
@@ -9167,6 +9219,9 @@ deviated
 deviating
 device
 devices
+devil
+deviled
+devilet
 devis
 devise
 devised
@@ -9175,6 +9230,7 @@ devo
 devoice
 devoiced
 devoid
+devoir
 devore
 devote
 devoted
@@ -9647,6 +9703,8 @@ docility
 dock
 docked
 docken
+docket
+docketed
 doco
 doctor
 doctorate
@@ -10188,6 +10246,7 @@ earlies
 earliest
 earlily
 earlobe
+earlock
 earls
 early
 earmark
@@ -10300,6 +10359,8 @@ eclogues
 eclose
 ecloses
 eco
+ecocritic
+ecocritical
 ecole
 ecologic
 ecological
@@ -10489,6 +10550,7 @@ elfins
 elfish
 elhi
 elicit
+elicited
 elide
 elided
 elides
@@ -11330,6 +11392,7 @@ evited
 evites
 eviting
 evoke
+evoked
 evoker
 evokers
 evokes
@@ -16590,6 +16653,7 @@ jihads
 jilbab
 jilbabs
 jilt
+jilted
 jilts
 jim
 jird
@@ -16599,6 +16663,8 @@ jisms
 jit
 jiti
 jitis
+jive
+jived
 job
 jobs
 jobsmith
@@ -16615,9 +16681,12 @@ joist
 joists
 jojoba
 jojobas
+joke
+joked
 jol
 jolie
 jolt
+jolted
 jolts
 jorts
 jot
@@ -16629,6 +16698,7 @@ journo
 jours
 joust
 jousts
+jovial
 jowl
 jowly
 joy
@@ -16842,6 +16912,7 @@ kebab
 kebabs
 kebaya
 keck
+kecked
 kecks
 ked
 keds
@@ -16917,7 +16988,9 @@ ketes
 ketide
 keto
 ketone
+ketotic
 kets
+kevel
 kewl
 kewpie
 kewpies
@@ -17481,6 +17554,7 @@ laity
 lake
 lakebed
 lakebeds
+lakelet
 laker
 lakes
 lakh
@@ -17837,6 +17911,7 @@ leathery
 leats
 leavable
 leave
+leaved
 leaven
 leavens
 leaver
@@ -18470,6 +18545,7 @@ liturgy
 livable
 live
 liveable
+lived
 livelier
 livelily
 lively
@@ -18561,6 +18637,9 @@ loci
 locie
 locies
 lock
+locked
+locket
+locketed
 lockin
 locking
 lockram
@@ -18735,9 +18814,11 @@ lovable
 lovat
 love
 loveable
+loved
 lovelier
 lovelies
 lovelives
+lovelock
 lovelorn
 lover
 lovers
@@ -25228,8 +25309,10 @@ oval
 ovalise
 ovalish
 ovals
+ovarial
 ovarian
 ovaries
+ovariole
 ovaritis
 ovate
 ovately
@@ -29974,6 +30057,7 @@ raceable
 racecar
 racecard
 racecars
+raced
 racegoer
 racegoers
 racehorse
@@ -30022,6 +30106,7 @@ racked
 racker
 rackers
 racket
+racketed
 racketer
 racketers
 rackets
@@ -30176,6 +30261,7 @@ railingly
 railman
 railmotor
 railodoc
+railodock
 railodok
 railplane
 railroad
@@ -30625,6 +30711,7 @@ ravary
 rave
 raved
 ravel
+raveled
 raveler
 raven
 ravener
@@ -32704,6 +32791,7 @@ rick
 ricked
 ricker
 ricket
+ricketed
 ricketic
 ricking
 rickle
@@ -33030,6 +33118,7 @@ riversos
 rivery
 rives
 rivet
+riveted
 riveter
 riveters
 rivets
@@ -38414,6 +38503,7 @@ tchagra
 tea
 teabag
 teabags
+teacake
 teach
 teacher
 teaches
@@ -38516,6 +38606,7 @@ telebus
 telebuses
 telecine
 telecinema
+telecoil
 telecon
 telecontrol
 teleconverter
@@ -39127,12 +39218,17 @@ tic
 tich
 tiches
 tick
+ticked
 ticker
 tickertape
 tickertapes
 ticket
+ticketed
+tickle
+tickled
 ticks
 ticktock
+ticktocked
 tics
 tidal
 tidbit
@@ -39479,6 +39575,7 @@ toiled
 toiler
 toilers
 toilet
+toileted
 toiletic
 toiletry
 toilful
@@ -39802,6 +39899,7 @@ trabeated
 trabeation
 trace
 traceable
+traced
 tracer
 tracers
 tracery
@@ -39818,6 +39916,7 @@ trachyte
 trachytes
 trachytic
 track
+tracked
 tracker
 trackers
 tracks
@@ -39975,7 +40074,10 @@ trashcans
 trauma
 traumata
 traumatic
+travail
+travailed
 travel
+traveled
 traveler
 travers
 travesti
@@ -40059,6 +40161,7 @@ triads
 triage
 triages
 trial
+trialed
 trialing
 trialist
 trialists
@@ -40100,11 +40203,14 @@ trichina
 trichotomic
 trichotomous
 trick
+tricked
 tricker
 trickeries
 trickier
 trickiest
 trickish
+trickle
+trickled
 tricks
 tricksier
 tricksiest
@@ -40144,6 +40250,7 @@ trigons
 trigram
 trigraph
 trigs
+trijet
 trike
 trikes
 trilateral
@@ -40180,6 +40287,7 @@ trinomial
 trinomials
 trio
 triode
+triolet
 trios
 trip
 tripartite
@@ -41550,6 +41658,7 @@ vaids
 vaidya
 vaidyas
 vail
+vailed
 vailensi
 vails
 vain
@@ -41621,9 +41730,13 @@ vaporing
 vaporware
 vara
 varas
+varda
+vardo
 varec
 variate
 variceal
+varicocele
+varied
 varies
 varietal
 varieties
@@ -41634,12 +41747,16 @@ variform
 variola
 variolar
 variolate
+variole
+variolic
 variolist
 variolists
 variolite
+variolitic
 variorum
 varistor
 varistors
+varlet
 varna
 varnas
 varus
@@ -41686,6 +41803,7 @@ vealer
 vealers
 vector
 vectored
+vedalia
 veg
 vega
 vegan
@@ -41730,6 +41848,7 @@ veins
 vela
 velamen
 velar
+velaria
 velaric
 velarise
 velarised
@@ -41953,6 +42072,7 @@ vibrates
 vibrative
 vibrer
 vicar
+vicarial
 vice
 vices
 vici
@@ -42118,6 +42238,8 @@ vitiate
 vitiated
 vitiating
 vitiation
+vitriol
+vitriolic
 vitro
 viva
 vivace
@@ -42162,6 +42284,7 @@ vogue
 vogues
 voice
 voiced
+voicelet
 voiceover
 voiceovered
 voicer
@@ -42189,6 +42312,7 @@ volplanes
 volt
 voltaic
 volte
+volted
 volts
 volva
 volvas
