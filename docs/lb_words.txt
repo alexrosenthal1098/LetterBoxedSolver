@@ -9546,6 +9546,7 @@ digitized
 digitizing
 digitogenin
 digitonin
+digitorium
 digits
 digitus
 dignitary
@@ -9575,6 +9576,7 @@ diluent
 dilute
 diluted
 diluting
+dilution
 dim
 dime
 dimer
@@ -9974,6 +9976,7 @@ dour
 dourly
 dout
 douted
+douting
 douts
 dove
 dovecot
@@ -10213,6 +10216,7 @@ duets
 duftur
 dug
 dugite
+dugong
 dugout
 dugs
 duh
@@ -13409,9 +13413,11 @@ gipsies
 gird
 girded
 girder
+girding
 girdle
 girdled
 girdler
+girdling
 girl
 girleries
 girlf
@@ -13532,6 +13538,7 @@ gluey
 glug
 gluier
 gluing
+glum
 gluon
 glut
 glute
@@ -13612,6 +13619,7 @@ godized
 godizing
 godkin
 godlet
+godling
 godly
 godmama
 godmen
@@ -14079,12 +14087,16 @@ gueuze
 guid
 guide
 guided
+guiding
 guido
+guidon
 guild
 guile
 guilt
 guiltily
+guilting
 guilty
+guimp
 guinea
 guineas
 guinep
@@ -15783,6 +15795,7 @@ ignore
 ignorer
 ignores
 ignoring
+ignotum
 iguana
 ijtihad
 ijtihads
@@ -15920,9 +15933,12 @@ implies
 implore
 impolitic
 import
+importing
 impost
 imposts
 imprimatur
+imprint
+imprinting
 impro
 impromptu
 improper
@@ -15932,6 +15948,8 @@ improve
 improver
 improving
 imps
+impugn
+impugning
 impulse
 impulses
 impulsive
@@ -15940,6 +15958,7 @@ imputable
 imputative
 impute
 imputes
+imputing
 imshi
 imu
 imus
@@ -16043,6 +16062,7 @@ indigotin
 indite
 indited
 inditing
+indium
 individ
 indocile
 indocility
@@ -16051,6 +16071,8 @@ indri
 indris
 indue
 indued
+induing
+indulging
 induline
 indult
 indumentum
@@ -18604,6 +18626,7 @@ lineup
 ling
 linga
 lingo
+lingot
 lingua
 linguet
 linguini
@@ -21012,6 +21035,7 @@ midlist
 midmost
 midnight
 midpiece
+midpoint
 midrib
 midribs
 midside
@@ -21229,6 +21253,8 @@ minger
 mingi
 mingimingi
 minging
+mingling
+mingqui
 minhag
 minhagim
 mini
@@ -21391,6 +21417,8 @@ mirkn
 mirky
 mirl
 mirled
+mirling
+mirliton
 mirls
 miro
 miromiro
@@ -21609,6 +21637,7 @@ mitre
 mitred
 mitres
 mitriform
+mitring
 mitry
 mitsumata
 mitsumatas
@@ -22297,6 +22326,7 @@ mudirieh
 mudiriehs
 mudirs
 mudmap
+mudpout
 mudra
 mudrun
 muesli
@@ -22375,6 +22405,8 @@ multiman
 multip
 multiplicious
 multips
+multiring
+multirotor
 multisensual
 multiseptate
 multisite
@@ -23747,6 +23779,7 @@ nods
 nodular
 nodulation
 nodule
+nodum
 nodus
 noegenetic
 noel
@@ -24051,6 +24084,7 @@ notions
 notitia
 notitias
 notopodial
+notopodium
 notorious
 notornis
 notothere
@@ -25606,9 +25640,11 @@ outread
 outrelief
 outride
 outrider
+outriding
 outrig
 outright
 outring
+outringing
 outro
 outroar
 outroaring
@@ -28636,6 +28672,8 @@ plutes
 plutie
 plutogog
 plutogogue
+pluton
+plutonium
 pluvius
 pluviuses
 ply
@@ -28678,11 +28716,14 @@ podia
 podial
 podiatry
 podiform
+podium
+podiuming
 podo
 podocarp
 podocytic
 podology
 podrida
+podu
 poem
 poems
 poena
@@ -29558,6 +29599,7 @@ primos
 primost
 primp
 primping
+primprint
 primps
 prims
 primula
@@ -29578,6 +29620,7 @@ print
 printed
 printer
 printing
+printout
 printrun
 printruns
 prints
@@ -29742,6 +29785,7 @@ pronominal
 prononce
 pronotal
 pronotary
+pronotum
 pronoun
 pronounal
 pronouns
@@ -29791,6 +29835,7 @@ proplyd
 propodaeal
 propodeal
 propodial
+propodium
 propofol
 propone
 proponent
@@ -29895,6 +29940,7 @@ protide
 protist
 protistic
 protists
+protium
 protobird
 protocoel
 protocoele
@@ -29932,6 +29978,7 @@ protopine
 protoplanet
 protoplot
 protopod
+protopodium
 protopop
 protopope
 protopopes
@@ -30111,6 +30158,7 @@ puled
 puler
 pules
 puli
+puling
 pulp
 pulper
 pulpier
@@ -30597,6 +30645,7 @@ quila
 quilombo
 quilt
 quilter
+quilting
 quim
 quims
 quin
@@ -30619,7 +30668,9 @@ quinion
 quinions
 quink
 quinoa
+quinoid
 quinol
+quinonoid
 quinquina
 quins
 quint
@@ -30630,6 +30681,7 @@ quintets
 quinton
 quintons
 quints
+quintupling
 quinze
 quip
 quire
@@ -30641,6 +30693,7 @@ quirl
 quirlie
 quirling
 quirt
+quirting
 quirts
 quis
 quisle
@@ -30653,12 +30706,14 @@ quiz
 quo
 quoad
 quob
+quod
 quoi
 quoiler
 quoin
 quoining
 quois
 quoit
+quoiting
 quondam
 quop
 quork
@@ -30667,6 +30722,7 @@ quos
 quota
 quotable
 quotidian
+quoting
 quotum
 quotums
 quouk
@@ -33600,6 +33656,7 @@ rimons
 rimous
 rimple
 rimples
+rimpling
 rims
 rimu
 rimus
@@ -34227,6 +34284,7 @@ roughrider
 rougin
 rougine
 rougines
+rouging
 rougy
 rouk
 roukous
@@ -40702,6 +40760,7 @@ tourtieres
 tout
 touted
 touter
+touting
 touts
 tov
 tovarish
