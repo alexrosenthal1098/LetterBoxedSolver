@@ -20,6 +20,7 @@ abadjad
 abaft
 abaht
 abaiser
+abajour
 abalone
 abalones
 aband
@@ -151,6 +152,7 @@ abnegating
 abnegation
 abnet
 abnets
+abnormal
 aboard
 abob
 abode
@@ -1962,6 +1964,9 @@ ambones
 ambos
 ambries
 ambry
+ambulacra
+ambulacral
+ambulacrum
 ambulance
 ambulanced
 ambulate
@@ -3488,6 +3493,7 @@ bachcha
 bachchas
 baches
 back
+backarc
 backbar
 backbars
 backblock
@@ -3496,6 +3502,7 @@ backcast
 backcasts
 backchat
 backcloth
+backcomb
 backed
 backlist
 backlists
@@ -3511,11 +3518,13 @@ backstab
 backstabs
 backstair
 backstitch
+backup
 backus
 backward
 backwardly
 backwards
 backy
+bacon
 bacterise
 bacterises
 bacula
@@ -3687,6 +3696,7 @@ banian
 banians
 banias
 banish
+banjo
 bank
 bankability
 banker
@@ -4541,6 +4551,7 @@ biz
 blab
 blabs
 black
+blackarm
 blackback
 blackbacks
 blackcock
@@ -4705,6 +4716,7 @@ bluet
 bluetail
 bluey
 bluish
+blukar
 blunging
 blunt
 blunted
@@ -5612,6 +5624,7 @@ cabalism
 cabalist
 cabalists
 cabals
+cabana
 cabaret
 cabarets
 caber
@@ -5620,6 +5633,7 @@ cable
 cablecar
 cabled
 cables
+cabman
 caboclo
 caboclos
 cabs
@@ -5976,6 +5990,7 @@ caraculs
 carafe
 caragana
 caramba
+carambola
 carapace
 carat
 carats
@@ -5994,6 +6009,7 @@ carby
 carbyl
 carbyls
 carcade
+carcajou
 carcanet
 carcanets
 carcase
@@ -6085,6 +6101,7 @@ carmen
 carn
 carnal
 carnality
+carnauba
 carne
 carnet
 carnie
@@ -7280,6 +7297,7 @@ clues
 cluey
 cluier
 cluiest
+clump
 clunch
 clung
 clunk
@@ -7346,6 +7364,7 @@ cochoas
 cock
 cockade
 cockaded
+cockalorum
 cocked
 cocker
 cockers
@@ -7611,6 +7630,7 @@ conic
 conical
 conics
 coning
+conjuror
 conk
 conking
 conman
@@ -7941,6 +7961,7 @@ crab
 crabeater
 crabs
 crack
+crackajack
 cracked
 cracker
 crackers
@@ -7949,6 +7970,7 @@ crackle
 crackled
 crackling
 cracks
+crackup
 cradle
 cradled
 craft
@@ -16807,6 +16829,7 @@ jabot
 jabots
 jabs
 jacal
+jacamar
 jacana
 jacanas
 jack
@@ -16822,12 +16845,16 @@ jali
 jam
 jamb
 jambs
+jamjar
 jamun
 jamuns
 jane
 janes
+jank
 jar
 jarhead
+jarl
+jarul
 jaspe
 jatha
 jathas
@@ -16914,11 +16941,15 @@ jolt
 jolted
 jolts
 jorts
+jorum
 jot
 jota
 jotas
 jots
+joual
+jouk
 jour
+journal
 journo
 jours
 joust
@@ -16951,10 +16982,12 @@ jujutsu
 juku
 julep
 juleps
+jumar
 jumbie
 jumbies
 jumble
 jumbles
+jumbo
 jump
 jumps
 jumpsuit
@@ -16963,6 +16996,7 @@ juncture
 junctures
 junta
 juntas
+jural
 jurat
 jurats
 jure
@@ -17466,6 +17500,7 @@ knob
 knoblike
 knobs
 knock
+knockback
 knocking
 knop
 knops
@@ -17507,6 +17542,7 @@ kola
 kolas
 kolo
 kolos
+kombu
 konaki
 konakis
 koneke
@@ -17524,6 +17560,7 @@ korero
 koreros
 kori
 koris
+korma
 koro
 korona
 koronas
@@ -17836,6 +17873,7 @@ lamish
 lamium
 lamiums
 lamp
+lampblack
 lamper
 lampern
 lamplight
@@ -18968,6 +19006,7 @@ loiterers
 loiters
 loke
 lokey
+lokum
 lol
 lola
 lolas
@@ -19572,6 +19611,10 @@ majas
 majat
 majita
 majitas
+majo
+major
+majora
+majoron
 makaf
 makai
 makamaka
@@ -19597,6 +19640,7 @@ makie
 mako
 makomako
 makomakos
+makora
 makos
 makulu
 makulus
@@ -19841,12 +19885,16 @@ manipular
 manis
 manises
 manism
+manjack
+manjak
 mank
+mankal
 mankier
 mankiest
 mankini
 mankinis
 manlier
+manlock
 manmade
 manoa
 manoao
@@ -20087,6 +20135,7 @@ markets
 markhor
 markman
 marks
+markup
 marl
 marled
 marlie
@@ -21717,6 +21766,7 @@ mockamock
 mocker
 mockers
 mocks
+mockup
 moco
 mocock
 mococks
@@ -21786,6 +21836,7 @@ moist
 moistly
 moit
 moits
+mojo
 moke
 moker
 mokers
@@ -21866,6 +21917,7 @@ monandric
 monarda
 monas
 monatomic
+monaural
 moncheite
 mondain
 monde
@@ -21901,10 +21953,12 @@ monition
 monitor
 monitored
 monitoring
+monk
 mono
 monoao
 monobath
 monobaths
+monobloc
 monobosom
 monobosoms
 monocalcic
@@ -21942,6 +21996,7 @@ monoids
 monolatrist
 monolatrists
 monolatry
+monolobular
 monolocular
 monomachia
 monomania
@@ -21949,6 +22004,7 @@ monomaniac
 monomaniacal
 monomaniacs
 monomanias
+monomark
 monomer
 monometer
 monomial
@@ -22426,6 +22482,7 @@ mumblement
 mumbles
 mumbling
 mumbo
+mumbojumbo
 mump
 mumped
 mumper
@@ -23873,6 +23930,7 @@ nonbank
 nonbanks
 nonbeing
 nonbinary
+nonblack
 nonc
 nonce
 nonces
@@ -28342,6 +28400,7 @@ placard
 placid
 placidity
 placidly
+plack
 placodioid
 placoid
 placophoran
@@ -28562,6 +28621,7 @@ plombe
 plombiere
 plonk
 plonking
+plonko
 plop
 plops
 plore
@@ -29291,6 +29351,7 @@ prahu
 prairie
 prairied
 prairion
+prajna
 pralay
 pralaya
 praline
@@ -30145,6 +30206,7 @@ puisne
 puja
 pujas
 puka
+pukana
 pukas
 puku
 pukus
@@ -31041,6 +31103,7 @@ ramarama
 ramaramas
 rambai
 rambais
+rambla
 rambour
 rambours
 rame
@@ -31157,6 +31220,7 @@ ranish
 ranite
 ranites
 ranivorous
+ranjau
 rank
 ranker
 rankers
@@ -41798,6 +41862,7 @@ umbilicus
 umbilicuses
 umbles
 umbo
+umbonal
 umbos
 umbra
 umbrae
