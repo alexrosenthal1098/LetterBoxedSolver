@@ -379,6 +379,7 @@ acescencies
 acescency
 acescent
 acetal
+acetals
 acetate
 acetated
 acetates
@@ -1395,7 +1396,10 @@ airplay
 airport
 airpot
 airs
+airsick
 airside
+airstrike
+airstrikes
 airt
 airted
 airtight
@@ -1418,6 +1422,7 @@ aisles
 ait
 aitch
 aits
+aixes
 aiya
 aiyah
 aiyo
@@ -1572,6 +1577,7 @@ alcoholists
 alcopop
 alcornoco
 alcosol
+alcosols
 alcyonarian
 alcyonian
 aldea
@@ -1685,6 +1691,7 @@ aligner
 aligning
 aligote
 alike
+alikewise
 alim
 aliment
 alimental
@@ -1730,6 +1737,7 @@ alkekengi
 alkene
 alkenone
 alkie
+alkies
 alkin
 alkine
 alkitran
@@ -1810,6 +1818,7 @@ alquerque
 alright
 alse
 alsike
+alsikes
 also
 alstonia
 alstonias
@@ -2786,6 +2795,7 @@ aristos
 arith
 ark
 arkose
+arkosic
 arks
 arm
 armada
@@ -2924,6 +2934,7 @@ artsiest
 artsman
 artspeak
 artsy
+artwork
 arty
 artyfy
 arugula
@@ -3464,15 +3475,18 @@ awned
 awning
 awnings
 awns
+awoke
 awry
 axe
 axed
 axel
 axels
 axenic
+axes
 axi
 axial
 axil
+axils
 axis
 axle
 axon
@@ -5889,6 +5903,7 @@ calathea
 calcanei
 calcaneum
 calcareous
+calceolaria
 calces
 calcic
 calcicolous
@@ -5918,6 +5933,7 @@ calicoes
 calicos
 caliph
 calix
+calixes
 calk
 calked
 calks
@@ -5928,6 +5944,7 @@ calms
 calomel
 caloric
 calorie
+calories
 calque
 caltrap
 caltrop
@@ -6225,6 +6242,7 @@ caribes
 caribou
 caricaturist
 caricaturists
+carices
 caries
 carina
 carinal
@@ -6289,6 +6307,7 @@ carps
 cars
 carse
 carses
+carsick
 cart
 cartage
 carte
@@ -6463,6 +6482,7 @@ cation
 cationic
 catkin
 catlick
+catlike
 catmint
 catmints
 catnap
@@ -6474,6 +6494,7 @@ catsit
 catsits
 catsuit
 catsuits
+catwalk
 caucus
 caucuses
 cauda
@@ -7129,6 +7150,7 @@ ciboria
 cicada
 cicadas
 cicatrice
+cicatrices
 cicatricial
 cicatrise
 cicatrises
@@ -7155,6 +7177,7 @@ cilantro
 cilia
 ciliary
 ciliate
+ciliates
 ciliation
 cilice
 cilices
@@ -7257,6 +7280,8 @@ civilian
 civility
 clack
 clacked
+clacket
+clackets
 clacks
 clad
 clade
@@ -7286,6 +7311,7 @@ clanks
 clap
 claps
 claptrap
+claries
 clarifier
 clarion
 clarkia
@@ -7293,6 +7319,7 @@ clarkias
 clarsach
 clarsachs
 clart
+clarts
 clarty
 clary
 clash
@@ -7313,6 +7340,7 @@ clavicular
 clavier
 claw
 clawed
+clawlike
 claws
 clay
 clayey
@@ -7353,6 +7381,8 @@ cliche
 cliched
 click
 clicked
+clicket
+clickets
 clicking
 clicks
 clicky
@@ -7392,6 +7422,8 @@ cloche
 clock
 clocking
 clocks
+clockwise
+clockwork
 clod
 clog
 clomb
@@ -7408,6 +7440,9 @@ close
 closer
 closers
 closes
+closest
+closet
+closets
 closure
 closures
 clot
@@ -7471,15 +7506,19 @@ coal
 coaled
 coaler
 coalface
+coalise
 coalite
 coalited
+coals
 coaly
 coarct
 coarctate
 coarcted
+coarcts
 coarse
 coarsen
 coarsens
+coarsest
 coarsish
 coat
 coated
@@ -7491,6 +7530,7 @@ coats
 coauthor
 coax
 coaxed
+coaxes
 coaxial
 cob
 cobalt
@@ -7517,10 +7557,13 @@ cock
 cockade
 cockaded
 cockalorum
+cockcrow
 cocked
 cocker
 cockers
 cockie
+cockies
+cockiest
 cocking
 cockle
 cockled
@@ -7531,6 +7574,7 @@ cocks
 cocksucker
 cocksuckers
 cocktail
+cocktails
 cockup
 cockups
 coco
@@ -7606,6 +7650,8 @@ coital
 coition
 coke
 coked
+cokes
+cokies
 col
 cola
 colada
@@ -7631,6 +7677,7 @@ colobine
 coloboma
 colobus
 colocate
+colocates
 colon
 colonial
 colonialist
@@ -7647,6 +7694,8 @@ color
 colorable
 colorant
 colorants
+colorate
+colorates
 coloration
 colorectal
 coloring
@@ -7654,6 +7703,7 @@ colorist
 colorists
 colorology
 colorpoint
+colors
 colorway
 colostomy
 colostral
@@ -7914,6 +7964,8 @@ corium
 cork
 corked
 corkie
+corkies
+corkiest
 corking
 corklike
 corm
@@ -7961,10 +8013,13 @@ corsair
 corsairs
 corse
 corses
+corset
+corsets
 corso
 corsos
 cortado
 cortege
+cortex
 cortical
 cortication
 corticoid
@@ -7978,6 +8033,8 @@ corundum
 corvina
 cos
 coses
+coset
+cosets
 cosh
 cosier
 cosies
@@ -7987,6 +8044,7 @@ cosmic
 cosmos
 cost
 costa
+costae
 costal
 costar
 costars
@@ -8087,9 +8145,12 @@ cower
 cowered
 cowgirl
 cowl
+cowlick
 cowls
 cowp
 cowpat
+cowrie
+cowries
 cowrote
 cows
 cowtown
@@ -8120,6 +8181,7 @@ crackers
 cracking
 crackle
 crackled
+crackliest
 crackling
 cracks
 crackup
@@ -8260,6 +8322,7 @@ cribs
 crick
 cricked
 cricket
+crickets
 cricking
 crickle
 crickled
@@ -8334,6 +8397,8 @@ crocheted
 crocheter
 croci
 crock
+crocket
+crockets
 crocking
 crocodilian
 crocs
@@ -8377,6 +8442,7 @@ croweater
 crowed
 crowl
 crowler
+crowls
 crown
 crownal
 crowner
@@ -10632,8 +10698,10 @@ earthstar
 earthstars
 earthware
 earthy
+earwax
 earwig
 earwort
+earworts
 ease
 eased
 easel
@@ -10717,6 +10785,7 @@ ecomuseum
 ecomuseums
 econ
 ecorat
+ecorats
 ecorche
 ecorches
 ecoresort
@@ -11526,6 +11595,8 @@ erw
 erws
 erythrism
 erythrocyte
+escalate
+escalates
 escape
 escaper
 escapes
@@ -11536,6 +11607,8 @@ escarps
 eschar
 escheat
 escheats
+escolar
+escolars
 escort
 escorts
 escrow
@@ -11796,6 +11869,8 @@ exacts
 exalt
 exalte
 exalted
+exaltes
+exalts
 exam
 exams
 excel
@@ -11810,6 +11885,8 @@ excursus
 exeat
 exeats
 exec
+execrate
+execrates
 execs
 executor
 executors
@@ -11840,6 +11917,7 @@ exiler
 exilers
 exiles
 exilian
+exilic
 exiling
 exilities
 exine
@@ -11857,6 +11935,11 @@ exiting
 exits
 exon
 exonic
+exorcise
+exorcises
+exorcist
+exorcists
+exosolar
 exostoses
 exostosis
 expedient
@@ -11913,6 +11996,7 @@ extremists
 extremum
 extremums
 extricate
+extricates
 extropian
 extrorse
 exude
@@ -17140,6 +17224,7 @@ isohyet
 isohyets
 isolable
 isolate
+isolates
 isolator
 isolators
 isoline
@@ -17710,6 +17795,8 @@ kiln
 kilned
 kilo
 kilobit
+kilocalorie
+kilocalories
 kiloliter
 kilolitre
 kilos
@@ -17908,6 +17995,7 @@ koinonia
 koji
 kokako
 kokakos
+kokowai
 kola
 kolas
 kolo
@@ -17935,6 +18023,7 @@ koro
 korona
 koronas
 koroua
+korowai
 koru
 koruna
 koruru
@@ -17946,6 +18035,7 @@ kotwal
 kotwali
 kouroi
 kowari
+kowaris
 kowtow
 kraft
 krai
@@ -18082,7 +18172,10 @@ lacerative
 lacers
 laces
 lacet
+lacets
+lacework
 lacier
+laciest
 lacily
 lacinato
 lacinatos
@@ -18125,7 +18218,9 @@ lacs
 lactam
 lactate
 lactated
+lactates
 lacteal
+lacteals
 lactic
 lacuna
 lacunae
@@ -18410,6 +18505,7 @@ lateritised
 laters
 latest
 latex
+latexes
 lath
 lathe
 lather
@@ -18425,6 +18521,7 @@ latish
 latitude
 latitudinal
 latke
+latkes
 lato
 latria
 latrine
@@ -18477,6 +18574,7 @@ laws
 lawsies
 lawsy
 lax
+laxest
 lay
 layabout
 layaway
@@ -18847,6 +18945,7 @@ licked
 licking
 licks
 licorice
+licorices
 lictor
 lictors
 lid
@@ -18929,6 +19028,8 @@ likeners
 likens
 liker
 likers
+likes
+likewise
 likin
 liking
 likingly
@@ -19278,6 +19379,7 @@ locants
 locatable
 locate
 locater
+locates
 location
 locator
 locavore
@@ -19298,6 +19400,7 @@ lock
 locked
 locket
 locketed
+lockets
 lockin
 locking
 lockram
@@ -19307,6 +19410,7 @@ locksmith
 lockstitch
 lockup
 lockups
+lockwork
 loco
 locoed
 locofocoism
@@ -19377,6 +19481,7 @@ loiterer
 loiterers
 loiters
 loke
+lokes
 lokey
 lokum
 lol
@@ -19430,8 +19535,10 @@ lorica
 loricae
 loricas
 loricate
+lories
 lorilet
 loris
+lorises
 lorn
 lory
 lose
@@ -19502,15 +19609,18 @@ lowen
 lower
 lowerer
 lowes
+lowest
 lowies
 lowkey
 lowland
 lowlier
+lowliest
 lowlily
 lowly
 lown
 lowns
 lowrie
+lowries
 lows
 lowt
 lowth
@@ -25126,6 +25236,7 @@ ocicats
 ocietrova
 ocker
 ockers
+ockies
 oclock
 ocote
 ocrea
@@ -25155,6 +25266,7 @@ octavic
 octavo
 octene
 octet
+octets
 octic
 octics
 octile
@@ -25227,17 +25339,21 @@ ods
 odum
 odyle
 odylic
+oecist
+oecists
 oecium
 oecumene
 oecumenical
 oedema
 oeil
+oekist
 oenanthate
 oenochoe
 oenochoes
 oenomel
 oenomels
 oer
+oestral
 oestrane
 oestranes
 oestrin
@@ -25357,6 +25473,7 @@ olamic
 olas
 olate
 olated
+olates
 olating
 olation
 old
@@ -25690,6 +25807,7 @@ orarium
 orariums
 orate
 orated
+orates
 orating
 oration
 oratist
@@ -25702,6 +25820,7 @@ oratorio
 oratorios
 orators
 oratory
+oratrices
 oratrix
 orature
 orb
@@ -26025,6 +26144,8 @@ ostomy
 ostraca
 ostracion
 ostracions
+ostracise
+ostracises
 ostracon
 ostraka
 ostrich
@@ -26548,10 +26669,18 @@ ownio
 owns
 owrie
 owt
+oxalacetate
 oxalaemia
 oxalamide
+oxalate
+oxalates
 oxalemia
 oxalic
+oxalis
+oxalises
+oxaloacetate
+oxaloacetates
+oxalosis
 oxamide
 oxea
 oxen
@@ -26559,11 +26688,16 @@ oxer
 oxers
 oxheal
 oxhide
+oxic
 oxide
 oxies
 oxim
 oxime
 oximide
+oxisol
+oxisols
+oxtail
+oxtails
 oyabun
 oyakata
 oyama
@@ -31367,6 +31501,7 @@ racers
 races
 racetrack
 racetracks
+racewalk
 rache
 rachel
 raches
@@ -31379,6 +31514,8 @@ rachischisises
 rachitic
 rachitis
 racial
+racialise
+racialises
 racialist
 racialists
 raciation
@@ -31404,9 +31541,11 @@ rackets
 rackful
 rackfuls
 rackie
+rackies
 racking
 rackle
 racks
+rackwork
 racloir
 racon
 racons
@@ -31982,6 +32121,7 @@ ratling
 ratlins
 rato
 ratrace
+ratraces
 ratrun
 rats
 ratu
@@ -32037,6 +32177,7 @@ ravs
 raw
 rawener
 rawer
+rawest
 rawin
 rawish
 rawk
@@ -32048,6 +32189,7 @@ rawners
 rawns
 rax
 raxed
+raxes
 ray
 raya
 rayah
@@ -34137,6 +34279,7 @@ ricker
 ricket
 ricketed
 ricketic
+rickets
 ricking
 rickle
 ricklie
@@ -34590,10 +34733,19 @@ rochet
 rock
 rockcod
 rocked
+rocket
+rocketlike
+rockets
 rockhard
+rockiest
 rocking
+rockist
+rockists
 rocklike
 rockling
+rockrose
+rockroses
+rockwork
 rococo
 rocs
 rod
@@ -34764,16 +34916,21 @@ rosco
 roscoe
 roscoes
 rose
+roseal
+roseate
 rosed
 rosein
 roseine
 roseines
+roseola
+roseolar
 roseous
 roseries
 roses
 roset
 roseted
 rosets
+rosework
 rosha
 roshas
 roshi
@@ -34794,6 +34951,7 @@ rosit
 rosoglio
 rosoglios
 rosolate
+rosolates
 rosolio
 rosolios
 roster
@@ -34801,6 +34959,7 @@ rosters
 rosti
 rostra
 rostral
+rostrate
 rosy
 rot
 rota
@@ -34970,8 +35129,10 @@ roweled
 rowen
 rower
 rowet
+rowets
 rowing
 rowk
+rowlock
 rown
 rowner
 rows
@@ -35872,6 +36033,7 @@ scale
 scaleable
 scaled
 scales
+scaliest
 scalp
 scalps
 scaly
@@ -35901,6 +36063,7 @@ scarab
 scarabs
 scarce
 scarcer
+scarcest
 scarcities
 scarcity
 scare
@@ -35996,6 +36159,7 @@ scientise
 scientist
 scientistic
 scientists
+scilicet
 scimitar
 scind
 scindapsus
@@ -36145,6 +36309,7 @@ seabags
 seabed
 seaborne
 seabream
+seacock
 seafan
 seafans
 seakale
@@ -36152,6 +36317,8 @@ seal
 sealable
 sealant
 sealants
+sealcoat
+sealcoats
 sealed
 sealer
 sealers
@@ -36201,6 +36368,7 @@ seceded
 secedes
 secs
 sect
+sectaries
 sector
 sectors
 sects
@@ -36559,8 +36727,15 @@ sexlife
 sexor
 sexors
 sext
+sextal
+sextar
+sextaries
+sextars
+sextet
+sextets
 sextile
 sexto
+sextries
 sexts
 sez
 sezes
@@ -36952,7 +37127,9 @@ sickest
 sickie
 sickies
 sickish
+sickliest
 sicko
+sickos
 sickout
 sickouts
 sicks
@@ -37055,6 +37232,8 @@ silenus
 silex
 silica
 silicas
+silicate
+silicates
 siliceous
 silicic
 silicious
@@ -37064,6 +37243,8 @@ silk
 silken
 silkie
 silkier
+silkies
+silkiest
 silklike
 silks
 silo
@@ -37220,6 +37401,7 @@ sixer
 sixers
 sixes
 sixte
+sixtes
 sixth
 sixths
 sixties
@@ -37345,6 +37527,7 @@ slab
 slabs
 slack
 slacked
+slackest
 slacks
 slade
 slades
@@ -37402,6 +37585,7 @@ sleys
 slice
 slices
 slick
+slickest
 slicks
 slid
 slily
@@ -37448,6 +37632,7 @@ sloughs
 sloven
 slovens
 slow
+slowest
 slows
 slub
 slubs
@@ -37698,10 +37883,18 @@ soc
 soca
 socia
 social
+socialise
+socialises
 socialist
 socialists
 socials
 socias
+sociate
+sociates
+socies
+socieses
+societal
+societe
 sociocracy
 sociocrat
 sociocrats
@@ -37756,6 +37949,8 @@ solanine
 solans
 solar
 solaria
+solarise
+solarises
 solars
 solas
 solatia
@@ -38302,7 +38497,11 @@ staler
 stales
 stalest
 stalk
+stalkiest
+stalklike
 stalks
+stalwart
+stalwarts
 stamen
 stamens
 stamina
@@ -38383,6 +38582,8 @@ starves
 starvy
 starward
 starwise
+starwort
+starworts
 stary
 stases
 stash
@@ -38565,6 +38766,7 @@ steupsing
 stevia
 stevias
 stew
+stewartries
 stews
 stf
 stibnite
@@ -38775,6 +38977,7 @@ stravages
 stravaig
 stravaigs
 straw
+strawlike
 straws
 stray
 strays
@@ -38843,6 +39046,8 @@ strobe
 strobes
 strobili
 strode
+stroke
+strokes
 stroma
 stromal
 stromata
@@ -39662,6 +39867,7 @@ tailbacks
 tailboard
 tailbone
 tailcoat
+tailcoats
 tailed
 tailend
 tailfin
@@ -39675,6 +39881,7 @@ tailorable
 tailorbird
 tailored
 tailoring
+tailors
 tailpiece
 tailpipe
 tailplane
@@ -39724,6 +39931,7 @@ talbot
 talbots
 talc
 talced
+talcose
 talcs
 talcy
 tale
@@ -39739,6 +39947,8 @@ talk
 talkback
 talkbacks
 talkie
+talkies
+talkiest
 talking
 talks
 talky
@@ -40057,11 +40267,14 @@ taxane
 taxed
 taxer
 taxers
+taxes
 taxi
 taxied
+taxies
 taximeter
 taximeters
 taxis
+taxol
 tayra
 tayras
 tbs
@@ -40145,6 +40358,7 @@ techy
 tecs
 tecta
 tectonic
+tectrices
 tectrix
 tectum
 tecum
@@ -40435,6 +40649,9 @@ testacy
 testae
 testate
 testates
+testatrices
+testatrix
+testatrixes
 tested
 tester
 testers
@@ -41555,6 +41772,7 @@ traced
 tracer
 tracers
 tracery
+traces
 traceur
 traceurs
 trachea
@@ -41571,7 +41789,12 @@ track
 tracked
 tracker
 trackers
+trackie
+trackies
+tracklist
+tracklists
 tracks
+trackwork
 tract
 tractable
 tractate
@@ -41581,6 +41804,7 @@ tractive
 tractor
 tractors
 tractotomy
+tractrices
 tractrix
 tracts
 trad
@@ -41871,7 +42095,9 @@ tricksiest
 triclad
 triclads
 tricolate
+tricolates
 tricolor
+tricolors
 tricolour
 tricolours
 tricorn
@@ -41965,6 +42191,8 @@ tripwire
 triquetra
 trireme
 tris
+trisect
+trisects
 trismus
 trisomy
 tritanope
@@ -41993,6 +42221,7 @@ trivets
 trivia
 trivial
 trixie
+trixies
 trocar
 trocars
 trochaic
@@ -42430,6 +42659,7 @@ two
 twoc
 twoced
 twocer
+twocs
 twonk
 twos
 twyer
@@ -44111,7 +44341,10 @@ wacke
 wacked
 wacker
 wackes
+wackiest
 wacko
+wackoes
+wackos
 wacks
 wacky
 wad
@@ -44159,6 +44392,8 @@ wains
 wairua
 wairuas
 waist
+waistcoat
+waistcoats
 waists
 wait
 waited
@@ -44193,7 +44428,10 @@ walk
 walkability
 walkabout
 walked
+walkies
 walkin
+walkist
+walkists
 walkout
 walkway
 walnut
@@ -44237,6 +44475,7 @@ warble
 warbled
 warbles
 warby
+warcries
 warcry
 ward
 warded
@@ -44253,6 +44492,7 @@ wargamer
 wargaming
 warhead
 warier
+wariest
 waring
 warlord
 warm
@@ -44284,6 +44524,7 @@ warsles
 wart
 wartier
 wartime
+wartlike
 warts
 warty
 wary
@@ -44355,6 +44596,9 @@ waving
 wavy
 wawa
 wawas
+wax
+waxes
+waxiest
 way
 wayed
 waygate
@@ -44562,6 +44806,7 @@ whys
 wick
 wicker
 wicket
+wickets
 wid
 wide
 widen
@@ -44704,6 +44949,7 @@ wiring
 wiry
 wis
 wise
+wisecrack
 wised
 wisely
 wiseman
@@ -44760,6 +45006,8 @@ woe
 woeful
 woes
 wok
+woke
+wokest
 wold
 wolf
 wolfs
@@ -44793,7 +45041,12 @@ workaway
 worked
 workhand
 workie
+workies
 workload
+workrate
+workrates
+workwear
+workwise
 worky
 world
 worlde
@@ -44892,6 +45145,7 @@ wrister
 wristers
 wrists
 wristwear
+wristwork
 wristy
 writ
 write
@@ -44939,6 +45193,7 @@ xis
 xix
 xlnt
 xolo
+xolos
 xylan
 xylans
 xylem
