@@ -152,6 +152,7 @@ abnegating
 abnegation
 abnet
 abnets
+abneural
 abnormal
 aboard
 abob
@@ -202,6 +203,7 @@ abraded
 abrader
 abraders
 abrades
+abranchial
 abrase
 abrased
 abrases
@@ -1472,6 +1474,7 @@ akses
 aksing
 akvavit
 alabamine
+alabarch
 alabaster
 alaborate
 alack
@@ -1621,6 +1624,8 @@ aley
 alfaki
 alfalfa
 alfaqui
+alfilaria
+alfileria
 alfoil
 alfonsino
 alfonsinos
@@ -1652,6 +1657,7 @@ algos
 algose
 algous
 algraphy
+alhagi
 alia
 alias
 alibi
@@ -2099,6 +2105,7 @@ anabases
 anabasis
 anabiosis
 anabolism
+anabranch
 anachronic
 anacidity
 anaclitic
@@ -2200,6 +2207,7 @@ anechoic
 anele
 aneled
 aneles
+aneling
 anemia
 anemic
 anemometer
@@ -2215,6 +2223,7 @@ anfion
 angary
 angekok
 angel
+angelic
 anger
 angered
 angering
@@ -2667,7 +2676,11 @@ arcanum
 arced
 arch
 archaea
+archaeal
+archaean
 archaic
+archangel
+archangelic
 arched
 archenemies
 archenteron
@@ -2681,6 +2694,7 @@ archetypes
 archicortical
 archil
 archils
+arching
 architect
 architrave
 architraves
@@ -2746,7 +2760,9 @@ argent
 argentine
 argentines
 argh
+arghileh
 argil
+argileh
 arginine
 argol
 argon
@@ -3652,6 +3668,7 @@ bailey
 bailie
 bailies
 bailin
+bailing
 bailins
 bailor
 bails
@@ -3681,6 +3698,9 @@ balafon
 balafons
 balalaika
 balalaikas
+balance
+balancer
+balancing
 balanitis
 balas
 balata
@@ -3697,11 +3717,13 @@ baldric
 baldrics
 bale
 baled
+balefire
 baler
 balers
 bales
 balibuntal
 balikbayan
+baling
 balk
 balking
 balkline
@@ -3762,6 +3784,8 @@ bandwidths
 bane
 banes
 bang
+bangarang
+banger
 banging
 bangle
 bangs
@@ -3848,6 +3872,7 @@ barbiturate
 barbola
 barbotine
 barbs
+barchan
 bard
 barded
 bardie
@@ -3864,7 +3889,11 @@ barer
 bares
 barest
 barf
+barfi
+barfing
 bargain
+bargainable
+bargainer
 bargaining
 bargains
 barge
@@ -3891,6 +3920,7 @@ barking
 barks
 barley
 barleys
+barline
 barm
 barmaid
 barmaids
@@ -4363,6 +4393,7 @@ bhajia
 bhajias
 bhajis
 bhang
+bhangra
 bharal
 bhasha
 bhashas
@@ -4707,6 +4738,9 @@ blameable
 blamed
 blames
 blanc
+blanch
+blanche
+blanching
 blanco
 bland
 blank
@@ -4760,12 +4794,16 @@ bleating
 bleats
 bleb
 blebs
+blech
 bled
+blench
+blenching
 blent
 blest
 blether
 bleu
 bleugh
+bleurgh
 blew
 blight
 blighty
@@ -5246,6 +5284,7 @@ brahmas
 brahs
 braid
 brail
+brailing
 brails
 brain
 braindead
@@ -5277,6 +5316,10 @@ bralets
 bran
 branch
 branchia
+branchiae
+branchial
+branching
+branchline
 brand
 brandade
 branded
@@ -5417,6 +5460,7 @@ bring
 bringer
 bringing
 brings
+brinicle
 brinier
 briniest
 brining
@@ -5481,6 +5525,7 @@ brow
 browbeat
 brubru
 brubrus
+brucine
 bruck
 brucks
 bruery
@@ -5501,6 +5546,8 @@ brulie
 brulzie
 brumal
 brume
+brunch
+bruncher
 brunet
 brunets
 brung
@@ -5525,6 +5572,7 @@ buahahaha
 bub
 buba
 bubal
+bubaline
 bubals
 bubas
 bubele
@@ -5616,6 +5664,8 @@ bumping
 bums
 bun
 bunce
+bunch
+bunching
 bund
 bundling
 bundu
@@ -5643,6 +5693,7 @@ burb
 burble
 burbler
 burbles
+burbling
 burbot
 burbots
 burbs
@@ -6614,6 +6665,7 @@ ceramics
 cerated
 ceratite
 cerci
+cerclage
 cercus
 cere
 cereal
@@ -6680,15 +6732,18 @@ chai
 chain
 chaine
 chained
+chaining
 chainmail
 chains
 chair
+chairing
 chairs
 chaise
 chaises
 chakra
 chal
 chalcone
+chalice
 chalk
 chalked
 chalkie
@@ -6702,14 +6757,22 @@ chamcha
 chameli
 chana
 chance
+chancel
 chancer
 chancier
 chanciest
+chancing
 chancre
 chancres
 chancroid
 chancrous
 chancy
+changa
+change
+changeable
+changeling
+changer
+changing
 chank
 chanks
 chant
@@ -6735,6 +6798,7 @@ chaps
 chapstick
 chapsticks
 char
+charabanc
 characin
 characins
 character
@@ -6753,6 +6817,10 @@ charactery
 charade
 charas
 chard
+charge
+chargeable
+charger
+charging
 charier
 chariest
 chariot
@@ -6861,6 +6929,7 @@ cherishes
 chert
 cherts
 cherty
+cherub
 chervil
 chesed
 chest
@@ -6935,6 +7004,7 @@ chihuahuas
 chikan
 chiko
 chikos
+chilblain
 child
 childed
 childhead
@@ -6971,6 +7041,8 @@ chinaware
 chinch
 chine
 chined
+ching
+chining
 chino
 chinois
 chins
@@ -7132,8 +7204,10 @@ churchdom
 churched
 churches
 churchful
+churching
 churchish
 churchy
+churinga
 churl
 churlish
 churls
@@ -7186,11 +7260,13 @@ cimbalom
 cimbaloms
 cinch
 cinched
+cinching
 cinchonic
 cinder
 cine
 cinema
 cinematic
+cineraria
 cinq
 cinquain
 cinque
@@ -7303,6 +7379,8 @@ clamp
 clams
 clan
 clang
+clanger
+clanging
 clangor
 clank
 clanking
@@ -7311,6 +7389,7 @@ clanks
 clap
 claps
 claptrap
+clarence
 claries
 clarifier
 clarion
@@ -7346,10 +7425,16 @@ clay
 clayey
 claypan
 clays
+clean
+cleanable
+cleaner
+cleaning
 clear
 clearable
+clearance
 clearer
 clearheaded
+clearing
 clearly
 clears
 cleat
@@ -7362,6 +7447,7 @@ clefts
 cleg
 clench
 clenched
+clenching
 cleome
 clepe
 clept
@@ -7400,8 +7486,12 @@ clime
 clinal
 clinch
 clinched
+clincher
+clinching
 cline
 cling
+clinger
+clinging
 clinic
 clinical
 clinician
@@ -8203,6 +8293,7 @@ crams
 cran
 cranachan
 cranachans
+cranage
 crane
 cranes
 crania
@@ -8295,6 +8386,7 @@ cremates
 creme
 cremes
 crenate
+crenel
 creodont
 creole
 creosote
@@ -8351,6 +8443,13 @@ crimps
 crims
 crin
 crinal
+crinch
+crinching
+crine
+cringe
+cringeling
+cringer
+cringing
 crining
 crink
 crinking
@@ -8477,6 +8576,8 @@ crumhorn
 crump
 crumps
 crunch
+cruncher
+crunching
 crunk
 cruor
 crura
@@ -8547,6 +8648,7 @@ ctenophoran
 ctenophore
 cuatro
 cub
+cubage
 cube
 cubeb
 cubebs
@@ -8624,6 +8726,7 @@ cupro
 cuprous
 cups
 cur
+curable
 curacao
 curacaos
 curacoa
@@ -8650,6 +8753,7 @@ curfew
 curia
 curiam
 curie
+curing
 curio
 curios
 curiosum
@@ -8661,6 +8765,7 @@ curlers
 curlicue
 curlier
 curliest
+curling
 curls
 curs
 curse
@@ -10757,6 +10862,8 @@ ecdysial
 ecdysis
 echini
 echinoderm
+echiuran
+echiurian
 echo
 echoed
 echoer
@@ -10937,8 +11044,10 @@ electros
 electrotractor
 electrowin
 elects
+elegance
 elegiac
 elegiacal
+elegic
 elegies
 elegise
 elegised
@@ -11141,7 +11250,9 @@ emulative
 emus
 enable
 enablement
+enabler
 enables
+enabling
 enact
 enacted
 enaction
@@ -11164,12 +11275,15 @@ encases
 encash
 enchain
 enchained
+enchaining
 enchant
 enchants
 enchase
 enchases
 enchilada
 encipher
+encircle
+encircling
 enclave
 encode
 encoded
@@ -11226,6 +11340,7 @@ energy
 enervate
 enervator
 enfant
+enfleurage
 enforce
 enforces
 engage
@@ -11758,6 +11873,7 @@ eugenist
 eugenists
 euglena
 eulogy
+eunuch
 euploid
 eureka
 euretic
@@ -12338,8 +12454,10 @@ felafals
 felafel
 felafels
 felch
+felching
 felicific
 felid
+feline
 felinity
 felix
 felo
@@ -12369,6 +12487,9 @@ fems
 femur
 femurs
 fen
+fence
+fencer
+fencing
 fend
 feng
 fening
@@ -12379,6 +12500,7 @@ fer
 feral
 feria
 ferial
+feringhi
 ferment
 fermentation
 fermenter
@@ -12433,6 +12555,7 @@ feyest
 feyly
 fez
 fiacre
+fiance
 fiasco
 fiat
 fiats
@@ -12496,6 +12619,7 @@ filarial
 filbert
 filch
 filcher
+filching
 file
 filed
 filefish
@@ -12540,14 +12664,21 @@ finalists
 finalities
 finality
 finals
+finance
+financial
+financing
+finch
 find
 findal
 fine
+fineable
 fineish
 finer
 finger
+fingerable
 fingerer
 fingering
+fingerling
 fingertip
 fingling
 finial
@@ -12571,7 +12702,9 @@ fins
 fiord
 fioriture
 fir
+firable
 fire
+fireable
 firearm
 firearmed
 firebed
@@ -12580,8 +12713,10 @@ firebug
 fired
 firedog
 firefight
+firefinch
 firehole
 firelight
+fireline
 firelit
 firemen
 firenado
@@ -12660,6 +12795,7 @@ flacks
 flag
 flageolet
 flail
+flailing
 flails
 flair
 flak
@@ -12678,6 +12814,7 @@ flaneur
 flaneurs
 flange
 flanger
+flanging
 flank
 flanker
 flankers
@@ -12686,6 +12823,7 @@ flans
 flap
 flaps
 flare
+flaring
 flash
 flashback
 flashbacks
@@ -12711,6 +12849,7 @@ flatland
 flatlands
 flats
 flatware
+flaunching
 flaunt
 flaunter
 flaunts
@@ -12721,6 +12860,8 @@ flautists
 flaw
 flaws
 flea
+fleabag
+fleabane
 fleabite
 fleadh
 fleas
@@ -12728,6 +12869,9 @@ fleche
 fled
 fledge
 fledged
+flench
+flencher
+flenching
 fleur
 fleuron
 flew
@@ -12748,7 +12892,11 @@ flightier
 flimflam
 flimflams
 flimsies
+flinch
+flincher
+flinching
 fling
+flinger
 flinging
 flint
 flintier
@@ -13003,6 +13151,9 @@ fracks
 fractal
 frae
 frag
+fragile
+fragrance
+fraiche
 frail
 frailer
 frailest
@@ -13020,6 +13171,7 @@ frampold
 franc
 franca
 francs
+franger
 frank
 franker
 frankers
@@ -13038,6 +13190,8 @@ fraught
 fray
 frays
 freight
+french
+frenching
 frenetic
 frenum
 frequent
@@ -13144,6 +13298,7 @@ fudged
 fuehrer
 fuel
 fueled
+fueling
 fuels
 fufu
 fug
@@ -13188,15 +13343,22 @@ fundido
 fundie
 fundiet
 fundo
+funeral
+funereal
 funest
 funfair
 funfest
 funfests
+fungal
 fungating
 fungation
 fungi
+fungic
 fungin
+fungine
 fungo
+funic
+funicle
 funis
 funises
 funk
@@ -13245,6 +13407,7 @@ furtherer
 furtherers
 furthers
 furtive
+furuncle
 fury
 fusain
 fusaria
@@ -13312,6 +13475,7 @@ gaiatri
 gaiety
 gaily
 gain
+gainable
 gained
 gainer
 gainful
@@ -13334,6 +13498,7 @@ galah
 galanga
 galangal
 galange
+galangin
 galanin
 galant
 galanterie
@@ -13345,12 +13510,14 @@ galeas
 galeate
 galeated
 galena
+galenic
 galere
 galeres
 gales
 gali
 galia
 galinga
+galingale
 galiot
 galis
 galop
@@ -13397,6 +13564,9 @@ ganch
 ganches
 ganef
 gang
+gangbang
+gangbanger
+gangbanging
 ganger
 gangeril
 ganging
@@ -13414,6 +13584,7 @@ gangly
 gangman
 gangrape
 gangraping
+gangrel
 gangrene
 gangrening
 gangril
@@ -13454,6 +13625,7 @@ garbled
 garbler
 garblers
 garbles
+garbling
 garbo
 garboard
 garbos
@@ -13563,6 +13735,7 @@ gday
 gean
 geans
 gear
+gearchange
 geared
 gearing
 gearlever
@@ -13602,6 +13775,7 @@ genae
 genal
 gene
 genera
+generable
 general
 generalate
 generalia
@@ -13821,6 +13995,7 @@ gimp
 gimped
 gimping
 gin
+ginch
 ginestra
 ginestras
 ging
@@ -13828,7 +14003,9 @@ ginga
 gingas
 ginge
 ginger
+gingerale
 gingering
+gingerline
 ginges
 gingham
 ginghams
@@ -14315,6 +14492,8 @@ grating
 gratingly
 gratis
 grats
+graunch
+graunching
 gravamen
 gravamina
 grave
@@ -14410,6 +14589,7 @@ grimiest
 griming
 grimoire
 grin
+grinch
 grind
 grinding
 grindingly
@@ -14497,6 +14677,7 @@ grudge
 grudger
 grudgers
 gruel
+grueling
 grume
 grump
 grumpier
@@ -14653,6 +14834,7 @@ gyring
 gyro
 gyron
 hab
+habanera
 habeas
 habit
 habitability
@@ -14758,6 +14940,7 @@ haircut
 haircuts
 hairdo
 hairdye
+hairgel
 hairgrip
 hairgrips
 hairier
@@ -14803,6 +14986,7 @@ halers
 haleru
 hales
 half
+halfling
 halfwit
 halibut
 halide
@@ -15184,6 +15368,7 @@ heald
 healed
 healer
 healers
+healing
 heals
 health
 healthcare
@@ -15192,9 +15377,11 @@ healthier
 heap
 heaps
 hear
+hearable
 heard
 hearer
 hearers
+hearing
 hearken
 hearkened
 hearkens
@@ -15364,6 +15551,9 @@ heptarchy
 her
 herald
 herb
+herbage
+herbal
+herbaria
 herbaries
 herbary
 herbed
@@ -15467,6 +15657,7 @@ heuchs
 heugh
 heughs
 heurige
+heurigen
 heuriger
 heurism
 heurisms
@@ -15532,6 +15723,7 @@ highchairs
 higher
 highish
 highland
+highlife
 highlight
 highlighting
 highly
@@ -15596,9 +15788,13 @@ hiping
 hiply
 hips
 hipshot
+hirable
 hiragana
+hircine
 hire
+hireable
 hired
+hireling
 hirer
 hirers
 hires
@@ -15992,6 +16188,7 @@ hsps
 huarache
 hub
 hubs
+huchen
 huck
 hucks
 hue
@@ -16045,7 +16242,10 @@ hums
 humus
 hun
 hunch
+hunching
 hung
+hunger
+hungering
 hunk
 hunks
 hunt
@@ -16506,6 +16706,7 @@ inanition
 inanity
 inapt
 inarch
+inarching
 inartistic
 inaudible
 inaugural
@@ -16523,11 +16724,14 @@ incapacity
 incarnate
 incas
 inch
+incharge
 inched
+inching
 incidence
 incinerate
 incipit
 incipits
+incircle
 incision
 incisions
 incisura
@@ -16535,8 +16739,10 @@ incitation
 incite
 incited
 inciter
+inclinable
 incline
 inclined
+incliner
 inclining
 include
 included
@@ -16548,7 +16754,9 @@ increate
 incrust
 incrusts
 incubi
+incunable
 incur
+incurable
 incurs
 incursion
 incursions
@@ -16611,6 +16819,7 @@ inebriating
 inebriation
 inedible
 inegalitarian
+inelegance
 ineligibility
 ineligible
 ineligibly
@@ -16642,6 +16851,8 @@ infatuating
 infatuation
 infauna
 infer
+inferable
+inference
 inferior
 infertile
 infest
@@ -18484,6 +18695,7 @@ lapses
 laptop
 lar
 larboard
+larcener
 larch
 lard
 larded
@@ -18493,6 +18705,7 @@ lards
 lardy
 lares
 larf
+larfing
 larfs
 larga
 largas
@@ -18619,8 +18832,12 @@ laughful
 laughter
 laughy
 launce
+launch
+launcher
+launching
 laureate
 laurel
+laureling
 laurels
 laureth
 lauryl
@@ -18750,6 +18967,7 @@ lech
 leche
 lecher
 lechery
+leching
 lechwe
 lectern
 lectin
@@ -18844,6 +19062,7 @@ legrope
 leguan
 leguleian
 legume
+lehenga
 lehr
 lehrs
 lei
@@ -19011,6 +19230,7 @@ libris
 libtard
 lice
 licence
+licencing
 licet
 lichen
 lichened
@@ -19048,6 +19268,7 @@ life
 lifeful
 lifefuls
 lifehold
+lifeline
 lifer
 liferaft
 liferent
@@ -19115,6 +19336,7 @@ likins
 likuta
 lilac
 lilacs
+lilangeni
 liliaceous
 lilied
 lilies
@@ -19195,6 +19417,7 @@ linctus
 lindane
 linden
 line
+lineage
 lineal
 lineament
 linear
@@ -19213,6 +19436,9 @@ lines
 lineup
 ling
 linga
+linger
+lingerer
+lingering
 lingo
 lingot
 lingua
@@ -23797,6 +24023,8 @@ nard
 nards
 nardus
 nares
+narghile
+nargileh
 narial
 narikin
 narikins
@@ -23889,6 +24117,7 @@ naturist
 naturistic
 naturists
 natya
+naufrage
 naupliar
 nauplius
 nausea
@@ -24348,7 +24577,9 @@ niche
 niched
 nicher
 nichered
+nichering
 nichevo
+niching
 nicish
 nick
 nicked
@@ -24398,6 +24629,7 @@ nifs
 niftier
 niger
 nigeran
+nigericin
 nigerite
 nigh
 nighly
@@ -25043,13 +25275,17 @@ nsima
 nth
 nuance
 nuanced
+nuancing
 nub
 nubilation
 nubile
 nubility
 nubs
 nucha
+nuchal
 nucin
+nucleal
+nuclear
 nucular
 nude
 nudging
@@ -25125,6 +25361,7 @@ nuptial
 nuque
 nuques
 nuragh
+nuraghe
 nuraghi
 nuraghic
 nurd
@@ -32050,10 +32287,13 @@ ranarian
 ranarium
 ranariums
 rance
+rancel
 ranch
 rancher
 ranchera
+rancheria
 ranchero
+ranching
 ranchito
 ranchman
 ranchy
@@ -32082,10 +32322,12 @@ raned
 ranes
 rang
 ranga
+rangale
 range
 ranged
 ranger
 rangier
+rangiferine
 ranging
 rangiora
 rangle
@@ -32177,6 +32419,7 @@ rare
 rarebit
 rarebits
 rarefactive
+rarefiable
 rarefied
 rarefier
 rareish
@@ -32427,6 +32670,7 @@ rea
 reable
 reabled
 reables
+reabling
 reabridge
 reabridged
 reabridges
@@ -32481,6 +32725,7 @@ realest
 realgar
 realia
 realign
+realigning
 realisable
 realise
 realised
@@ -32522,9 +32767,11 @@ rearers
 rearguard
 reargue
 reargues
+rearing
 rearise
 rearisen
 rearises
+rearling
 rearm
 rearmed
 rearms
@@ -32668,6 +32915,14 @@ receptor
 recercata
 recercely
 recertifies
+rechain
+rechaining
+rechange
+rechanging
+recharge
+rechargeable
+recharger
+recharging
 recharter
 recharters
 recheat
@@ -32679,6 +32934,7 @@ recipher
 recipience
 recipient
 recircle
+recircling
 recit
 recital
 recitate
@@ -32688,8 +32944,15 @@ recited
 reciter
 reck
 recks
+reclang
+reclanging
 reclear
+reclearing
 reclimb
+reclinable
+recline
+recliner
+reclining
 reclose
 recloses
 reclothe
@@ -32872,6 +33135,10 @@ refects
 refed
 refelt
 refer
+referable
+reference
+referencer
+referencing
 referent
 referential
 referment
@@ -32885,6 +33152,12 @@ refigured
 refile
 refiled
 refiles
+refiling
+refinable
+refinage
+refinance
+refinanceable
+refinancing
 refine
 refinement
 refiner
@@ -32926,7 +33199,12 @@ refount
 refract
 refractile
 refractive
+refragable
+refrain
+refrainer
+refraining
 refried
+refringence
 refringent
 refront
 refronting
@@ -32935,6 +33213,7 @@ reft
 refuel
 refueled
 refueler
+refueling
 refuels
 refuge
 refuged
@@ -32944,6 +33223,7 @@ refute
 refuter
 reg
 regain
+regaining
 regal
 regale
 regaled
@@ -32952,6 +33232,7 @@ regalers
 regales
 regalia
 regalian
+regaling
 regalise
 regalism
 regalist
@@ -32973,6 +33254,7 @@ regelated
 regelates
 regelation
 regencies
+regenerable
 regenerant
 regenerate
 regeneration
@@ -33093,6 +33375,7 @@ regurs
 rehab
 rehabs
 rehair
+rehairing
 rehairs
 rehang
 rehanging
@@ -33100,6 +33383,7 @@ rehash
 rehaul
 rehear
 reheard
+rehearing
 rehears
 rehearsal
 rehearsals
@@ -33117,6 +33401,7 @@ rehires
 rehiring
 rehome
 rehonour
+rehung
 reif
 reified
 reifies
@@ -33223,6 +33508,8 @@ relationary
 relatival
 relative
 relator
+relaunch
+relaunching
 relay
 relayer
 relearn
@@ -33295,6 +33582,7 @@ relimits
 reline
 reliner
 reliners
+relining
 relink
 relinks
 reliquaire
@@ -33406,6 +33694,7 @@ remurmurs
 remuster
 remusters
 ren
+renable
 renal
 rename
 renames
@@ -33470,6 +33759,7 @@ renting
 rents
 renumerate
 renumerative
+renunciance
 renunciant
 renvoi
 reo
@@ -34463,11 +34753,13 @@ rich
 riche
 richen
 richened
+richening
 richens
 richer
 riches
 richest
 richish
+richling
 richly
 richterite
 richterites
@@ -34631,6 +34923,7 @@ rimus
 rimy
 rin
 rince
+rinceau
 rincon
 rind
 rinded
@@ -34643,6 +34936,7 @@ rindlis
 rinds
 rindy
 ring
+ringable
 ringal
 ringaring
 ringbark
@@ -34654,6 +34948,8 @@ ringe
 ringent
 ringer
 ringes
+ringfence
+ringfencing
 ringfort
 ringie
 ringies
@@ -35403,6 +35699,7 @@ rubrene
 rubrenes
 rubric
 rubrical
+rubrician
 rubricist
 rubricists
 rubrics
@@ -35413,6 +35710,7 @@ rubus
 rubuses
 ruby
 ruche
+ruching
 ruchy
 ruck
 rucks
@@ -35470,6 +35768,7 @@ rugulose
 rugulous
 ruice
 ruin
+ruinable
 ruination
 ruinator
 ruiner
@@ -35544,9 +35843,11 @@ runagate
 runanga
 runaround
 runaway
+runce
 runch
 runchick
 runchicks
+runcle
 rund
 rundale
 rundlet
@@ -43093,6 +43394,8 @@ unaudited
 unavailable
 unaware
 unawares
+unbalance
+unbalancing
 unban
 unbans
 unbar
@@ -43111,16 +43414,27 @@ uncaring
 uncase
 uncases
 unchain
+unchaining
+unchangeable
+unchanging
 uncheck
 unchurch
+unchurching
 uncial
 uncinariasis
 uncinate
 unclad
 uncle
+unclean
+uncleanable
+unclear
+unclench
+unclenching
 unclick
 unclinch
+unclinching
 uncling
+unclinging
 unclip
 uncloak
 uncloaking
@@ -43143,6 +43457,7 @@ unction
 unctions
 unctuous
 uncurl
+uncurling
 uncurls
 uncut
 und
@@ -43182,8 +43497,10 @@ unfertile
 unfilial
 unfirm
 unfit
+unflinching
 unfurl
 unfurling
+ungenial
 ungroup
 ungrouping
 unguent
@@ -43346,6 +43663,7 @@ unlimited
 unline
 unlineal
 unlined
+unlingering
 unlining
 unlink
 unlist
