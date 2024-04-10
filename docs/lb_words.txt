@@ -1253,6 +1253,7 @@ agrarian
 agrarianizing
 agrestal
 agrestic
+agribiz
 agriculture
 agriculturer
 agrievance
@@ -1535,6 +1536,7 @@ alazon
 alazony
 alb
 alba
+albariza
 albas
 albedo
 albeit
@@ -1729,6 +1731,7 @@ aliterates
 aliturgical
 alive
 aliyah
+alizarate
 alizari
 alizarin
 alkadiene
@@ -1878,10 +1881,12 @@ alternation
 alterne
 alterns
 alters
+alteza
 althaea
 althea
 altheas
 althorn
+altigraph
 altiplano
 altiport
 altitude
@@ -3138,6 +3143,7 @@ athetesis
 athetise
 athetised
 athetises
+athetize
 athetoid
 athetosis
 athirst
@@ -3768,6 +3774,7 @@ balsa
 balsam
 balsamic
 balsams
+balthazar
 balti
 baltis
 balun
@@ -4258,6 +4265,7 @@ behests
 behind
 behove
 behoved
+beige
 beignet
 being
 beings
@@ -4794,6 +4802,7 @@ blazar
 blazars
 blaze
 blazed
+blazer
 blazes
 bleah
 bleak
@@ -4846,8 +4855,10 @@ blister
 blistered
 blisters
 blithe
+blither
 blitz
 blitzer
+blitzkrieg
 bloat
 bloated
 bloater
@@ -11893,6 +11904,7 @@ etherate
 etherated
 etherates
 ethereal
+etherealize
 etherean
 etheric
 etherin
@@ -11903,6 +11915,8 @@ etherises
 etherism
 etherist
 etherists
+etherize
+etherizer
 ethers
 ethic
 ethician
@@ -14186,6 +14200,7 @@ glaze
 glazer
 glazers
 glazes
+glazier
 glazing
 glazy
 gleam
@@ -14208,6 +14223,8 @@ glint
 glinting
 glister
 glisters
+glitz
+glitzier
 gloat
 gloater
 gloaters
@@ -14555,8 +14572,11 @@ grapheme
 graphene
 graphic
 graphing
+graphite
 graphitic
+graphitize
 graphology
+grapier
 grapy
 gras
 grata
@@ -14601,6 +14621,7 @@ graze
 grazer
 grazers
 grazes
+grazier
 grazing
 grease
 greased
@@ -14919,6 +14940,7 @@ gyron
 hab
 habanera
 habeas
+habilitate
 habit
 habitability
 habitat
@@ -18126,6 +18148,7 @@ keystones
 keytar
 keyway
 keyword
+khabar
 khad
 khadi
 khads
@@ -18139,9 +18162,11 @@ khanas
 khanate
 khanda
 khans
+khapra
 khat
 khats
 khayal
+khazi
 kheda
 khichri
 khimar
@@ -18333,6 +18358,7 @@ klatch
 klatsch
 klaxon
 klick
+klieg
 klik
 kliket
 kliks
@@ -18910,6 +18936,8 @@ lateralise
 lateralised
 lateralises
 laterality
+lateralize
+lateralizer
 latere
 laterigrade
 laterise
@@ -18917,6 +18945,8 @@ laterised
 laterite
 lateritise
 lateritised
+lateritize
+laterize
 laters
 latest
 latex
@@ -19004,10 +19034,12 @@ layman
 layout
 lays
 lazar
+lazaret
 lazars
 laze
 lazed
 lazes
+lazier
 lazily
 lazing
 lazy
@@ -19332,6 +19364,9 @@ lib
 libel
 libeled
 libeler
+liberal
+liberalize
+liberalizer
 liberate
 liberated
 liberator
@@ -19673,6 +19708,8 @@ literalism
 literalist
 literalists
 literality
+literalize
+literalizer
 literals
 literarian
 literarily
@@ -19690,6 +19727,7 @@ literation
 literatise
 literatist
 literatists
+literatize
 literato
 literator
 literators
@@ -27471,6 +27509,7 @@ palaeoplain
 palaeopole
 palaeopoles
 palaeowind
+palagi
 palais
 palak
 palang
@@ -27730,6 +27769,7 @@ papagoite
 papain
 papakainga
 papal
+papalagi
 papalise
 papalism
 papality
@@ -27820,6 +27860,7 @@ paragrapher
 paragraphia
 paragraphic
 paragraphing
+paragraphize
 parakinesis
 paralic
 paralytic
@@ -27939,6 +27980,7 @@ parer
 parera
 pareras
 parerga
+parergal
 parers
 pares
 pareses
@@ -27951,6 +27993,7 @@ parfait
 pargana
 parge
 parget
+pargeter
 pargeting
 parging
 pargo
@@ -27976,6 +28019,7 @@ park
 parka
 parkas
 parker
+parkerite
 parkie
 parkier
 parkies
@@ -28150,6 +28194,9 @@ patel
 paten
 patent
 patenting
+pater
+patera
+paterae
 patete
 path
 pathia
@@ -28944,13 +28991,16 @@ philanthropic
 philanthropical
 philanthropoid
 philanthropy
+philibeg
 philodinid
 philopatry
 philothion
+philter
 phiran
 phis
 phish
 phit
+phiz
 phlorol
 pho
 phoca
@@ -29088,6 +29138,7 @@ phrator
 phreak
 phreaker
 phrenotropic
+phthalate
 phthalo
 phthalyl
 phthanite
@@ -29234,6 +29285,7 @@ piemen
 piemontite
 piend
 pier
+pierage
 pierce
 piercer
 pierid
@@ -29304,6 +29356,7 @@ piley
 pilfer
 pilfered
 pilferer
+pilger
 pili
 piliated
 pilidium
@@ -29544,6 +29597,7 @@ pirating
 piratise
 piratism
 piratisms
+piratize
 piratries
 piriform
 piripiri
@@ -29551,6 +29605,7 @@ piripiris
 pirk
 pirks
 pirl
+pirlie
 pirling
 pirls
 pirn
@@ -29669,6 +29724,8 @@ pix
 pixie
 pixilate
 pixilated
+pize
+pizer
 placard
 placid
 placidity
@@ -30718,6 +30775,7 @@ pregive
 pregiven
 pregiving
 pregnane
+prehalter
 preharvest
 preheat
 preheater
@@ -32969,6 +33027,8 @@ rebaptism
 rebaptisms
 rebaptist
 rebaptists
+rebaptize
+rebaptizer
 rebar
 rebarbative
 rebars
@@ -33418,6 +33478,7 @@ regalist
 regalists
 regalities
 regality
+regalize
 regals
 regalties
 regalty
@@ -33552,6 +33613,7 @@ regurgitate
 regurgitation
 regurs
 rehab
+rehabilitate
 rehabs
 rehair
 rehairing
@@ -34397,6 +34459,7 @@ retaker
 retakers
 retaliate
 retaliation
+retalk
 retam
 retama
 retamas
@@ -35335,6 +35398,7 @@ rivuluses
 riyal
 riyo
 riza
+rizalite
 roa
 roach
 roached
@@ -40770,6 +40834,7 @@ talipot
 talk
 talkback
 talkbacks
+talker
 talkie
 talkies
 talkiest
@@ -41637,6 +41702,7 @@ theorists
 theoros
 theors
 theory
+therapize
 there
 thereafter
 thereanent
@@ -46348,7 +46414,9 @@ zap
 zaps
 zarda
 zardozi
+zareba
 zari
+zariba
 zas
 zawn
 zax
@@ -46361,6 +46429,7 @@ zed
 zeds
 zef
 zein
+zeitgeber
 zenana
 zenith
 zero
@@ -46396,6 +46465,7 @@ zinging
 zings
 zino
 zins
+zip
 zit
 zither
 ziti
