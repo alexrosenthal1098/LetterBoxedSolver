@@ -2579,11 +2579,15 @@ aperients
 aperies
 aperture
 apes
+apex
+apexes
 aphagia
 aphagic
+aphasia
 aphasic
 aphasics
 apheretic
+aphesis
 aphetic
 aphid
 aphis
@@ -2628,6 +2632,8 @@ apology
 apols
 apomorphic
 apophatic
+apophyses
+apophysis
 apoprotein
 apoptotic
 aporetic
@@ -3043,6 +3049,7 @@ asdic
 aseismic
 asepsis
 aseptic
+asequia
 ash
 ashcan
 ashcans
@@ -3102,6 +3109,7 @@ asperser
 aspersers
 asperses
 aspheric
+asphyxia
 aspic
 aspie
 aspirant
@@ -4084,6 +4092,8 @@ basked
 basking
 basks
 basmati
+basque
+basques
 bast
 baste
 basted
@@ -4696,6 +4706,8 @@ bipartisan
 bipartite
 biped
 bipedal
+biphobia
+biphobias
 biplane
 bipod
 bipolar
@@ -4732,6 +4744,8 @@ birze
 bis
 bish
 bison
+bisque
+bisques
 bistable
 bistables
 bister
@@ -5319,8 +5333,10 @@ bowtie
 box
 boxcar
 boxcars
+boxes
 boxout
 boxouts
+boxy
 boy
 boyar
 boyau
@@ -5329,6 +5345,10 @@ boykin
 boyly
 boylya
 boyo
+boyos
+boys
+boysey
+boysy
 boytoy
 bozo
 bozos
@@ -5761,6 +5781,7 @@ buoy
 buoyage
 buoyant
 buoyed
+buoys
 bur
 burb
 burble
@@ -5892,6 +5913,7 @@ butyrin
 buy
 buyable
 buyer
+buys
 bwana
 bwanas
 bye
@@ -11819,6 +11841,8 @@ epimeron
 epinephrine
 epiphany
 epiphora
+epiphyses
+epiphysis
 epistases
 epistasis
 epistatic
@@ -11827,6 +11851,7 @@ epitome
 epitope
 epode
 epoque
+epoxy
 epsilon
 epsilons
 equable
@@ -11840,6 +11865,8 @@ equator
 equatorial
 eques
 equine
+equip
+equips
 equity
 equoreal
 era
@@ -11949,6 +11976,8 @@ esky
 espies
 esport
 esports
+espouse
+espouses
 esprit
 espy
 esrog
@@ -12234,6 +12263,7 @@ exempt
 exempted
 exempting
 exequy
+exequys
 exert
 exerts
 exes
@@ -15354,6 +15384,7 @@ haoma
 hap
 hapa
 hapas
+hapax
 haplite
 haplodiploid
 haplodiploidy
@@ -15940,6 +15971,9 @@ hexametric
 hexametrist
 hexametrists
 hexed
+hexes
+hexose
+hexoses
 hey
 heyday
 heydays
@@ -16119,6 +16153,7 @@ hoarsens
 hoary
 hoatzin
 hoax
+hoaxes
 hob
 hobnail
 hobnails
@@ -16306,6 +16341,7 @@ hons
 hop
 hope
 hoper
+hopes
 hoping
 hops
 hopscotch
@@ -16356,6 +16392,8 @@ hortatory
 hortus
 hose
 hosed
+hosepipe
+hosepipes
 hoser
 hoses
 hosier
@@ -16417,6 +16455,11 @@ hourlong
 hourly
 hours
 housal
+house
+houseboy
+houseboys
+houses
+housey
 housie
 housil
 houslin
@@ -16625,10 +16668,14 @@ hypo
 hypocotyl
 hypogonadal
 hypoid
+hypophyses
+hypophysis
 hypopnea
 hyporheic
+hypos
 hypotactic
 hypotrophy
+hypoxia
 hyson
 hysteresis
 hysteria
@@ -16648,6 +16695,7 @@ iambuses
 iatric
 iberis
 ibex
+ibexes
 ibis
 ibises
 ibn
@@ -25898,6 +25946,7 @@ obereks
 obese
 obesity
 obex
+obexes
 obey
 obeyable
 obeyed
@@ -26484,6 +26533,7 @@ opanci
 opaque
 opaquer
 opaquing
+opas
 ope
 oped
 opelet
@@ -26929,6 +26979,7 @@ osmunds
 osnaburg
 osone
 osones
+osophy
 osteal
 osteitic
 osteitis
@@ -27530,11 +27581,16 @@ oxaloacetates
 oxalosis
 oxamide
 oxea
+oxeas
 oxen
 oxer
 oxers
+oxeye
+oxeyes
 oxheal
 oxhide
+oxhouse
+oxhouses
 oxic
 oxide
 oxies
@@ -27545,6 +27601,8 @@ oxisol
 oxisols
 oxtail
 oxtails
+oxy
+oxys
 oyabun
 oyakata
 oyama
@@ -28029,6 +28087,7 @@ papality
 papalize
 papaloi
 papalois
+papaphobia
 paparchy
 papas
 papasan
@@ -28055,6 +28114,7 @@ papern
 papers
 paperware
 papeterie
+papey
 papier
 papilio
 papilionine
@@ -28411,6 +28471,7 @@ pashas
 pashka
 pasila
 paso
+pasque
 past
 pasta
 pastas
@@ -28575,6 +28636,7 @@ pawns
 pawpaw
 pawpaws
 paws
+pax
 pay
 payday
 paydirt
@@ -28920,6 +28982,7 @@ peplus
 pepo
 pepon
 pepons
+pepos
 peps
 pepsin
 peptic
@@ -28929,6 +28992,7 @@ peptize
 peptizer
 peptone
 pequi
+pequia
 pequis
 per
 peractor
@@ -29191,6 +29255,8 @@ pesher
 peshkash
 peskier
 peskiest
+peso
+pesos
 pest
 pesta
 pestas
@@ -29327,6 +29393,10 @@ phit
 phiz
 phlorol
 pho
+phobe
+phobes
+phobia
+phobias
 phoca
 phocas
 phocid
@@ -29496,6 +29566,8 @@ physic
 physicist
 physicists
 physics
+physique
+physiques
 physis
 phytal
 phytase
@@ -29904,8 +29976,11 @@ piprage
 piprick
 pips
 pipy
+pique
+piques
 piqui
 piquia
+piquias
 piquing
 pir
 pira
@@ -30050,6 +30125,7 @@ pix
 pixie
 pixilate
 pixilated
+pixy
 pize
 pizer
 placard
@@ -30454,6 +30530,7 @@ poag
 poalo
 poblador
 poblano
+poboy
 pobs
 pobses
 pocan
@@ -30770,6 +30847,7 @@ popes
 popgun
 popguns
 popia
+popiah
 popinac
 poping
 popish
@@ -30915,6 +30993,11 @@ porty
 porus
 pory
 pos
+pose
+poses
+poseuse
+poseuses
+posey
 posol
 post
 postdict
@@ -30929,6 +31012,7 @@ postils
 postmitotic
 postmitotics
 posts
+posy
 pot
 potable
 potae
@@ -31046,6 +31130,9 @@ powie
 powis
 powises
 powlt
+pox
+poxes
+poxy
 poya
 practic
 practicant
@@ -31907,6 +31994,7 @@ psilomelanes
 psionic
 psis
 psoas
+psoases
 psocid
 psocids
 psych
@@ -32290,6 +32378,8 @@ pyloric
 pyocyanic
 pyocyanin
 pyoid
+pyoses
+pyosis
 pyot
 pyots
 pyran
@@ -32334,6 +32424,9 @@ pythonists
 pythons
 pyu
 pyuria
+pyx
+pyxes
+pyxis
 qadi
 qadis
 qanat
@@ -32346,6 +32439,7 @@ qiblah
 qigong
 qila
 qipao
+qipaos
 qtr
 qua
 quab
@@ -32427,6 +32521,7 @@ quay
 qubit
 que
 quean
+queasy
 queck
 quecks
 quek
@@ -32441,6 +32536,7 @@ querencia
 querent
 querier
 quern
+queso
 quest
 questor
 questors
@@ -32453,6 +32549,10 @@ queuer
 queuers
 queues
 queuing
+quey
+queys
+queyu
+queyus
 qui
 quib
 quibs
@@ -32524,6 +32624,7 @@ quints
 quintupling
 quinze
 quip
+quips
 quire
 quiring
 quirings
@@ -32556,6 +32657,7 @@ quoit
 quoiting
 quondam
 quop
+quops
 quork
 quorl
 quos
@@ -32566,6 +32668,8 @@ quoting
 quotum
 quotums
 quouk
+quoy
+quoys
 quoz
 rab
 rabato
@@ -37334,6 +37438,7 @@ sawn
 saws
 sax
 saxe
+saxes
 saxist
 saxists
 say
@@ -37937,6 +38042,9 @@ separatist
 separatists
 sephira
 sepia
+sepias
+sepoy
+sepoys
 seps
 sepses
 sepsis
@@ -38118,6 +38226,7 @@ sextile
 sexto
 sextries
 sexts
+sexy
 sez
 sezes
 shabash
@@ -39278,6 +39387,8 @@ soaking
 soakings
 soaks
 soap
+soapbox
+soapboxes
 soaps
 soapy
 soar
@@ -39794,15 +39905,21 @@ spongins
 sport
 sports
 sporty
+sposa
+sposas
 sposo
 sposos
 spot
 spotch
 spotlit
 spots
+spouse
+spouses
 spout
 spouts
 spouty
+spox
+spoxes
 sprain
 spraint
 spraints
@@ -41196,6 +41313,8 @@ syrtoses
 syrup
 syrups
 syrupy
+sysop
+sysops
 systases
 systasis
 systatic
@@ -47021,6 +47140,7 @@ yoni
 yonis
 yonks
 yopo
+yopos
 yore
 yorga
 york
@@ -47035,6 +47155,7 @@ your
 yourn
 yours
 yous
+youse
 yousuns
 youth
 youths
