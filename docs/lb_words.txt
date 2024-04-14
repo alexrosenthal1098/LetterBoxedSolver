@@ -750,6 +750,9 @@ adios
 adioses
 adipal
 adipic
+adipous
+adipsia
+adipsias
 adit
 adither
 adits
@@ -813,14 +816,18 @@ adonitol
 adonizing
 adopt
 adoptant
+adoptants
 adopted
 adopting
 adoption
 adoptional
 adoptor
+adoptors
+adopts
 adorable
 adoral
 adorant
+adorants
 adoration
 adoratory
 adorb
@@ -876,6 +883,8 @@ adulticidal
 adulticide
 adultly
 adultoid
+adultoids
+adults
 adunation
 aduncate
 adust
@@ -1335,6 +1344,7 @@ aililiu
 ailing
 ailpin
 ails
+ailuroid
 aim
 aimag
 aimags
@@ -1414,7 +1424,9 @@ airmen
 airplane
 airplay
 airport
+airports
 airpot
+airpots
 airs
 airscape
 airscrew
@@ -1424,6 +1436,8 @@ airside
 airspace
 airstrike
 airstrikes
+airstrip
+airstrips
 airt
 airted
 airtight
@@ -3111,9 +3125,13 @@ asperses
 aspheric
 asphyxia
 aspic
+aspidistra
+aspidistras
 aspie
 aspirant
 aspirants
+aspirator
+aspirators
 aspire
 aspires
 aspirin
@@ -3136,6 +3154,8 @@ asthmatics
 astigmatism
 astir
 astonish
+astound
+astounds
 astral
 astrantia
 astrantias
@@ -3143,6 +3163,8 @@ astray
 astrocyte
 astrocytes
 astrocytic
+astroid
+astroids
 astroite
 astroites
 astrolatry
@@ -9166,6 +9188,7 @@ daimio
 daimios
 daimon
 daimonic
+dainty
 dairies
 dairy
 dairymaid
@@ -9214,6 +9237,8 @@ dancy
 danda
 dandas
 dandier
+dandiprat
+dandiprats
 dandiya
 dandle
 dandled
@@ -9356,6 +9381,10 @@ daylong
 days
 daysack
 daysacks
+daysail
+daysailor
+daysailors
+daysails
 dayset
 daysets
 dayside
@@ -9364,6 +9393,8 @@ daytal
 daytime
 daytimes
 daytrading
+daytrip
+daytrips
 daywork
 daze
 dazed
@@ -9991,8 +10022,14 @@ dianthus
 diaper
 diarchic
 diarchy
+diarist
+diarists
 diarizing
 diary
+diaspora
+diasporan
+diasporas
+diastasis
 diatom
 diatomic
 diatoms
@@ -10183,6 +10220,7 @@ dimsim
 dimsum
 din
 dinar
+dinars
 dine
 dined
 ding
@@ -10210,6 +10248,7 @@ dins
 dint
 dinted
 dinting
+dints
 dioch
 diode
 diodes
@@ -10248,6 +10287,7 @@ dirigiste
 dirk
 dirks
 dirndl
+dirndls
 dirt
 dirtbike
 dirtboard
@@ -10279,6 +10319,8 @@ disarms
 disaster
 disastered
 disasters
+disastrous
+disastrously
 disband
 disbands
 disbar
@@ -10289,6 +10331,7 @@ disbuds
 disc
 discal
 discs
+disdain
 disease
 diseased
 diseases
@@ -10317,19 +10360,33 @@ disobey
 disobeyed
 disobeys
 disomy
+disport
+disports
 disquisition
 disquisitions
 disrate
 disrated
 disrates
+disrupt
+disruptor
+disruptors
+disrupts
 distal
+distant
+distantly
 distaste
 distich
 distichous
 distichs
 distil
+distort
+distorts
+distrain
+distraint
+distraints
 district
 districts
+distro
 distrust
 distrusts
 disturb
@@ -10469,15 +10526,20 @@ doley
 doli
 dolie
 dolina
+dolinas
 doline
 doling
 dolma
 dolomitic
 dolor
+dolorous
+dolorously
 dolour
+dolours
 dolphin
 dolphinaria
 dolt
+dolts
 domain
 domal
 domatium
@@ -10524,6 +10586,7 @@ dopant
 dope
 doped
 dopily
+dops
 dopy
 dor
 dorado
@@ -10538,6 +10601,7 @@ dorm
 dormer
 dormice
 dorp
+dorps
 dors
 dorsa
 dory
@@ -10876,6 +10940,7 @@ duns
 dunt
 dunted
 dunting
+dunts
 duo
 duologue
 duology
@@ -10895,6 +10960,7 @@ durability
 durable
 durably
 dural
+duras
 durative
 dure
 durene
@@ -16803,6 +16869,7 @@ idiopathic
 idiopathical
 idiopathy
 idiopt
+idiopts
 idiosoma
 idiosomas
 idiosome
@@ -16833,6 +16900,7 @@ idly
 idol
 idolatry
 idolizing
+idols
 ids
 idyl
 ifs
@@ -17141,8 +17209,14 @@ induing
 indulging
 induline
 indult
+indults
 indumentum
 induna
+indunas
+indusia
+industrious
+industriously
+industrous
 indwelt
 inearth
 inearths
@@ -17351,6 +17425,7 @@ inquiries
 inquiring
 inro
 inroad
+inroads
 inros
 inrush
 ins
@@ -17605,6 +17680,7 @@ intoner
 intones
 intoning
 intracranial
+intraday
 intranet
 intranets
 intransigent
@@ -19884,6 +19960,7 @@ lipline
 lipoid
 lipoidal
 lipoids
+lipolysis
 lipoma
 lipomata
 lipophilic
@@ -20036,6 +20113,7 @@ loa
 loach
 load
 loaded
+loads
 loaf
 loafing
 loam
@@ -20284,6 +20362,7 @@ louse
 louser
 lousers
 louses
+lousily
 lousy
 lout
 louver
@@ -20423,6 +20502,7 @@ lupine
 lupines
 lupins
 lupoid
+lupous
 lupulin
 lupus
 lur
@@ -20436,6 +20516,7 @@ lures
 lurex
 lurgy
 lurid
+luridly
 luring
 lurk
 lurked
@@ -20453,6 +20534,8 @@ lustra
 lustre
 lustres
 lustrine
+lustrous
+lustrously
 lustrum
 lustrums
 lusts
@@ -24440,6 +24523,7 @@ narking
 narks
 narky
 narod
+narods
 narsarsukite
 narwhal
 narwhals
@@ -24571,6 +24655,7 @@ nay
 nayaka
 nayika
 nays
+naysaid
 naysay
 naysays
 nazar
@@ -25030,8 +25115,12 @@ nide
 nideot
 nidi
 nidiot
+nidiots
 nido
 nidor
+nidorous
+nidors
+nidus
 nidyed
 nie
 niece
@@ -25707,6 +25796,8 @@ nude
 nudging
 nudie
 nudism
+nudist
+nudists
 nudity
 nuevo
 nug
@@ -26154,6 +26245,7 @@ odes
 odeum
 odic
 odious
+odiously
 odist
 odists
 odium
@@ -26172,8 +26264,10 @@ odontome
 odor
 odorable
 odorant
+odorants
 odorizing
 odorous
+odorously
 odors
 odour
 odoured
@@ -26282,6 +26376,8 @@ oilman
 oilpaper
 oilrig
 oils
+oilsand
+oilsands
 oilskin
 oilskins
 oily
@@ -26572,6 +26668,7 @@ opihi
 opihis
 opinable
 opinant
+opinants
 opine
 opined
 opiner
@@ -26596,12 +26693,14 @@ opium
 opries
 opry
 ops
+opsat
 opsin
 opsit
 opsits
 opt
 optable
 optant
+optants
 optate
 optated
 optating
@@ -26626,6 +26725,7 @@ opto
 optometer
 optomotor
 optophone
+opts
 opus
 opzit
 ora
@@ -26833,6 +26933,7 @@ orle
 orles
 orlistat
 orlop
+orlops
 ormer
 ormering
 ormolu
@@ -27042,6 +27143,7 @@ otaku
 otalgia
 otarine
 otarioid
+otarioids
 otary
 otavite
 othematoma
@@ -29891,7 +29993,9 @@ pinouts
 pinpoint
 pinpointed
 pinpointing
+pinpoints
 pinprod
+pinprods
 pins
 pinsens
 pinspot
@@ -29921,6 +30025,7 @@ piopio
 piopios
 pious
 piousity
+piously
 pip
 pipa
 pipage
@@ -29975,6 +30080,8 @@ pipradrol
 piprage
 piprick
 pips
+pipsyl
+pipsyls
 pipy
 pique
 piques
@@ -30052,6 +30159,8 @@ pistic
 pistics
 pistil
 pistils
+pistol
+pistols
 piston
 pistons
 pistou
@@ -30556,6 +30665,8 @@ podgily
 podgy
 podia
 podial
+podiatrist
+podiatrists
 podiatry
 podiform
 podium
@@ -30565,8 +30676,12 @@ podocarp
 podocytic
 podology
 podrida
+pods
 podu
 poduran
+podurid
+podurids
+podus
 poem
 poems
 poena
@@ -30616,6 +30731,7 @@ poind
 poinded
 poinding
 poindlar
+poinds
 point
 pointage
 pointe
@@ -30685,6 +30801,8 @@ polka
 polkaing
 polo
 poloidal
+poloist
+poloists
 polology
 polonaise
 polonaises
@@ -30704,6 +30822,7 @@ polyacid
 polyad
 polyadic
 polyadicity
+polyads
 polyanion
 polyarch
 polyarchal
@@ -30736,7 +30855,13 @@ polyhydric
 polylogy
 polynoid
 polynya
+polynyas
 polyol
+polyols
+polyopia
+polyopias
+polyopsia
+polyopsias
 polyp
 polypary
 polyphagan
@@ -30747,22 +30872,33 @@ polyphonal
 polyphoto
 polyphyly
 polypi
+polypian
 polyploid
 polyploidy
 polypod
 polypody
 polypoid
 polyporoid
+polyporous
+polypous
 polypro
 polyprotic
+polyps
+polypus
 polyrod
+polys
+polysporous
+polystylist
+polystylists
 polytonal
 polytonality
 polytopal
+polytopian
 polytopic
 polytrophy
 polytypic
 polytypy
+polyuria
 poma
 pomato
 pomatum
@@ -30868,13 +31004,20 @@ popover
 pops
 popsie
 popsies
+popstar
+popstars
 popsy
 popular
 populi
 populin
+populist
+populists
 populo
+populous
+populously
 popup
 popups
+popusa
 poral
 porangi
 porch
@@ -30899,6 +31042,7 @@ porifer
 poriform
 porin
 porina
+porinas
 poring
 porins
 porion
@@ -30920,6 +31064,7 @@ poroporoaki
 pororoca
 porotic
 porous
+porously
 porphin
 porphine
 porphins
@@ -30940,6 +31085,7 @@ port
 portable
 portage
 portal
+portas
 portate
 portation
 portative
@@ -30987,6 +31133,9 @@ portraiting
 portray
 portrayal
 portrayer
+portrayist
+portrayists
+portrays
 ports
 portuis
 porty
@@ -31023,6 +31172,7 @@ potarite
 potation
 potato
 potator
+potators
 potatory
 potboil
 potch
@@ -31096,6 +31246,7 @@ pound
 poundal
 poundland
 poundman
+pounds
 poupeton
 poupou
 poupous
@@ -31107,8 +31258,11 @@ pourie
 pouring
 pouriture
 pourpoint
+pourpoints
 pours
 pous
+pousada
+pousadas
 pousy
 pout
 poutful
@@ -31134,6 +31288,7 @@ pox
 poxes
 poxy
 poya
+poyas
 practic
 practicant
 practice
@@ -31591,6 +31746,7 @@ proaction
 proal
 proamnion
 proanthocyanidin
+proas
 prob
 probabilize
 probable
@@ -31627,6 +31783,7 @@ prodromal
 prodrome
 prodromic
 prodrug
+prods
 proem
 proepimeron
 prof
@@ -31747,7 +31904,9 @@ propodaeal
 propodeal
 propodial
 propodium
+propodus
 propofol
+propolis
 propone
 proponent
 proponing
@@ -31763,6 +31922,7 @@ proportioning
 proportions
 proports
 propound
+propounds
 propraetor
 propraetorial
 propraetorian
@@ -31797,6 +31957,7 @@ propylon
 propyne
 prora
 proral
+proras
 prorate
 prorated
 prorating
@@ -31814,6 +31975,8 @@ protan
 protanope
 protanopia
 protargol
+protarsus
+protasis
 protatic
 protea
 protead
@@ -31868,6 +32031,7 @@ protolith
 protolog
 protologue
 protology
+protolysis
 protolytic
 protoma
 protome
@@ -31891,6 +32055,7 @@ protoplanet
 protoplot
 protopod
 protopodium
+protopods
 protopop
 protopope
 protopopes
@@ -31939,6 +32104,8 @@ prow
 prowl
 prowler
 prude
+prudist
+prudists
 pruinous
 prunase
 prunases
@@ -32050,8 +32217,13 @@ pud
 pudeur
 pudge
 pudgier
+pudina
+pudinas
 pudor
+puds
+pudsy
 pudu
+pudus
 puerile
 puerperal
 puerperial
@@ -32092,10 +32264,13 @@ pulps
 puls
 pulsant
 pulsar
+pulsars
 pulsate
 pulsates
 pulsatile
 pulsatilities
+pulsator
+pulsators
 pulse
 pulsejet
 pulser
@@ -32144,6 +32319,7 @@ punaluas
 punani
 punanies
 punanis
+punany
 punas
 punch
 punchy
@@ -32175,6 +32351,7 @@ punicin
 punicins
 punier
 puniest
+punily
 punim
 punims
 punish
@@ -32194,6 +32371,7 @@ punting
 puntmen
 punto
 punts
+punty
 puny
 pup
 pupa
@@ -32264,6 +32442,7 @@ puritanic
 purl
 purler
 purlin
+purloin
 purls
 puro
 purp
@@ -32295,6 +32474,8 @@ purser
 pursers
 purses
 pursing
+pursuant
+pursuantly
 pursuit
 pursuits
 pursy
@@ -32375,6 +32556,7 @@ pyknotic
 pylon
 pylori
 pyloric
+pylorus
 pyocyanic
 pyocyanin
 pyoid
@@ -32777,13 +32959,17 @@ radian
 radiancy
 radians
 radiant
+radiantly
+radiants
 radiata
+radiatas
 radiating
 radiation
 radiational
 radiative
 radiator
 radiatore
+radiators
 radiatory
 radical
 radif
@@ -32806,6 +32992,7 @@ radiolitid
 radiolocator
 radiologic
 radiology
+radiolysis
 radiolytic
 radionic
 radiopacity
@@ -32817,6 +33004,8 @@ radioreceptor
 radios
 radiothon
 radiotracer
+radioulna
+radioulnas
 radious
 radium
 radius
@@ -32909,6 +33098,9 @@ railodok
 railplane
 railroad
 railroaded
+railroadiana
+railroadianas
+railroads
 rails
 raiment
 rain
@@ -33105,6 +33297,7 @@ rangoli
 rangy
 rani
 ranid
+ranids
 ranine
 ranines
 raning
@@ -35868,6 +36061,7 @@ rioters
 rioting
 riotingly
 riotous
+riotously
 riotry
 riots
 rioty
@@ -35895,6 +36089,9 @@ riping
 ripiphorid
 riprap
 ripraps
+riproarious
+riproariously
+riprorious
 rips
 ripsaw
 ripsaws
@@ -36035,6 +36232,7 @@ roadmap
 roads
 roadsman
 roadtrip
+roadtrips
 roadway
 roadwork
 roady
@@ -36051,6 +36249,7 @@ roaned
 roans
 roany
 roar
+roaratorious
 roared
 roarer
 roarers
@@ -36472,13 +36671,18 @@ roundly
 roundman
 rounds
 roundsman
+roundtail
+roundtails
 roundtrip
+roundtrips
 roundup
+roundups
 roundure
 roundward
 roundy
 roup
 rouper
+roupily
 rouping
 roups
 roupy
@@ -36737,6 +36941,7 @@ runabout
 runagate
 runanga
 runaround
+runarounds
 runaway
 runce
 runch
@@ -36842,6 +37047,7 @@ rustiest
 rustle
 rustler
 rustlers
+rustly
 rustre
 rustres
 rusts
@@ -36948,6 +37154,7 @@ sadism
 sadist
 sadistic
 sadists
+sadly
 sadsack
 sadsacks
 sadster
@@ -36997,6 +37204,7 @@ sailfin
 sailfish
 sailor
 sailorly
+sailors
 sailplane
 sails
 sainfoin
@@ -37188,6 +37396,8 @@ sandhi
 sandhog
 sandhogs
 sanding
+sandlot
+sandlots
 sandman
 sandpit
 sandpits
@@ -37223,6 +37433,7 @@ sanitisers
 sanitises
 sanity
 sank
+sanpro
 sans
 sansa
 sansas
@@ -37286,6 +37497,8 @@ sarmie
 sarmies
 sarnie
 sarnies
+sarod
+sarods
 sarong
 sarongs
 saros
@@ -37378,6 +37591,8 @@ saunf
 saurian
 saurians
 sauries
+sauropod
+sauropods
 saury
 sausage
 sausages
@@ -38759,6 +38974,9 @@ silted
 siltier
 siltiest
 silts
+silty
+siluroid
+siluroids
 silvan
 silver
 silvered
@@ -38809,6 +39027,7 @@ sinbin
 sinbins
 sinciput
 sinciputs
+sindur
 sine
 sines
 sinew
@@ -38842,6 +39061,7 @@ sinter
 sinters
 sinuate
 sinuous
+sinuously
 sinus
 sinuses
 sinusitis
@@ -38872,6 +39092,7 @@ sirtuin
 sirtuins
 sirup
 sirups
+sirupy
 sis
 sisal
 siskin
@@ -39116,6 +39337,8 @@ sliotair
 sliotar
 sliotars
 slip
+sliproad
+sliproads
 slips
 slipstitch
 slit
@@ -39163,6 +39386,7 @@ slurb
 slurbs
 slurp
 slurps
+slurpy
 slurs
 slush
 sly
@@ -39826,6 +40050,7 @@ spin
 spina
 spinarama
 spinaramas
+spindly
 spine
 spines
 spinier
@@ -39834,6 +40059,7 @@ spinous
 spinout
 spinouts
 spins
+spinto
 spiny
 spiraea
 spiraeas
@@ -39890,11 +40116,17 @@ splosh
 splotch
 splurt
 splurts
+spod
+spods
 spoil
 spoils
 spoilsman
 spoilsmen
+spoilsport
+spoilsports
 spoilt
+spoliator
+spoliators
 sponge
 spongeing
 sponges
@@ -39903,6 +40135,7 @@ spongin
 sponging
 spongins
 sport
+sportly
 sports
 sporty
 sposa
@@ -39970,6 +40203,8 @@ spruit
 spruits
 sprung
 spry
+spud
+spuds
 spue
 spueing
 spues
@@ -39989,6 +40224,8 @@ spurge
 spurges
 spurion
 spurions
+spurious
+spuriously
 spurn
 spurns
 spurs
@@ -40063,6 +40300,7 @@ stagier
 stagiest
 stags
 staid
+staidly
 stain
 stains
 stair
@@ -40104,7 +40342,13 @@ stanchest
 stand
 standard
 standards
+standi
+standin
+standpoint
+standpoints
 stands
+standup
+standups
 stank
 stans
 stapes
@@ -40155,6 +40399,8 @@ starover
 starovers
 starquake
 stars
+starspot
+starspots
 start
 starter
 starters
@@ -40483,6 +40729,7 @@ stoker
 stokers
 stokes
 stolid
+stolidly
 stolon
 stolons
 stoma
@@ -40622,6 +40869,7 @@ stricter
 strictest
 strictly
 stricto
+stridor
 stridulous
 strife
 strike
@@ -40645,6 +40893,7 @@ stripes
 stripier
 stripiest
 strips
+stripy
 strive
 striven
 striver
@@ -40665,6 +40914,7 @@ strongpoints
 strop
 strophic
 strops
+stroud
 strove
 strow
 strows
@@ -40750,6 +41000,12 @@ stylist
 stylists
 stylite
 stylites
+stylo
+styloid
+styloids
+stylopid
+stylopids
+stylops
 stylus
 stymie
 styptic
@@ -40907,6 +41163,7 @@ sud
 sudan
 sudaria
 sudarium
+sudatoria
 sudron
 suds
 sudsed
@@ -40972,6 +41229,7 @@ sultanas
 sultanate
 sultanates
 sultans
+sultrily
 sulu
 sulus
 sum
@@ -40998,6 +41256,8 @@ sunbursts
 sundari
 sundri
 sundris
+sundust
+sundusts
 sung
 suni
 sunis
@@ -41006,6 +41266,8 @@ sunken
 sunlet
 sunlets
 sunlit
+sunray
+sunrays
 sunrise
 sunrises
 sunround
@@ -41039,6 +41301,8 @@ sunups
 sunward
 sunwards
 sunwise
+sunyata
+sunyatas
 suona
 suonas
 sup
@@ -41060,6 +41324,8 @@ superviruses
 supervise
 supervises
 supes
+supinator
+supinators
 supine
 supines
 supinity
@@ -41092,6 +41358,8 @@ suricate
 suricates
 surimi
 surlier
+surlily
+surly
 surmise
 surmises
 surplus
@@ -41334,6 +41602,8 @@ systemists
 systems
 systolic
 systyle
+systylious
+systylous
 syzygy
 tab
 tabac
@@ -43224,6 +43494,8 @@ tophi
 tophus
 topi
 topiarian
+topiarist
+topiarists
 topiary
 topic
 topical
@@ -43248,6 +43520,8 @@ topranking
 toprope
 topropes
 tops
+topsail
+topsails
 topsoil
 topsoils
 topspin
@@ -43550,6 +43824,7 @@ trainer
 trainers
 training
 trainload
+trainloads
 trainman
 trains
 trainset
@@ -43657,6 +43932,7 @@ tray
 trayf
 trays
 traytop
+traytops
 treacheries
 treachery
 treacle
@@ -43881,6 +44157,7 @@ triploids
 tripmeter
 tripod
 tripodal
+tripods
 tripoli
 tripos
 trips
@@ -44376,6 +44653,7 @@ twyer
 tyke
 tykes
 tylopod
+tylopods
 tymbal
 typal
 type
@@ -44467,6 +44745,7 @@ ultra
 ultrabasic
 ultracareful
 ultracritical
+ultradian
 ultraist
 ultraists
 ultramarathon
@@ -44690,6 +44969,8 @@ unintentional
 uninventive
 uninvited
 unio
+unioid
+unioids
 union
 unional
 unioner
@@ -44707,6 +44988,8 @@ unionizing
 unions
 unios
 unipartite
+unipod
+unipods
 unipolar
 uniporous
 uniport
@@ -44805,6 +45088,7 @@ unlevels
 unlevied
 unliable
 unlid
+unlids
 unlimb
 unlimbed
 unlimbing
@@ -44827,12 +45111,15 @@ unliturgical
 unlive
 unlively
 unload
+unloads
 unloath
 unlordly
 unloyal
 unloyalty
 unlust
+unlustrous
 unlusts
+unlusty
 unluxuriant
 unmacho
 unmad
@@ -44977,9 +45264,12 @@ unpope
 unpopes
 unpoping
 unpopular
+unpopulous
+unporous
 unpot
 unpots
 unpray
+unprays
 unprepare
 unpriest
 unpriests
@@ -45034,6 +45324,7 @@ unring
 unringing
 unrip
 unripe
+unrips
 unrisen
 unritual
 unriven
@@ -45111,9 +45402,11 @@ unties
 until
 untiring
 unto
+untold
 untoward
 untreatable
 untrue
+untruly
 untruth
 untunable
 untuned
@@ -45162,6 +45455,9 @@ uprises
 uprising
 uprisings
 uproar
+uproarious
+uproariously
+uproars
 uprush
 ups
 upset
@@ -45172,6 +45468,7 @@ upsize
 upsizes
 upsizing
 upstair
+upstairs
 upstand
 upstands
 upstart
@@ -45275,6 +45572,7 @@ urology
 uronic
 urophilia
 uropod
+uropods
 ursine
 urtext
 urtexte
@@ -45312,6 +45610,7 @@ usuals
 usurer
 usurers
 usurious
+usuriously
 usurp
 usurps
 usury
@@ -47091,6 +47390,7 @@ ylem
 ylid
 ylide
 ylidic
+ylids
 yngling
 yob
 yock
