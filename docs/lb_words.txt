@@ -216,6 +216,7 @@ abreactive
 abreacts
 abreast
 abreid
+abrevoir
 abri
 abridge
 abridgeable
@@ -1063,6 +1064,7 @@ aflash
 aflight
 afloat
 aflow
+aflower
 aflush
 afoam
 afocal
@@ -1391,6 +1393,8 @@ airdrop
 aired
 airer
 airers
+airfare
+airflow
 airfoil
 airforce
 airforces
@@ -3604,6 +3608,7 @@ awning
 awnings
 awns
 awoke
+awoken
 awry
 axe
 axed
@@ -3911,6 +3916,7 @@ banish
 banjo
 bank
 bankability
+bankable
 banker
 bankers
 banket
@@ -4003,6 +4009,7 @@ bares
 barest
 barf
 barfi
+barfier
 barfing
 bargain
 bargainable
@@ -4690,6 +4697,7 @@ binturong
 bio
 bioagent
 bioagents
+biobank
 biochar
 biocompatible
 biodata
@@ -4744,6 +4752,8 @@ biotite
 biotites
 biotitic
 biotope
+biowar
+biowarfare
 bioyogurt
 bipartisan
 bipartite
@@ -4945,6 +4955,7 @@ bling
 blini
 blinis
 blink
+blinker
 blinks
 bliny
 blip
@@ -4977,6 +4988,7 @@ blouses
 blouson
 blousons
 blow
+blower
 blowflies
 blowie
 blowies
@@ -5070,6 +5082,7 @@ bobolink
 bobolinks
 bobols
 bobotie
+bobowler
 bobs
 bobstay
 bobstays
@@ -5131,6 +5144,7 @@ boil
 boiler
 boilie
 boilies
+boilover
 boils
 boing
 boinging
@@ -5370,11 +5384,15 @@ bovine
 bovines
 bow
 bowel
+bower
+bowfin
 bowie
 bowies
 bowing
 bowknot
 bowl
+bowler
+bowline
 bowls
 bowman
 bowmen
@@ -5497,6 +5515,7 @@ bravura
 braw
 brawl
 brawled
+brawler
 brawls
 brawly
 brawn
@@ -5517,8 +5536,10 @@ breadiest
 breads
 breadth
 break
+breakable
 breaker
 breakers
+breakeven
 breakin
 breakins
 bream
@@ -11803,6 +11824,7 @@ enlister
 enlisters
 enlists
 enliven
+enlivener
 enlivens
 enmanacle
 enmantle
@@ -12674,6 +12696,7 @@ faerie
 fah
 fail
 failing
+failover
 fails
 failte
 failure
@@ -12706,6 +12729,8 @@ faith
 faithly
 faiths
 faithwise
+fake
+faker
 fakir
 fakirs
 falafel
@@ -13394,6 +13419,11 @@ flout
 flouted
 flouting
 flow
+flower
+flowerer
+flowerier
+flowline
+flown
 flows
 flu
 fluatation
@@ -13487,6 +13517,7 @@ folie
 folio
 foliole
 folium
+folk
 foment
 fomenter
 fomenting
@@ -13597,6 +13628,7 @@ fovea
 foveae
 foveate
 fowl
+fowler
 fowls
 foyaite
 fracas
@@ -13644,6 +13676,7 @@ frats
 fraught
 fray
 frays
+freak
 freight
 french
 frenching
@@ -13685,6 +13718,7 @@ frites
 frith
 friths
 frits
+frivol
 fro
 froe
 froes
@@ -17488,6 +17522,7 @@ infomaniac
 infonaut
 inform
 informer
+infowar
 infra
 infrarenal
 infringe
@@ -18411,6 +18446,7 @@ kadai
 kadais
 kadi
 kadis
+kafir
 kagoul
 kagouls
 kagu
@@ -18651,6 +18687,7 @@ ketotic
 kets
 kevel
 kewl
+kewler
 kewpie
 kewpies
 key
@@ -19604,6 +19641,7 @@ leafiest
 leaflet
 leaflets
 leaflike
+leaflove
 leafmeal
 leafs
 leafy
@@ -20179,6 +20217,7 @@ linishers
 linishes
 link
 linkability
+linkable
 linker
 linkers
 linking
@@ -20346,9 +20385,11 @@ livelier
 livelily
 lively
 liven
+livener
 livens
 liver
 liverish
+liverleaf
 livers
 lives
 liveware
@@ -20375,7 +20416,9 @@ loaf
 loafing
 loam
 loan
+loanable
 loaned
+loaner
 loas
 loath
 loathe
@@ -20652,6 +20695,7 @@ lowed
 loweite
 lowen
 lower
+lowerable
 lowerer
 lowes
 lowest
@@ -24854,6 +24898,7 @@ naker
 nakerer
 nakerers
 nakers
+nakfa
 nakodo
 nala
 nalas
@@ -26480,6 +26525,7 @@ oak
 oaked
 oaken
 oakier
+oakleaf
 oakling
 oaks
 oakum
@@ -27971,6 +28017,7 @@ ovator
 ovators
 oven
 ovenable
+ovenbake
 ovened
 ovens
 ovenware
@@ -27990,6 +28037,7 @@ overawing
 overbake
 overbakes
 overbaking
+overbank
 overbent
 overberg
 overbergs
@@ -27998,8 +28046,15 @@ overbiases
 overbiasing
 overbiasings
 overbite
+overblew
+overblow
+overblown
+overboil
 overbore
 overborne
+overbow
+overbower
+overbowl
 overbred
 overcame
 overcare
@@ -28024,6 +28079,12 @@ overeater
 overeaters
 overeats
 overenter
+overfar
+overfine
+overflew
+overflow
+overflower
+overflown
 overfluent
 overfret
 overfur
@@ -28070,16 +28131,19 @@ overhits
 overhot
 overking
 overkings
+overknew
 overlain
 overlarge
 overlate
 overlavish
 overlaw
 overlaws
+overleaf
 overlean
 overleant
 overlent
 overlie
+overline
 overlit
 overlove
 overloves
@@ -28138,6 +28202,7 @@ overwatched
 overwater
 overwatered
 overwaters
+overweak
 overwear
 overweave
 overwet
@@ -33661,6 +33726,7 @@ rails
 raiment
 rain
 rainbird
+rainbow
 raincoat
 raindrop
 rained
@@ -34335,6 +34401,9 @@ reavers
 reaves
 reavow
 reavowed
+reawake
+reawaken
+reawoke
 rebab
 rebabs
 rebail
@@ -35346,6 +35415,7 @@ reneguing
 renerve
 renerves
 renew
+renewable
 renewal
 renewalist
 renewalists
@@ -36218,6 +36288,7 @@ revets
 revibrate
 revibrates
 review
+reviewable
 reviewal
 reviewer
 revieweries
@@ -36256,11 +36327,14 @@ revocate
 revoice
 revoiced
 revoir
+revokable
 revoke
+revokeable
 revoker
 revokers
 revokes
 revoking
+revolera
 revolt
 revolte
 revolter
@@ -36835,6 +36909,7 @@ riven
 river
 riverain
 riverains
+riverbank
 rivercraft
 riverine
 rivering
@@ -46715,6 +46790,7 @@ vend
 vended
 vending
 vendue
+venerable
 venerate
 venerator
 venerer
@@ -46787,6 +46863,7 @@ verges
 verging
 verglas
 veriest
+verifiable
 verifier
 verisimilar
 verism
@@ -46909,6 +46986,7 @@ vibrate
 vibrates
 vibrative
 vibrer
+vibrio
 vicar
 vicarial
 vice
@@ -46931,6 +47009,7 @@ vie
 vied
 vies
 view
+viewable
 viewed
 viewer
 viewers
@@ -47347,6 +47426,7 @@ waratah
 waratahs
 warble
 warbled
+warbler
 warbles
 warby
 warcries
@@ -47361,6 +47441,7 @@ wared
 warehou
 wares
 warfare
+warfarin
 wargame
 wargamer
 wargaming
@@ -47577,10 +47658,13 @@ went
 wentletrap
 wept
 were
+werewolf
 werf
 wero
 wersh
 wert
+werven
+werwolf
 west
 westie
 westies
