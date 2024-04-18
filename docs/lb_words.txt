@@ -10631,6 +10631,7 @@ doge
 dogeared
 dogeate
 dogedom
+dogfish
 dogfought
 dogie
 dogleg
@@ -10744,6 +10745,7 @@ dosas
 dose
 dosed
 doses
+dosh
 dost
 dot
 dotage
@@ -10937,6 +10939,7 @@ dromond
 drone
 droned
 drongo
+drongos
 droning
 drop
 droplight
@@ -11030,6 +11033,7 @@ duet
 duets
 dufter
 duftur
+dufus
 dug
 dugite
 dugong
@@ -11044,6 +11048,7 @@ dulcet
 dulcian
 dulciana
 dulia
+dulosis
 dulotic
 duly
 dum
@@ -13122,6 +13127,7 @@ film
 filmi
 filo
 filon
+filons
 fils
 filter
 filtered
@@ -13180,6 +13186,7 @@ fino
 finos
 fins
 fiord
+fiords
 fioriture
 fir
 firable
@@ -13485,8 +13492,11 @@ foetor
 fog
 fogdog
 fogfruit
+foghorn
+foghorns
 fogle
 fogo
+fogos
 fogou
 fohn
 fohns
@@ -13507,6 +13517,7 @@ folded
 folder
 folderol
 foldout
+folds
 folia
 foliaceous
 foliar
@@ -13516,6 +13527,7 @@ folic
 folie
 folio
 foliole
+folios
 folium
 folk
 foment
@@ -13554,6 +13566,7 @@ ford
 forded
 fordid
 fordo
+fords
 fore
 foredge
 foredid
@@ -13793,6 +13806,7 @@ fufu
 fug
 fugal
 fugato
+fugis
 fuglier
 fugu
 fugue
@@ -13846,6 +13860,8 @@ fungic
 fungin
 fungine
 fungo
+fungos
+fungus
 funic
 funicle
 funis
@@ -13906,6 +13922,8 @@ fusil
 fusilier
 fusiliers
 fusils
+fusion
+fusions
 fustian
 fustier
 futhark
@@ -14416,6 +14434,7 @@ geum
 geums
 gewgaw
 gey
+gfs
 ghaghra
 ghagra
 gharana
@@ -14466,6 +14485,7 @@ gigantic
 gigaton
 gigatons
 gigolo
+gigolos
 gigot
 gigots
 gigs
@@ -14529,12 +14549,15 @@ girdle
 girdled
 girdler
 girdling
+girds
 girl
 girleries
 girlf
+girlfs
 girlie
 girlies
 girling
+girlish
 girlism
 girlisms
 girltalk
@@ -14746,6 +14769,9 @@ godmama
 godmen
 godown
 godpapa
+gods
+godson
+godsons
 godward
 godwit
 goer
@@ -14772,11 +14798,15 @@ gold
 goldbeater
 goldbug
 goldfield
+goldfish
+goldrush
+golds
 golem
 golf
 golfed
 golfer
 golfing
+golfs
 golgotha
 golgothas
 goliath
@@ -14812,6 +14842,7 @@ gorcock
 gordian
 gordita
 gordo
+gordos
 gore
 gored
 gores
@@ -14824,6 +14855,7 @@ gorget
 gorgets
 gorging
 gorgio
+gorgios
 gorgon
 gorgoneia
 gorgoneion
@@ -15233,6 +15265,7 @@ guido
 guidon
 guild
 guilder
+guilds
 guile
 guilt
 guilted
@@ -15245,6 +15278,7 @@ guineas
 guinep
 guipure
 guiro
+guiros
 guise
 guises
 guitar
@@ -15259,6 +15293,7 @@ gulderd
 guldered
 gulet
 gulf
+gulfs
 gulp
 gulped
 gulpin
@@ -16426,6 +16461,7 @@ hoes
 hog
 hogan
 hogans
+hogfish
 hogherd
 hoglet
 hogman
@@ -16579,6 +16615,7 @@ honeypot
 honeytrap
 honeywort
 hongi
+hongis
 honi
 honied
 honing
@@ -20551,6 +20588,7 @@ logograph
 logographic
 logogriph
 logon
+logons
 logos
 logout
 logpile
@@ -20587,11 +20625,14 @@ long
 longa
 longan
 longdog
+longful
 longhair
 longhand
 longhorn
+longhorns
 longing
 longingly
+longish
 longlick
 longlining
 longly
@@ -20614,7 +20655,9 @@ lordkin
 lordlet
 lordlier
 lordly
+lordosis
 lordotic
+lords
 lore
 lores
 lorica
@@ -20790,8 +20833,11 @@ lune
 lunes
 lung
 lunge
+lungfish
+lungful
 lungi
 lunging
+lungis
 lunitidal
 lunk
 lunks
@@ -25902,6 +25948,7 @@ nods
 nodular
 nodulation
 nodule
+nodulus
 nodum
 nodus
 noegenetic
@@ -26859,6 +26906,7 @@ ofay
 oft
 often
 ofuro
+ofuros
 oga
 ogam
 ogams
@@ -27005,6 +27053,7 @@ olibane
 olid
 oligo
 oligolege
+oligos
 oligotroph
 oliguria
 olim
@@ -27166,6 +27215,7 @@ onsen
 onsens
 onset
 onsets
+onsold
 onstead
 onsteads
 ontal
@@ -37125,9 +37175,11 @@ roguery
 rogues
 roguey
 roguing
+roguish
 rohan
 rohu
 rohun
+rohuns
 rohus
 roid
 roids
@@ -39500,11 +39552,15 @@ shoeshine
 shoeshiner
 shoeshiners
 shoeshines
+shogun
+shoguns
 shoji
 shojis
 shojo
 shone
 shonen
+shongololo
+shongololos
 shonk
 shonks
 shonky
@@ -40522,6 +40578,7 @@ solas
 solatia
 sold
 soldi
+soldo
 sole
 solei
 soleus
@@ -40583,10 +40640,14 @@ sonero
 soneros
 sones
 song
+songful
+songish
 songkok
 songkoks
 songman
 songo
+songololo
+songololos
 songos
 songs
 sonic
@@ -42101,6 +42162,7 @@ sundri
 sundris
 sundust
 sundusts
+sunfish
 sung
 suni
 sunis
@@ -45804,9 +45866,13 @@ unfilial
 unfirm
 unfit
 unflinching
+unfold
+unfolds
 unfurl
 unfurling
 ungenial
+ungird
+ungirds
 ungodly
 unground
 ungroup
@@ -46243,7 +46309,9 @@ unsets
 unshaken
 unship
 unships
+unshod
 unshorn
+unsold
 unsolvable
 unsound
 unspent
@@ -46468,6 +46536,7 @@ urtication
 urupa
 urus
 uruses
+urushiol
 usable
 usage
 usager
@@ -47747,7 +47816,9 @@ whiny
 whip
 whir
 whirl
+whirligig
 whirlwind
+whirs
 whit
 white
 whitecap
@@ -47765,8 +47836,10 @@ wholecloth
 whom
 whomso
 whop
+whorl
 whortle
 whose
+whosis
 whoso
 why
 whys
@@ -48154,12 +48227,15 @@ writhes
 writs
 wrong
 wronger
+wrongful
 wronging
 wrongs
+wrongun
 wrot
 wrote
 wroth
 wrought
+wrung
 wry
 wryer
 wryest
