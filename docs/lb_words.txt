@@ -4387,11 +4387,14 @@ below
 bels
 belsire
 belsires
+belsnickel
+belsnickels
 belt
 belted
 belter
 beltful
 beltmen
+belts
 beluga
 belve
 belves
@@ -4415,6 +4418,8 @@ benga
 benign
 benison
 benisons
+benji
+benjis
 benk
 bens
 bent
@@ -4565,6 +4570,7 @@ bice
 bichir
 bichirs
 bichon
+bickies
 bicycle
 bicyclic
 bid
@@ -5751,12 +5757,21 @@ bubinga
 bubo
 buboed
 buboes
+bubuckle
+bubukle
+bubukles
 buchu
 buck
+bucket
+buckets
+buckle
+buckles
 buckra
 buckram
 buckras
 bucks
+buckskin
+buckskins
 buco
 bucolic
 bucolics
@@ -5951,6 +5966,8 @@ busier
 busies
 busiest
 busk
+buskin
+buskins
 busks
 bust
 bustamite
@@ -5959,6 +5976,9 @@ busted
 buster
 bustian
 bustians
+bustiest
+bustle
+bustles
 busts
 busty
 busy
@@ -5976,6 +5996,7 @@ butle
 butled
 butler
 butlery
+butles
 butling
 butoh
 buts
@@ -7554,6 +7575,7 @@ cistron
 cistrons
 cists
 cistus
+cistuses
 cit
 citadel
 citate
@@ -9003,8 +9025,17 @@ cubebs
 cubes
 cubic
 cubical
+cubicle
+cubicles
 cubics
 cubism
+cubist
+cubistic
+cubists
+cubit
+cubiti
+cubits
+cubitus
 cubs
 cuck
 cucks
@@ -9023,6 +9054,7 @@ cuing
 cuish
 cuishes
 cuke
+cukes
 culch
 culcha
 culex
@@ -9068,6 +9100,8 @@ cumuli
 cumulous
 cumulus
 cuneate
+cuneus
+cuneuses
 cup
 cupola
 cupric
@@ -9191,8 +9225,11 @@ cutch
 cute
 cutely
 cuter
+cutesiest
 cutest
 cutey
+cuticle
+cuticles
 cutie
 cuties
 cutin
@@ -9202,6 +9239,7 @@ cutler
 cutlers
 cutlery
 cutlet
+cutlets
 cutout
 cutouts
 cutover
@@ -17071,6 +17109,7 @@ icteric
 icterine
 icterus
 ictus
+ictuses
 icy
 idant
 idants
@@ -17391,6 +17430,7 @@ incise
 incises
 incision
 incisions
+incisive
 incisor
 incisors
 incisura
@@ -17422,6 +17462,7 @@ increate
 incrust
 incrusts
 incubi
+incubus
 incunable
 incur
 incurable
@@ -17429,6 +17470,8 @@ incurs
 incursion
 incursions
 incus
+incuse
+incuses
 indebt
 indebted
 indebting
@@ -17644,6 +17687,10 @@ initiative
 initiator
 initiatory
 initio
+injine
+injunct
+injunctive
+injuncts
 ink
 inkblot
 inked
@@ -17716,6 +17763,7 @@ inseminates
 insensate
 insensible
 insensitive
+insensitivities
 insentient
 insert
 inserter
@@ -17768,8 +17816,10 @@ insteps
 instil
 instils
 instinct
+instinctive
 instincts
 institute
+institutes
 institution
 institutions
 institutor
@@ -18040,6 +18090,7 @@ invert
 inverted
 inverter
 invest
+investible
 investor
 investors
 invests
@@ -18047,6 +18098,8 @@ inviable
 invigilate
 invincible
 inviolable
+invisible
+invisibles
 invite
 invited
 inviter
@@ -18347,6 +18400,8 @@ jewel
 jhil
 jiao
 jib
+jibe
+jibes
 jibs
 jig
 jigs
@@ -18371,6 +18426,7 @@ jiti
 jitis
 jive
 jived
+jives
 job
 jobs
 jobsmith
@@ -18416,6 +18472,8 @@ joyed
 joys
 jua
 juba
+jube
+jubes
 judas
 judge
 judger
@@ -18431,8 +18489,13 @@ jugs
 jugum
 jujitsu
 juju
+jujube
+jujubes
 jujus
 jujutsu
+juke
+jukes
+jukskei
 juku
 julep
 juleps
@@ -18469,10 +18532,14 @@ just
 juste
 justest
 justicial
+justicies
+justicieses
 justitial
 jut
 jute
 juts
+juvie
+juvies
 kabaka
 kabakas
 kabob
@@ -18723,6 +18790,7 @@ ketosis
 ketotic
 kets
 kevel
+kevels
 kewl
 kewler
 kewpie
@@ -18844,6 +18912,7 @@ kindled
 kindy
 kine
 kineses
+kinesics
 kinesis
 kinetic
 kinetics
@@ -18934,6 +19003,7 @@ kiteboarder
 kited
 kitehawk
 kitenge
+kites
 kith
 kithara
 kitharas
@@ -18945,6 +19015,8 @@ kits
 kitsch
 kitschier
 kitschiest
+kitset
+kitsets
 kiva
 kivas
 kiwi
@@ -19856,6 +19928,7 @@ lemon
 lemons
 lend
 lenience
+leniencies
 lenient
 lenis
 lenite
@@ -19864,6 +19937,7 @@ lenites
 leniting
 lenition
 lenitive
+lenitives
 lenity
 leno
 lenos
@@ -19919,6 +19993,9 @@ letup
 letups
 leu
 leucine
+leucistic
+leucite
+leucitic
 leucocyte
 leucoma
 leucosis
@@ -19954,6 +20031,7 @@ leviratical
 levitate
 levitated
 levitation
+levities
 levity
 levs
 levy
@@ -25353,6 +25431,7 @@ nemesisms
 nemic
 nemo
 nemorous
+nenbutsu
 nene
 nenes
 nenta
@@ -25469,6 +25548,8 @@ nespola
 nest
 nester
 nesters
+nestle
+nestles
 nests
 nesty
 net
@@ -25491,6 +25572,7 @@ netop
 nets
 netsmen
 netsuke
+netsukes
 neu
 neum
 neumatic
@@ -25660,8 +25742,10 @@ nickel
 nickeled
 nickelic
 nickeline
+nickels
 nicker
 nickie
+nickies
 nicking
 nicknack
 nicks
@@ -25784,6 +25868,7 @@ ninetieth
 ninetieths
 ninety
 niniamer
+ninjutsu
 ninon
 ninta
 ninth
@@ -26381,11 +26466,17 @@ nubilation
 nubile
 nubility
 nubs
+nubuck
 nucha
 nuchal
 nucin
 nucleal
 nuclear
+nuclei
+nucleic
+nuclein
+nucleins
+nucleus
 nucular
 nude
 nudging
@@ -26441,6 +26532,7 @@ nuncio
 nuncius
 nunciuses
 nuncle
+nuncles
 nundine
 nunk
 nunkie
@@ -26515,6 +26607,7 @@ nuthatch
 nuthead
 nuthin
 nutlet
+nutlets
 nutmeat
 nutmeats
 nutria
@@ -38948,9 +39041,13 @@ selectors
 selects
 selenate
 selenates
+selenic
 selenite
 selenites
+selenitic
 selenium
+selkie
+selkies
 selva
 selvas
 selvedge
@@ -39046,6 +39143,7 @@ sensitive
 sensitives
 sensitivist
 sensitivists
+sensitivities
 sensive
 sensor
 sensoria
@@ -39699,6 +39797,7 @@ sickie
 sickies
 sickish
 sickle
+sickles
 sicklier
 sickliest
 sicko
@@ -40043,6 +40142,7 @@ skews
 ski
 skiable
 skiatherics
+skible
 skid
 skids
 skier
@@ -40060,6 +40160,8 @@ skinker
 skinkers
 skinkle
 skinks
+skinlet
+skinlets
 skins
 skinsuit
 skinsuits
@@ -40075,6 +40177,7 @@ skis
 skit
 skitch
 skite
+skites
 skits
 skive
 skiver
@@ -40417,6 +40520,8 @@ snecks
 snib
 snibs
 snick
+snicket
+snickets
 snicks
 snifter
 snifters
@@ -41522,6 +41627,7 @@ stickages
 sticke
 sticker
 stickes
+sticket
 stickie
 stickier
 stickies
@@ -41532,6 +41638,7 @@ sticklac
 stickle
 stickler
 sticklers
+stickles
 stickpin
 stickpins
 sticks
@@ -41845,6 +41952,8 @@ stub
 stubs
 stuc
 stuck
+stuckin
+stuckins
 stucs
 stud
 stude
@@ -41938,6 +42047,10 @@ subcritical
 subcrust
 subcrustal
 subcrusts
+subcuticle
+subcuticles
+subcutis
+subcutises
 subdial
 subdials
 subedit
@@ -41964,9 +42077,15 @@ subgrains
 subhumid
 subiculum
 subiculums
+subincise
+subincises
 subintrant
 subitise
 subito
+subjunct
+subjunctive
+subjunctives
+subjuncts
 sublet
 sublets
 sublevel
@@ -41979,6 +42098,8 @@ submucous
 subnet
 subnets
 subnivean
+subnucleus
+subnucleuses
 suborn
 suborns
 subrepent
@@ -42029,6 +42150,12 @@ subtenures
 subtest
 subtests
 subtiaba
+subtitle
+subtitles
+subtle
+subtleise
+subtlest
+subtleties
 subtribe
 subtribes
 subtriple
@@ -42054,6 +42181,9 @@ suck
 sucker
 suckers
 sucket
+suckiest
+suckle
+suckles
 sucks
 suckup
 suckups
@@ -42149,6 +42279,8 @@ sumph
 sumps
 sums
 sun
+sunbelt
+sunbelts
 sunbird
 sunbirds
 sunblush
@@ -43220,6 +43352,10 @@ teleguide
 teleguided
 telehealth
 teleiotic
+telekinesis
+telekinetic
+telekineticist
+telekineticists
 telelens
 telelenses
 telematic
@@ -43253,6 +43389,7 @@ telesm
 telesma
 telesms
 telesthesia
+telestic
 teletalkie
 teletex
 teletheatre
@@ -43495,6 +43632,8 @@ tested
 tester
 testers
 testes
+testicle
+testicles
 testier
 testiest
 testifies
@@ -43915,10 +44054,12 @@ tickertape
 tickertapes
 ticket
 ticketed
+tickets
 tickle
 tickled
 tickler
 ticklers
+tickles
 ticklier
 ticks
 ticktock
@@ -45422,6 +45563,7 @@ tunica
 tunicate
 tunicated
 tunicle
+tunicles
 tunics
 tuning
 tuns
@@ -45643,6 +45785,7 @@ ubi
 ubiety
 ubiquity
 ubis
+ubities
 ubity
 ubuntu
 udal
@@ -45663,6 +45806,7 @@ ukase
 ukases
 uke
 ukelele
+ukeleles
 ukes
 ukulele
 ulama
@@ -45762,9 +45906,14 @@ unban
 unbans
 unbar
 unbars
+unbelt
+unbelts
 unbent
+unblest
 unborn
 unbound
+unbuckle
+unbuckles
 unbuilt
 unburnt
 unbury
@@ -45795,6 +45944,7 @@ uncleanable
 unclear
 unclench
 unclenching
+uncles
 unclick
 unclinch
 unclinching
@@ -45987,6 +46137,8 @@ units
 unitude
 unity
 univalve
+unjust
+unjustest
 unkent
 unket
 unketh
@@ -46330,6 +46482,7 @@ unstrung
 unstuck
 unsub
 unsubs
+unsubtle
 unsuitable
 unsung
 unsure
@@ -46598,6 +46751,7 @@ uvarovite
 uvea
 uveal
 uveas
+uveitis
 uvula
 uvulae
 uvular
@@ -47062,11 +47216,13 @@ vice
 vices
 vici
 vicinal
+vicinities
 vicinity
 victim
 victor
 victual
 victualed
+vicus
 vid
 vide
 video
@@ -47189,6 +47345,7 @@ visagistes
 visas
 viscacha
 viscachas
+viscus
 vise
 vises
 visher
