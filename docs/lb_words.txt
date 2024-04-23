@@ -1848,6 +1848,7 @@ alkitrans
 alky
 alkyd
 alkyl
+alkylation
 alkyne
 alma
 almacabala
@@ -1976,6 +1977,7 @@ althea
 altheas
 althorn
 altigraph
+altiplanation
 altiplano
 altiport
 altitude
@@ -3529,6 +3531,10 @@ automats
 automise
 automised
 automises
+autopathy
+autophon
+autophony
+autopiano
 autorad
 autorads
 autorotate
@@ -3545,6 +3551,7 @@ autotomise
 autotomy
 autotray
 autotune
+autotypy
 autowind
 autumn
 autumnal
@@ -16956,6 +16963,7 @@ honourous
 honours
 hons
 hop
+hopak
 hope
 hoper
 hopes
@@ -17191,6 +17199,7 @@ hunger
 hungering
 hunk
 hunks
+hunky
 hunt
 hunting
 hunts
@@ -17302,6 +17311,7 @@ hypopnea
 hyporheic
 hypos
 hypotactic
+hypotonia
 hypotrophy
 hypoxia
 hyson
@@ -17963,6 +17973,7 @@ inimical
 inimitable
 inion
 inions
+iniquity
 initial
 initialed
 initialese
@@ -18948,6 +18959,7 @@ kapai
 kapha
 kaphas
 kapu
+kaput
 kara
 karabiner
 karabiners
@@ -18992,11 +19004,13 @@ katana
 katanas
 katas
 katharometer
+katipo
 katsina
 katsinam
 katsinas
 katydid
 kaumatua
+kaupapa
 kauri
 kauris
 kava
@@ -21056,6 +21070,7 @@ lophotrichous
 loping
 lopolith
 lops
+loquat
 lor
 loran
 lord
@@ -25628,6 +25643,7 @@ naturistic
 naturists
 natya
 naufrage
+naupaka
 naupliar
 nauplius
 nausea
@@ -27743,6 +27759,7 @@ opalise
 opalize
 opals
 opanci
+opanka
 opaque
 opaquer
 opaquing
@@ -27799,6 +27816,8 @@ opiniated
 opinicus
 opining
 opinion
+opinional
+opinionation
 opinionist
 opinionists
 opinions
@@ -29048,10 +29067,12 @@ paisan
 paisans
 paise
 paitung
+pakalolo
 pakapu
 pakati
 pakay
 pakeha
+pakhal
 pakololo
 pakua
 pakul
@@ -29076,6 +29097,7 @@ palagi
 palais
 palak
 palang
+palanquin
 palapa
 palapas
 palar
@@ -29145,6 +29167,7 @@ palping
 palpitant
 palpitate
 palpitating
+palpitation
 palpon
 palpons
 palps
@@ -29418,6 +29441,7 @@ papsaks
 papula
 papulae
 papular
+papulation
 papule
 papyri
 papyrology
@@ -29842,6 +29866,7 @@ patka
 patkas
 patly
 patola
+patolu
 patria
 patriae
 patrial
@@ -30895,6 +30920,7 @@ phytology
 phyton
 phytophagic
 phytophagy
+phytoplankton
 phytotron
 phytyl
 pia
@@ -31188,6 +31214,7 @@ pinkies
 pinkiest
 pinking
 pinkle
+pinkly
 pinko
 pinks
 pinky
@@ -31433,6 +31460,7 @@ pitsos
 pitstop
 pitstops
 pitsu
+pituital
 pituitous
 pituitrin
 pituri
@@ -31455,6 +31483,7 @@ pixie
 pixilate
 pixilated
 pixy
+piyut
 pize
 pizer
 placard
@@ -31487,6 +31516,7 @@ plainant
 plained
 plainer
 plaining
+plainly
 plains
 plaint
 plaintext
@@ -31541,6 +31571,7 @@ plankter
 plankters
 planktic
 plankton
+planky
 planograph
 planography
 plans
@@ -31566,6 +31597,7 @@ planula
 planulae
 planular
 planulate
+planulation
 planus
 plap
 plaps
@@ -31862,6 +31894,8 @@ plutogog
 plutogogue
 pluton
 plutonium
+plutonyl
+pluty
 pluvius
 pluviuses
 ply
@@ -32101,6 +32135,7 @@ polygynia
 polygyny
 polyhaploid
 polyhydric
+polyion
 polylectal
 polylectic
 polylogy
@@ -32120,6 +32155,8 @@ polyphagic
 polyphagy
 polyphon
 polyphonal
+polyphonian
+polyphony
 polyphoto
 polyphyletic
 polyphyly
@@ -32271,6 +32308,8 @@ popstars
 popsy
 poptastic
 popular
+population
+populational
 populi
 populin
 populist
@@ -33579,7 +33618,10 @@ puler
 pules
 puli
 puling
+pulk
+pulka
 pulp
+pulpal
 pulper
 pulpier
 pulpiest
@@ -33590,6 +33632,7 @@ pulpitic
 pulpitis
 pulpits
 pulps
+pulpy
 puls
 pulsant
 pulsar
@@ -33688,6 +33731,7 @@ punition
 punitions
 punitory
 punk
+punkah
 punks
 punky
 puns
@@ -33993,6 +34037,7 @@ quaite
 quake
 quakes
 quaking
+quaky
 quale
 qualia
 qualie
@@ -34147,6 +34192,7 @@ quinol
 quinone
 quinones
 quinonoid
+quinoyl
 quinquereme
 quinqueremes
 quinquina
@@ -34164,6 +34210,7 @@ quintupling
 quinze
 quip
 quips
+quipu
 quire
 quires
 quiring
@@ -43559,6 +43606,7 @@ taliks
 talionis
 talipot
 talk
+talkathon
 talkback
 talkbacks
 talker
@@ -43863,6 +43911,7 @@ tautology
 tautomer
 tautomers
 tautomery
+tautophony
 tauty
 tavern
 taverna
@@ -44920,6 +44969,7 @@ tinkers
 tinking
 tinkle
 tinklier
+tinkly
 tinks
 tinktinkie
 tinktinkies
@@ -46266,6 +46316,7 @@ tunics
 tuning
 tuns
 tup
+tupik
 tuple
 tuples
 tups
@@ -46817,6 +46868,7 @@ uniports
 unipotent
 unique
 uniques
+uniquity
 uniramian
 unireme
 unironic
@@ -47289,6 +47341,7 @@ upend
 upfield
 upfront
 upful
+uphaul
 upheld
 uphold
 upholder
@@ -47493,6 +47546,8 @@ utilizable
 utilize
 utilizer
 utmost
+utopia
+utopian
 utopic
 utriculi
 utriculus
