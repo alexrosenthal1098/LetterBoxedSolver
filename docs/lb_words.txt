@@ -160,6 +160,7 @@ abnet
 abnets
 abneural
 abnormal
+abnormous
 aboard
 abob
 abode
@@ -447,6 +448,7 @@ achromatic
 achromatism
 achromats
 achromic
+achromous
 achronical
 achy
 achylia
@@ -481,6 +483,8 @@ acies
 acinar
 acini
 acinic
+acinous
+acinus
 acipenser
 ack
 ackamarackus
@@ -522,6 +526,7 @@ acouchi
 acouchis
 acouri
 acousma
+acousmas
 acquihire
 acquire
 acquirer
@@ -2080,6 +2085,8 @@ amatriciana
 amaurosis
 amaurotic
 amaze
+amazon
+amazons
 ambatch
 amber
 ambers
@@ -3127,6 +3134,7 @@ ascites
 ascitic
 ascon
 ascons
+ascorbic
 ascot
 ascots
 ascribe
@@ -3797,6 +3805,7 @@ backwards
 backy
 bacne
 bacon
+bacons
 bacterise
 bacterises
 bacula
@@ -3864,6 +3873,7 @@ baiter
 baiting
 baits
 baiza
+baizas
 baize
 bajada
 baju
@@ -4781,6 +4791,7 @@ binky
 binliner
 binman
 binmen
+binocs
 bins
 bint
 bints
@@ -5343,7 +5354,10 @@ bonging
 bongo
 bongos
 bongs
+bonham
+bonhams
 bonheur
+bonhomous
 boniato
 boniatos
 bonier
@@ -5362,6 +5376,7 @@ bonsela
 bonum
 bonus
 bony
+bonza
 bop
 bops
 bora
@@ -5473,6 +5488,7 @@ bounds
 bounteous
 bounty
 bourbon
+bourbons
 bourg
 bourgeois
 bourgeoise
@@ -5773,6 +5789,7 @@ bristles
 britches
 brith
 bro
+broach
 broad
 broadax
 broadaxe
@@ -5780,6 +5797,8 @@ broaden
 broadened
 broast
 broasts
+broch
+brochs
 brogue
 broider
 broidered
@@ -5801,7 +5820,12 @@ bromeliad
 bromic
 bronc
 bronchi
+bronchia
+bronchias
 bronchitic
+bronchus
+bronco
+broncs
 brond
 bronde
 brontothere
@@ -5811,6 +5835,8 @@ broth
 brothel
 brother
 brought
+brouhaha
+brouhahas
 brow
 browbeat
 brubru
@@ -5820,6 +5846,7 @@ bruck
 brucks
 bruery
 bruh
+bruhs
 bruin
 bruins
 bruise
@@ -5871,6 +5898,7 @@ bubinga
 bubo
 buboed
 buboes
+bubonic
 bubuckle
 bubukle
 bubukles
@@ -5965,6 +5993,7 @@ bun
 bunce
 bunch
 bunching
+bunco
 bund
 bundling
 bundu
@@ -6064,6 +6093,8 @@ burthen
 burton
 bury
 bus
+busaun
+busauns
 busbar
 busbars
 busbies
@@ -6156,11 +6187,14 @@ cabildo
 cabin
 cabined
 cabinet
+cabins
 cable
 cablecar
 cabled
 cables
 cabman
+cabochon
+cabochons
 caboclo
 caboclos
 cabs
@@ -6233,6 +6267,7 @@ cagy
 cahier
 cahiers
 cahoun
+cahouns
 cahow
 caiman
 caimans
@@ -7568,11 +7603,16 @@ chords
 chore
 chorea
 chores
+choriamb
+choriambi
+choriambic
+choriambus
 choric
 chorioid
 chorion
 chorions
 chorister
+chorizo
 chorographic
 chorography
 choroid
@@ -7609,6 +7649,7 @@ chromophoric
 chromos
 chromosome
 chromosomes
+chromous
 chronic
 chronicity
 chronicle
@@ -8397,6 +8438,7 @@ concha
 conchae
 conchie
 concho
+conchs
 conciliar
 conciliate
 conciliation
@@ -8404,6 +8446,7 @@ conciliator
 concoct
 concocter
 concord
+concours
 concrete
 condo
 condone
@@ -8494,6 +8537,7 @@ contronym
 controvert
 controverter
 conundrum
+conus
 convect
 convert
 converter
@@ -8998,6 +9042,7 @@ criminalist
 criminalists
 criminals
 criminatory
+criminous
 criminy
 crimp
 crimps
@@ -15882,6 +15927,7 @@ hailers
 hailing
 hails
 hair
+hairbrush
 haircut
 haircuts
 hairdo
@@ -15989,6 +16035,7 @@ hamster
 hamsters
 hamuli
 hamza
+hamzas
 hanami
 hand
 handbag
@@ -17066,6 +17113,8 @@ horas
 horchata
 horde
 hordes
+horizon
+horizons
 hormesis
 hormesises
 hormonal
@@ -17647,6 +17696,7 @@ imbibes
 imbibing
 imbibition
 imbibitions
+imbizo
 imbo
 imbongi
 imbos
@@ -21540,6 +21590,7 @@ macles
 maclurin
 macomere
 macouba
+macoubas
 macqui
 macrame
 macraner
@@ -21568,6 +21619,7 @@ macrosomia
 macrosomic
 macrostomia
 macruran
+macrurous
 macs
 macte
 macula
@@ -21703,6 +21755,8 @@ mahurats
 mahwa
 mahwas
 mai
+maiasaur
+maiasaurs
 maid
 maidan
 maidans
@@ -21743,6 +21797,7 @@ mainmast
 mainmasts
 mainmen
 mainour
+mainours
 mainport
 mains
 mainsail
@@ -23349,8 +23404,12 @@ micritic
 micro
 microbe
 microbes
+microbic
 microbore
 microbores
+microburin
+microburins
+microbus
 microcanonical
 microcar
 microcard
@@ -23429,6 +23488,7 @@ microtonal
 microtron
 microtrons
 microunit
+microzoa
 mics
 mictic
 mid
@@ -23710,6 +23770,8 @@ minibikes
 minibreak
 minibus
 minibuses
+minicab
+minicabs
 minicam
 minicamp
 minicams
@@ -23719,6 +23781,7 @@ minichains
 minichromosome
 minichromosomes
 minicom
+minicoms
 minigene
 minikin
 minikini
@@ -23879,6 +23942,8 @@ miroton
 mirotons
 mirth
 miry
+mirza
+mirzas
 misadvice
 misadvices
 misadvise
@@ -24282,6 +24347,7 @@ mogs
 mogue
 moguing
 moha
+mohair
 mohar
 mohel
 mohonono
@@ -24477,6 +24543,7 @@ monoamine
 monoamines
 monoao
 monoaos
+monoazo
 monobath
 monobaths
 monobloc
@@ -24489,7 +24556,9 @@ monocaryon
 monochord
 monochorial
 monochromic
+monochromous
 monochronic
+monochronous
 monocistronic
 monoclinal
 monoclinic
@@ -24524,6 +24593,7 @@ monolatry
 monolobular
 monolocular
 monomachia
+monomachias
 monomania
 monomaniac
 monomaniacal
@@ -24564,6 +24634,7 @@ monorails
 monorheme
 monorhinal
 monorhinic
+monorhinous
 monorime
 monos
 monosabio
@@ -24649,6 +24720,7 @@ morats
 moray
 morays
 morbid
+morbus
 morcha
 morchas
 mordida
@@ -24921,6 +24993,7 @@ mowras
 mows
 moy
 moya
+mozo
 mpingo
 mpret
 mprets
@@ -26370,6 +26443,7 @@ nimite
 nimites
 nimrod
 nincom
+nincoms
 nincum
 nind
 nine
@@ -26508,6 +26582,7 @@ nixer
 nixie
 nixing
 nixtamal
+nizam
 nizatidine
 nmol
 nmoli
@@ -26667,6 +26742,8 @@ nonchaotic
 nonchurch
 noncitizen
 nonclinical
+noncom
+noncoms
 noncore
 noncount
 noncy
@@ -27243,6 +27320,7 @@ oats
 oaty
 oba
 obas
+obconic
 obdurate
 obdurated
 obdurately
@@ -27755,6 +27833,7 @@ omnes
 omneses
 omniana
 omnianas
+omnibus
 omniform
 omnipotent
 omnist
@@ -29045,6 +29124,7 @@ ozonising
 ozonize
 ozonizes
 ozonizing
+ozonous
 paca
 pacai
 pacamac
@@ -37360,6 +37440,7 @@ rhachis
 rhagon
 rhamnin
 rhamnins
+rhamnus
 rhandir
 rhandirs
 rhapis
@@ -37406,6 +37487,8 @@ rhinitis
 rhino
 rhinodon
 rhinolith
+rhizobia
+rhizomic
 rho
 rhodate
 rhodeoretin
@@ -37417,9 +37500,12 @@ rhomb
 rhombed
 rhombi
 rhombic
+rhombochasm
+rhombochasms
 rhombomere
 rhombomeres
 rhombs
+rhombus
 rhonchal
 rhonchus
 rhopalic
@@ -37650,6 +37736,7 @@ rimayes
 rimbase
 rimbases
 rimbomb
+rimbombs
 rime
 rimed
 rimer
@@ -37677,6 +37764,7 @@ rin
 rince
 rinceau
 rincon
+rincons
 rind
 rinded
 rindel
@@ -37894,6 +37982,7 @@ riyal
 riyo
 riza
 rizalite
+rizas
 roa
 roach
 roached
@@ -38484,11 +38573,14 @@ rubeola
 rubeoses
 rubeosis
 rubes
+rubiacin
 rubian
 rubianin
 rubianine
 rubianins
 rubiate
+rubicon
+rubicons
 rubies
 rubigo
 rubine
@@ -39394,6 +39486,7 @@ scab
 scabies
 scabious
 scabiouses
+scabrous
 scabs
 scad
 scads
@@ -39425,6 +39518,7 @@ scalpers
 scalps
 scaly
 scam
+scamorza
 scamp
 scamper
 scampers
@@ -39697,6 +39791,7 @@ scrum
 scrump
 scrumps
 scrums
+scrunch
 scrutator
 scrutators
 scry
@@ -42891,6 +42986,7 @@ subacid
 subagent
 subagents
 subah
+subahs
 subak
 subaks
 subalar
@@ -42899,6 +42995,9 @@ subashi
 subaud
 subauded
 subauds
+subchron
+subchronic
+subchrons
 subcritical
 subcrust
 subcrustal
@@ -42951,6 +43050,9 @@ sublets
 sublevel
 sublevels
 sublimise
+submicro
+submicron
+submicrons
 subminister
 submit
 submits
@@ -43168,6 +43270,7 @@ sunken
 sunlet
 sunlets
 sunlit
+sunomono
 sunray
 sunrays
 sunrise
@@ -46843,6 +46946,7 @@ uncase
 uncases
 unchain
 unchaining
+unchains
 unchancy
 unchangeable
 unchanging
@@ -46979,6 +47083,7 @@ unicity
 unicolor
 unicolour
 unicom
+unicoms
 unicorn
 unicum
 unideal
@@ -49666,6 +49771,8 @@ zakuska
 zakuskas
 zamac
 zami
+zamia
+zamias
 zamis
 zanier
 zanily
@@ -49717,6 +49824,7 @@ zinc
 zincing
 zincite
 zinco
+zincs
 zine
 zing
 zinged
@@ -49726,6 +49834,8 @@ zings
 zino
 zins
 zip
+zircon
+zirconia
 zit
 zither
 ziti
