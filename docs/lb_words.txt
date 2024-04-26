@@ -2467,6 +2467,7 @@ antacid
 antagonal
 antalgic
 antalkali
+antanagoge
 antas
 antasthmatic
 antatrophic
@@ -2543,6 +2544,7 @@ antic
 anticancer
 antichoice
 anticipator
+anticlerical
 anticlinal
 antics
 antidotal
@@ -2551,6 +2553,7 @@ antigen
 antigens
 antigun
 antihero
+antiknock
 antilife
 antilucan
 antipasti
@@ -6301,6 +6304,8 @@ calando
 calandra
 calash
 calathea
+calcanea
+calcaneal
 calcanei
 calcaneum
 calcareous
@@ -6348,6 +6353,7 @@ calix
 calixes
 calk
 calked
+calker
 calks
 calm
 calmed
@@ -6494,6 +6500,7 @@ canthi
 canthic
 canthus
 canti
+canticle
 cantilena
 cantilenas
 cantina
@@ -6713,10 +6720,13 @@ carmakers
 carman
 carmen
 carn
+carnage
 carnal
 carnality
+carnation
 carnauba
 carne
+carnelian
 carnet
 carnie
 carnier
@@ -6762,6 +6772,7 @@ carter
 carters
 cartes
 cartful
+cartilage
 cartload
 cartolina
 cartolinas
@@ -7799,6 +7810,7 @@ citate
 citated
 citates
 citation
+citational
 citative
 citator
 citatory
@@ -7857,6 +7869,7 @@ civilian
 civility
 clack
 clacked
+clacker
 clacket
 clackets
 clacks
@@ -7932,6 +7945,7 @@ clean
 cleanable
 cleaner
 cleaning
+cleanlier
 clear
 clearable
 clearance
@@ -7960,6 +7974,7 @@ clept
 clergy
 cleric
 clerical
+clerk
 cleuch
 cleugh
 clever
@@ -7973,6 +7988,7 @@ cliche
 cliched
 click
 clicked
+clicker
 clicket
 clickets
 clicking
@@ -7980,6 +7996,7 @@ clicks
 clicky
 cliencies
 client
+clientage
 cliental
 cliented
 clientele
@@ -8123,6 +8140,9 @@ coalface
 coalise
 coalite
 coalited
+coalition
+coalitional
+coalitioner
 coals
 coaly
 coarct
@@ -8178,13 +8198,16 @@ cockalorum
 cockcrow
 cocked
 cocker
+cockerel
 cockers
 cockie
+cockier
 cockies
 cockiest
 cocking
 cockle
 cockled
+cockler
 cockling
 cockrag
 cockroach
@@ -8227,12 +8250,15 @@ coerce
 coercer
 coercers
 coerces
+coercion
 coercive
 coeternal
 coeval
 coexist
 coexists
 cog
+cogeneration
+cogent
 cogitate
 cogito
 cogon
@@ -8422,6 +8448,7 @@ comps
 comsat
 con
 conacre
+conation
 concatenate
 concave
 conceal
@@ -8439,6 +8466,7 @@ conchae
 conchie
 concho
 conchs
+concierge
 conciliar
 conciliate
 conciliation
@@ -8468,6 +8496,7 @@ conics
 coning
 conjuror
 conk
+conker
 conking
 conman
 conmen
@@ -8528,6 +8557,7 @@ contrarily
 contrary
 contrast
 contrasts
+contrition
 contrivance
 contrive
 contriver
@@ -8852,8 +8882,10 @@ crackers
 cracking
 crackle
 crackled
+cracklier
 crackliest
 crackling
+cracknel
 cracks
 crackup
 cradle
@@ -8886,6 +8918,7 @@ craniosacral
 craniotomy
 cranium
 crank
+crankier
 crankily
 cranking
 cranks
@@ -8950,6 +8983,8 @@ creatal
 create
 created
 creates
+creation
+creational
 creative
 creatives
 creativity
@@ -8973,9 +9008,11 @@ cremes
 cremini
 creminis
 crenate
+crenation
 crenel
 crenelate
 crenelated
+crenelation
 crenels
 creodont
 creole
@@ -11870,6 +11907,7 @@ electrotractor
 electrowin
 elects
 elegance
+elegant
 elegiac
 elegiacal
 elegic
@@ -11903,6 +11941,7 @@ elfins
 elfish
 elhi
 elicit
+elicitation
 elicited
 elicits
 elide
@@ -14792,7 +14831,10 @@ gent
 gentes
 gentian
 gentians
+gentile
 gentium
+gentle
+gentler
 gentrified
 gentrifier
 gents
@@ -14807,6 +14849,7 @@ geocache
 geocached
 geocode
 geocoded
+geocratic
 geodata
 geode
 geodete
@@ -15036,6 +15079,7 @@ giving
 glace
 glaces
 glacial
+glaciation
 glacier
 glad
 gladhand
@@ -15069,6 +15113,7 @@ glazy
 gleam
 gleamed
 glean
+gleaner
 gleaning
 glebe
 glen
@@ -15164,11 +15209,14 @@ goaft
 goal
 goaler
 goalie
+goalkick
+goalkicker
 goals
 goat
 goatherd
 goatier
 goatish
+goatlike
 goatling
 goatly
 goats
@@ -15366,6 +15414,8 @@ grace
 gracer
 gracers
 graces
+gracile
+grackle
 grad
 gradable
 gradate
@@ -19454,6 +19504,7 @@ kirkman
 kirkmen
 kirks
 kirkton
+kirktown
 kirkwynd
 kirkyard
 kirpan
@@ -19545,6 +19596,7 @@ knoblike
 knobs
 knock
 knockback
+knocker
 knocking
 knop
 knops
@@ -19585,6 +19637,7 @@ koi
 koine
 koines
 koinonia
+koiwi
 koji
 kokako
 kokakos
@@ -19632,6 +19685,7 @@ kouroi
 kowari
 kowaris
 kowtow
+kowtower
 kraft
 krai
 krais
@@ -20602,6 +20656,7 @@ licit
 licitly
 lick
 licked
+licker
 licking
 licks
 licorice
@@ -20982,6 +21037,7 @@ litigation
 litigator
 litmus
 litre
+litreage
 litres
 liturgical
 liturgy
@@ -25963,6 +26019,7 @@ negligent
 negligibility
 negligible
 negligibly
+negociant
 negotiable
 negotiant
 negotiate
@@ -26025,6 +26082,8 @@ neocon
 neocons
 neocortices
 neogenetic
+neoglacial
+neoglaciation
 neoist
 neoists
 neolite
@@ -26741,7 +26800,9 @@ noncey
 nonchaotic
 nonchurch
 noncitizen
+nonclerical
 nonclinical
+noncoercion
 noncom
 noncoms
 noncore
@@ -27929,6 +27990,7 @@ onstead
 onsteads
 ontal
 ontic
+ontical
 onto
 ontogonies
 ontonomies
@@ -29055,6 +29117,7 @@ owls
 owly
 own
 ownable
+ownage
 owned
 owner
 owners
@@ -35926,6 +35989,7 @@ regeneration
 regenesis
 regenesises
 regent
+regental
 regenting
 regents
 regentship
@@ -36415,6 +36479,7 @@ renaturation
 renature
 renatures
 rencil
+rencontre
 rend
 rendal
 rendu
@@ -43698,6 +43763,8 @@ tackie
 tackier
 tackies
 tackiest
+tackle
+tackler
 tacks
 tacky
 taco
@@ -43854,6 +43921,7 @@ talkback
 talkbacks
 talker
 talkie
+talkier
 talkies
 talkiest
 talking
@@ -45515,6 +45583,7 @@ tomtits
 ton
 tonal
 tonalite
+tonalitic
 tonality
 tondi
 tondo
@@ -46143,6 +46212,7 @@ trichroic
 trick
 tricked
 tricker
+trickeration
 trickeries
 trickier
 trickiest
@@ -46747,6 +46817,7 @@ two
 twoc
 twoced
 twocer
+twocker
 twocs
 twonk
 twos
@@ -49347,6 +49418,7 @@ womenswear
 won
 wonga
 wonk
+wonkier
 wonky
 wont
 wonton
