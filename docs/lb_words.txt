@@ -1051,6 +1051,8 @@ aerophyte
 aerosol
 aerostat
 aerostats
+aerotolerance
+aerotolerant
 aerotow
 aerotrain
 aerotropic
@@ -2447,6 +2449,7 @@ anoraky
 anorectal
 anorectic
 anosmia
+another
 ansa
 ansas
 ansata
@@ -2525,7 +2528,10 @@ anthracotic
 anthranilate
 anthranilates
 anthranilic
+anthranol
 anthro
+anthrol
+anthrone
 anthropic
 anthropical
 anthropoid
@@ -3285,6 +3291,7 @@ atelesite
 atelestite
 atelier
 ateliers
+atenolol
 ater
 ates
 athame
@@ -7232,6 +7239,7 @@ chanoyu
 chant
 chantage
 chantant
+chanter
 chanties
 chantries
 chantry
@@ -7555,6 +7563,7 @@ chivied
 chivies
 chivy
 chloral
+chlorate
 chloric
 chloritic
 chloritoid
@@ -7593,7 +7602,9 @@ chokos
 choky
 chola
 cholas
+cholent
 choler
+cholera
 choli
 cholic
 choline
@@ -7646,6 +7657,7 @@ chowder
 chowderhead
 chowderheaded
 chowed
+chowk
 chows
 chrism
 chroma
@@ -7677,6 +7689,9 @@ chthonic
 chub
 chubs
 chuck
+chuckhole
+chuckle
+chuckler
 chucks
 chufa
 chug
@@ -7688,6 +7703,7 @@ chumps
 chums
 chun
 chunk
+chunter
 chup
 church
 churchdom
@@ -8158,6 +8174,7 @@ coast
 coaster
 coasts
 coat
+coatcheck
 coated
 coati
 coatigan
@@ -8188,6 +8205,7 @@ cochere
 cochineal
 cochlea
 cochleae
+cochlear
 cochleate
 cochoa
 cochoas
@@ -8268,6 +8286,8 @@ cohen
 cohens
 cohere
 cohered
+coherence
+coherent
 coherer
 coheres
 cohesion
@@ -8281,6 +8301,7 @@ cohosh
 cohoshes
 cohost
 cohosts
+cohune
 coif
 coifs
 coil
@@ -8329,6 +8350,7 @@ colobus
 colocate
 colocates
 colon
+colonel
 colonial
 colonialist
 colonialists
@@ -8455,6 +8477,8 @@ conceal
 concealer
 conceive
 conceiver
+concent
+concenter
 concern
 concert
 concertante
@@ -8473,6 +8497,7 @@ conciliation
 conciliator
 concoct
 concocter
+concoctor
 concord
 concours
 concrete
@@ -8534,6 +8559,7 @@ contaminant
 contaminants
 contaminator
 conte
+content
 continua
 continuation
 continuator
@@ -8681,6 +8707,8 @@ coronals
 coronaries
 coronary
 coronas
+coroner
+coronet
 coronial
 corpocracy
 corpocrat
@@ -8774,6 +8802,7 @@ cots
 coucal
 coucals
 couch
+couchant
 couche
 couched
 coude
@@ -8797,6 +8826,9 @@ coumarin
 council
 councilor
 count
+countenance
+counter
+countercheck
 coup
 couply
 coupon
@@ -8957,6 +8989,7 @@ craw
 crawdad
 crawdads
 crawl
+crawler
 crawls
 craws
 cray
@@ -9045,6 +9078,7 @@ crew
 crewed
 crewel
 crewels
+crewelwork
 crewneck
 crews
 cri
@@ -9336,6 +9370,7 @@ cuecas
 cued
 cueist
 cueists
+cuento
 cues
 cuesta
 cuestas
@@ -11595,6 +11630,7 @@ eardrop
 eardrum
 eared
 earful
+earhole
 earing
 earl
 earldom
@@ -11704,6 +11740,7 @@ ecash
 ecbolic
 ecdysial
 ecdysis
+echelon
 echini
 echinoderm
 echiuran
@@ -11748,6 +11785,7 @@ ecoresorts
 ecostate
 ecotage
 ecoteur
+ecotone
 ecotour
 ecotoured
 ecotours
@@ -11881,6 +11919,7 @@ elected
 elective
 electively
 elector
+electorate
 electors
 electret
 electric
@@ -12132,6 +12171,8 @@ enamels
 enamor
 enamors
 enanthate
+enanthol
+enanthole
 enantiomer
 enargite
 enation
@@ -12146,6 +12187,7 @@ enchain
 enchained
 enchaining
 enchant
+enchanter
 enchants
 enchase
 enchases
@@ -12163,6 +12205,7 @@ encomia
 encomium
 encore
 encores
+encounter
 encroach
 encroacher
 encrypt
@@ -12279,6 +12322,7 @@ enoki
 enokis
 enormous
 enosis
+enounce
 enpatron
 enplane
 enplaned
@@ -12711,6 +12755,7 @@ etatiste
 etcetera
 etceteras
 etch
+etchant
 etched
 etcher
 etchers
@@ -12726,6 +12771,7 @@ eth
 ethanal
 ethane
 ethanoate
+ethanol
 ethene
 ether
 etherate
@@ -16373,6 +16419,7 @@ hawsepipe
 hawsepipes
 hawses
 hawt
+hawthorn
 hay
 haycock
 haycocks
@@ -16501,6 +16548,8 @@ heavy
 heavyset
 hebetude
 heck
+heckle
+heckler
 hectarage
 hectare
 hectares
@@ -17301,6 +17350,7 @@ howk
 howked
 howl
 howled
+howler
 howlet
 howto
 howtos
@@ -17387,6 +17437,7 @@ hunk
 hunks
 hunky
 hunt
+hunter
 hunting
 hunts
 hunyak
@@ -19601,7 +19652,9 @@ knocking
 knop
 knops
 knot
+knothole
 knots
+knotwork
 knout
 knouts
 know
@@ -19612,6 +19665,8 @@ knowers
 knowes
 known
 knows
+knuckle
+knuckler
 knuckling
 knule
 knur
@@ -19713,6 +19768,7 @@ kronor
 kronur
 krump
 krumper
+kuchen
 kuia
 kuias
 kukri
@@ -20340,6 +20396,10 @@ least
 leat
 leather
 leathercloth
+leathern
+leatherneck
+leatherwear
+leatherwork
 leathery
 leats
 leavable
@@ -20356,6 +20416,7 @@ leched
 lecher
 lechery
 leching
+lechon
 lechwe
 lectern
 lecterns
@@ -20544,6 +20605,7 @@ leucite
 leucitic
 leucocyte
 leucoma
+leucon
 leucosis
 lev
 leva
@@ -21134,6 +21196,7 @@ locavore
 loch
 lochagos
 lochagus
+lochan
 lochia
 lochial
 lochlet
@@ -21358,8 +21421,10 @@ loves
 loveware
 low
 lowan
+lowance
 lowans
 lowboy
+lowchen
 lowdown
 lowe
 lowed
@@ -21401,6 +21466,9 @@ lubing
 lubra
 lubras
 luce
+lucent
+lucern
+lucerne
 luchter
 lucid
 lucifer
@@ -21410,6 +21478,7 @@ lucking
 lucks
 lucrative
 lucre
+luculent
 lud
 ludic
 ludo
@@ -21457,6 +21526,7 @@ lunatic
 lunatics
 lunation
 lunch
+luncher
 lune
 lunes
 lung
@@ -25984,6 +26054,7 @@ necklets
 neckline
 necks
 necktie
+neckwear
 necrose
 necroses
 necrosis
@@ -25992,6 +26063,7 @@ necrotroph
 necrotrophic
 necrotrophy
 nectar
+nectarean
 nectarine
 nectophore
 ned
@@ -26216,6 +26288,7 @@ netsmen
 netsuke
 netsukes
 netwise
+network
 neu
 neum
 neumatic
@@ -26668,6 +26741,7 @@ noblest
 nobly
 nobodies
 nobs
+nocent
 nocive
 nock
 nocked
@@ -26805,6 +26879,7 @@ nonclinical
 noncoercion
 noncom
 noncoms
+noncontent
 noncore
 noncount
 noncy
@@ -27111,6 +27186,7 @@ nown
 nowp
 nowt
 nowter
+nowther
 nowy
 nox
 noxa
@@ -27148,6 +27224,7 @@ nucleus
 nuclide
 nuclidic
 nucular
+nucule
 nude
 nudging
 nudie
@@ -27197,6 +27274,7 @@ nunbird
 nunbirds
 nunchaku
 nunchakus
+nunchuck
 nunchuk
 nunciate
 nunciature
@@ -27804,6 +27882,7 @@ oldly
 oldman
 ole
 oleate
+olecranon
 oleh
 olehs
 oleic
@@ -28614,6 +28693,7 @@ oui
 ouklip
 ouma
 oumiesies
+ounce
 oupa
 our
 ouranology
@@ -29101,6 +29181,7 @@ owe
 owed
 owelty
 ower
+owerance
 owers
 owes
 owie
@@ -35181,6 +35262,7 @@ ratherest
 ratherish
 rathite
 rathites
+rathole
 ratholing
 raths
 rathyatra
@@ -35610,6 +35692,7 @@ rechain
 rechaining
 rechange
 rechanging
+rechant
 recharge
 rechargeable
 recharger
@@ -35696,8 +35779,11 @@ reconvict
 record
 recordable
 recoreco
+recork
 recorte
 recortes
+recount
+recounter
 recourse
 recourses
 recourt
@@ -36368,9 +36454,13 @@ reloan
 relocatable
 relocate
 relocator
+relock
 relodge
 relove
+relucent
 reluct
+reluctance
+reluctant
 relucts
 rely
 rem
@@ -36480,6 +36570,7 @@ renature
 renatures
 rencil
 rencontre
+rencounter
 rend
 rendal
 rendu
@@ -36521,6 +36612,8 @@ renitents
 renk
 renks
 renminbi
+renounce
+renouncer
 renovise
 renown
 renowned
@@ -38161,6 +38254,7 @@ roche
 rochet
 rochets
 rock
+rockchuck
 rockcod
 rocked
 rocket
@@ -38171,6 +38265,7 @@ rockiest
 rocking
 rockist
 rockists
+rocklet
 rocklike
 rockling
 rockrose
@@ -38231,6 +38326,7 @@ roguish
 rohan
 rohu
 rohun
+rohuna
 rohuns
 rohus
 roid
@@ -38451,6 +38547,7 @@ rotaxane
 rote
 rotenone
 rotgut
+rotheln
 roti
 rotifer
 rotifers
@@ -38523,6 +38620,7 @@ rouks
 rouky
 rouleau
 roulement
+rounce
 rouncy
 round
 roundabout
@@ -44318,6 +44416,7 @@ teat
 teated
 teatime
 teatimes
+teatowel
 teats
 teazel
 teazels
@@ -44371,6 +44470,7 @@ tektite
 telaesthesia
 telco
 tele
+telearch
 telebus
 telebuses
 telecast
@@ -44450,10 +44550,12 @@ televise
 televiser
 televises
 televisible
+telework
 telewrite
 telewriter
 telewriters
 telewrites
+telewrote
 telex
 telic
 telicity
@@ -45018,6 +45120,7 @@ throats
 throaty
 throb
 throbs
+throck
 throe
 throes
 thromboembolic
@@ -45531,9 +45634,12 @@ tole
 tolerability
 tolerable
 tolerably
+tolerance
+tolerant
 tolerate
 tolerated
 tolerator
+toleware
 tolu
 toluene
 toluic
@@ -45795,6 +45901,7 @@ touch
 touche
 toucher
 touchous
+touchtone
 touchup
 touchy
 tough
@@ -47054,6 +47161,7 @@ unclung
 unco
 uncoil
 uncoiling
+unconcern
 uncork
 uncorking
 uncrate
@@ -47330,9 +47438,12 @@ unlively
 unload
 unloads
 unloath
+unlock
 unlordly
 unloyal
 unloyalty
+unlucent
+unluck
 unlust
 unlustrous
 unlusts
@@ -47528,9 +47639,11 @@ unreined
 unreins
 unrelated
 unrelational
+unrelentance
 unrelented
 unrelenter
 unreliable
+unreluctant
 unremember
 unremote
 unrent
@@ -47630,6 +47743,7 @@ untenable
 untended
 untenured
 untether
+unthaw
 unthread
 unthrone
 untick
@@ -48837,6 +48951,7 @@ warhead
 warier
 wariest
 waring
+warlock
 warlord
 warm
 warmdown
@@ -48903,6 +49018,7 @@ watchfire
 watchful
 watchtower
 water
+watercock
 watercolor
 watercolour
 watered
@@ -48919,9 +49035,11 @@ waterman
 watermen
 waters
 waterway
+waterwork
 watery
 wats
 waul
+waulk
 wauls
 waur
 waurs
@@ -48989,8 +49107,10 @@ weasel
 weaseled
 weasels
 weather
+weathercock
 weathered
 weathers
+weatherworn
 weave
 weaved
 weaver
