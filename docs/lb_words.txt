@@ -312,6 +312,7 @@ abuy
 aby
 abye
 abyes
+abying
 acacia
 acacias
 acacin
@@ -1885,6 +1886,7 @@ almost
 alms
 almucabala
 almug
+almury
 almuten
 almutens
 alnage
@@ -2368,6 +2370,7 @@ angoras
 angrier
 angrily
 angry
+angular
 anhinga
 ani
 aniline
@@ -2928,6 +2931,7 @@ argonaut
 argosies
 argot
 argots
+arguably
 argue
 arguer
 arguers
@@ -3444,6 +3448,7 @@ aulnage
 aulnager
 aulos
 aum
+aumbry
 aums
 aumuce
 auncel
@@ -3703,6 +3708,7 @@ axi
 axial
 axil
 axils
+axing
 axis
 axle
 axon
@@ -3769,6 +3775,8 @@ babushka
 babushkas
 baby
 babydom
+babygym
+babying
 babymama
 babymamas
 babysat
@@ -4043,6 +4051,7 @@ bapu
 bar
 bara
 baraita
+barangay
 barathea
 baraza
 barazas
@@ -4099,6 +4108,7 @@ barf
 barfi
 barfier
 barfing
+barfly
 bargain
 bargainable
 bargainer
@@ -4135,6 +4145,7 @@ barmaids
 barman
 barmier
 barmiest
+barmy
 barn
 barnet
 barnets
@@ -4312,6 +4323,7 @@ bay
 baya
 bayas
 bayed
+baying
 bayou
 bays
 bayside
@@ -4750,8 +4762,10 @@ bilevel
 bilevels
 bilge
 bilged
+bilging
 biliary
 bilinear
+bilingual
 bilious
 bilirubin
 bilk
@@ -4794,6 +4808,7 @@ binging
 bingle
 bingo
 bings
+bingy
 bink
 binkie
 binkies
@@ -5068,6 +5083,7 @@ blind
 blinded
 blinding
 bling
+blingy
 blini
 blinis
 blink
@@ -5140,6 +5156,7 @@ bluet
 bluetail
 bluets
 bluey
+bluing
 bluish
 blukar
 blunging
@@ -5151,6 +5168,7 @@ blunting
 blunts
 blur
 blurb
+blurbing
 blurbs
 blurs
 blurt
@@ -5665,7 +5683,9 @@ brawls
 brawly
 brawn
 brawnier
+braxy
 bray
+braying
 brays
 braze
 brazed
@@ -5872,6 +5892,7 @@ brules
 brulie
 brulzie
 brumal
+brumby
 brume
 brunch
 bruncher
@@ -5949,10 +5970,13 @@ bugbanes
 bugbear
 bugbears
 bugeye
+bugfix
+bugfixing
 bugle
 bugled
 bugler
 buglet
+bugling
 bugs
 buhl
 build
@@ -5971,6 +5995,8 @@ bulbuls
 bulgar
 bulge
 bulgier
+bulging
+bulgingly
 bulgogi
 bulgur
 bulgy
@@ -5987,6 +6013,7 @@ bulks
 bulky
 bulrush
 bum
+bumbag
 bumble
 bumbled
 bumbling
@@ -6010,6 +6037,7 @@ bundu
 bung
 bunger
 bunging
+bungling
 bunion
 bunions
 bunk
@@ -6054,6 +6082,7 @@ burghul
 burglar
 burglary
 burgle
+burgling
 burgonet
 burgrave
 burgraves
@@ -6102,6 +6131,7 @@ bursts
 burthen
 burton
 bury
+burying
 bus
 busaun
 busauns
@@ -13149,6 +13179,7 @@ fable
 fabler
 fabliau
 fabliaux
+fabling
 fabric
 fabrics
 fabs
@@ -13283,6 +13314,7 @@ fanfare
 fanfic
 fang
 fanged
+fanging
 fangirl
 fango
 fankle
@@ -13396,6 +13428,7 @@ fawned
 fawner
 fawning
 fax
+faxing
 fay
 fayalite
 fays
@@ -13555,6 +13588,8 @@ fibrinogen
 fibro
 fibroid
 fibroin
+fibula
+fibular
 fic
 fiche
 fichu
@@ -13596,8 +13631,10 @@ fifties
 fiftieth
 fiftieths
 fig
+figary
 fight
 figura
+figural
 figuration
 figure
 figured
@@ -13631,6 +13668,7 @@ filkers
 filks
 film
 filmi
+filmy
 filo
 filon
 filons
@@ -13646,6 +13684,7 @@ filthier
 filthified
 filtre
 fin
+finagling
 final
 finale
 finales
@@ -13731,6 +13770,7 @@ firman
 firmans
 firmed
 firmer
+firmly
 firmware
 firn
 firni
@@ -13783,6 +13823,7 @@ fixers
 fixes
 fixie
 fixies
+fixing
 fixit
 fixits
 fixture
@@ -13865,6 +13906,9 @@ flautist
 flautists
 flaw
 flaws
+flax
+flay
+flaying
 flea
 fleabag
 fleabane
@@ -13980,7 +14024,11 @@ flute
 flutier
 fluting
 flux
+fluxing
 fly
+flyby
+flyin
+flying
 flyleaf
 foal
 foals
@@ -14210,6 +14258,7 @@ frats
 fraud
 fraught
 fray
+fraying
 frays
 freak
 freight
@@ -14243,6 +14292,7 @@ frightful
 frigid
 fringe
 fringing
+fringy
 frise
 friseur
 friseurs
@@ -14314,6 +14364,7 @@ frumenty
 frump
 frumpier
 fry
+frying
 fubar
 fuci
 fucus
@@ -14536,6 +14587,9 @@ galanin
 galant
 galanterie
 galas
+galax
+galaxy
+galbanum
 gale
 galea
 galeae
@@ -14654,6 +14708,7 @@ garam
 garb
 garba
 garbage
+garbagy
 garbas
 garbing
 garble
@@ -15215,6 +15270,7 @@ glug
 gluier
 gluing
 glum
+glumly
 gluon
 glut
 glute
@@ -15584,6 +15640,7 @@ gravitas
 gravitate
 gray
 grayer
+graying
 graylag
 grayling
 grayly
@@ -15755,6 +15812,9 @@ grudger
 grudgers
 gruel
 grueling
+grumbling
+grumblingly
+grumbly
 grume
 grump
 grumpier
@@ -15780,6 +15840,7 @@ guaiacums
 guan
 guanine
 guano
+guanxi
 guar
 guarache
 guarana
@@ -15903,6 +15964,7 @@ gweilo
 gweilos
 gwine
 gyan
+gybing
 gym
 gymp
 gynarchy
@@ -17923,6 +17985,7 @@ inanity
 inapt
 inarch
 inarching
+inarguably
 inartistic
 inaudible
 inaugural
@@ -18103,6 +18166,7 @@ infatuated
 infatuating
 infatuation
 infauna
+infaunal
 infer
 inferable
 inference
@@ -18120,6 +18184,9 @@ infinitely
 infinities
 infinity
 infirm
+infirmly
+infix
+infixing
 inflame
 inflate
 inflated
@@ -18150,6 +18217,7 @@ infowar
 infra
 infract
 infracted
+infrangibly
 infrared
 infrarenal
 infringe
@@ -18182,6 +18250,7 @@ ingratiatingly
 ingratiation
 ingroup
 ingrowing
+inguinal
 ingulf
 ingulfing
 ingurgitating
@@ -18902,6 +18971,7 @@ iwi
 ixia
 ixias
 ixnay
+ixnaying
 ixnays
 ixtle
 izakaya
@@ -19863,6 +19933,7 @@ labra
 labral
 labrat
 labrats
+labrax
 labret
 labrets
 labrid
@@ -20306,12 +20377,14 @@ lawsies
 lawsy
 lax
 laxest
+laxly
 lay
 layabout
 layaway
 layaways
 layby
 layer
+laying
 layman
 layout
 lays
@@ -20927,8 +21000,12 @@ lingering
 lingo
 lingot
 lingua
+lingual
 linguet
+linguina
 linguini
+lingula
+lingular
 linhay
 linhays
 linier
@@ -21619,12 +21696,15 @@ luxate
 luxe
 luxuriant
 luxuriate
+luxury
 lwei
 lycanthropic
 lycanthropy
 lychgate
 lycopod
 lye
+lying
+lyingly
 lyke
 lynch
 lynchpin
@@ -22874,6 +22954,7 @@ mazuma
 mazut
 mazuts
 mazy
+mbalax
 mbar
 mbari
 mbaris
@@ -25231,6 +25312,8 @@ mules
 muleta
 muletas
 muley
+mulga
+mulgara
 mulie
 mulier
 mulies
@@ -25290,6 +25373,8 @@ mumbled
 mumblement
 mumbles
 mumbling
+mumblingly
+mumbly
 mumbo
 mumbojumbo
 mump
@@ -25318,11 +25403,14 @@ mundu
 mundum
 mundus
 mung
+munga
 munge
 mungi
 munging
 mungite
 mungo
+munguba
+mungy
 muni
 munia
 munias
@@ -25330,6 +25418,7 @@ municipal
 municipium
 muniment
 muniments
+muninga
 munis
 munition
 munitioner
@@ -25394,6 +25483,7 @@ murmuration
 murmurer
 murmurers
 murmuring
+murmuringly
 murmurs
 muromontite
 murphy
@@ -25406,7 +25496,9 @@ muru
 muruk
 muruks
 murumuru
+murunga
 murva
+muryan
 mus
 musambi
 musambis
@@ -25537,6 +25629,7 @@ mux
 muxe
 muxed
 muxing
+muxy
 mvule
 mvules
 mwa
@@ -25990,6 +26083,7 @@ nawn
 nay
 nayaka
 nayika
+naying
 nays
 naysaid
 naysay
@@ -27248,7 +27342,9 @@ numbats
 numbed
 numbfish
 numbing
+numbingly
 numbles
+numbly
 numbnuts
 numbs
 numdah
@@ -34793,6 +34889,7 @@ ragers
 rages
 ragi
 raging
+ragingly
 ragini
 raginis
 raglan
@@ -35369,6 +35466,7 @@ rawns
 rax
 raxed
 raxes
+raxing
 ray
 raya
 rayah
@@ -35379,6 +35477,7 @@ rayed
 rayfish
 rayfishes
 raygun
+raying
 rayl
 raylet
 raylets
@@ -38860,6 +38959,7 @@ rules
 rulier
 ruliest
 ruling
+rulingly
 ruly
 rum
 rumaki
@@ -38867,6 +38967,8 @@ rumal
 rumals
 rumba
 rumbas
+rumbling
+rumbly
 rumbo
 rumbos
 rumdum
@@ -38874,11 +38976,13 @@ rumdums
 rumen
 rumenotomies
 rumens
+rumfling
 rumgumshus
 rumhound
 rumicin
 rumina
 ruminal
+rumly
 rumney
 rumor
 rumoring
@@ -47085,6 +47189,7 @@ unambitious
 unamenable
 unaneled
 unapt
+unarguably
 unarm
 unarms
 unartistic
@@ -47114,6 +47219,7 @@ unbuckles
 unbuilt
 unburnt
 unbury
+unburying
 uncage
 uncages
 uncap
@@ -47224,6 +47330,8 @@ unfilial
 unfiltered
 unfirm
 unfit
+unfix
+unfixing
 unflinching
 unfold
 unfolds
@@ -47273,6 +47381,7 @@ uniflow
 uniform
 unilateral
 unilinear
+unilingual
 unilocular
 unimpeded
 uninitiated
@@ -47509,6 +47618,7 @@ unmould
 unmount
 unmounting
 unmurmuring
+unmurmuringly
 unmutable
 unmutated
 unmute
