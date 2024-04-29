@@ -105,6 +105,8 @@ abider
 abiders
 abides
 abiding
+abience
+abiences
 abient
 abietate
 abietates
@@ -251,6 +253,8 @@ abseiled
 abseiler
 abseilers
 abseils
+absence
+absences
 absent
 absinth
 absinthial
@@ -351,6 +355,7 @@ acariases
 acariasis
 acarid
 acarine
+acarines
 acaroid
 acarology
 acarophily
@@ -368,6 +373,7 @@ acaudal
 acaudate
 acauline
 acaulous
+acausal
 acause
 ace
 aced
@@ -459,6 +465,7 @@ acicula
 acicular
 aciculas
 acicule
+acicules
 aciculum
 aciculus
 acid
@@ -481,6 +488,8 @@ aciduric
 acidy
 acierage
 acies
+acinaces
+acinaceses
 acinar
 acini
 acinic
@@ -683,6 +692,8 @@ acuated
 acuates
 acuity
 aculeate
+aculeus
+aculeuses
 acumen
 acupunctuate
 acupunctuates
@@ -978,6 +989,7 @@ aechmea
 aechmeas
 aecial
 aecium
+aeciums
 aedile
 aediles
 aedilities
@@ -1629,6 +1641,7 @@ albergo
 albert
 albid
 albinic
+albinism
 albino
 albite
 albitic
@@ -1782,6 +1795,8 @@ alienation
 alienator
 aliened
 alienise
+alienism
+alienisms
 alienist
 alienists
 alienor
@@ -1884,8 +1899,10 @@ almoin
 almonry
 almost
 alms
+almsman
 almucabala
 almug
+almuries
 almury
 almuten
 almutens
@@ -2060,6 +2077,7 @@ alway
 always
 alypin
 alytarch
+amacrine
 amadavat
 amadumbe
 amadumbi
@@ -2096,6 +2114,7 @@ amber
 ambers
 ambiance
 ambience
+ambiences
 ambient
 ambiguity
 ambit
@@ -2134,6 +2153,7 @@ amerce
 amethyst
 amethysts
 amiable
+amicable
 amice
 amices
 amici
@@ -2157,6 +2177,7 @@ amity
 amnesia
 amnesiac
 amnesiacs
+amnesic
 amnesties
 amnia
 amnio
@@ -2231,6 +2252,7 @@ anaclitic
 anaconda
 anacreontic
 anacronym
+anacruses
 anacrusis
 anadama
 anaemia
@@ -2347,6 +2369,9 @@ anergia
 anergic
 anergy
 anesthesia
+aneurism
+aneurismal
+aneurisms
 anew
 anfion
 angary
@@ -2375,6 +2400,7 @@ anhinga
 ani
 aniline
 anima
+animacies
 animacy
 animal
 animalcula
@@ -2382,6 +2408,7 @@ animalcular
 animalic
 animalise
 animalises
+animalism
 animalist
 animalists
 animals
@@ -3041,8 +3068,11 @@ arouses
 arpent
 arse
 arsed
+arsenal
 arsenate
 arsenates
+arsenic
+arsenical
 arsenious
 arses
 arsey
@@ -3448,6 +3478,7 @@ aulnage
 aulnager
 aulos
 aum
+aumbries
 aumbry
 aums
 aumuce
@@ -3474,6 +3505,7 @@ auric
 auricle
 auricula
 auricular
+auriculas
 aurochs
 aurora
 aurorae
@@ -3911,6 +3943,7 @@ balalaika
 balalaikas
 balance
 balancer
+balances
 balancing
 balanitis
 balas
@@ -3977,6 +4010,7 @@ banality
 banana
 bananaquit
 bananas
+banausic
 band
 bandana
 bandh
@@ -4022,7 +4056,10 @@ banksia
 banksias
 banky
 banlieue
+banlieues
 bans
+bansuri
+bansuris
 bantam
 bantams
 banter
@@ -4071,6 +4108,8 @@ barbarisms
 barbarities
 barbarity
 barbarous
+barbecue
+barbecues
 barbed
 barbel
 barbels
@@ -4080,6 +4119,9 @@ barbering
 barbers
 barbet
 barbets
+barbican
+barbicans
+barbicel
 barbie
 barbies
 barbital
@@ -4139,6 +4181,7 @@ barks
 barley
 barleys
 barline
+barlines
 barm
 barmaid
 barmaids
@@ -4187,6 +4230,8 @@ basanites
 basas
 base
 baseborn
+basecamp
+basecamps
 based
 basela
 baselard
@@ -4219,6 +4264,7 @@ basij
 basil
 basilar
 basilica
+basilican
 basilicas
 basilisk
 basilisks
@@ -4397,6 +4443,8 @@ beaus
 beaut
 beaver
 bebop
+becalm
+becalms
 became
 becard
 because
@@ -4475,9 +4523,11 @@ belfie
 belie
 belied
 belier
+belies
 believe
 belike
 belimb
+belimbs
 belime
 belit
 beloid
@@ -4677,6 +4727,9 @@ bibs
 bibulous
 bicarb
 bice
+bicep
+biceps
+bicepses
 bichir
 bichirs
 bichon
@@ -5142,6 +5195,7 @@ blueing
 blueish
 blueline
 blueliner
+bluelines
 bluely
 bluenose
 bluenoses
@@ -5149,6 +5203,7 @@ blueprint
 bluer
 blues
 bluesiest
+bluesman
 bluest
 bluestone
 bluestones
@@ -5590,6 +5645,7 @@ bra
 brace
 bracer
 bracero
+braces
 brachial
 brachium
 brachiums
@@ -5643,6 +5699,8 @@ brakesman
 braking
 bralet
 bralets
+bramble
+brambles
 bran
 branch
 branchia
@@ -5872,6 +5930,7 @@ browbeat
 brubru
 brubrus
 brucine
+brucines
 bruck
 brucks
 bruery
@@ -5879,6 +5938,7 @@ bruh
 bruhs
 bruin
 bruins
+bruisable
 bruise
 bruiser
 bruises
@@ -5892,6 +5952,7 @@ brules
 brulie
 brulzie
 brumal
+brumbies
 brumby
 brume
 brunch
@@ -6220,6 +6281,7 @@ cabalist
 cabalists
 cabals
 cabana
+cabanas
 cabaret
 cabarets
 caber
@@ -6230,6 +6292,7 @@ cabinet
 cabins
 cable
 cablecar
+cablecars
 cabled
 cables
 cabman
@@ -6290,6 +6353,7 @@ caesarean
 caesareans
 caesarian
 caesarians
+caesium
 caesura
 caesural
 caesuras
@@ -6407,6 +6471,7 @@ calumet
 calumniate
 calumniated
 calumnied
+calumnies
 calve
 calved
 calves
@@ -6452,6 +6517,8 @@ campers
 campest
 campo
 camps
+campus
+campuses
 cams
 can
 canaigre
@@ -6461,7 +6528,11 @@ canaler
 canalet
 canalicular
 canalicule
+canalicules
 canaliculi
+canaliculus
+canalise
+canalises
 canals
 cananga
 canape
@@ -6469,6 +6540,7 @@ canapes
 canard
 canaries
 canarium
+canariums
 canary
 canasta
 canastas
@@ -6505,6 +6577,7 @@ canes
 canicular
 canid
 canine
+canines
 canister
 canisters
 canker
@@ -6649,13 +6722,17 @@ caravansaries
 caravel
 caraway
 carb
+carbanilic
 carbarn
+carbarns
 carbaryl
 carbene
+carbenes
 carbide
 carbie
 carbies
 carbine
+carbines
 carbro
 carbs
 carby
@@ -6732,6 +6809,7 @@ caricaturists
 carices
 caries
 carina
+carinae
 carinal
 carinas
 carinate
@@ -6748,6 +6826,7 @@ carks
 carl
 carlin
 carline
+carlines
 carling
 carlins
 carload
@@ -6767,6 +6846,7 @@ carnelian
 carnet
 carnie
 carnier
+carnies
 carnita
 carnitas
 carny
@@ -6796,6 +6876,7 @@ carpology
 carpophore
 carport
 carps
+carpus
 cars
 carse
 carses
@@ -6846,6 +6927,7 @@ caseates
 casebearer
 cased
 caseiform
+casein
 caselaw
 casemate
 casemates
@@ -6890,6 +6972,11 @@ castrator
 castrators
 castratos
 casts
+casual
+casualise
+casualises
+casuarina
+casuarinas
 casuist
 casuistic
 casuistries
@@ -7016,6 +7103,8 @@ caulking
 caulks
 cauls
 causa
+causable
+causal
 cause
 causer
 causerie
@@ -7083,6 +7172,7 @@ cedes
 cedi
 cedis
 ceiba
+ceibas
 ceil
 ceiled
 ceili
@@ -7094,6 +7184,7 @@ cel
 celeb
 celebrator
 celebre
+celebs
 celeriac
 celery
 celiac
@@ -7112,6 +7203,7 @@ censers
 censes
 censor
 censors
+censurable
 census
 censuses
 cent
@@ -7175,6 +7267,7 @@ certs
 ceruse
 cervelat
 cervical
+cesium
 cesta
 cestas
 cesti
@@ -7770,6 +7863,7 @@ cicatricial
 cicatrise
 cicatrises
 cicatrix
+cicelies
 cicely
 cicerone
 ciceroni
@@ -7833,8 +7927,17 @@ circuit
 circuitous
 circuits
 circular
+circularise
+circularises
+circulars
 circulative
+circumambience
+circumambiences
+circumambiencies
+circumcise
+circumcises
 circus
+circuses
 cire
 cirl
 cirque
@@ -8979,6 +9082,7 @@ craning
 craniosacral
 craniotomy
 cranium
+craniums
 crank
 crankier
 crankily
@@ -9139,6 +9243,10 @@ crimes
 crimewave
 crimewaves
 criminal
+criminalise
+criminalises
+criminalism
+criminalisms
 criminalist
 criminalists
 criminals
@@ -9146,6 +9254,8 @@ criminatory
 criminous
 criminy
 crimp
+crimple
+crimples
 crimps
 crims
 crin
@@ -9153,6 +9263,7 @@ crinal
 crinch
 crinching
 crine
+crines
 crinet
 crinets
 cringe
@@ -9268,10 +9379,13 @@ crownet
 crownlet
 crows
 cru
+cruces
 crucial
 crucian
 crucians
 cruciate
+crucible
+crucibles
 crucifer
 crucified
 crucifier
@@ -9290,11 +9404,21 @@ cruelty
 cruet
 cruets
 cruft
+cruise
+cruises
+cruisie
+cruisies
 cruisy
 crumb
+crumbies
+crumble
+crumbles
+crumblies
 crumbs
 crumhorn
 crump
+crumple
+crumples
 crumps
 crunch
 cruncher
@@ -9303,11 +9427,14 @@ crunchy
 crunk
 cruor
 crura
+cruraeus
 crural
 crus
 cruse
 cruses
 crush
+crusie
+crusies
 crust
 crustal
 crusted
@@ -9408,6 +9535,8 @@ cui
 cuing
 cuish
 cuishes
+cuisine
+cuisines
 cuke
 cukes
 culch
@@ -9415,7 +9544,9 @@ culcha
 culex
 culices
 culicine
+culicines
 culm
+culmina
 culms
 culpa
 culprit
@@ -9458,11 +9589,14 @@ cuneate
 cuneus
 cuneuses
 cup
+cupel
 cupola
 cupric
 cupro
 cuprous
 cups
+cupule
+cupules
 cur
 curable
 curacao
@@ -9485,6 +9619,7 @@ curculio
 curculios
 curcuma
 curcumas
+curcumin
 curd
 curdle
 curdled
@@ -9516,6 +9651,7 @@ curler
 curlers
 curlicue
 curlicued
+curlicues
 curlier
 curliest
 curling
@@ -9562,6 +9698,8 @@ cushions
 cushiony
 cushty
 cushy
+cusimanse
+cusimanses
 cusk
 cusks
 cusp
@@ -12240,6 +12378,8 @@ encroach
 encroacher
 encrypt
 encryption
+encumbrance
+encumbrances
 encyst
 encysts
 end
@@ -12332,6 +12472,7 @@ enkindle
 enkindled
 enlace
 enlaced
+enlaces
 enlarge
 enlarger
 enlarging
@@ -12345,6 +12486,7 @@ enlivener
 enlivens
 enmanacle
 enmantle
+enmarble
 enmesh
 enmeshes
 enmities
@@ -17846,7 +17988,10 @@ imam
 imamate
 imamates
 imams
+imbalance
+imbalances
 imbecile
+imbeciles
 imbecilic
 imbecilities
 imbed
@@ -17864,6 +18009,7 @@ imbo
 imbongi
 imbos
 imbrue
+imbrues
 imbue
 imbued
 imbues
@@ -17924,6 +18070,7 @@ impinger
 impinging
 impious
 impis
+implacable
 implant
 implantable
 implausible
@@ -18002,6 +18149,8 @@ incapacitant
 incapacity
 incarnate
 incas
+incase
+incases
 incense
 incenses
 incest
@@ -18025,6 +18174,7 @@ incisive
 incisor
 incisors
 incisura
+incisurae
 incitation
 incite
 incited
@@ -18054,9 +18204,11 @@ incrust
 incrusts
 incubi
 incubus
+incumbencies
 incunable
 incur
 incurable
+incurables
 incurs
 incursion
 incursions
@@ -18454,12 +18606,16 @@ instruments
 insula
 insulae
 insulant
+insular
 insulate
 insulates
 insulin
 insulitis
 insult
 insults
+insurable
+insurance
+insurances
 insure
 insurer
 insurers
@@ -20095,6 +20251,7 @@ lamb
 lambast
 lambasts
 lambda
+lambencies
 lambic
 lambs
 lame
@@ -20135,6 +20292,7 @@ lanced
 lancelet
 lanceolate
 lancer
+lances
 lancet
 lanceted
 lancing
@@ -20191,6 +20349,7 @@ laptop
 lar
 larboard
 larcener
+larcenies
 larch
 lard
 larded
@@ -20236,6 +20395,7 @@ larn
 larned
 larney
 larnie
+larnies
 larning
 larns
 lars
@@ -20776,6 +20936,7 @@ lice
 licence
 licences
 licencing
+licensable
 license
 licenser
 licensers
@@ -20979,6 +21140,8 @@ lineage
 lineal
 lineament
 linear
+linearise
+linearises
 lined
 linein
 lineman
@@ -20991,7 +21154,9 @@ lineout
 liner
 liners
 lines
+linesman
 lineup
+lineups
 ling
 linga
 linger
@@ -21543,6 +21708,7 @@ lubing
 lubra
 lubras
 luce
+lucencies
 lucent
 lucern
 lucerne
@@ -21550,6 +21716,7 @@ luchter
 lucid
 lucifer
 lucine
+lucines
 luck
 lucking
 lucks
@@ -21584,6 +21751,7 @@ lumina
 luminal
 luminance
 luminaria
+luminaries
 lump
 lumped
 lumpen
@@ -21735,6 +21903,8 @@ mabalanes
 maban
 mabans
 mabe
+mabela
+mabele
 mabes
 mabuhay
 mac
@@ -21786,6 +21956,7 @@ machinimas
 machismo
 macho
 machos
+macilencies
 mack
 macka
 macker
@@ -21832,6 +22003,7 @@ macula
 maculae
 macular
 macule
+macules
 maculopapular
 macumba
 macushla
@@ -22246,8 +22418,11 @@ manbags
 manbot
 manbun
 mancala
+mancalas
 mancia
 mancias
+mancus
+mancuses
 mand
 mandala
 mandalic
@@ -22305,6 +22480,7 @@ manic
 manicate
 manicou
 manicule
+manicules
 manie
 maniera
 manieras
@@ -22476,8 +22652,13 @@ marbleises
 marbler
 marblers
 marbles
+marblue
 marc
+marcasine
 marcato
+marcel
+marceline
+marcelines
 march
 marchen
 marches
@@ -22578,6 +22759,7 @@ marlier
 marlies
 marliest
 marlin
+marline
 marlins
 marlion
 marlite
@@ -23898,6 +24080,7 @@ mimiambs
 mimiambus
 mimiambuses
 mimic
+mimicable
 mimical
 mimicries
 mimicry
@@ -23931,6 +24114,8 @@ minced
 mincer
 mincers
 minces
+minceur
+minceurs
 mincy
 mind
 mindbending
@@ -23981,8 +24166,10 @@ minicab
 minicabs
 minicam
 minicamp
+minicamps
 minicams
 minicar
+minicars
 minichain
 minichains
 minichromosome
@@ -24103,6 +24290,7 @@ mirabilias
 mirabilis
 mirabilite
 miraculin
+miraculism
 mirador
 mirage
 miraged
@@ -24290,9 +24478,13 @@ misosophist
 misosophists
 misper
 mispers
+misplace
+misplaces
 misplant
 misplease
 mispleases
+misprice
+misprices
 misrate
 misrated
 misrates
@@ -24310,6 +24502,8 @@ misremember
 misremembers
 misrepeat
 misrepeats
+misrule
+misrules
 mist
 mistake
 mistaken
@@ -25222,6 +25416,7 @@ mucho
 mucicarmin
 mucid
 mucin
+mucins
 muck
 muckamuck
 muckamucks
@@ -25315,6 +25510,7 @@ muley
 mulga
 mulgara
 mulie
+muliebral
 mulier
 mulies
 muling
@@ -25448,6 +25644,7 @@ muons
 muqueca
 mura
 muraena
+muraenas
 murage
 mural
 murals
@@ -25464,7 +25661,10 @@ murghs
 murgi
 murgis
 muriate
+muricacean
+muricaceans
 muricate
+murices
 muricid
 muricids
 muricoid
@@ -25477,7 +25677,9 @@ muriti
 murk
 murkiest
 murky
+murlie
 murlin
+murlins
 murmur
 murmuration
 murmurer
@@ -25520,6 +25722,8 @@ musculuses
 muse
 museau
 mused
+muselar
+muselars
 muser
 musers
 muses
@@ -25539,6 +25743,8 @@ mushy
 music
 musica
 musical
+musicale
+musicales
 musicalise
 musicalises
 musicals
@@ -25849,6 +26055,7 @@ nana
 nanas
 nanbury
 nance
+nances
 nancies
 nancy
 nandin
@@ -25921,6 +26128,8 @@ narangy
 naras
 narases
 narc
+narceine
+narceines
 narcistic
 narco
 narcocracy
@@ -25960,6 +26169,8 @@ nasal
 nasalisable
 nasalise
 nasalises
+nasalism
+nasalisms
 nasals
 nasbandhi
 nasbandi
@@ -26031,6 +26242,7 @@ naturist
 naturistic
 naturists
 natya
+naucraries
 naufrage
 naupaka
 naupliar
@@ -26392,6 +26604,7 @@ neumic
 neums
 neural
 neuralgia
+neuraminic
 neurasthenia
 neurenteric
 neurility
@@ -26416,6 +26629,7 @@ neurotensins
 neurotome
 neurotubule
 neurula
+neurulas
 neurulation
 neuston
 neuter
@@ -26673,6 +26887,8 @@ nincoms
 nincum
 nind
 nine
+ninepence
+ninepences
 ninepins
 niner
 niners
@@ -30452,10 +30668,12 @@ peanut
 peanuts
 peapern
 pear
+pearance
 pearl
 pearler
 pearlet
 pearlier
+pearlies
 pearlite
 pearlware
 pearlwort
@@ -30514,6 +30732,8 @@ pectinal
 pectineal
 pectins
 pects
+peculium
+peculiums
 pedal
 pedalboard
 pedalian
@@ -30569,6 +30789,7 @@ pelerins
 peles
 pelham
 pelican
+pelicanries
 pelicans
 pelikai
 pelite
@@ -30607,13 +30828,17 @@ penalise
 penalises
 penalities
 penalties
+penance
+penances
 penates
 penatin
 penatins
 pence
+pencel
 penchant
 penchants
 penche
+pencil
 pend
 pendant
 pendanted
@@ -30655,6 +30880,7 @@ penide
 peniform
 penile
 peninsula
+peninsular
 peninsulas
 peninsulate
 peninsulates
@@ -30686,6 +30912,7 @@ pensive
 penster
 pensters
 pensum
+pensums
 pent
 pentad
 pentail
@@ -30738,6 +30965,7 @@ pepitas
 peple
 peplum
 peplumed
+peplums
 peplus
 pepo
 pepon
@@ -31927,14 +32155,17 @@ pixy
 piyut
 pize
 pizer
+placable
 placard
 placate
 placated
 place
+placeable
 placed
 placentitis
 placer
 placers
+places
 placet
 placets
 placid
@@ -31944,6 +32175,8 @@ plack
 placodioid
 placoid
 placophoran
+placula
+placulas
 plaga
 plagal
 plaguy
@@ -32045,6 +32278,11 @@ plaps
 plaque
 plasaj
 plash
+plasm
+plasma
+plasmal
+plasmic
+plasmin
 plaster
 plasterer
 plasterers
@@ -32123,10 +32361,14 @@ plead
 pleadable
 pleas
 pleasable
+pleasance
+pleasances
+pleasancies
 pleasant
 pleasanter
 please
 pleases
+pleasurable
 pleat
 pleating
 pleb
@@ -32150,7 +32392,9 @@ plek
 plem
 plena
 plenar
+plenaries
 plenarium
+plenariums
 plenas
 plene
 plenes
@@ -32173,7 +32417,9 @@ plets
 pleura
 pleurae
 pleural
+pleuric
 pleurum
+pleurums
 plew
 plews
 pliable
@@ -32269,7 +32515,9 @@ plumbate
 plumbates
 plumbed
 plumbet
+plumbic
 plumbing
+plumbism
 plumbite
 plumbites
 plumbline
@@ -32314,6 +32562,10 @@ pluots
 plup
 plups
 plural
+pluralise
+pluralises
+pluralism
+pluralisms
 pluriarc
 pluriarcs
 pluribus
@@ -32343,6 +32595,8 @@ ply
 plz
 pneu
 pneuma
+pneumas
+pneumic
 pneus
 poach
 poached
@@ -33069,6 +33323,7 @@ practolol
 prad
 pradhan
 prads
+praeauricular
 praecoracoid
 praecordia
 praelect
@@ -33090,12 +33345,15 @@ prajna
 pralay
 pralaya
 praline
+pralines
 pram
+prams
 prana
 pranam
 pranayama
 prance
 prancer
+prances
 prancey
 prancy
 prandial
@@ -33109,6 +33367,8 @@ praps
 prasad
 prasads
 prase
+prasine
+prasines
 prat
 pratal
 prate
@@ -33366,11 +33626,13 @@ priapic
 priapist
 priapists
 price
+priceable
 priceite
 pricelist
 pricelists
 pricer
 pricers
+prices
 pricier
 priciest
 prick
@@ -33402,14 +33664,22 @@ prim
 prima
 primage
 primal
+primalism
+primalisms
 primar
 primarian
+primaries
+primars
+primase
+primases
 primatal
 primate
 primavera
 prime
 primer
 primero
+primices
+primiceses
 primigene
 priming
 primip
@@ -33430,10 +33700,18 @@ primprint
 primps
 prims
 primula
+primulas
 primulin
+primuline
+primulines
+primulins
 primum
 primus
+primuses
 primy
+prince
+princeps
+princes
 principi
 principiant
 pring
@@ -33474,6 +33752,12 @@ prisere
 priseres
 prises
 prising
+prism
+prismal
+prismane
+prismanes
+prismic
+prisms
 pristane
 pristanes
 pristav
@@ -33483,6 +33767,7 @@ pristine
 pritch
 pritches
 prius
+priuses
 private
 privates
 privatise
@@ -33928,6 +34213,9 @@ prunt
 prunts
 prunus
 pruny
+prurience
+pruriences
+pruriencies
 prurient
 prurigo
 prurit
@@ -33943,6 +34231,8 @@ pryer
 prytan
 prytany
 psalm
+psalmic
+psalms
 psalter
 psalterer
 psalterers
@@ -34019,6 +34309,7 @@ pubes
 pubis
 pubs
 pucan
+puce
 puck
 pucka
 pucks
@@ -34058,6 +34349,7 @@ puled
 puler
 pules
 puli
+pulicine
 puling
 pulk
 pulka
@@ -34113,6 +34405,8 @@ pulvinus
 pulwar
 puma
 pumas
+pumice
+pumices
 pump
 pumper
 pumpin
@@ -34122,6 +34416,7 @@ pumpman
 pumpmen
 pumps
 pumpset
+pumpsman
 pumpy
 pun
 puna
@@ -34255,7 +34550,12 @@ puritan
 puritanic
 purl
 purler
+purlicue
+purlicues
+purlieu
+purlieus
 purlin
+purlins
 purloin
 purls
 puro
@@ -34267,6 +34567,7 @@ purpie
 purple
 purpled
 purpler
+purples
 purply
 purport
 purports
@@ -34283,6 +34584,7 @@ purpurates
 purpure
 purpureal
 purpuric
+purpurice
 purpurin
 purpurine
 purpurite
@@ -34293,12 +34595,20 @@ purser
 pursers
 purses
 pursing
+pursuable
+pursual
+pursuance
 pursuant
 pursuantly
+pursue
+pursues
 pursuit
 pursuits
 pursy
 purty
+purulence
+purulences
+purulencies
 purulent
 puruloid
 purview
@@ -35038,6 +35348,9 @@ ramaramas
 rambai
 rambais
 rambla
+ramblas
+ramble
+rambles
 rambour
 rambours
 rame
@@ -35100,6 +35413,7 @@ ramsons
 ramstam
 ramtil
 ramulus
+ramuluses
 ramus
 ran
 rana
@@ -35108,6 +35422,8 @@ ranarium
 ranariums
 rance
 rancel
+rancelman
+rances
 ranch
 rancher
 ranchera
@@ -35179,6 +35495,7 @@ rankly
 ranks
 ranse
 ransel
+ranselman
 ransom
 ransomer
 ransomers
@@ -38967,6 +39284,8 @@ rumal
 rumals
 rumba
 rumbas
+rumble
+rumbles
 rumbling
 rumbly
 rumbo
@@ -38980,6 +39299,7 @@ rumfling
 rumgumshus
 rumhound
 rumicin
+rumicine
 rumina
 ruminal
 rumly
@@ -38998,6 +39318,7 @@ rumours
 rump
 rumping
 rumple
+rumples
 rumpo
 rumpos
 rumpot
@@ -39006,9 +39327,12 @@ rumps
 rumptier
 rumption
 rumpty
+rumpus
+rumpuses
 rumpy
 rums
 rumule
+rumules
 run
 runability
 runabout
@@ -39075,11 +39399,17 @@ rupture
 ruptures
 rupturing
 rural
+ruralise
+ruralises
+ruralism
+ruralisms
 ruralist
 ruralists
 ruralite
 rurality
 rurban
+rurbanism
+rurbanisms
 rurbanist
 rurbanists
 rurp
@@ -39213,7 +39543,10 @@ sackfuls
 sacks
 sacra
 sacral
+sacralise
+sacralises
 sacraria
+sacrarium
 sacre
 sacrist
 sacristan
@@ -39331,11 +39664,14 @@ salep
 sales
 salesladies
 saleslady
+salesman
 salicin
 salicine
 salicional
 salicionals
 salicylic
+salience
+saliencies
 salient
 salientian
 salientians
@@ -40115,6 +40451,8 @@ seamers
 seamier
 seamiest
 seams
+seance
+seances
 seaplane
 seaplanes
 sear
@@ -40160,7 +40498,13 @@ sector
 sectors
 sects
 secular
+secularise
+secularises
+secularism
 seculars
+securable
+securance
+securances
 secure
 securer
 securers
@@ -40316,6 +40660,7 @@ sensibilities
 sensible
 sensiblerie
 sensibleries
+sensical
 sensie
 sensile
 sensing
@@ -40343,6 +40688,7 @@ sensu
 sensual
 sensualise
 sensualises
+sensualism
 sensuist
 sensuists
 sensum
@@ -40965,6 +41311,9 @@ sialic
 sib
 sibia
 sibias
+sibilance
+sibilances
+sibilancies
 sibilant
 sibilate
 sibilated
@@ -41090,6 +41439,8 @@ silane
 silanes
 silastic
 sild
+silence
+silences
 sileni
 silent
 silenus
@@ -41161,6 +41512,9 @@ simplism
 simps
 sims
 simul
+simulacra
+simulacrum
+simulacrums
 simulant
 simulate
 simulates
@@ -41178,6 +41532,7 @@ sinciput
 sinciputs
 sindur
 sine
+sinecurism
 sines
 sinew
 sinewave
@@ -42199,6 +42554,7 @@ specialite
 specials
 specie
 species
+speciesism
 speck
 speckle
 specklier
@@ -42206,6 +42562,9 @@ specs
 spect
 specter
 specters
+specula
+specular
+speculum
 spelk
 spelt
 spelter
@@ -42299,6 +42658,7 @@ splenius
 splice
 splicer
 splicers
+splices
 spline
 splines
 splint
@@ -42398,6 +42758,8 @@ sprog
 sprogs
 sprout
 sprouts
+spruce
+spruces
 sprue
 sprues
 spruit
@@ -43421,6 +43783,7 @@ sucks
 suckup
 suckups
 sucky
+sucrase
 sucre
 suction
 suctions
@@ -43602,6 +43965,14 @@ supine
 supines
 supinity
 supra
+supraliminal
+supralineal
+supramarine
+suprasensible
+suprasensibles
+suprasensual
+supraspecies
+supraspecieses
 supraspinatus
 sups
 suq
@@ -43612,7 +43983,10 @@ surahi
 surahis
 surahs
 sural
+suramin
 suras
+surcease
+surceases
 surd
 surds
 sure
@@ -43634,7 +44008,12 @@ surlily
 surly
 surmise
 surmises
+surplice
+surplices
 surplus
+surpluses
+surprise
+surprises
 sursumduct
 sursumducts
 surtax
@@ -47916,6 +48295,7 @@ uprear
 uprears
 upright
 uprise
+uprisen
 uprises
 uprising
 uprisings
@@ -47963,8 +48343,11 @@ uranates
 uranic
 uranical
 uranile
+uraniles
 uraninite
 uranious
+uranism
+uranisms
 uranite
 uranites
 uranium
@@ -47980,6 +48363,7 @@ urban
 urbane
 urbanise
 urbanises
+urbanism
 urbanist
 urbanists
 urbanite
@@ -48058,6 +48442,7 @@ usage
 usager
 usagers
 usages
+usance
 use
 useable
 used
