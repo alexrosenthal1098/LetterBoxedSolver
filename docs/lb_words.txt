@@ -3427,6 +3427,7 @@ auditions
 auditive
 auditor
 auditoria
+auditorial
 auditorium
 auditoriums
 auditors
@@ -10705,6 +10706,7 @@ dialoged
 dialogue
 dialogued
 dials
+dialup
 dialytic
 dialyton
 dialyzing
@@ -11126,6 +11128,7 @@ ditsiest
 ditsy
 ditz
 ditzier
+diurnal
 div
 diva
 divagate
@@ -11407,12 +11410,16 @@ downed
 downer
 downgrade
 downgraded
+downhaul
 downiest
 downing
 downlevel
 downlow
+downpour
 downrange
 downs
+downthrow
+downthrown
 downtime
 downtown
 downtowner
@@ -16365,7 +16372,9 @@ handman
 handmen
 handout
 handouts
+handplant
 handplay
+handprint
 hands
 handsaw
 handsaws
@@ -17436,6 +17445,7 @@ hornist
 hornists
 horns
 horntail
+hornwort
 horny
 horologe
 horologer
@@ -17634,6 +17644,7 @@ humus
 hun
 hunch
 hunching
+hundo
 hung
 hunger
 hungering
@@ -26245,6 +26256,7 @@ natya
 naucraries
 naufrage
 naupaka
+nauplial
 naupliar
 nauplius
 nausea
@@ -26805,6 +26817,7 @@ nido
 nidor
 nidorous
 nidors
+nidulant
 nidus
 niduses
 nidyed
@@ -28521,6 +28534,8 @@ optometer
 optomotor
 optophone
 opts
+opuntia
+opuntioid
 opus
 opzit
 ora
@@ -29838,6 +29853,9 @@ palterers
 palters
 paltrier
 paludal
+paludial
+paludian
+paludinal
 palwar
 paly
 pame
@@ -32334,6 +32352,8 @@ platy
 platycranial
 platypod
 plaud
+plaudit
+plauditor
 plaur
 plausibilities
 plausible
@@ -33005,6 +33025,7 @@ poptastic
 popular
 population
 populational
+populator
 populi
 populin
 populist
@@ -33625,6 +33646,7 @@ prian
 priapic
 priapist
 priapists
+priapulid
 price
 priceable
 priceite
@@ -34331,6 +34353,7 @@ pug
 pugil
 pugs
 puha
+puirtith
 puisne
 puja
 pujas
@@ -34439,6 +34462,7 @@ punctuates
 puncture
 punctures
 punctus
+pundit
 pundler
 pundonor
 pung
@@ -34612,6 +34636,7 @@ purulencies
 purulent
 puruloid
 purview
+purwanah
 pus
 push
 pushpin
@@ -39349,6 +39374,7 @@ runcle
 rund
 rundale
 rundlet
+rundown
 runds
 rune
 runed
@@ -45626,8 +45652,10 @@ throughput
 throughway
 throve
 throw
+throwdown
 thrower
 throwin
+thrown
 throws
 thru
 thrum
@@ -46449,6 +46477,7 @@ townsman
 townswoman
 townward
 towny
+towpath
 tows
 towy
 tox
@@ -47673,6 +47702,7 @@ undenied
 undented
 undid
 undiluted
+undinal
 undine
 undo
 undone
@@ -48017,6 +48047,7 @@ unos
 unpack
 unpacking
 unpagan
+unpaid
 unpainful
 unpaint
 unpainting
@@ -48051,6 +48082,8 @@ unpin
 unpinion
 unpinioning
 unpins
+unplain
+unplait
 unplan
 unplans
 unplant
@@ -48264,6 +48297,8 @@ unvitiated
 unwind
 unwinds
 unwise
+unworn
+unwound
 unwrap
 unwraps
 unyoke
@@ -48322,8 +48357,11 @@ upstate
 upstater
 upstaters
 uptempo
+upthrow
+upthrown
 uptime
 upto
+uptown
 uptrend
 upturn
 upturning
@@ -49415,6 +49453,7 @@ wanwirt
 wanwit
 wanwits
 wanwort
+wanworth
 wapiti
 wapitis
 war
@@ -49715,6 +49754,7 @@ whatsis
 whatsises
 whatsit
 whatsits
+whaup
 wheal
 wheals
 wheat
@@ -49775,6 +49815,7 @@ whitlow
 whiz
 who
 whoa
+whodunit
 whoever
 whole
 wholecloth
@@ -49786,6 +49827,7 @@ whortle
 whose
 whosis
 whoso
+whup
 why
 whyda
 whydah
