@@ -3119,6 +3119,7 @@ articulative
 artier
 artiest
 artifact
+artifex
 artifice
 artificer
 artified
@@ -12799,6 +12800,7 @@ erethism
 erf
 erfs
 erg
+ergative
 ergo
 ergometer
 ergometrine
@@ -12840,6 +12842,7 @@ erumpent
 erupt
 erupting
 eruption
+eruptive
 erupts
 eruv
 eruvim
@@ -13219,13 +13222,16 @@ exorcists
 exosolar
 exostoses
 exostosis
+expat
 expedient
 expedite
 expedited
 expediting
+expel
 expend
 expended
 expending
+expert
 expiate
 expiated
 expiator
@@ -13287,6 +13293,7 @@ exurb
 exurban
 exurbanite
 exurbia
+exuviae
 exy
 eyas
 eye
@@ -13782,9 +13789,12 @@ fiftieths
 fig
 figary
 fight
+figleaf
 figura
+figurae
 figural
 figuration
+figurative
 figure
 figured
 figuring
@@ -13966,6 +13976,7 @@ fits
 five
 fiver
 fix
+fixative
 fixe
 fixer
 fixers
@@ -14172,6 +14183,7 @@ flush
 flute
 flutier
 fluting
+fluviatile
 flux
 fluxing
 fly
@@ -14529,6 +14541,7 @@ fug
 fugal
 fugato
 fugis
+fugitive
 fuglier
 fugu
 fugue
@@ -15742,6 +15755,7 @@ granule
 granulite
 granum
 grape
+grapefruit
 grapevine
 graph
 grapheme
@@ -15773,6 +15787,7 @@ gratis
 grats
 graunch
 graunching
+graupel
 gravamen
 gravamina
 grave
@@ -15961,6 +15976,7 @@ grudger
 grudgers
 gruel
 grueling
+gruftier
 grumbling
 grumblingly
 grumbly
@@ -16014,8 +16030,10 @@ guild
 guilder
 guilds
 guile
+guileful
 guilt
 guilted
+guiltier
 guiltily
 guilting
 guilty
@@ -16029,6 +16047,7 @@ guiros
 guise
 guises
 guitar
+guiver
 gulab
 gulag
 gular
@@ -16043,6 +16062,7 @@ gulf
 gulfs
 gulp
 gulped
+gulper
 gulpin
 gulping
 gum
@@ -20584,6 +20604,7 @@ leads
 leadup
 leadwort
 leaf
+leafage
 leafen
 leafier
 leafiest
@@ -20714,6 +20735,7 @@ legates
 legatine
 legation
 legationary
+legative
 legato
 legator
 legatory
@@ -21349,6 +21371,7 @@ litigated
 litigates
 litigating
 litigation
+litigative
 litigator
 litmus
 litre
@@ -29679,6 +29702,7 @@ page
 pageant
 pageantic
 pageants
+pageful
 pager
 pages
 pageship
@@ -30088,6 +30112,7 @@ paperbark
 paperen
 paperer
 paperers
+paperful
 papering
 papermaker
 papermakers
@@ -30419,6 +30444,7 @@ partitional
 partitionary
 partitioner
 partitioning
+partitive
 partlet
 partly
 partner
@@ -30433,6 +30459,8 @@ partway
 party
 parula
 parure
+parve
+parvule
 pas
 pasag
 pasanda
@@ -30537,6 +30565,7 @@ patines
 patining
 patio
 patios
+pativrata
 patka
 patkas
 patly
@@ -30584,10 +30613,13 @@ pauas
 paulin
 paunch
 paunchy
+pauper
+pauperage
 pauropod
 pauropodan
 pause
 pauses
+pauxi
 pav
 pavage
 pavan
@@ -30805,6 +30837,7 @@ pelerine
 pelerines
 pelerins
 peles
+pelf
 pelham
 pelican
 pelicanries
@@ -30822,6 +30855,7 @@ pelota
 pelt
 pelta
 peltae
+peltage
 peltate
 pelter
 pelterer
@@ -30977,6 +31011,7 @@ peperite
 peperites
 peperomia
 peperoni
+pepful
 pepino
 pepita
 pepitas
@@ -32379,6 +32414,7 @@ playway
 plea
 plead
 pleadable
+pleaful
 pleas
 pleasable
 pleasance
@@ -32442,6 +32478,8 @@ pleurum
 pleurums
 plew
 plews
+plexi
+plexure
 pliable
 pliancy
 pliant
@@ -32586,6 +32624,7 @@ pluralise
 pluralises
 pluralism
 pluralisms
+plurative
 pluriarc
 pluriarcs
 pluribus
@@ -34549,6 +34588,7 @@ purfle
 purfled
 purga
 purgation
+purgative
 purgator
 purgatory
 purge
@@ -35546,6 +35586,7 @@ rapadura
 rapadure
 rape
 rapeable
+rapeful
 raper
 rapers
 rapes
@@ -36437,6 +36478,7 @@ reflet
 reflew
 reflex
 reflexible
+reflexive
 reflexure
 refloat
 refluent
@@ -36471,6 +36513,7 @@ refueling
 refuels
 refuge
 refuged
+refugia
 refurb
 refutal
 refute
@@ -36527,6 +36570,7 @@ regests
 reget
 regets
 regex
+regexp
 regia
 regiculture
 regie
@@ -36627,6 +36671,7 @@ reguluses
 regur
 regurgitate
 regurgitation
+regurgitative
 regurs
 rehab
 rehabilitate
@@ -37114,6 +37159,7 @@ repaper
 repapering
 repapers
 reparable
+reparative
 reparator
 reparent
 reparents
@@ -44433,6 +44479,7 @@ tahsil
 tahsils
 tai
 taiaha
+taiapure
 taiga
 taihoa
 taihoaing
@@ -48991,6 +49038,9 @@ veve
 veves
 vew
 vews
+vex
+vexer
+vexil
 vey
 via
 viable
@@ -49303,6 +49353,7 @@ vrous
 vrouw
 vug
 vugs
+vulgar
 vuln
 vulns
 vulpine
@@ -50258,10 +50309,12 @@ xerox
 xeroxes
 xes
 xis
+xiv
 xix
 xlnt
 xolo
 xolos
+xvi
 xylan
 xylans
 xylem
