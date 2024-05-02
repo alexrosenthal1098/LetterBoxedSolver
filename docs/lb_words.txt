@@ -1687,6 +1687,7 @@ alcoholism
 alcoholist
 alcoholists
 alcopop
+alcopops
 alcornoco
 alcosol
 alcosols
@@ -1944,6 +1945,7 @@ alphin
 alphorn
 alphyl
 alpine
+alpist
 alps
 alquerque
 alright
@@ -2765,6 +2767,7 @@ apophaticism
 apophyses
 apophysis
 apoprotein
+apoptosis
 apoptotic
 aporetic
 aporia
@@ -6377,6 +6380,7 @@ cahouns
 cahow
 caiman
 caimans
+caipirosca
 caique
 cairn
 cairns
@@ -6468,7 +6472,9 @@ calorie
 calories
 calque
 caltrap
+caltraps
 caltrop
+caltrops
 calumet
 calumniate
 calumniated
@@ -6676,6 +6682,7 @@ capon
 capos
 capot
 capote
+capots
 caprese
 capri
 caprice
@@ -6694,6 +6701,7 @@ captcha
 captchas
 caption
 captor
+captors
 capuchin
 car
 carabao
@@ -8183,6 +8191,7 @@ clinking
 clint
 clip
 clipart
+clips
 clitic
 cliticise
 cliticises
@@ -9053,6 +9062,8 @@ cracklier
 crackliest
 crackling
 cracknel
+crackpot
+crackpots
 cracks
 crackup
 cradle
@@ -19177,12 +19188,16 @@ jacanas
 jack
 jackal
 jackals
+jackpot
+jackpots
 jacks
 jade
 jaded
 jai
 jail
 jailbait
+jails
+jalap
 jali
 jam
 jamb
@@ -19196,6 +19211,8 @@ jank
 jar
 jarhead
 jarl
+jarls
+jars
 jarul
 jaspe
 jatha
@@ -19209,6 +19226,7 @@ jaunt
 java
 jaw
 jawed
+jaws
 jean
 jeans
 jebel
@@ -19252,6 +19270,8 @@ jilt
 jilted
 jilts
 jim
+jip
+jips
 jird
 jirds
 jism
@@ -19993,6 +20013,8 @@ koto
 kotos
 kotwal
 kotwali
+kotwalis
+kotwals
 kouroi
 kowari
 kowaris
@@ -20373,10 +20395,12 @@ lapa
 lapas
 lapel
 lapels
+lapis
 laps
 lapse
 lapses
 laptop
+laptops
 lar
 larboard
 larcener
@@ -29652,6 +29676,8 @@ packeries
 packie
 packies
 packing
+packrat
+packrats
 packs
 packsack
 packsacks
@@ -29763,6 +29789,8 @@ paisan
 paisans
 paise
 paitung
+pajala
+pajock
 pakalolo
 pakapu
 pakati
@@ -29803,6 +29831,7 @@ palatable
 palatal
 palatality
 palatalize
+palatals
 palate
 palatial
 palatian
@@ -29875,6 +29904,7 @@ palter
 palterer
 palterers
 palters
+paltock
 paltrier
 paludal
 paludial
@@ -30124,6 +30154,7 @@ papey
 papier
 papilio
 papilionine
+papilios
 papish
 papisher
 papishes
@@ -30184,6 +30215,7 @@ paragraphing
 paragraphize
 parakinesis
 paralic
+paralipsis
 paralog
 paralogy
 paralytic
@@ -30242,6 +30274,7 @@ paraprotein
 parapsis
 parapsises
 parapteron
+paraptosis
 paraptotic
 pararenal
 paras
@@ -30385,6 +30418,7 @@ parole
 paroli
 paroling
 parophite
+paropsis
 paroral
 parotic
 parotid
@@ -30452,6 +30486,7 @@ partners
 partocracy
 partocrat
 partocratic
+partocrats
 parts
 parturient
 parturition
@@ -30569,12 +30604,14 @@ pativrata
 patka
 patkas
 patly
+patois
 patola
 patolu
 patria
 patriae
 patrial
 patriality
+patrials
 patrias
 patriate
 patriating
@@ -30590,6 +30627,7 @@ patrin
 patrinite
 patrins
 patriot
+patriots
 patrist
 patristic
 patristics
@@ -30607,6 +30645,8 @@ patu
 patulin
 paturon
 patus
+patwari
+patwaris
 patzer
 paua
 pauas
@@ -31837,6 +31877,7 @@ pilpulistic
 pilpulists
 pilpuls
 pils
+piltock
 pilular
 pilule
 pilulist
@@ -31989,6 +32030,7 @@ pipa
 pipage
 pipages
 pipal
+pipals
 pipas
 pipcorn
 pipe
@@ -32091,6 +32133,9 @@ pisane
 pisanes
 pisanka
 pisatin
+piscator
+piscatorial
+piscators
 pisciculturist
 pisciculturists
 piscina
@@ -33043,11 +33088,13 @@ popism
 popist
 popists
 poplar
+poplars
 poplin
 poplitical
 popo
 popocracy
 popocrat
+popocrats
 popos
 popote
 popotes
@@ -33057,6 +33104,7 @@ popover
 pops
 popsie
 popsies
+popsock
 popstar
 popstars
 popsy
@@ -33145,6 +33193,8 @@ port
 portable
 portage
 portal
+portals
+portapack
 portas
 portate
 portation
@@ -33221,6 +33271,8 @@ positum
 positums
 posol
 post
+postal
+postals
 postcava
 postcavas
 postdict
@@ -33234,9 +33286,16 @@ postil
 postils
 postmitotic
 postmitotics
+postpalatal
+postpalatals
 postposit
 postposits
+postrostral
 posts
+postscript
+postscriptal
+postscripts
+postwar
 posy
 pot
 potable
@@ -33290,9 +33349,13 @@ potmen
 potometer
 potpie
 potplant
+potrack
 potrero
 potro
+potros
 pots
+potscar
+potscars
 potshot
 potshots
 potsie
@@ -34322,6 +34385,7 @@ psoases
 psoatic
 psocid
 psocids
+psora
 psoroptic
 psorosis
 psych
@@ -34359,6 +34423,7 @@ ptilinal
 ptilinum
 ptish
 ptomainic
+ptosis
 ptotic
 ptui
 ptyalin
@@ -35613,12 +35678,14 @@ rapist
 rapists
 raplach
 raps
+rapso
 rapt
 raptatorial
 raptatory
 raptly
 raptor
 raptorial
+raptors
 rapturing
 rara
 rare
@@ -35776,6 +35843,7 @@ ratline
 ratling
 ratlins
 rato
+ratpack
 ratrace
 ratraces
 ratrun
@@ -38545,6 +38613,7 @@ risorial
 risorius
 risoriuses
 risp
+risposta
 risps
 risque
 rist
@@ -40390,6 +40459,7 @@ scotomas
 scotomata
 scotometer
 scotometers
+scotopia
 scotopic
 scots
 scour
@@ -40448,6 +40518,8 @@ scrims
 scrip
 scrips
 script
+scriptoria
+scriptorial
 scripts
 scritch
 scritches
@@ -42688,6 +42760,8 @@ spinto
 spiny
 spiraea
 spiraeas
+spiral
+spirals
 spirant
 spirantise
 spirantises
@@ -42762,11 +42836,14 @@ spongiest
 spongin
 sponging
 spongins
+spork
 sport
 sportcast
 sportcasts
 sportly
 sports
+sportscar
+sportscars
 sportscast
 sportscasts
 sporty
@@ -43370,6 +43447,8 @@ stocklist
 stocklists
 stockmarket
 stockmarkets
+stockpot
+stockpots
 stocks
 stocktake
 stocktaker
@@ -43410,8 +43489,11 @@ stonk
 stonks
 stony
 stop
+stopcock
 stope
 stopes
+stoplist
+stoplists
 stops
 storage
 storax
@@ -43423,6 +43505,7 @@ storier
 storiers
 stories
 storing
+stork
 storm
 storms
 story
@@ -44514,6 +44597,7 @@ tailrace
 tails
 tailspin
 tailspun
+tailstock
 tailwind
 tailwinds
 taimen
@@ -44569,6 +44653,7 @@ talik
 taliks
 talionis
 talipot
+talipots
 talk
 talkathon
 talkback
@@ -46091,6 +46176,8 @@ tix
 tiyin
 tiyins
 tiz
+tjilpi
+tjilpis
 tmeses
 tmesis
 tmrw
@@ -46289,6 +46376,8 @@ tontine
 tonus
 tony
 top
+topcoat
+topcoats
 tope
 toped
 toper
@@ -46722,6 +46811,7 @@ trapes
 trapeses
 trapline
 trapo
+trapos
 traps
 trapyard
 trash
@@ -49941,6 +50031,7 @@ wilier
 wiliest
 wilily
 wilt
+wiltja
 wilts
 wily
 wimp
