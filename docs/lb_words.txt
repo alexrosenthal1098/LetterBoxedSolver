@@ -5013,6 +5013,8 @@ birse
 birth
 birther
 births
+birthwort
+birthworts
 biryani
 biryanis
 birze
@@ -5327,6 +5329,7 @@ bobtail
 bobtailed
 bobtails
 bobwhite
+bobwhites
 bock
 bocks
 bod
@@ -5633,6 +5636,8 @@ boutons
 bouts
 boutu
 boutus
+bouzouki
+bouzoukis
 bove
 bovid
 bovids
@@ -5912,6 +5917,9 @@ brisken
 briskening
 briskens
 brisker
+briskest
+brisket
+briskets
 brisking
 brisks
 bristle
@@ -5972,6 +5980,11 @@ brouhaha
 brouhahas
 brow
 browbeat
+brows
+browse
+browses
+browst
+browsts
 brubru
 brubrus
 brucine
@@ -6202,6 +6215,7 @@ burk
 burka
 burkas
 burke
+burkes
 burks
 burl
 burlap
@@ -12025,6 +12039,8 @@ ebonise
 ebonises
 ebonising
 ebonite
+ebriose
+ebrious
 ecad
 ecads
 ecard
@@ -17274,6 +17290,7 @@ hirola
 hirolas
 hirple
 hirpling
+hirsute
 his
 hist
 hister
@@ -17679,6 +17696,9 @@ house
 houseboy
 houseboys
 houses
+housesit
+housesits
+housework
 housey
 housie
 housil
@@ -17696,9 +17716,11 @@ howbeit
 howdah
 howdy
 howe
+howes
 however
 howk
 howked
+howks
 howl
 howled
 howler
@@ -17706,6 +17728,7 @@ howlet
 howto
 howtos
 howtowdie
+howzit
 hox
 hoy
 hoya
@@ -17722,6 +17745,7 @@ hsps
 huarache
 huaraches
 hub
+hubris
 hubs
 huchen
 huck
@@ -17817,6 +17841,8 @@ hushes
 husk
 huskie
 huskier
+huskies
+huskiest
 husks
 hustle
 hustler
@@ -19823,6 +19849,7 @@ kibe
 kibes
 kibitka
 kibitkas
+kibitz
 kibla
 kick
 kicked
@@ -28066,6 +28093,7 @@ obturation
 obturator
 obturators
 obturbinate
+obtuse
 obtusion
 obulus
 obv
@@ -29241,6 +29269,7 @@ outbought
 outbound
 outbounds
 outbow
+outbows
 outbox
 outbrave
 outbreathe
@@ -29302,6 +29331,8 @@ outhit
 outhits
 outhold
 outhomer
+outhouse
+outhouses
 outie
 outies
 outing
@@ -29398,6 +29429,8 @@ outshut
 outshuts
 outsit
 outsits
+outskirt
+outskirts
 outsoar
 outsoars
 outspat
@@ -29424,8 +29457,11 @@ outwear
 outwept
 outwit
 outwore
+outwork
+outworks
 outworn
 outwrite
+outwrites
 outwrote
 outy
 ouze
@@ -38508,6 +38544,10 @@ riblike
 ribose
 ribs
 ribston
+ribwork
+ribworks
+ribwort
+ribworts
 rice
 riced
 ricepaper
@@ -38865,6 +38905,7 @@ ritualize
 rituals
 ritz
 ritzier
+ritziest
 ritzy
 riva
 rivage
@@ -39258,6 +39299,7 @@ roseted
 rosets
 rosety
 rosework
+roseworks
 rosha
 roshas
 roshi
@@ -39433,6 +39475,8 @@ rouse
 rouser
 rousers
 rouses
+rousie
+rousies
 roust
 rousts
 rout
@@ -39441,6 +39485,7 @@ route
 routed
 routeing
 router
+routes
 routh
 routhy
 routier
@@ -39470,6 +39515,7 @@ rowboat
 rowdy
 rowed
 roweite
+roweites
 rowel
 roweled
 rowen
@@ -39478,6 +39524,8 @@ rower
 rowers
 rowet
 rowets
+rowhouse
+rowhouses
 rowing
 rowk
 rowlock
@@ -39486,6 +39534,7 @@ rowner
 rowns
 rows
 rowth
+rowthie
 rowthy
 royal
 royalist
@@ -39804,6 +39853,7 @@ rushy
 rusine
 rusk
 ruskie
+ruskies
 rusks
 rusky
 rusma
@@ -42826,6 +42876,7 @@ souteneur
 souteneurs
 south
 souths
+southwest
 sov
 sovereign
 sovereigns
@@ -43873,6 +43924,8 @@ strife
 strike
 strikebreaker
 strikebreakers
+strikeout
+strikeouts
 striker
 strikers
 strikes
@@ -44182,6 +44235,7 @@ suburbial
 suburbian
 suburbians
 suburbs
+subweb
 such
 suck
 sucker
@@ -45822,6 +45876,10 @@ then
 thenar
 thence
 theor
+theorbist
+theorbists
+theorbo
+theorbos
 theoretic
 theoreticist
 theoria
@@ -45925,6 +45983,7 @@ thirdhand
 thirds
 thirst
 thirstier
+thirstiest
 thirsts
 thirties
 thirtieth
@@ -47698,6 +47757,7 @@ turbit
 turbits
 turbo
 turboprop
+turbos
 turbot
 turbulent
 turd
@@ -50070,6 +50130,8 @@ webmail
 webring
 webrings
 webs
+webwork
+webworks
 wed
 weds
 weft
@@ -50191,6 +50253,7 @@ whey
 which
 whichaway
 whidah
+whies
 whift
 while
 whim
@@ -50214,6 +50277,10 @@ whirl
 whirligig
 whirlwind
 whirs
+whisk
+whiskies
+whisks
+whist
 whit
 white
 whitecap
@@ -50221,8 +50288,14 @@ whited
 whitely
 whiten
 whitener
+whiteout
+whiteouts
 whiter
+whites
+whitest
+whitework
 whitlow
+whits
 whiz
 who
 whoa
@@ -50237,6 +50310,9 @@ whorl
 whortle
 whose
 whosis
+whosises
+whosit
+whosits
 whoso
 whup
 why
@@ -50507,11 +50583,18 @@ worked
 worker
 workers
 workhand
+workhorse
+workhorses
+workhouse
+workhouses
 workie
 workies
 workload
 workrate
 workrates
+works
+worksite
+worksites
 workwear
 workwise
 workwoman
@@ -50546,6 +50629,8 @@ worsts
 wort
 worth
 worthful
+worthies
+worthiest
 worthy
 wortle
 wortles
@@ -50960,9 +51045,12 @@ zho
 zhos
 zhush
 zhuzh
+zhuzhes
 zig
 zigs
 zigzag
+zikr
+zikrs
 zin
 zinc
 zincing
