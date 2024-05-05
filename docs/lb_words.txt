@@ -4570,6 +4570,7 @@ belit
 beloid
 belote
 belove
+beloved
 belover
 below
 bels
@@ -4587,6 +4588,8 @@ belts
 beltwise
 beluga
 belve
+belved
+belvedere
 belves
 bema
 bemas
@@ -4652,6 +4655,7 @@ berserkers
 berth
 bertha
 berthas
+berthed
 berths
 beset
 besets
@@ -4706,6 +4710,7 @@ beun
 bevan
 bevans
 bevel
+beveled
 bevels
 bevies
 bevy
@@ -5577,6 +5582,7 @@ both
 bothan
 bothans
 bother
+bothered
 botherer
 botherment
 bothie
@@ -5652,6 +5658,7 @@ bowies
 bowing
 bowknot
 bowl
+bowled
 bowler
 bowline
 bowls
@@ -10521,6 +10528,9 @@ demotes
 demotion
 demots
 demoware
+demur
+demure
+demurer
 demy
 den
 denar
@@ -10734,6 +10744,8 @@ devoice
 devoiced
 devoid
 devoir
+devolve
+devolved
 devore
 devote
 devoted
@@ -11475,6 +11487,7 @@ dost
 dot
 dotage
 dotard
+dotbomb
 dotcom
 dote
 doted
@@ -11716,6 +11729,7 @@ drugsters
 drum
 drumhead
 drumin
+drumler
 drums
 drumster
 drumsters
@@ -11808,6 +11822,7 @@ duly
 dum
 dumb
 dumbed
+dumber
 dumbest
 dumbing
 dumbo
@@ -13232,6 +13247,7 @@ everts
 everwhen
 everwhere
 everwho
+everwhut
 every
 eves
 evesong
@@ -13266,6 +13282,7 @@ evokes
 evoking
 evolute
 evolve
+evolved
 evolvement
 evolvent
 evolver
@@ -16968,6 +16985,7 @@ helm
 helmed
 helmer
 helmet
+helmeted
 helot
 helotage
 helotry
@@ -17793,6 +17811,7 @@ humint
 humor
 humors
 humour
+humoured
 humours
 humous
 hump
@@ -17823,6 +17842,7 @@ hurdler
 hurds
 hurdses
 hurl
+hurled
 hurler
 hurlers
 hurling
@@ -17834,6 +17854,7 @@ hurtful
 hurtier
 hurtiest
 hurtle
+hurtled
 hurts
 hurty
 hush
@@ -20962,6 +20983,7 @@ leman
 lemans
 lemon
 lemons
+lemur
 lend
 lends
 lenience
@@ -21828,6 +21850,8 @@ loucher
 loud
 louder
 loudly
+loudmouth
+loudmouthed
 lough
 loughs
 lound
@@ -21848,6 +21872,9 @@ lousily
 lousy
 lout
 louver
+louvered
+louvre
+louvred
 lovable
 lovat
 love
@@ -21859,6 +21886,7 @@ lovelives
 lovelock
 lovelorn
 lover
+lovered
 lovers
 loves
 loveware
@@ -21867,6 +21895,7 @@ lowan
 lowance
 lowans
 lowboy
+lowbred
 lowchen
 lowdown
 lowe
@@ -21945,6 +21974,9 @@ lum
 luma
 lumas
 lumbar
+lumber
+lumbered
+lumberer
 lumen
 lumens
 lumiere
@@ -22021,6 +22053,7 @@ lurkman
 lurks
 lurs
 lurve
+lurved
 lurves
 luscious
 lush
@@ -23579,6 +23612,7 @@ melty
 melusine
 melusines
 member
+membered
 members
 membra
 membrum
@@ -23873,6 +23907,7 @@ meteorometers
 meteors
 meter
 meterage
+metered
 metering
 meterist
 meters
@@ -23916,6 +23951,7 @@ metopion
 metopirone
 metopon
 metre
+metred
 metres
 metrete
 metretes
@@ -24897,6 +24933,9 @@ mocus
 mod
 modal
 mode
+model
+modeled
+modeler
 modem
 modemed
 moderant
@@ -24922,6 +24961,8 @@ modiuses
 modoc
 modom
 mods
+module
+modulo
 modus
 moe
 moegoe
@@ -25043,6 +25084,7 @@ molombo
 molos
 mols
 molt
+molted
 molten
 molter
 molto
@@ -25469,8 +25511,11 @@ motets
 motey
 moth
 mother
+motherdom
+mothered
 motherer
 motherful
+motherlode
 mothing
 mothings
 moths
@@ -25534,7 +25579,9 @@ moulie
 moulin
 mouls
 moult
+moulted
 moulter
+moultered
 moults
 mound
 mount
@@ -25560,6 +25607,7 @@ mouses
 mouseweb
 mousewebs
 mouth
+mouthed
 mouther
 mouthful
 mouthy
@@ -25589,6 +25637,7 @@ mowie
 mowing
 mowings
 mowlow
+mowlter
 mown
 mowra
 mowras
@@ -25764,6 +25813,7 @@ multivalued
 multivalve
 multivalved
 multum
+multure
 mum
 mumble
 mumbled
@@ -25851,8 +25901,12 @@ mural
 murals
 muras
 murchana
+murder
+murdered
+murderer
 murdrum
 mure
+mured
 murein
 murena
 murex
@@ -25881,8 +25935,10 @@ murky
 murlie
 murlin
 murlins
+murmelt
 murmur
 murmuration
+murmured
 murmurer
 murmurers
 murmuring
@@ -25893,6 +25949,7 @@ murphy
 mursid
 murth
 murther
+murthered
 murthers
 murths
 muru
@@ -26030,6 +26087,7 @@ mutule
 mutules
 mutum
 mutums
+muvule
 muwahaha
 muwahahaha
 mux
@@ -28097,6 +28155,8 @@ obtuse
 obtusion
 obulus
 obv
+obvert
+obverted
 obviate
 obviative
 obvious
@@ -28225,6 +28285,7 @@ odists
 odium
 odograph
 odom
+odometer
 odonata
 odonatan
 odonate
@@ -28258,6 +28319,7 @@ oecium
 oecumene
 oecumenical
 oedema
+oedometer
 oeil
 oekist
 oenanthate
@@ -29333,6 +29395,8 @@ outhold
 outhomer
 outhouse
 outhouses
+outhumour
+outhumoured
 outie
 outies
 outing
@@ -29358,6 +29422,7 @@ outliner
 outlining
 outlot
 outlove
+outloved
 outman
 outmans
 outmarch
@@ -29464,6 +29529,8 @@ outwrite
 outwrites
 outwrote
 outy
+ouvert
+ouverte
 ouze
 ouzel
 ouzeri
@@ -29525,6 +29592,7 @@ overborne
 overbow
 overbower
 overbowl
+overbowled
 overbred
 overcame
 overcare
@@ -29543,6 +29611,10 @@ overcrowded
 overcrowed
 overcut
 overcuts
+overdo
+overdoer
+overdot
+overdub
 overeager
 overeat
 overeater
@@ -29615,6 +29687,7 @@ overlent
 overlie
 overline
 overlit
+overloud
 overlove
 overloves
 overlow
@@ -29658,6 +29731,7 @@ overtakers
 overtrace
 overtreat
 overtrod
+overture
 overuse
 overuses
 overview
@@ -29677,6 +29751,9 @@ overwear
 overweave
 overwet
 overwets
+overwhelm
+overwhelmed
+overwhelmer
 overwin
 overwing
 overworn
@@ -29715,6 +29792,7 @@ ovotestis
 ovule
 ovules
 ovuline
+ovulum
 ovum
 oware
 owari
@@ -37267,11 +37345,14 @@ relocator
 relock
 relodge
 relove
+reloved
 relucent
 reluct
 reluctance
 reluctant
 relucts
+relume
+relumed
 rely
 rem
 remain
@@ -37305,8 +37386,10 @@ remeant
 remede
 remeid
 remelt
+remelted
 remember
 rememberable
+remembered
 rememberer
 rememberers
 remembers
@@ -37336,6 +37419,9 @@ remixers
 remnant
 remock
 remocks
+remodel
+remodeled
+remodeler
 remold
 remolten
 remontant
@@ -37345,6 +37431,7 @@ remora
 remoras
 remorse
 remote
+remoted
 remoter
 remotion
 remou
@@ -37352,6 +37439,7 @@ remount
 remounting
 remous
 remove
+removed
 removement
 remover
 removers
@@ -37364,6 +37452,7 @@ remunerative
 remunerator
 remuneratory
 remurmur
+remurmured
 remurmuring
 remurmurs
 remuster
@@ -38334,13 +38423,17 @@ revoking
 revolera
 revolt
 revolte
+revolted
 revolter
 revolters
 revoltive
 revolts
 revolute
+revoluted
 revolve
+revolved
 revolver
+revolvered
 revolvers
 revolves
 revomit
@@ -39686,6 +39779,7 @@ rulable
 rule
 ruleable
 ruled
+ruledom
 ruleful
 ruler
 rulered
@@ -39728,6 +39822,7 @@ rumormonger
 rumormongering
 rumors
 rumour
+rumoured
 rumourer
 rumouring
 rumourist
@@ -45456,10 +45551,12 @@ telelenses
 telematic
 telemedicine
 telemeter
+telemetered
 telemotor
 teleodont
 teleologic
 teleological
+teleometer
 teleorganic
 teleosis
 teleost
@@ -45681,6 +45778,7 @@ tergites
 tergum
 teriyaki
 term
+termed
 termer
 termers
 termes
@@ -47690,6 +47788,7 @@ tumble
 tumbled
 tumbles
 tumbling
+tumbrel
 tumefy
 tumid
 tumidity
@@ -47810,6 +47909,7 @@ turpitude
 turps
 turs
 turtle
+turtledove
 turtles
 turves
 tusche
@@ -48023,6 +48123,7 @@ ululation
 ulus
 umami
 umbel
+umber
 umbilical
 umbilicals
 umbilici
@@ -49263,6 +49364,7 @@ velour
 veloute
 velum
 velure
+velured
 velures
 velvet
 velveted
@@ -49346,7 +49448,10 @@ verbose
 verboten
 verbs
 verdant
+verde
+verderer
 verdure
+verdured
 verge
 verged
 verger
@@ -49734,7 +49839,10 @@ volte
 volted
 voltmeter
 volts
+volume
+volumed
 volute
+voluted
 volva
 volvas
 volvuli
@@ -50235,6 +50343,8 @@ wheatear
 wheatears
 wheatish
 wheats
+whelm
+whelmed
 whelp
 when
 whence
@@ -50555,6 +50665,7 @@ womanises
 womas
 womb
 wombat
+wombed
 womble
 wombles
 wombs
