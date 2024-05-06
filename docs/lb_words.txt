@@ -1307,6 +1307,7 @@ agmas
 agnail
 agname
 agnaming
+agnate
 agnathan
 agnathans
 agnition
@@ -2340,6 +2341,7 @@ anarchy
 anastomosis
 anatase
 anatases
+anathema
 anatomic
 anatomical
 anatomist
@@ -2772,6 +2774,7 @@ apnoeic
 apochromat
 apochromatic
 apochromats
+apocope
 apodal
 apodictic
 apodosis
@@ -2795,6 +2798,7 @@ apoptotic
 aporetic
 aporia
 aporias
+apothem
 apotropaic
 apriori
 apron
@@ -6378,6 +6382,7 @@ cachalots
 cache
 cachectic
 cached
+cachepot
 caches
 cachet
 cachets
@@ -6582,6 +6587,7 @@ camlock
 camo
 camomile
 camp
+campagne
 camper
 campers
 campest
@@ -6746,6 +6752,7 @@ caplins
 capn
 capo
 capon
+caponata
 capons
 capos
 capot
@@ -7152,6 +7159,7 @@ caterwaul
 cates
 catflap
 catflaps
+catgut
 catharsis
 cathartic
 cathartics
@@ -8466,9 +8474,11 @@ cockup
 cockups
 coco
 cocoa
+cocoanut
 cocoas
 cocobolo
 cocobolos
+coconut
 cocos
 cocoyam
 coculture
@@ -8742,6 +8752,7 @@ confirm
 conform
 conga
 congaing
+conge
 coni
 conic
 conical
@@ -8834,6 +8845,7 @@ cony
 cop
 copal
 copay
+cope
 copha
 copilot
 copilots
@@ -9058,6 +9070,7 @@ countenance
 counter
 countercheck
 coup
+coupe
 couply
 coupon
 coups
@@ -12441,6 +12454,7 @@ emotioning
 emp
 empanel
 empanels
+empath
 empeople
 empeoples
 emperor
@@ -12650,6 +12664,7 @@ enoki
 enokis
 enormous
 enosis
+enough
 enounce
 enpatron
 enplane
@@ -12845,6 +12860,7 @@ eons
 eosin
 epact
 epacts
+epazote
 epena
 epene
 epentheses
@@ -12895,6 +12911,7 @@ epistatic
 epithet
 epitome
 epitope
+epoch
 epode
 epoque
 epoxy
@@ -14957,6 +14974,7 @@ gamomanias
 gamont
 gamp
 gams
+gamut
 gamy
 ganache
 ganaches
@@ -14992,6 +15010,7 @@ gangrening
 gangril
 gangs
 gangsman
+gangue
 gank
 ganking
 ganks
@@ -15082,6 +15101,8 @@ gateau
 gated
 gatefold
 gateleg
+gateman
+gatemen
 gates
 gather
 gatherer
@@ -15137,6 +15158,8 @@ gazer
 gazers
 gazes
 gazing
+gazpacho
+gazump
 gday
 gean
 geans
@@ -16236,6 +16259,7 @@ gungiest
 gungy
 gunite
 gunk
+gunman
 gunmen
 gunplay
 gunpoint
@@ -16915,6 +16939,7 @@ heathers
 heathery
 heaths
 heathy
+heatmap
 heats
 heatwave
 heaty
@@ -17000,6 +17025,7 @@ hematites
 hematoma
 hematomas
 hematomata
+hematozoa
 heme
 hemialgia
 hemic
@@ -17015,6 +17041,8 @@ henbane
 henbit
 hence
 hench
+henchman
+henchmen
 henequen
 henge
 henley
@@ -17148,6 +17176,7 @@ heterotroph
 heterotrophic
 heterotrophy
 heterotypic
+hetman
 hetmen
 hets
 heuch
@@ -22280,6 +22309,7 @@ madwort
 maedi
 maegasira
 maegeri
+maegth
 maenol
 maenor
 maenors
@@ -22305,6 +22335,7 @@ magame
 magas
 magatama
 magatamas
+magcon
 mage
 mages
 magi
@@ -22323,6 +22354,13 @@ magmatism
 magmatist
 magmatists
 magna
+magnate
+magnet
+magneto
+magneton
+magnetophon
+magnetophone
+magnum
 magot
 magret
 magrets
@@ -22653,6 +22691,8 @@ manbot
 manbun
 mancala
 mancalas
+manche
+manchet
 mancia
 mancias
 mancus
@@ -22688,12 +22728,15 @@ manflu
 manful
 mang
 manga
+manganate
 manganoan
 mangas
 mange
+mangeao
 mangemange
 mangeo
 manger
+mangetout
 manghir
 mangi
 mangia
@@ -22817,6 +22860,7 @@ manurey
 manurial
 manus
 many
+manzo
 maomao
 maomaos
 map
@@ -23186,6 +23230,9 @@ matcher
 matchers
 matchet
 matchets
+matchman
+matchmen
+matchpot
 matchup
 matchups
 mate
@@ -23356,6 +23403,7 @@ maythe
 maythes
 maza
 mazac
+mazagan
 mazama
 mazamas
 mazar
@@ -23368,6 +23416,7 @@ mazets
 mazout
 mazuma
 mazut
+mazute
 mazuts
 mazy
 mbalax
@@ -23495,6 +23544,7 @@ megatheria
 megatherm
 megathermic
 megatherms
+megaton
 megaureter
 megaureters
 megimide
@@ -23646,8 +23696,10 @@ menaced
 menaces
 menage
 menald
+menaphthone
 menarche
 menarches
+menazon
 mence
 mend
 mended
@@ -23844,6 +23896,7 @@ metabasites
 metabiosis
 metacharacter
 metacharacters
+metacone
 metadata
 metage
 metake
@@ -23863,6 +23916,8 @@ metameric
 metamerism
 metamers
 metamict
+metanotum
+metaphone
 metas
 metasoma
 metasomas
@@ -23895,6 +23950,8 @@ metathesised
 metaxite
 metaxylem
 metaxylems
+metazoa
+metazoan
 mete
 meted
 meteg
@@ -23938,6 +23995,7 @@ methodises
 methods
 methody
 methos
+methought
 meths
 methy
 metic
@@ -25685,6 +25743,7 @@ mucocoele
 mucoid
 mucolipid
 mucolipids
+muconate
 mucor
 mucors
 mucosa
@@ -25721,6 +25780,7 @@ muesli
 mueslis
 mug
 muga
+mugho
 mugil
 mugilid
 mugiloid
@@ -25851,6 +25911,7 @@ mundum
 mundus
 mung
 munga
+mungamunga
 munge
 mungi
 munging
@@ -26042,6 +26103,8 @@ musts
 musty
 muta
 mutable
+mutage
+mutagen
 mutant
 mutarotate
 mutas
@@ -26166,6 +26229,7 @@ mythus
 mythy
 myun
 myxy
+mzungu
 nab
 nabam
 nabe
@@ -26298,6 +26362,7 @@ namads
 namak
 namaste
 namastes
+namaz
 name
 nameable
 named
@@ -26308,6 +26373,8 @@ namers
 names
 namesake
 namesakes
+nametag
+nametape
 naming
 nan
 nana
@@ -26371,6 +26438,7 @@ napa
 nape
 napes
 naphtha
+naphthenate
 naphthene
 naphthol
 naphthyl
@@ -27690,6 +27758,8 @@ noud
 noug
 nougat
 nougatine
+nought
+noughth
 nouja
 noumeite
 noumena
@@ -27853,6 +27923,7 @@ nunbird
 nunbirds
 nunchaku
 nunchakus
+nuncheon
 nunchuck
 nunchuk
 nunciate
@@ -27939,6 +28010,7 @@ nutlet
 nutlets
 nutmeat
 nutmeats
+nutmeg
 nutria
 nutrias
 nutrient
@@ -28252,6 +28324,7 @@ octonary
 octonian
 octonion
 octonions
+octopean
 octopic
 octoploid
 octoploids
@@ -28670,6 +28743,7 @@ onycha
 onyongnyong
 onyx
 opa
+opacate
 opacite
 opacity
 opah
@@ -29340,6 +29414,7 @@ outbuild
 outbuilt
 outburst
 outbursts
+outcamp
 outcast
 outcasts
 outcharm
@@ -29374,6 +29449,7 @@ outflung
 outfought
 outgain
 outgaining
+outgang
 outgate
 outgo
 outgoer
@@ -29876,6 +29952,7 @@ oyster
 oysterer
 oysterish
 oystery
+ozaena
 ozeki
 ozena
 ozocerite
@@ -30426,12 +30503,14 @@ papistic
 papistry
 papists
 papolatry
+papouche
 papri
 paprika
 papris
 paps
 papsak
 papsaks
+papuche
 papula
 papulae
 papular
@@ -30845,6 +30924,7 @@ pataca
 patacas
 patache
 pataches
+patacon
 patagia
 patagon
 pataka
@@ -30871,6 +30951,7 @@ pathia
 pathic
 pathics
 pathing
+pathname
 paths
 patia
 patias
@@ -31317,6 +31398,7 @@ pentode
 penton
 pentop
 pentrow
+penuche
 penult
 penultima
 penultimas
@@ -31746,6 +31828,8 @@ phatic
 pheme
 phememe
 phenacite
+phenate
+phenazone
 phenetic
 phenon
 phenotypic
@@ -31789,6 +31873,7 @@ pholadoid
 pholcid
 phon
 phonal
+phonate
 phonating
 phonation
 phonational
@@ -31833,6 +31918,7 @@ phospholipoid
 phospholipoids
 phot
 phota
+photae
 photic
 photics
 photie
@@ -33018,6 +33104,7 @@ poboy
 pobs
 pobses
 pocan
+poche
 pochismo
 pochismos
 pocho
@@ -33065,11 +33152,13 @@ podurid
 podurids
 podus
 poem
+poemet
 poems
 poena
 poesis
 poesises
 poet
+poetaz
 poete
 poetese
 poetic
@@ -33619,6 +33708,7 @@ posy
 pot
 potable
 potae
+potage
 potai
 potail
 potamic
@@ -33666,6 +33756,7 @@ potitsa
 potlatch
 potlatched
 potline
+potman
 potmen
 potometer
 potpie
@@ -34857,6 +34948,7 @@ pumas
 pumice
 pumices
 pump
+pumpage
 pumper
 pumpin
 pumping
@@ -34879,12 +34971,14 @@ punanis
 punany
 punas
 punch
+puncheon
 punchy
 puncta
 punctae
 punctate
 punctuate
 punctuates
+punctum
 puncture
 punctures
 punctus
@@ -35112,12 +35206,14 @@ putupap
 puture
 putures
 putz
+putza
 putzes
 putzing
 puy
 puya
 puyas
 puys
+puzta
 pwe
 pwes
 pwn
@@ -45119,6 +45215,7 @@ tamper
 tamperer
 tamperers
 tampers
+tampon
 tamps
 tams
 tan
@@ -45201,6 +45298,7 @@ taperers
 tapers
 tapes
 tapestries
+tapetum
 taping
 tapioca
 tapir
@@ -45623,6 +45721,7 @@ temenos
 temerity
 temp
 temped
+tempeh
 temper
 tempera
 temperate
@@ -45745,6 +45844,7 @@ tenutos
 tenzon
 tenzons
 teosinte
+tepache
 tepal
 tepals
 tephra
@@ -45956,6 +46056,7 @@ thecae
 thecal
 thecate
 theft
+thegn
 theine
 their
 theirs
@@ -46790,6 +46891,7 @@ tontine
 tonus
 tony
 top
+topaz
 topcoat
 topcoats
 tope
@@ -46815,6 +46917,7 @@ topknot
 topknots
 toplight
 topline
+topman
 topmen
 topmost
 topnotch
@@ -46957,6 +47060,7 @@ tots
 totsiens
 toty
 toucan
+toucanet
 toucans
 touch
 touche
@@ -46967,6 +47071,7 @@ touchup
 touchy
 tough
 toughed
+toughen
 tougher
 toughie
 toughly
@@ -48246,6 +48351,7 @@ uncoiling
 unconcern
 uncork
 uncorking
+uncouth
 uncrate
 uncrated
 uncrates
@@ -51114,6 +51220,7 @@ zami
 zamia
 zamias
 zamis
+zampone
 zanier
 zanily
 zany
