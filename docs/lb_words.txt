@@ -12615,6 +12615,7 @@ empted
 emptied
 emptier
 empties
+emptiest
 emptin
 empting
 emption
@@ -12631,6 +12632,7 @@ emulate
 emulated
 emulates
 emulative
+emulous
 emus
 enable
 enablement
@@ -13064,6 +13066,7 @@ epitope
 epoch
 epode
 epoque
+epoxies
 epoxy
 epsilon
 epsilons
@@ -13505,6 +13508,7 @@ exemplum
 exempt
 exempted
 exempting
+exempts
 exequy
 exequys
 exert
@@ -13515,6 +13519,7 @@ exhale
 exhaled
 exhume
 exhumed
+exhumes
 exier
 exies
 exieses
@@ -13528,6 +13533,7 @@ exilian
 exilic
 exiling
 exilities
+eximious
 exine
 exintine
 exist
@@ -13539,8 +13545,12 @@ exit
 exite
 exited
 exitelite
+exites
 exiting
+exitious
 exits
+exitus
+exituses
 exon
 exonic
 exorcise
@@ -17630,6 +17640,7 @@ holds
 holdup
 hole
 holed
+holes
 holey
 holiday
 holier
@@ -17842,6 +17853,7 @@ hortatory
 hortus
 hose
 hosed
+hosel
 hosepipe
 hosepipes
 hoser
@@ -17856,6 +17868,7 @@ host
 hosta
 hostas
 hosted
+hostel
 hostie
 hosties
 hostilities
@@ -17914,9 +17927,14 @@ housal
 house
 houseboy
 houseboys
+housel
+houselet
+houselets
 houses
 housesit
 housesits
+housesmith
+housesmiths
 housework
 housey
 housie
@@ -17944,6 +17962,7 @@ howl
 howled
 howler
 howlet
+howlets
 howto
 howtos
 howtowdie
@@ -18018,6 +18037,8 @@ humous
 hump
 humph
 humpier
+humpies
+humpiest
 humps
 humpy
 hums
@@ -18069,6 +18090,7 @@ husks
 hustle
 hustler
 hustlers
+hustles
 hut
 hutch
 hutches
@@ -18462,9 +18484,11 @@ impermeable
 impertinent
 impest
 impetrate
+impetuous
 impetus
 impetuses
 impi
+impieties
 imping
 impinge
 impinger
@@ -18490,7 +18514,11 @@ imposes
 imposition
 impositions
 impost
+imposthume
+imposthumes
 imposts
+impostume
+impostumes
 imprimatur
 imprint
 imprinting
@@ -21331,6 +21359,7 @@ lewises
 lewisite
 lex
 lexeme
+lexemes
 lexis
 ley
 leyline
@@ -22053,6 +22082,7 @@ lorises
 lorn
 lory
 lose
+losel
 loser
 losers
 loses
@@ -22097,6 +22127,7 @@ louses
 lousily
 lousy
 lout
+louts
 louver
 louvered
 louvre
@@ -22147,6 +22178,7 @@ lowries
 lows
 lowt
 lowth
+lowths
 lowy
 lox
 loyal
@@ -22216,6 +22248,7 @@ lumped
 lumpen
 lumper
 lumpier
+lumpiest
 lumps
 lumpsum
 lumpsums
@@ -22307,6 +22340,7 @@ luted
 lutein
 lutenist
 lutenists
+luteous
 lutes
 lutetium
 luteum
@@ -23857,6 +23891,7 @@ melomanic
 melon
 melons
 melopoeia
+melos
 mels
 melt
 meltabilities
@@ -23865,6 +23900,7 @@ melted
 meltemi
 melter
 meltier
+meltiest
 melton
 melts
 melty
@@ -24075,6 +24111,8 @@ mesoconch
 mesoconchic
 mesode
 mesodes
+mesole
+mesoles
 mesoline
 mesolines
 mesolite
@@ -24105,6 +24143,7 @@ mesostasis
 mesosternite
 mesosternites
 mesostethium
+mesostethiums
 mesple
 mesples
 mesto
@@ -25148,12 +25187,16 @@ mixed
 mixen
 mixer
 mixers
+mixes
 mixie
+mixies
 mixing
 mixis
 mixite
+mixites
 mixt
 mixte
+mixtes
 mixtil
 mixtry
 mixy
@@ -26131,6 +26174,8 @@ multiculti
 multicults
 multicuspid
 multidialectal
+multihit
+multihole
 multilaminate
 multilane
 multiline
@@ -26141,7 +26186,16 @@ multilocation
 multilocus
 multiman
 multip
+multiple
+multiples
+multiplet
+multiplets
+multiplex
+multiplexes
+multiplexities
 multiplicious
+multipole
+multipoles
 multips
 multiring
 multirotor
@@ -26340,6 +26394,8 @@ musher
 mushers
 mushie
 mushier
+mushies
+mushiest
 mushrat
 mushrats
 mushy
@@ -26382,6 +26438,7 @@ musterers
 musters
 musth
 mustier
+mustiest
 mustit
 musts
 musty
@@ -29085,6 +29142,7 @@ opas
 ope
 oped
 opelet
+opelets
 open
 openable
 opened
@@ -29192,6 +29250,7 @@ optimism
 optimist
 optimistic
 optimists
+optimities
 optimum
 optimuma
 optimums
@@ -29562,6 +29621,8 @@ osmic
 osmics
 osmiridium
 osmiridiums
+osmite
+osmites
 osmium
 osmol
 osmometer
@@ -29579,6 +29640,7 @@ osmunds
 osnaburg
 osone
 osones
+osophies
 osophy
 osteal
 osteitic
@@ -29621,6 +29683,8 @@ ostiary
 ostiate
 ostiolar
 ostiolate
+ostiole
+ostioles
 ostiolum
 ostiolums
 ostium
@@ -29806,6 +29870,7 @@ outhold
 outhomer
 outhouse
 outhouses
+outhowl
 outhumour
 outhumoured
 outie
@@ -29824,6 +29889,7 @@ outlay
 outleager
 outleap
 outlet
+outlets
 outlie
 outlier
 outliers
@@ -29901,6 +29967,8 @@ outshops
 outshot
 outshout
 outshouts
+outshow
+outshows
 outshut
 outshuts
 outsit
@@ -29909,6 +29977,8 @@ outskirt
 outskirts
 outsoar
 outsoars
+outsole
+outsoles
 outspat
 outspin
 outspins
@@ -29917,13 +29987,18 @@ outspits
 outspun
 outstart
 outstarts
+outstep
+outsteps
 outstink
 outstinks
 outstrike
 outstrikes
 outstruck
 outstunk
+outswim
+outswims
 outswore
+outswum
 outvote
 outvoted
 outwalk
@@ -29932,6 +30007,8 @@ outwatched
 outwear
 outwept
 outwit
+outwith
+outwits
 outwore
 outwork
 outworks
@@ -30269,6 +30346,7 @@ oxide
 oxies
 oxim
 oxime
+oximes
 oximide
 oxisol
 oxisols
@@ -31628,10 +31706,13 @@ pelites
 pelitic
 pelmeni
 pelmet
+pelmets
 peloid
 pelon
 pelons
 pelota
+pelouse
+pelouses
 pelt
 pelta
 peltae
@@ -31797,6 +31878,8 @@ pepino
 pepita
 pepitas
 peple
+peplos
+peploses
 peplum
 peplumed
 peplums
@@ -32086,6 +32169,10 @@ pester
 pesterer
 pesterers
 pesters
+pesthouse
+pesthouses
+pestle
+pestles
 pesto
 pests
 pesty
@@ -32118,6 +32205,12 @@ peterman
 petermen
 peters
 peticanon
+petiole
+petioles
+petiolule
+petiolules
+petiolus
+petioluses
 petit
 petite
 petitgrain
@@ -32233,7 +32326,10 @@ phis
 phish
 phit
 phiz
+phloem
 phlorol
+phlox
+phloxes
 pho
 phobe
 phobes
@@ -32569,6 +32665,7 @@ pies
 piet
 pieta
 pietic
+pieties
 pietra
 piets
 piety
@@ -32671,6 +32768,7 @@ pimpler
 pimples
 pimplier
 pimps
+pimpship
 pin
 pina
 pinacoid
@@ -32797,6 +32895,7 @@ piny
 pinyon
 pinyons
 piolet
+piolets
 pion
 pionic
 pions
@@ -32838,6 +32937,7 @@ piperonal
 pipers
 pipes
 pipestem
+pipestems
 pipet
 pipewort
 pipfruit
@@ -32972,6 +33072,7 @@ pitchouts
 pitchpole
 pitchpoled
 pitchy
+piteous
 pitful
 pith
 pithed
@@ -33032,7 +33133,9 @@ pivos
 piwari
 piwaris
 pix
+pixel
 pixie
+pixies
 pixilate
 pixilated
 pixy
@@ -33373,6 +33476,7 @@ plouk
 plouks
 plout
 plouting
+plouts
 plow
 plowable
 plowed
@@ -33416,10 +33520,13 @@ plume
 plumeau
 plumed
 plumelet
+plumelets
 plumes
 plumet
 plumete
+plumets
 plumier
+plumiest
 pluming
 plumous
 plump
@@ -33429,7 +33536,9 @@ plumpened
 plumpening
 plumpens
 plumper
+plumpest
 plumpier
+plumpiest
 plumps
 plumptitude
 plumpy
@@ -33441,6 +33550,7 @@ plumulas
 plumulate
 plumule
 plumules
+plumulose
 plumy
 plung
 plunging
@@ -33467,11 +33577,16 @@ pluripara
 pluriparas
 plus
 pluses
+plush
+plushie
+plushies
+plushiest
 plut
 plute
 pluteal
 plutei
 plutes
+pluteus
 plutie
 plutogog
 plutogogue
@@ -33552,8 +33667,11 @@ podus
 poem
 poemet
 poemets
+poemlet
+poemlets
 poems
 poena
+poephol
 poesis
 poesises
 poet
@@ -33574,6 +33692,8 @@ poetrizes
 poetrizing
 poetry
 poets
+poetship
+poetships
 pog
 poge
 pogh
@@ -33693,6 +33813,7 @@ polonga
 polonium
 polony
 polos
+poloses
 pols
 polt
 polted
@@ -33887,6 +34008,8 @@ pope
 popeing
 popeism
 popes
+popeship
+popeships
 popgun
 popguns
 popia
@@ -34079,6 +34202,8 @@ poseuse
 poseuses
 posey
 posh
+posho
+poshos
 posish
 posit
 position
@@ -34095,6 +34220,8 @@ posits
 positum
 positums
 posol
+posole
+posoles
 post
 postal
 postals
@@ -34110,12 +34237,16 @@ posthaste
 posthitis
 posthitises
 posthoc
+posthole
+postholes
 posthumous
 postiche
 postiches
 posticous
 posticum
 posticums
+postie
+posties
 postil
 postils
 postischaemic
@@ -34125,6 +34256,9 @@ postmitotics
 postpaid
 postpalatal
 postpalatals
+postpeople
+postpetiole
+postpetioles
 postpose
 postposes
 postposit
@@ -34225,6 +34359,9 @@ pouks
 poulard
 pouldron
 poule
+poules
+poulet
+poulets
 poulp
 poulpe
 poulps
@@ -34252,10 +34389,12 @@ pours
 pous
 pousada
 pousadas
+poustie
 pousy
 pout
 poutful
 poutier
+poutiest
 poutine
 pouting
 poutish
@@ -34276,6 +34415,7 @@ powises
 powlt
 pox
 poxes
+poxiest
 poxy
 poya
 poyas
@@ -42249,9 +42389,12 @@ shiverer
 shiverers
 shivers
 shivs
+shlemiel
+shlep
 shlock
 shlub
 shlubs
+shlump
 shmancy
 shmear
 shmears
@@ -42290,6 +42433,10 @@ shonk
 shonks
 shonky
 shop
+shophouse
+shophouses
+shoplet
+shoplets
 shops
 shore
 shores
@@ -42326,8 +42473,11 @@ shots
 shoud
 shoujo
 shounen
+shouse
+shouses
 shoush
 shout
+shoutiest
 shoutout
 shoutouts
 shouts
@@ -42336,11 +42486,16 @@ show
 showd
 showding
 showds
+showie
+showies
+showiest
 showing
 showings
 showman
 shown
 shows
+showtime
+showtimes
 shoyu
 shrank
 shrew
@@ -43082,6 +43237,9 @@ smithers
 smithery
 smithiantha
 smithianthas
+smithies
+smithite
+smithites
 smiths
 smithum
 smithy
@@ -43342,6 +43500,7 @@ soldi
 soldo
 sole
 solei
+soles
 soleus
 soli
 solicit
@@ -43360,6 +43519,8 @@ sols
 solstice
 solstices
 solus
+solute
+solutes
 solvable
 solvate
 solve
@@ -43710,6 +43871,7 @@ spicier
 spiciest
 spick
 spicy
+spiel
 spies
 spike
 spikes
@@ -44262,6 +44424,8 @@ stelar
 stele
 steles
 stem
+stemple
+stemples
 stems
 stemware
 stench
@@ -44282,6 +44446,8 @@ step
 stepin
 stepins
 stepmom
+stepmum
+stepmums
 steps
 stepsister
 stepsisters
@@ -44708,6 +44874,9 @@ stultifies
 stum
 stumer
 stumers
+stump
+stumpiest
+stumps
 stums
 stun
 stung
@@ -44730,6 +44899,8 @@ sturdy
 sturgeon
 sturgeons
 stush
+stushie
+stushies
 sty
 stye
 styes
@@ -45007,6 +45178,8 @@ sulfuric
 sulfurs
 sulk
 sulks
+sulphite
+sulphites
 sulphur
 sulphuric
 sulphurs
@@ -45029,7 +45202,9 @@ sumo
 sumos
 sump
 sumph
+sumphs
 sumps
+sumptuous
 sums
 sun
 sunbelt
@@ -45281,6 +45456,8 @@ swig
 swigs
 swim
 swims
+swimsuit
+swimsuits
 swimwear
 swindle
 swindles
@@ -46143,6 +46320,7 @@ telegrams
 teleguide
 teleguided
 telehealth
+teleioses
 teleiotic
 telekinesis
 telekinetic
@@ -46190,6 +46368,7 @@ telesthesia
 telestic
 teletalkie
 teletex
+teletext
 teletheatre
 telethermometer
 telethon
@@ -46207,6 +46386,7 @@ telewriters
 telewrites
 telewrote
 telex
+telexes
 telic
 telicity
 telnet
@@ -46215,6 +46395,7 @@ telnets
 teloi
 telomere
 telometer
+telos
 telson
 telsons
 tem
@@ -46237,6 +46418,7 @@ tempering
 tempers
 tempest
 tempests
+tempestuous
 tempi
 temping
 template
@@ -46701,6 +46883,7 @@ thithi
 tho
 thole
 tholed
+tholes
 tholing
 tholoi
 tholos
@@ -47001,6 +47184,9 @@ timelier
 timeline
 timelines
 timely
+timeous
+timeout
+timeouts
 timepiece
 timer
 timerity
@@ -48420,6 +48606,7 @@ tums
 tumuli
 tumult
 tumults
+tumultuous
 tumulus
 tun
 tuna
@@ -48531,6 +48718,7 @@ turves
 tusche
 tusches
 tush
+tushies
 tushy
 tusk
 tusker
@@ -48762,6 +48950,7 @@ ump
 umped
 umph
 umpie
+umpies
 umping
 umpire
 umpiring
@@ -51108,6 +51297,7 @@ wiltja
 wilts
 wily
 wimp
+wimpiest
 wimping
 wimple
 wimples
@@ -51184,6 +51374,7 @@ winy
 winze
 wipe
 wipeout
+wipeouts
 wiper
 wipes
 wiping
@@ -51244,7 +51435,9 @@ wither
 witherite
 withers
 withes
+withies
 within
+without
 wits
 wive
 wived
