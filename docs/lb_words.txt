@@ -447,6 +447,7 @@ achiever
 achieves
 achime
 achimenes
+aching
 achiote
 achiral
 achkan
@@ -499,6 +500,7 @@ acies
 acinaces
 acinaceses
 acinar
+acing
 acini
 acinic
 acinous
@@ -2430,9 +2432,11 @@ anglicizing
 angling
 angora
 angoras
+angrez
 angrier
 angrily
 angry
+anguine
 angular
 anhinga
 ani
@@ -2755,6 +2759,7 @@ apatite
 ape
 apeman
 apemen
+apercu
 aperient
 aperients
 aperies
@@ -6425,6 +6430,7 @@ caches
 cachet
 cachets
 cachexia
+caching
 cachou
 cachous
 cachucha
@@ -6476,6 +6482,7 @@ cage
 cages
 cagey
 cagier
+caging
 cagoule
 cagy
 cahier
@@ -6698,6 +6705,7 @@ canicular
 canid
 canine
 canines
+caning
 canister
 canisters
 canker
@@ -6772,6 +6780,7 @@ capelins
 caper
 caperer
 caperers
+capering
 capers
 capes
 capias
@@ -6983,11 +6992,13 @@ carn
 carnage
 carnal
 carnality
+carnaper
 carnation
 carnauba
 carne
 carnelian
 carnet
+carney
 carnie
 carnier
 carnies
@@ -7016,6 +7027,7 @@ carpets
 carphology
 carphone
 carpi
+carping
 carpology
 carpophore
 carport
@@ -7738,6 +7750,7 @@ chica
 chicane
 chicanery
 chicanes
+chicaning
 chicas
 chicer
 chicest
@@ -7801,6 +7814,7 @@ chimp
 chimps
 chin
 china
+chinagraph
 chinar
 chinas
 chinaware
@@ -7833,6 +7847,7 @@ chirp
 chirper
 chirpier
 chirpiest
+chirping
 chirps
 chirpy
 chiru
@@ -9318,6 +9333,7 @@ cranks
 cranky
 crans
 crap
+crape
 crapola
 craps
 crapy
@@ -9422,6 +9438,7 @@ crepe
 creperie
 creperies
 crepes
+crepey
 crepitant
 crept
 crepy
@@ -9497,7 +9514,9 @@ crinets
 cringe
 cringeling
 cringer
+cringier
 cringing
+cringy
 crining
 crinite
 crink
@@ -9762,12 +9781,14 @@ cuebid
 cueca
 cuecas
 cued
+cueing
 cueist
 cueists
 cuento
 cues
 cuesta
 cuestas
+cugine
 cui
 cuing
 cuish
@@ -9998,6 +10019,7 @@ cwtch
 cwtches
 cyan
 cyanic
+cyanine
 cyanitic
 cyanosis
 cyathia
@@ -12196,6 +12218,7 @@ ecbolic
 ecdysial
 ecdysis
 echelon
+echinacea
 echini
 echinoderm
 echiuran
@@ -12829,6 +12852,7 @@ enrapturing
 enrich
 enriched
 enriches
+enriching
 enrobe
 enrobed
 enrobes
@@ -13002,6 +13026,8 @@ eons
 eosin
 epact
 epacts
+eparch
+eparchy
 epazote
 epena
 epene
@@ -13020,8 +13046,10 @@ ephyra
 ephyrae
 epic
 epicanthic
+epicarp
 epicene
 epicenes
+epicerie
 epicist
 epicists
 epicrisis
@@ -13036,6 +13064,9 @@ epigoni
 epigram
 epigraph
 epigrapher
+epigraphic
+epigraphy
+epigyny
 epilate
 epilated
 epilator
@@ -13043,6 +13074,7 @@ epimer
 epimera
 epimeron
 epinephrine
+epiphanic
 epiphany
 epiphora
 epiphyses
@@ -13351,6 +13383,7 @@ etyma
 euchology
 euchre
 euchres
+euchring
 eucies
 eucrite
 eucy
@@ -13642,14 +13675,17 @@ eyebath
 eyeblack
 eyeblacks
 eyebolt
+eyecup
 eyed
 eyehole
+eyeing
 eyelet
 eyeleted
 eyelets
 eyelid
 eyeline
 eyeliner
+eyepiece
 eyer
 eyers
 eyes
@@ -13659,6 +13695,7 @@ eyeward
 eyewards
 eyewear
 eyewink
+eying
 eyot
 eyots
 eyra
@@ -15301,6 +15338,8 @@ gaunt
 gaunter
 gaur
 gaurs
+gauze
+gauzy
 gavage
 gave
 gavel
@@ -16023,6 +16062,7 @@ gracer
 gracers
 graces
 gracile
+gracing
 grackle
 grad
 gradable
@@ -16101,10 +16141,12 @@ granum
 grape
 grapefruit
 grapevine
+grapey
 graph
 grapheme
 graphene
 graphic
+graphicacy
 graphing
 graphite
 graphitic
@@ -16192,6 +16234,7 @@ greycoat
 greyer
 greyers
 greygle
+greying
 greyish
 greylag
 greyly
@@ -16383,6 +16426,7 @@ guilting
 guilty
 guimp
 guinea
+guineapig
 guineas
 guinep
 guipure
@@ -16426,6 +16470,7 @@ gunflint
 gunge
 gungeing
 gunges
+gungier
 gungiest
 gungy
 gunite
@@ -16481,7 +16526,9 @@ gyan
 gybing
 gym
 gymp
+gynaecea
 gynarchy
+gype
 gypsy
 gyral
 gyrate
@@ -16763,6 +16810,7 @@ hanging
 hangings
 hangman
 hangnail
+hangrier
 hangry
 hangs
 hangup
@@ -16810,6 +16858,9 @@ hapukus
 hapus
 harakiri
 haram
+harangue
+haranguer
+haranguing
 harbour
 harbourage
 harbourer
@@ -17002,6 +17053,7 @@ hawthorn
 hay
 haycock
 haycocks
+haying
 haymaker
 hayride
 hays
@@ -17416,6 +17468,7 @@ hidings
 hidrotic
 hie
 hied
+hieing
 hielaman
 hierarch
 hierarchic
@@ -17491,6 +17544,7 @@ hip
 hipcat
 hipcats
 hipe
+hipeing
 hiper
 hipes
 hiphop
@@ -18050,6 +18104,7 @@ hundo
 hung
 hunger
 hungering
+hungrier
 hunk
 hunks
 hunky
@@ -18133,6 +18188,9 @@ hydrophilicity
 hydrophily
 hydrophytic
 hyena
+hygiene
+hygienic
+hying
 hyla
 hylic
 hymn
@@ -18149,6 +18207,7 @@ hyperactivity
 hyperaesthetic
 hyperbaric
 hyperesthetic
+hypericin
 hypermiler
 hypernym
 hypernymy
@@ -18159,6 +18218,7 @@ hyphae
 hyphal
 hyphen
 hyphy
+hyping
 hypnotic
 hypo
 hypocotyl
@@ -18842,6 +18902,7 @@ ingulf
 ingulfing
 ingurgitating
 ingurgitation
+ingyne
 inhalant
 inhalants
 inhalation
@@ -19402,6 +19463,7 @@ iota
 iotas
 ipecac
 ipecacs
+ipecacuanha
 ipomoea
 ipomoeas
 ipsa
@@ -26800,6 +26862,8 @@ naps
 naptime
 naptimes
 napunia
+napunya
+napunyah
 nar
 nara
 narangies
@@ -27135,6 +27199,7 @@ nene
 nenes
 nenta
 nentas
+nenuphar
 nenyam
 neoantigen
 neoantigens
@@ -27195,6 +27260,7 @@ nepers
 nepeta
 nepetas
 nephew
+nephric
 nephrite
 nepotal
 neptunite
@@ -27435,6 +27501,7 @@ niceish
 nicer
 nicest
 niceties
+nicey
 niche
 niched
 nicher
@@ -30394,6 +30461,7 @@ pacers
 paces
 pacey
 pacha
+pachanga
 pachas
 pachisi
 pachuco
@@ -30403,6 +30471,7 @@ pachytene
 pachytic
 pacier
 paciest
+pacing
 pack
 package
 packager
@@ -30682,6 +30751,7 @@ panache
 panada
 panaesthesia
 panagraph
+panagraphic
 panagraphy
 panama
 panamas
@@ -30753,6 +30823,8 @@ pangen
 pangene
 pangeran
 pangram
+pangraphic
+panguingue
 panham
 panhandling
 pani
@@ -30867,6 +30939,7 @@ panurgy
 panyar
 panyaring
 panyars
+panzer
 paolo
 paolos
 pap
@@ -30913,6 +30986,7 @@ paperen
 paperer
 paperers
 paperful
+paperhanging
 papering
 papermaker
 papermakers
@@ -30968,6 +31042,7 @@ parachordal
 paraclinical
 paracme
 paracolic
+paracrine
 parading
 paradisiac
 paradisian
@@ -31012,6 +31087,7 @@ paramoudra
 paramour
 paranasal
 paranatal
+paranephric
 paranete
 parang
 parangi
@@ -31042,6 +31118,7 @@ paraphilic
 paraphonic
 paraphrast
 paraphrasts
+paraphrenic
 paraphs
 paraphyly
 paraplane
@@ -31092,6 +31169,7 @@ parcenary
 parcener
 parch
 parcher
+parching
 parcs
 pard
 pardao
@@ -31122,6 +31200,7 @@ parera
 pareras
 parerga
 parergal
+parergic
 parers
 pares
 pareses
@@ -31522,6 +31601,7 @@ paybobs
 payday
 paydirt
 payer
+paying
 payload
 payola
 payor
@@ -31547,7 +31627,9 @@ peachick
 peachicks
 peachier
 peachiest
+peaching
 peachy
+peacing
 peacoat
 peaeater
 peaeaters
@@ -31625,6 +31707,7 @@ pecan
 pecans
 pech
 peches
+peching
 pecia
 pecias
 peck
@@ -31923,6 +32006,7 @@ percher
 percheries
 perchery
 perches
+perching
 perchist
 perchists
 percipiencies
@@ -31969,6 +32053,7 @@ periaster
 periasters
 pericaecal
 pericarp
+pericarpic
 pericarps
 pericecal
 periegesis
@@ -31976,6 +32061,7 @@ periegesises
 periegete
 perienteric
 perigraph
+perigyny
 perihepatic
 perihepatitis
 perihilar
@@ -31986,6 +32072,7 @@ perilune
 perine
 perinea
 perineal
+perinephric
 perinerve
 perinerves
 perines
@@ -32489,6 +32576,7 @@ phrasal
 phrator
 phreak
 phreaker
+phrenic
 phrenotropic
 phthalate
 phthalo
@@ -32586,9 +32674,11 @@ picarian
 picaro
 picas
 pice
+picein
 picey
 pichi
 pichis
+picine
 pick
 pickage
 pickages
@@ -32633,11 +32723,13 @@ piece
 pieced
 piecen
 piecener
+piecening
 piecens
 piecer
 pieces
 piecey
 piecier
+piecing
 pied
 piedly
 piedra
@@ -32653,6 +32745,7 @@ pier
 pierage
 pierce
 piercer
+piercing
 pierid
 pierine
 pierines
@@ -32813,6 +32906,7 @@ pines
 pinesap
 pinesaps
 pineta
+piney
 pinfire
 ping
 pinga
@@ -34434,6 +34528,7 @@ prad
 pradhan
 prads
 praeauricular
+praecipe
 praecoracoid
 praecordia
 praelect
@@ -34502,6 +34597,7 @@ prawns
 prawny
 pray
 prayer
+praying
 prays
 pre
 preach
@@ -34511,6 +34607,7 @@ preachery
 preaches
 preachier
 preachiest
+preaching
 preachy
 preactivate
 preactivates
@@ -34622,6 +34719,8 @@ preparator
 prepare
 preparer
 preparing
+prepay
+prepaying
 prepend
 prepense
 preperitoneal
@@ -34637,6 +34736,7 @@ preprints
 preps
 prepster
 prepsters
+prepuce
 prepupa
 prepupal
 prequel
@@ -34728,6 +34828,7 @@ prewire
 prewiring
 prey
 preyer
+preying
 prez
 prial
 prials
@@ -34744,8 +34845,10 @@ pricelists
 pricer
 pricers
 prices
+pricey
 pricier
 priciest
+pricing
 prick
 pricker
 prickle
@@ -35575,6 +35678,7 @@ pungs
 pungur
 pungy
 punicin
+punicine
 punicins
 punier
 puniest
@@ -36205,6 +36309,7 @@ raciation
 racier
 raciest
 racily
+racing
 racino
 racinos
 raciology
@@ -36969,6 +37074,7 @@ reabridges
 reach
 reacher
 reaches
+reaching
 reachy
 reacquire
 react
@@ -37009,6 +37115,7 @@ reaginic
 reagitate
 reagitated
 reagitates
+reagreing
 reais
 reak
 reaks
@@ -37052,6 +37159,7 @@ reap
 reapable
 reaper
 reapers
+reaping
 reaps
 rear
 reard
@@ -37061,6 +37169,7 @@ rearers
 rearguard
 reargue
 reargues
+rearguing
 rearing
 rearise
 rearisen
@@ -37261,6 +37370,7 @@ rechew
 rechewed
 rechose
 rechosen
+recipe
 recipher
 recipience
 recipient
@@ -38172,6 +38282,7 @@ reng
 renga
 rengarenga
 rengs
+renguera
 renierite
 reniform
 renin
@@ -38226,6 +38337,7 @@ reorging
 reorgs
 rep
 repace
+repacing
 repack
 repackage
 repackages
@@ -38263,6 +38375,9 @@ repave
 repaving
 repawn
 repawns
+repay
+repayer
+repaying
 repeal
 repealable
 repealer
@@ -38306,6 +38421,7 @@ rephases
 repick
 repicks
 repiece
+repiecing
 repin
 repine
 repinement
@@ -38357,15 +38473,18 @@ repot
 repour
 repouring
 repray
+repraying
 reprays
 repreach
 repreaches
+repreaching
 represa
 represent
 representant
 representants
 represents
 reprice
+repricing
 reprick
 repricks
 reprieve
@@ -49136,6 +49255,7 @@ unguis
 unhand
 unhandy
 unhang
+unhanging
 unhasp
 unhasps
 unheard
@@ -49146,6 +49266,7 @@ unholy
 unhuman
 unhung
 unhurt
+unhygienic
 uni
 unibrow
 unica
@@ -49518,6 +49639,7 @@ unrailed
 unrainy
 unrake
 unraking
+unrang
 unrank
 unrated
 unreacted
@@ -49530,8 +49652,10 @@ unregenerate
 unregenerately
 unregeneration
 unregular
+unreigning
 unrein
 unreined
+unreining
 unreins
 unrelated
 unrelational
@@ -49544,8 +49668,10 @@ unremember
 unremote
 unrent
 unrented
+unrepaying
 unrepent
 unrepents
+unrepining
 unrepulsive
 unrequiter
 unreserve
@@ -49564,6 +49690,7 @@ unring
 unringing
 unrip
 unripe
+unripening
 unrips
 unrisen
 unritual
@@ -49701,6 +49828,7 @@ upon
 uprate
 uprates
 uprear
+uprearing
 uprears
 upright
 uprise
@@ -51719,6 +51847,7 @@ yantra
 yantras
 yap
 yaps
+yapunyah
 yarak
 yard
 yardang
@@ -51757,12 +51886,14 @@ yea
 yeah
 yeahs
 yean
+yeaning
 yeans
 year
 yeared
 yearly
 yearn
 yearner
+yearning
 years
 yeas
 yebo
@@ -51794,6 +51925,8 @@ yielded
 yike
 yikes
 yin
+yinz
+yinzer
 yip
 yipe
 yips
@@ -51968,6 +52101,7 @@ zhos
 zhush
 zhuzh
 zhuzhes
+zhuzhing
 zig
 zigs
 zigzag
