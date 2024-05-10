@@ -121,6 +121,8 @@ abiu
 abius
 abjad
 abjads
+abjud
+abjuror
 abkari
 ablate
 ablated
@@ -207,6 +209,8 @@ abouts
 above
 abox
 abracadabra
+abradant
+abradants
 abrade
 abraded
 abrader
@@ -299,6 +303,7 @@ abuelo
 abujad
 abulia
 abulic
+abundant
 abura
 aburas
 aburn
@@ -831,14 +836,22 @@ adjected
 adjectival
 adjective
 adjectived
+adjourn
+adjuratory
 adjure
 adjured
 adjurer
 adjuror
+adjurors
 adjust
 adjusts
+adjutant
+adjutants
 adjutator
+adjutators
 adjutor
+adjutors
+adjutory
 adland
 adlect
 adlected
@@ -934,6 +947,7 @@ adroit
 adroiter
 adroitly
 ads
+adsorb
 adstrata
 adsuki
 adsum
@@ -2730,6 +2744,7 @@ anyhow
 anyon
 anyone
 anyons
+anyroads
 anything
 anyway
 anywhen
@@ -2929,6 +2944,7 @@ arborvitae
 arbour
 arbours
 arbs
+arbutus
 arc
 arcade
 arcaded
@@ -3345,6 +3361,7 @@ aspirins
 asprawl
 asps
 astable
+astarboard
 astasia
 astatic
 astatine
@@ -3947,6 +3964,8 @@ bad
 bada
 badam
 badams
+badboy
+badboys
 bade
 badge
 badged
@@ -4009,6 +4028,7 @@ baiza
 baizas
 baize
 bajada
+bajadas
 baju
 bajus
 bake
@@ -4096,6 +4116,7 @@ bananas
 banausic
 band
 bandana
+bandanas
 bandh
 bandhs
 banding
@@ -4106,10 +4127,15 @@ bands
 bandsaw
 bandsaws
 bandsman
+bandstand
+bandstands
+bandura
+banduras
 bandwagon
 bandwagons
 bandwidth
 bandwidths
+bandy
 bane
 banes
 bang
@@ -4125,6 +4151,7 @@ banians
 banias
 banish
 banjo
+banjos
 bank
 bankability
 bankable
@@ -4254,6 +4281,8 @@ baritonal
 baritone
 barium
 bark
+barkada
+barkadas
 barked
 barkentine
 barkentines
@@ -4366,6 +4395,10 @@ basmati
 basque
 basques
 bast
+bastard
+bastardry
+bastards
+bastardy
 baste
 basted
 baster
@@ -4377,8 +4410,10 @@ bastnaesite
 bastnasite
 bat
 batard
+batards
 batata
 batboy
+batboys
 batch
 batches
 bate
@@ -5605,6 +5640,7 @@ bosies
 bosk
 bosker
 bosks
+bosky
 bosom
 bosomed
 bosoms
@@ -5665,6 +5701,7 @@ boult
 boulted
 boults
 bound
+boundary
 bounds
 bounteous
 bounty
@@ -5731,6 +5768,8 @@ boy
 boyar
 boyars
 boyau
+boyband
+boybands
 boyey
 boykin
 boyly
@@ -5741,6 +5780,7 @@ boys
 boysey
 boysy
 boytoy
+boytoys
 bozo
 bozos
 bra
@@ -5813,10 +5853,13 @@ branchline
 brand
 brandade
 branded
+brands
+brandy
 brane
 branes
 branigan
 branigans
+branks
 branle
 brant
 brants
@@ -5986,10 +6029,12 @@ broach
 broad
 broadax
 broadaxe
+broadband
 broadcast
 broadcasts
 broaden
 broadened
+broads
 broast
 broasts
 broch
@@ -6059,6 +6104,9 @@ bruiter
 bruiting
 bruits
 bruja
+brujas
+brujo
+brujos
 brule
 brules
 brulie
@@ -6206,6 +6254,7 @@ bunching
 bunco
 bund
 bundling
+bunds
 bundu
 bung
 bunger
@@ -6215,6 +6264,7 @@ bunion
 bunions
 bunk
 bunko
+bunks
 buns
 bunt
 buntal
@@ -6284,7 +6334,9 @@ burnet
 burnets
 burnin
 burning
+burnous
 burnout
+burnouts
 burns
 burnt
 burp
@@ -6296,12 +6348,14 @@ bursal
 bursar
 bursarial
 bursars
+bursary
 bursas
 burse
 burses
 bursitis
 burst
 bursts
+bursty
 burthen
 burton
 bury
@@ -6331,6 +6385,8 @@ busks
 bust
 bustamite
 bustamites
+bustard
+bustards
 busted
 buster
 bustian
@@ -6385,6 +6441,7 @@ byre
 byres
 byrnie
 byroad
+byroads
 byte
 bytes
 byway
@@ -10195,6 +10252,8 @@ dap
 daphnia
 daps
 darbies
+darbuka
+darbukas
 dare
 dared
 darer
@@ -10238,6 +10297,8 @@ dat
 data
 databack
 databacks
+databank
+databanks
 database
 databases
 datable
@@ -11778,6 +11839,7 @@ drama
 dramatic
 drams
 drank
+dranks
 drape
 draper
 drapy
@@ -11885,6 +11947,10 @@ drumler
 drums
 drumster
 drumsters
+drunk
+drunkard
+drunkards
+drunks
 drupe
 drupel
 drupelet
@@ -11961,6 +12027,7 @@ dugs
 duh
 duiker
 dujour
+dukun
 dulcamara
 dulce
 dulcet
@@ -11994,6 +12061,10 @@ dune
 dung
 dunging
 dunite
+dunk
+dunks
+dunktank
+dunktanks
 dunlin
 duns
 dunt
@@ -12023,6 +12094,7 @@ dural
 duras
 durative
 durbar
+durbars
 dure
 durene
 durgon
@@ -12037,6 +12109,9 @@ durst
 durum
 durwan
 durzi
+dusk
+dusks
+dusky
 dust
 dustbin
 dustbins
@@ -12077,10 +12152,14 @@ dyer
 dyers
 dyes
 dyn
+dynast
+dynasts
+dynasty
 dyne
 dyno
 dynoed
 dynoing
+dynos
 dysbiosis
 dzo
 dzos
@@ -19675,6 +19754,7 @@ jamuns
 jane
 janes
 jank
+janky
 jar
 jarhead
 jarl
@@ -19780,9 +19860,11 @@ jotas
 jots
 joual
 jouk
+jouks
 jour
 journal
 journo
+journos
 jours
 joust
 jousts
@@ -19791,6 +19873,7 @@ jowl
 jowly
 joy
 joyed
+joyous
 joys
 jua
 juba
@@ -19833,8 +19916,13 @@ jumpsuit
 jun
 juncture
 junctures
+junk
+junks
+junky
 junta
 juntas
+junto
+juntos
 jural
 jurat
 jurats
@@ -19941,6 +20029,7 @@ kangri
 kangris
 kantele
 kanuka
+kanukas
 kaolin
 kaolinic
 kaon
@@ -20000,6 +20089,8 @@ katipo
 katsina
 katsinam
 katsinas
+katsura
+katsuras
 katydid
 kaumatua
 kaupapa
@@ -20410,6 +20501,7 @@ knot
 knothole
 knots
 knotwork
+knoud
 knout
 knouts
 know
@@ -20528,6 +20620,8 @@ kronur
 krump
 krumper
 kuchen
+kudu
+kudus
 kuia
 kuias
 kukri
@@ -20547,6 +20641,8 @@ kumquat
 kumquats
 kuna
 kunas
+kund
+kunds
 kune
 kung
 kupapa
@@ -27983,6 +28079,8 @@ nonis
 nonism
 nonius
 noniuses
+nonjurant
+nonjury
 nonleaded
 nonlinear
 nonliteral
@@ -28137,6 +28235,7 @@ notation
 notational
 notative
 notator
+notators
 notch
 notched
 notcher
@@ -28342,6 +28441,7 @@ numpses
 numpties
 nun
 nunatak
+nunataks
 nunated
 nunation
 nunbird
@@ -28424,6 +28524,7 @@ nutational
 nutbar
 nutbars
 nutboy
+nutboys
 nutburger
 nutcake
 nutcase
@@ -28625,6 +28726,7 @@ obosoms
 obosum
 oboval
 oboy
+obround
 obscura
 obsidian
 obstat
@@ -29895,6 +29997,8 @@ outdate
 outdid
 outdo
 outdoer
+outdrank
+outdrunk
 outearn
 outearning
 outed
@@ -30052,6 +30156,9 @@ outspins
 outspit
 outspits
 outspun
+outstand
+outstands
+outstank
 outstart
 outstarts
 outstep
@@ -36546,6 +36653,7 @@ raiyats
 raj
 raja
 rajah
+rajas
 rake
 raked
 raker
@@ -39952,6 +40060,8 @@ robur
 roburite
 roburs
 robust
+robusta
+robustas
 robustest
 robustious
 roc
@@ -40289,6 +40399,7 @@ rotulet
 rotund
 rotunda
 rotundal
+rotundas
 rotundo
 roture
 rotures
@@ -40334,6 +40445,7 @@ rounce
 rouncy
 round
 roundabout
+roundabouts
 roundlet
 roundly
 roundman
@@ -40361,6 +40473,8 @@ rouses
 rousie
 rousies
 roust
+roustabout
+roustabouts
 rousts
 rout
 routable
@@ -40639,6 +40753,7 @@ rumules
 run
 runability
 runabout
+runabouts
 runagate
 runanga
 runaround
@@ -41117,7 +41232,12 @@ sandarac
 sandarach
 sandbag
 sandbags
+sandbank
+sandbanks
+sandbar
+sandbars
 sandboard
+sandboards
 sandboy
 sandhi
 sandhog
@@ -41131,6 +41251,7 @@ sandpits
 sands
 sandspit
 sandspits
+sandy
 sane
 saner
 sanest
@@ -41159,6 +41280,8 @@ sanitiser
 sanitisers
 sanitises
 sanity
+sanjak
+sanjaks
 sank
 sanpro
 sans
@@ -41198,6 +41321,8 @@ sapients
 saponin
 saponins
 saps
+saraband
+sarabands
 sarangi
 sarangis
 sarape
@@ -41309,6 +41434,7 @@ saturates
 satyr
 satyriasis
 satyric
+satyrs
 sauce
 saucer
 sauces
@@ -43021,6 +43147,7 @@ skanker
 skankier
 skankiest
 skanks
+skanky
 skarn
 skat
 skate
@@ -43115,6 +43242,7 @@ skort
 skorts
 skosh
 skries
+skronk
 skua
 skuas
 skulk
@@ -43595,6 +43723,7 @@ soil
 soils
 soily
 soit
+sojourn
 soju
 sojus
 soke
@@ -43702,6 +43831,8 @@ sonic
 sonica
 sonicator
 sonics
+sonobuoy
+sonobuoys
 sonofa
 sonofas
 sonolysis
@@ -44330,6 +44461,8 @@ stanchest
 stand
 standard
 standards
+standby
+standbys
 standi
 standin
 standpoint
@@ -44338,6 +44471,7 @@ stands
 standup
 standups
 stank
+stanky
 stans
 stapes
 staph
@@ -44348,12 +44482,17 @@ starbases
 starbeam
 starbeams
 starbirth
+starboard
+starboards
+starburst
+starbursts
 starch
 starcher
 starches
 starchier
 starchiest
 starchy
+stardust
 stare
 stared
 starer
@@ -44370,6 +44509,7 @@ starker
 starkers
 starkest
 starko
+starky
 starlet
 starlets
 starlit
@@ -44492,6 +44632,7 @@ statusy
 statute
 statuted
 statutes
+statutory
 stave
 staves
 stavesacre
@@ -44786,10 +44927,12 @@ storiers
 stories
 storing
 stork
+storks
 storm
 storms
 story
 storyboard
+storyboards
 stot
 stotin
 stotins
@@ -45140,6 +45283,8 @@ suborn
 suborns
 subrepent
 subrisive
+subrotund
+subround
 subs
 subsea
 subsense
@@ -45339,6 +45484,7 @@ sunbursts
 sundari
 sundri
 sundris
+sundry
 sundust
 sundusts
 sunfish
@@ -45717,6 +45863,7 @@ tab
 tabac
 tabacs
 tabard
+tabards
 tabaret
 tabarets
 tabes
@@ -46047,6 +46194,8 @@ taniwhas
 tank
 tanka
 tankage
+tankard
+tankards
 tankas
 tanker
 tankers
@@ -46113,6 +46262,7 @@ tarantism
 tarata
 taratas
 tarboy
+tarboys
 tard
 tardier
 tardily
@@ -46120,6 +46270,7 @@ tardive
 tardon
 tards
 tardy
+tardyon
 tare
 tares
 targa
@@ -46201,6 +46352,8 @@ tash
 tashes
 tashing
 task
+taskbar
+taskbars
 tasks
 tastable
 taste
@@ -47695,6 +47848,7 @@ tonight
 toning
 tonk
 tonka
+tonkatsu
 tonking
 tonkotsu
 tonks
@@ -47958,6 +48112,7 @@ toxocaras
 toxocariasis
 toy
 toyboy
+toyboys
 toyed
 toylike
 toyon
@@ -48780,6 +48935,7 @@ turbo
 turboprop
 turbos
 turbot
+turbots
 turbulent
 turd
 turds
@@ -48803,6 +48959,9 @@ turkeys
 turlough
 turn
 turnabout
+turnabouts
+turnaround
+turnarounds
 turned
 turner
 turners
@@ -48816,6 +48975,8 @@ turnkeys
 turnout
 turnouts
 turnover
+turnround
+turnrounds
 turns
 turnspit
 turnspits
@@ -49200,6 +49361,7 @@ undine
 undo
 undone
 undrawn
+undrunk
 undue
 undulant
 undulation
@@ -49366,6 +49528,7 @@ units
 unitude
 unity
 univalve
+unjoyous
 unjust
 unjustest
 unkent
@@ -49641,6 +49804,7 @@ unrake
 unraking
 unrang
 unrank
+unranks
 unrated
 unreacted
 unreal
@@ -49895,6 +50059,7 @@ uranography
 uranology
 uranotil
 uranotile
+uranous
 uranyl
 urate
 urates
@@ -51960,6 +52125,9 @@ yoick
 yoicking
 yoicks
 yoik
+yojan
+yojana
+yojanas
 yok
 yokable
 yokan
@@ -51992,6 +52160,7 @@ yorga
 york
 yorked
 yorker
+yorks
 yorling
 you
 young
