@@ -4806,6 +4806,7 @@ betrayed
 betrayer
 betrays
 betroth
+betroths
 bets
 beun
 bevan
@@ -5680,6 +5681,7 @@ botel
 botels
 boterol
 botew
+botews
 both
 bothan
 bothans
@@ -5771,6 +5773,7 @@ bows
 bowsaw
 bowsaws
 bowshot
+bowshots
 bowsie
 bowsies
 bowtel
@@ -6093,6 +6096,7 @@ brose
 broth
 brothel
 brother
+broths
 brought
 brouhaha
 brouhahas
@@ -6145,6 +6149,9 @@ brunt
 brush
 brushback
 brushbacks
+brushstroke
+brushstrokes
+brushwork
 brut
 brutal
 brutality
@@ -6223,6 +6230,7 @@ build
 builder
 built
 buko
+bukos
 bulb
 bulbar
 bulbil
@@ -12707,6 +12715,8 @@ emesis
 emetic
 emetics
 emetine
+emetophobe
+emetophobes
 emic
 emics
 emigrant
@@ -12779,6 +12789,7 @@ empting
 emption
 emptions
 emptor
+emptors
 empts
 empusa
 empusas
@@ -13177,6 +13188,7 @@ ephebic
 ephemera
 ephemeron
 ephor
+ephors
 ephyra
 ephyrae
 epic
@@ -18088,6 +18100,8 @@ horsemen
 horses
 horseshoe
 horseshoes
+horseshow
+horseshows
 horsey
 horsier
 horsiest
@@ -18146,9 +18160,12 @@ hotnots
 hotpant
 hotplate
 hotpot
+hotpots
 hotrod
 hotrods
 hots
+hotshoe
+hotshoes
 hotshot
 hotshots
 hotspot
@@ -18343,6 +18360,7 @@ hutch
 hutches
 hutia
 hutias
+hutkept
 hutlike
 huts
 hwyl
@@ -24409,6 +24427,7 @@ meseta
 mesetas
 mesh
 meshes
+meshwork
 mesia
 mesiad
 mesial
@@ -24426,6 +24445,7 @@ mesoconch
 mesoconchic
 mesode
 mesodes
+mesokurtoses
 mesole
 mesoles
 mesoline
@@ -24547,6 +24567,7 @@ meterist
 meters
 metes
 metestrum
+metestrus
 meth
 methai
 methanate
@@ -24583,8 +24604,10 @@ metics
 metier
 metiers
 meting
+metoestrus
 metol
 metope
+metopes
 metopion
 metopirone
 metopon
@@ -28911,6 +28934,7 @@ obsidian
 obstat
 obstinacy
 obstinancy
+obstruse
 obtain
 obtainable
 obtained
@@ -29617,6 +29641,7 @@ opts
 opuntia
 opuntioid
 opus
+opuses
 opzit
 ora
 orach
@@ -29910,6 +29935,7 @@ orthophonic
 orthophony
 orthophoria
 orthophoto
+orthophotos
 orthopinacoid
 orthoploid
 orthopod
@@ -30017,6 +30043,7 @@ osteomas
 osteon
 osteone
 osteons
+osteopetroses
 osteosyntheses
 osteotome
 osteotomes
@@ -32656,6 +32683,7 @@ petitions
 petitive
 petits
 peto
+petos
 petraean
 petraries
 petrary
@@ -32773,6 +32801,8 @@ phocas
 phocid
 phocids
 phocoid
+phoebe
+phoebes
 pholad
 pholadid
 pholadoid
@@ -32852,6 +32882,7 @@ photocopy
 photodiode
 photodrama
 photoed
+photoes
 photofit
 photog
 photoglyph
@@ -32882,6 +32913,8 @@ photopathy
 photophil
 photophilic
 photophily
+photophob
+photophobe
 photophone
 photophonic
 photophore
@@ -32899,16 +32932,22 @@ photoptic
 photoreaction
 photos
 photoscopic
+photoset
+photosets
 phototactic
 phototonic
 phototopographic
 phototopography
+phototrope
+phototropes
 phototroph
 phototrophic
 phototrophs
 phototrophy
 phototropic
 phototropy
+phototube
+phototubes
 phototypic
 phototypist
 phototypists
@@ -32931,6 +32970,7 @@ phthanite
 phthisic
 phthisis
 phub
+phubs
 phulkari
 phulwa
 phulwara
@@ -34549,6 +34589,7 @@ porions
 porite
 pork
 porket
+porkets
 porking
 porkling
 porkpie
@@ -34563,6 +34604,8 @@ poroporoaki
 poroporos
 pororoca
 pororocas
+porose
+poroses
 porosis
 porosity
 porotic
@@ -34649,6 +34692,7 @@ ports
 portuis
 porty
 porus
+poruses
 pory
 pos
 posada
@@ -34658,6 +34702,8 @@ pose
 poses
 poset
 posets
+poseur
+poseurs
 poseuse
 poseuses
 posey
@@ -35414,9 +35460,11 @@ probating
 probative
 probe
 probed
+probes
 probie
 probing
 probit
+probs
 procacity
 procain
 procarp
@@ -35445,6 +35493,7 @@ prods
 proem
 proemial
 proemium
+proems
 proepimeron
 prof
 profile
@@ -35472,6 +35521,7 @@ progun
 proing
 proings
 proke
+prokes
 proking
 prolamin
 prolan
@@ -35567,6 +35617,7 @@ prophet
 prophetic
 prophetry
 propho
+prophos
 propidium
 propine
 propione
@@ -35603,6 +35654,8 @@ proportioning
 proportions
 proports
 propos
+propose
+proposes
 proposita
 propositas
 propound
@@ -35634,6 +35687,7 @@ propugns
 propupa
 propupas
 propus
+propuses
 propyl
 propyla
 propylic
@@ -35656,6 +35710,8 @@ prorogues
 proroguing
 proruption
 pros
+prose
+proses
 prosist
 prosists
 prosit
@@ -35695,12 +35751,16 @@ protend
 protended
 protention
 protentional
+proteose
+proteoses
 proter
 proteron
 protest
 protestor
 protestors
 protests
+proteus
+proteuses
 protext
 prothonotarial
 prothonotariat
@@ -35811,8 +35871,10 @@ provosts
 provostship
 provostships
 prow
+prowk
 prowl
 prowler
+prows
 prude
 prudist
 prudists
@@ -35963,6 +36025,10 @@ pujas
 puka
 pukana
 pukas
+puke
+pukeko
+pukekos
+pukes
 puku
 pukus
 puky
@@ -36207,6 +36273,8 @@ purples
 purply
 purport
 purports
+purpose
+purposes
 purposivism
 purposivisms
 purposivist
@@ -36282,6 +36350,7 @@ putin
 putins
 putlog
 puto
+putos
 putout
 putouts
 putrefied
@@ -40627,6 +40696,7 @@ roscoes
 rose
 roseal
 roseate
+rosebush
 rosed
 rosein
 roseine
@@ -43066,6 +43136,10 @@ shortstops
 shorty
 shosha
 shot
+shote
+shotes
+shotput
+shotputs
 shots
 shoud
 shoujo
@@ -44211,6 +44285,7 @@ sophistic
 sophists
 sophs
 sopor
+soporose
 sops
 sora
 soras
@@ -45115,6 +45190,8 @@ stevia
 stevias
 stew
 stewartries
+stewpot
+stewpots
 stews
 stf
 stibnite
@@ -45268,6 +45345,7 @@ stopes
 stoplist
 stoplists
 stops
+stopwork
 storage
 storax
 store
@@ -45670,6 +45748,8 @@ substates
 substitute
 substituted
 substitutes
+substorm
+substorms
 subsume
 subsumed
 subsumes
@@ -47532,6 +47612,8 @@ thoroughbred
 thoroughgoer
 thoroughly
 thorp
+thorpe
+thorpes
 thorps
 those
 thot
@@ -48455,6 +48537,8 @@ townswoman
 townward
 towny
 towpath
+towrope
+towropes
 tows
 towy
 tox
@@ -49003,6 +49087,8 @@ trophal
 trophic
 trophical
 trophotropic
+trophus
+trophuses
 trophy
 tropic
 tropical
@@ -49164,6 +49250,8 @@ tube
 tubed
 tuber
 tubes
+tubeworm
+tubeworms
 tubful
 tubing
 tubs
@@ -50361,6 +50449,7 @@ uproar
 uproarious
 uproariously
 uproars
+uprose
 uprush
 ups
 upset
@@ -52167,6 +52256,8 @@ workrates
 works
 worksite
 worksites
+worktop
+workup
 workwear
 workwise
 workwoman
@@ -52183,6 +52274,7 @@ worm
 wormer
 wormers
 worming
+worms
 worn
 wors
 worse
