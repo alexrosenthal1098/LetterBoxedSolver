@@ -2517,6 +2517,7 @@ ankhs
 ankle
 anklebone
 ankled
+ankles
 anklet
 anklets
 ankling
@@ -2897,6 +2898,7 @@ aquaria
 aquarium
 aquariums
 aquatic
+aqueous
 aquifer
 aquorin
 araba
@@ -3042,6 +3044,7 @@ areolae
 areolar
 areolate
 areole
+areoles
 areophane
 arepa
 arepas
@@ -3596,6 +3599,7 @@ aulicisms
 aulnage
 aulnager
 aulos
+auloses
 aum
 aumbries
 aumbry
@@ -3619,6 +3623,7 @@ aureate
 aurei
 aureola
 aureole
+aureoles
 aureus
 auric
 auricle
@@ -12914,6 +12919,7 @@ enervate
 enervator
 enfant
 enfleurage
+enflurane
 enforce
 enforces
 engage
@@ -13378,6 +13384,7 @@ esecurity
 eserine
 eses
 esker
+eskers
 eskies
 esky
 espies
@@ -13946,6 +13953,8 @@ faiths
 faithwise
 fake
 faker
+fakers
+fakes
 fakir
 fakirs
 falafel
@@ -13995,7 +14004,9 @@ fanal
 fanals
 fancier
 fane
+fanes
 fanfare
+fanfares
 fanfic
 fang
 fanged
@@ -14003,6 +14014,7 @@ fanging
 fangirl
 fango
 fankle
+fankles
 fans
 fansite
 fansites
@@ -14020,6 +14032,7 @@ fard
 fardel
 fare
 fared
+fares
 farfel
 farfels
 farina
@@ -14111,7 +14124,9 @@ favrile
 fawn
 fawned
 fawner
+fawners
 fawning
+fawns
 fax
 faxing
 fay
@@ -14624,9 +14639,14 @@ fledged
 flench
 flencher
 flenching
+flense
+flenser
+flensers
+flenses
 fleur
 fleuron
 flew
+flews
 flex
 flexible
 flexile
@@ -14687,13 +14707,16 @@ flour
 floured
 flourier
 flouring
+flours
 flout
 flouted
 flouting
 flow
 flower
 flowerer
+flowerers
 flowerier
+flowers
 flowline
 flown
 flows
@@ -14713,6 +14736,8 @@ fluidity
 fluidly
 flume
 flung
+flunk
+flunks
 fluor
 fluorene
 fluoride
@@ -14801,6 +14826,7 @@ foliole
 folios
 folium
 folk
+folks
 foment
 fomenter
 fomenting
@@ -14908,12 +14934,14 @@ fourfold
 fours
 foursome
 foursomes
+foursquare
 fourth
 fovea
 foveae
 foveate
 fowl
 fowler
+fowlers
 fowls
 foyaite
 fracas
@@ -14969,6 +14997,7 @@ fray
 fraying
 frays
 freak
+freaks
 freight
 french
 frenching
@@ -14979,6 +15008,7 @@ frequenter
 fresco
 frescoes
 frescos
+fresnel
 fret
 fretboard
 fretful
@@ -15103,6 +15133,7 @@ fulgour
 fulgural
 fulgurating
 fulguration
+fulk
 fulmar
 fulmars
 fulmen
@@ -15110,6 +15141,7 @@ fulth
 fulvic
 fulvid
 fulwa
+fulwara
 fulyie
 fumaric
 fumarole
@@ -15155,7 +15187,10 @@ funicle
 funis
 funises
 funk
+funker
+funkers
 funkiest
+funks
 funky
 funs
 funsie
@@ -15209,6 +15244,9 @@ fusain
 fusaria
 fusarium
 fusariums
+fuse
+fusel
+fuses
 fusil
 fusilier
 fusiliers
@@ -20294,6 +20332,7 @@ kempt
 ken
 kena
 kenaf
+kenafs
 kendo
 keno
 kenosis
@@ -20321,6 +20360,7 @@ kerbs
 kereru
 kererus
 kerf
+kerfs
 kermes
 kermis
 kermises
@@ -21371,6 +21411,7 @@ leaguered
 leak
 leaked
 leaker
+leakers
 leakier
 leaks
 leaky
@@ -22174,11 +22215,14 @@ loaded
 loads
 loaf
 loafing
+loafs
 loam
 loan
 loanable
 loaned
 loaner
+loaners
+loans
 loas
 loath
 loathe
@@ -22479,6 +22523,8 @@ lowen
 lower
 lowerable
 lowerer
+lowerers
+lowers
 lowes
 lowest
 lowies
@@ -22490,6 +22536,7 @@ lowlily
 lowly
 lown
 lowns
+lowres
 lowrie
 lowries
 lows
@@ -22593,6 +22640,8 @@ lunging
 lungis
 lunitidal
 lunk
+lunker
+lunkers
 lunks
 lunula
 lunulae
@@ -22626,6 +22675,7 @@ luring
 lurk
 lurked
 lurker
+lurkers
 lurkman
 lurks
 lurs
@@ -27296,6 +27346,7 @@ nauseam
 nauseant
 nauseate
 nauseates
+nauseous
 nautanki
 nautch
 nautic
@@ -27573,6 +27624,7 @@ nerdier
 nereid
 nerf
 nerfing
+nerfs
 nerine
 nerines
 nerite
@@ -27728,6 +27780,7 @@ newscast
 newscaster
 newscasters
 newscasts
+newsful
 newsie
 newsier
 newsies
@@ -28791,6 +28844,7 @@ oafdom
 oafish
 oafo
 oafos
+oafs
 oak
 oaked
 oaken
@@ -29251,6 +29305,7 @@ okimono
 okimonos
 oking
 okole
+okoles
 okoume
 okoumes
 okra
@@ -30148,6 +30203,7 @@ ouroboric
 ouroboros
 ouroboroses
 ours
+ourself
 oursin
 oursins
 ous
@@ -30664,6 +30720,7 @@ ovuline
 ovulum
 ovum
 oware
+owares
 owari
 owe
 owed
@@ -30695,6 +30752,7 @@ ownests
 owning
 ownio
 owns
+ownself
 ownsome
 owrie
 owt
@@ -36516,6 +36574,7 @@ qualmy
 qualtagh
 qualy
 quank
+quanks
 quant
 quantic
 quantifier
@@ -36557,6 +36616,7 @@ quaverers
 quavers
 quaw
 quawk
+quaws
 quay
 qubit
 que
@@ -36578,6 +36638,7 @@ querencia
 querent
 querier
 quern
+querulous
 queso
 quest
 questor
@@ -37220,6 +37281,7 @@ ranking
 rankinite
 rankish
 rankle
+rankles
 rankling
 rankly
 ranks
@@ -37465,6 +37527,7 @@ raupo
 raurakau
 raureka
 raurekau
+raurekaus
 raurikau
 rauriki
 rauwacke
@@ -37697,6 +37760,8 @@ reavow
 reavowed
 reawake
 reawaken
+reawakens
+reawakes
 reawoke
 rebab
 rebabs
@@ -38624,11 +38689,14 @@ relive
 relo
 reload
 reloan
+reloans
 relocatable
 relocate
 relocator
 relock
 relodge
+reloes
+relos
 relove
 reloved
 relucent
@@ -39134,6 +39202,8 @@ resegregated
 resegregates
 reselect
 reselects
+reself
+reselfs
 resensitise
 resent
 resenter
@@ -39233,6 +39303,8 @@ resmiles
 resoil
 resoils
 resol
+resole
+resoles
 resolicit
 resolicits
 resols
@@ -39337,6 +39409,7 @@ resume
 resumer
 resumers
 resumes
+resunk
 resupine
 resurge
 resurges
@@ -41065,7 +41138,9 @@ rueful
 rueing
 rues
 ruesome
+rufous
 rufus
+rufuses
 rug
 ruga
 rugal
@@ -41207,6 +41282,8 @@ rungs
 runic
 runiform
 runish
+runkle
+runkles
 runlet
 runlets
 runo
@@ -42310,6 +42387,8 @@ seabream
 seacock
 seafan
 seafans
+seafarer
+seafarers
 seakale
 seal
 sealable
@@ -42336,6 +42415,8 @@ seance
 seances
 seaplane
 seaplanes
+seaquake
+seaquakes
 sear
 search
 searcher
@@ -42465,6 +42546,8 @@ selenite
 selenites
 selenitic
 selenium
+self
+selfs
 selkie
 selkies
 selva
@@ -43570,6 +43653,7 @@ skaldic
 skalds
 skank
 skanker
+skankers
 skankier
 skankiest
 skanks
@@ -43591,6 +43675,7 @@ skegs
 skein
 skeins
 skelf
+skelfs
 skene
 skenes
 skenkle
@@ -43606,6 +43691,7 @@ skew
 skewed
 skewer
 skewering
+skewers
 skews
 ski
 skiable
@@ -43663,6 +43749,8 @@ skiving
 skoal
 skobe
 skobes
+skof
+skofs
 skol
 skort
 skorts
@@ -43974,6 +44062,7 @@ snarers
 snares
 snarf
 snarfle
+snarfles
 snarfs
 snaring
 snark
@@ -44138,6 +44227,7 @@ sods
 soebak
 soever
 sofa
+sofar
 sofas
 soft
 softa
@@ -44174,6 +44264,7 @@ soldi
 soldo
 sole
 solei
+solera
 soles
 soleus
 soli
@@ -44192,6 +44283,7 @@ solos
 sols
 solstice
 solstices
+solunar
 solus
 solute
 solutes
@@ -44355,6 +44447,7 @@ soulaces
 soular
 souler
 soulers
+soulful
 soulie
 soulies
 soulifies
@@ -44791,6 +44884,7 @@ squats
 squeak
 squeaker
 squeakers
+squeaks
 squib
 squibs
 squid
@@ -45870,9 +45964,12 @@ sulcus
 sulfa
 sulfamic
 sulfur
+sulfureous
 sulfuric
 sulfurs
 sulk
+sulker
+sulkers
 sulks
 sulphite
 sulphites
@@ -45920,15 +46017,21 @@ sundry
 sundust
 sundusts
 sunfish
+sunflower
+sunflowers
 sung
 suni
 sunis
 sunk
 sunken
+sunker
+sunkers
 sunlet
 sunlets
 sunlit
 sunomono
+sunquake
+sunquakes
 sunray
 sunrays
 sunrise
@@ -46025,6 +46128,7 @@ surety
 surf
 surfari
 surfie
+surfs
 surge
 surgery
 surges
@@ -46100,6 +46204,7 @@ swandri
 swandris
 swank
 swankier
+swanks
 swans
 swansong
 swansongs
@@ -46108,6 +46213,7 @@ swaps
 sward
 swards
 sware
+swarf
 swarm
 swarmer
 swarmers
@@ -50009,6 +50115,7 @@ unlawful
 unlay
 unlead
 unleaf
+unleafs
 unlean
 unlearn
 unlearned
@@ -50330,14 +50437,17 @@ unsent
 unsentimental
 unset
 unsets
+unsewn
 unshaken
 unship
 unships
 unshod
 unshorn
+unsnarl
 unsold
 unsolvable
 unsound
+unsown
 unspent
 unsprung
 unstep
@@ -51525,6 +51635,7 @@ wakened
 wakening
 wakens
 waker
+wakers
 wakes
 waking
 waldo
@@ -51699,6 +51810,9 @@ watery
 wats
 waul
 waulk
+waulker
+waulkers
+waulks
 wauls
 waur
 waurs
@@ -51834,6 +51948,7 @@ wept
 were
 werewolf
 werf
+werfs
 wero
 wersh
 wert
@@ -52203,6 +52318,7 @@ woke
 woken
 woker
 wokest
+woks
 wold
 wolf
 wolfs
@@ -52334,6 +52450,7 @@ wraths
 wreak
 wreaker
 wreakers
+wreaks
 wreath
 wreathe
 wreathed
