@@ -117,6 +117,7 @@ abilitated
 abilitates
 abilities
 ability
+abiotrophy
 abiu
 abius
 abjad
@@ -246,6 +247,7 @@ abroad
 abrogate
 abrogating
 abrogation
+abrogator
 abrupt
 abruption
 abs
@@ -322,6 +324,8 @@ aby
 abye
 abyes
 abying
+abysm
+abysms
 acacia
 acacias
 acacin
@@ -1369,6 +1373,7 @@ agons
 agony
 agora
 agorae
+agoras
 agorot
 agoroth
 agouti
@@ -1394,6 +1399,7 @@ agriscientists
 agroecological
 agrogorod
 agrology
+agrostography
 aground
 agrum
 agrupation
@@ -1478,6 +1484,7 @@ aionial
 aionian
 air
 airbag
+airbags
 airbase
 airbases
 airbed
@@ -1510,6 +1517,7 @@ airframe
 airframes
 airglow
 airgraph
+airgraphs
 airgun
 airhead
 airheaded
@@ -2274,6 +2282,9 @@ amperage
 ampere
 amperes
 amphimictic
+amphipath
+amphipaths
+amphipathy
 amphiuma
 amphora
 amping
@@ -2302,6 +2313,7 @@ amused
 amusement
 amuses
 amyl
+amyotrophy
 ana
 anabases
 anabasis
@@ -2873,8 +2885,11 @@ aporias
 aposiopeses
 aposiopesis
 aposiopetic
+apostasy
 apothem
 apotropaic
+apotropaism
+apotropaisms
 apriori
 apron
 apropos
@@ -2931,6 +2946,7 @@ aramids
 arancini
 araneid
 arapaima
+arapaimas
 arational
 araucaria
 araucarias
@@ -3069,6 +3085,7 @@ argol
 argon
 argonaut
 argosies
+argosy
 argot
 argots
 arguably
@@ -3150,6 +3167,8 @@ armor
 armorer
 armorers
 armorial
+armorist
+armorists
 armors
 armory
 armour
@@ -3217,12 +3236,17 @@ arthritis
 arthrodia
 arthrodial
 arthrodynia
+arthrogram
+arthrograms
+arthrography
+arthrogryposis
 arthropathic
 arthropathy
 arthropod
 arthropodin
 arthroses
 arthrosis
+arthrotomy
 arthrozoic
 artiad
 artiads
@@ -3327,6 +3351,7 @@ ashtanga
 ashtray
 ashtrays
 ashy
+asiago
 aside
 asides
 asinine
@@ -3408,6 +3433,10 @@ astray
 astrocyte
 astrocytes
 astrocytic
+astrogator
+astrograph
+astrographs
+astrography
 astroid
 astroids
 astroite
@@ -3484,6 +3513,7 @@ atomics
 atomise
 atomised
 atomises
+atomism
 atomist
 atomists
 atoms
@@ -3932,10 +3962,12 @@ babushkas
 baby
 babydom
 babygym
+babygyms
 babying
 babymama
 babymamas
 babysat
+babyship
 babysit
 babysits
 babytalk
@@ -4013,6 +4045,7 @@ bagman
 bagnio
 bagnios
 bags
+bagsy
 bagua
 bah
 bahada
@@ -4329,6 +4362,10 @@ barn
 barnet
 barnets
 barns
+barogram
+barograms
+barograph
+barographs
 baron
 baronet
 baronetage
@@ -4922,6 +4959,7 @@ bigeye
 bigha
 bighas
 bight
+bights
 bigly
 bignonia
 bignonias
@@ -4929,6 +4967,7 @@ bigonial
 bigos
 bigot
 bigotry
+bigots
 bigram
 bigrams
 bigs
@@ -5043,6 +5082,11 @@ biog
 biogas
 biogen
 biogeny
+biograph
+biographist
+biographists
+biographs
+biography
 biogs
 bioherm
 bioimaging
@@ -5082,6 +5126,9 @@ biotite
 biotites
 biotitic
 biotope
+biotroph
+biotrophs
+biotrophy
 biowar
 biowarfare
 bioyogurt
@@ -5124,6 +5171,8 @@ biros
 birse
 birth
 birther
+birthright
+birthrights
 births
 birthwort
 birthworts
@@ -5478,6 +5527,7 @@ bog
 bogan
 bogans
 bogart
+bogarts
 bogey
 bogie
 bogies
@@ -5641,6 +5691,8 @@ boreks
 borer
 borers
 bores
+borgata
+borgatas
 boric
 boride
 boring
@@ -6015,6 +6067,8 @@ brigaded
 brigades
 brigadier
 brigadiers
+bright
+brights
 brigs
 brim
 brimful
@@ -6085,6 +6139,7 @@ bromate
 brome
 bromeliad
 bromic
+bromism
 bronc
 bronchi
 bronchia
@@ -6469,6 +6524,8 @@ byes
 bygone
 bylaw
 byline
+bypath
+bypaths
 byre
 byres
 byrnie
@@ -15467,6 +15524,7 @@ garb
 garba
 garbage
 garbagy
+garbarator
 garbas
 garbing
 garble
@@ -15518,11 +15576,13 @@ gases
 gash
 gashing
 gashly
+gashy
 gasman
 gasohol
 gasp
 gasps
 gaspy
+gastrostomy
 gat
 gate
 gateau
@@ -15572,6 +15632,7 @@ gawps
 gay
 gayal
 gayatri
+gayatris
 gayatry
 gaydar
 gaydiang
@@ -15859,6 +15920,7 @@ gimlets
 gimp
 gimped
 gimping
+gimpy
 gin
 ginch
 ginestra
@@ -15928,6 +15990,8 @@ girths
 girthy
 girts
 gis
+gismo
+gismos
 gist
 gists
 git
@@ -16330,6 +16394,7 @@ grains
 grainy
 gram
 gramp
+grampy
 grams
 gran
 grana
@@ -16386,6 +16451,7 @@ graphite
 graphitic
 graphitize
 graphology
+graphs
 grapier
 grapy
 gras
@@ -16429,6 +16495,7 @@ graylag
 grayling
 grayly
 grayout
+grays
 graze
 grazer
 grazers
@@ -16505,6 +16572,7 @@ grimier
 grimiest
 griming
 grimoire
+grimy
 grin
 grinch
 grind
@@ -16553,6 +16621,7 @@ groins
 grok
 groks
 grom
+groms
 grope
 groped
 groper
@@ -16768,6 +16837,7 @@ gyan
 gybing
 gym
 gymp
+gyms
 gynaecea
 gynarchy
 gype
@@ -16783,6 +16853,7 @@ gyri
 gyring
 gyro
 gyron
+gyros
 hab
 habanera
 habeas
@@ -17723,6 +17794,8 @@ hies
 hifi
 hifis
 high
+highboy
+highboys
 highchair
 highchairs
 higher
@@ -17732,6 +17805,7 @@ highlife
 highlight
 highlighting
 highly
+highmost
 highpad
 highs
 hight
@@ -17818,7 +17892,13 @@ histic
 histioid
 histoblast
 histoblasts
+histogram
+histograms
+histograph
+histographs
+histography
 histoid
+histomap
 histometabases
 histometabasis
 historian
@@ -17828,6 +17908,10 @@ historician
 historicians
 historicist
 historicists
+historiograph
+historiographs
+historiography
+historiosophy
 historist
 historists
 history
@@ -18470,6 +18554,7 @@ hyping
 hypnotic
 hypo
 hypocotyl
+hypogastria
 hypogonadal
 hypoid
 hypophyses
@@ -18477,6 +18562,7 @@ hypophysis
 hypopnea
 hyporheic
 hypos
+hypostasis
 hypotactic
 hypotonia
 hypotrophy
@@ -18712,6 +18798,7 @@ imagist
 imagists
 imago
 imagos
+imagy
 imam
 imamate
 imamates
@@ -18773,6 +18860,7 @@ impark
 impart
 impartial
 imparts
+impasto
 impatiens
 impatient
 impeach
@@ -18810,6 +18898,7 @@ impinger
 impinging
 impious
 impis
+impish
 implacable
 implant
 implantable
@@ -18826,6 +18915,7 @@ impoldered
 impolitic
 import
 importing
+imports
 impose
 imposes
 imposition
@@ -18833,6 +18923,7 @@ impositions
 impost
 imposthume
 imposthumes
+impostor
 imposts
 impostume
 impostumes
@@ -19814,6 +19905,7 @@ isocline
 isoclines
 isoclinic
 isocyanic
+isogamy
 isohel
 isohels
 isohyet
@@ -22964,6 +23056,7 @@ magnetophon
 magnetophone
 magnum
 magot
+magots
 magret
 magrets
 mags
@@ -23580,13 +23673,19 @@ margarites
 margarodid
 margate
 margates
+margay
+margays
 marge
 marges
 margin
 margining
 margo
+margos
+margosa
+margosas
 margrave
 margravine
+margs
 maria
 mariachi
 mariachis
@@ -23595,9 +23694,12 @@ maricon
 maricons
 marid
 marids
+marigot
+marigots
 marigram
 marigrams
 marigraph
+marigraphs
 maril
 marimay
 marimba
@@ -23620,6 +23722,7 @@ marinise
 marinises
 marinorama
 marinoramas
+mariposa
 mariscos
 marish
 marishes
@@ -23702,6 +23805,7 @@ marsilea
 marsquake
 mart
 martabani
+marthy
 martial
 martin
 martini
@@ -23763,6 +23867,7 @@ mashuas
 mashup
 mashups
 mashwa
+mashy
 mask
 masks
 maslin
@@ -23805,6 +23910,7 @@ mastmen
 mastoid
 mastoiditis
 mastoids
+mastopathy
 masts
 masty
 masu
@@ -24011,6 +24117,7 @@ mayoral
 mayorial
 mayory
 mayos
+maypop
 mays
 mayst
 maythe
@@ -24909,6 +25016,7 @@ migrated
 migrates
 migration
 migrator
+migratory
 mihanere
 mihi
 mihied
@@ -25250,6 +25358,7 @@ mirador
 mirage
 miraged
 mirages
+miragy
 mirah
 mirasdar
 mirasdars
@@ -25308,6 +25417,8 @@ misal
 misanswer
 misanswers
 misantir
+misbirth
+misbirths
 misborn
 misborns
 misbound
@@ -25440,6 +25551,9 @@ misnotes
 misnurture
 misnurtures
 miso
+misogamist
+misogamists
+misogamy
 misomusist
 misomusists
 misoneism
@@ -25448,6 +25562,7 @@ misoneist
 misoneists
 misosophist
 misosophists
+misosophy
 misper
 mispers
 misplace
@@ -25727,12 +25842,14 @@ mog
 mogar
 mogas
 moge
+moghra
 mogi
 mogo
 mogonono
 mogos
 mogote
 mogra
+mogras
 mogs
 mogue
 mogued
@@ -25871,6 +25988,7 @@ momo
 momordicin
 momos
 mompara
+momparas
 mompe
 mompei
 mompes
@@ -26133,6 +26251,7 @@ moqueca
 mor
 mora
 morabaraba
+morabarabas
 morada
 morah
 morainal
@@ -26189,6 +26308,7 @@ mormaorship
 mormaorships
 mormo
 mormos
+mormyr
 morn
 morna
 mornas
@@ -26340,6 +26460,8 @@ motorhome
 motorial
 motoric
 motoring
+motorism
+motorisms
 motorist
 motorists
 motorium
@@ -26930,10 +27052,20 @@ myen
 myna
 mynah
 mynas
+myogram
+myograms
+myograph
+myographs
+myography
 myoma
 myomas
 myon
 myons
+myopathy
+myopia
+myopism
+myopisms
+myopy
 myosarcoma
 myosarcomas
 myosin
@@ -26963,6 +27095,7 @@ mysorin
 mysorins
 mysost
 mystacial
+mystagogy
 mystes
 mysteses
 mystic
@@ -29689,6 +29822,8 @@ optionality
 optioning
 options
 opto
+optogram
+optograms
 optometer
 optomotor
 optophone
@@ -29847,11 +29982,15 @@ organry
 organs
 organy
 organza
+orgasm
+orgasms
 orgeat
 orgeats
 orgia
 orgiac
 orgias
+orgiasm
+orgiasms
 orgiast
 orgiasts
 orgic
@@ -30072,6 +30211,8 @@ osone
 osones
 osophies
 osophy
+osotogari
+osotogaris
 osteal
 osteitic
 osteitis
@@ -30135,6 +30276,8 @@ ostracon
 ostraka
 ostrich
 ostriches
+ostrog
+ostrogs
 oswego
 otaku
 otalgia
@@ -31422,6 +31565,7 @@ parabasis
 paraben
 parabens
 parabiont
+parabiosis
 parable
 parabrake
 parabrakes
@@ -31458,12 +31602,19 @@ paragogic
 paragon
 paragonite
 paragram
+paragrams
 paragraph
 paragrapher
 paragraphia
+paragraphias
 paragraphic
 paragraphing
+paragraphism
+paragraphisms
+paragraphist
+paragraphists
 paragraphize
+paragraphs
 parakinesis
 paralic
 paralipsis
@@ -31476,6 +31627,7 @@ paramere
 paramo
 paramorph
 paramorphic
+paramos
 paramotor
 paramoudra
 paramour
@@ -31509,12 +31661,19 @@ parapherna
 paraphilia
 paraphiliac
 paraphilic
+paraphimosis
 paraphonic
+paraphrasia
+paraphrasias
+paraphrasis
+paraphrasist
+paraphrasists
 paraphrast
 paraphrasts
 paraphrenic
 paraphs
 paraphyly
+paraphysis
 paraplane
 paraplegia
 parapluie
@@ -31524,6 +31683,7 @@ parapodial
 parapodium
 parapolar
 parapolitical
+parapophysis
 paraprotein
 parapsis
 parapsises
@@ -31549,6 +31709,7 @@ parathion
 parathyroid
 parathyroidal
 paratitle
+paratomy
 paratonal
 paratone
 paratonia
@@ -31614,6 +31775,7 @@ pargeter
 pargeting
 parging
 pargo
+pargos
 pari
 pariah
 parial
@@ -31625,9 +31787,11 @@ parieses
 parietal
 parietin
 parigot
+parigots
 parikrama
 parikramas
 paring
+parish
 parisis
 parisises
 parison
@@ -31665,6 +31829,7 @@ parm
 parma
 parmelioid
 parmo
+parmos
 parms
 parnas
 parnel
@@ -31688,6 +31853,7 @@ paroling
 parophite
 paropsis
 paroral
+parosmia
 parotic
 parotid
 parotiditis
@@ -31761,6 +31927,8 @@ partocracy
 partocrat
 partocratic
 partocrats
+partogram
+partograms
 parts
 parturient
 parturition
@@ -31794,6 +31962,7 @@ pasha
 pashas
 pashka
 pashm
+pasigraphy
 pasila
 paskha
 pasmo
@@ -31921,6 +32090,7 @@ patrinite
 patrins
 patriot
 patriots
+patriotship
 patrist
 patristic
 patristics
@@ -31934,6 +32104,7 @@ patronate
 patronite
 pats
 patsies
+patsy
 patu
 patulin
 paturon
@@ -31997,6 +32168,7 @@ pawpaws
 paws
 pax
 pay
+payasam
 paybob
 paybobs
 payday
@@ -32009,7 +32181,10 @@ payor
 payors
 payphone
 pays
+paysagist
+paysagists
 paysayg
+payshi
 pbj
 pcu
 pcus
@@ -32843,6 +33018,7 @@ phimosis
 phiran
 phis
 phish
+phisiog
 phit
 phiz
 phloem
@@ -33016,7 +33192,9 @@ photronic
 phots
 photy
 phrasal
+phrasy
 phrator
+phratry
 phreak
 phreaker
 phrenic
@@ -33025,6 +33203,8 @@ phthalate
 phthalo
 phthalyl
 phthanite
+phthiriasis
+phthisiatry
 phthisic
 phthisis
 phub
@@ -33052,16 +33232,28 @@ phyle
 phyletic
 phylic
 phyma
+phymas
 physa
 physas
 physeter
+physiatrist
+physiatrists
+physiatry
 physic
 physicist
 physicists
 physics
+physio
+physiog
+physiography
+physiogs
+physios
 physique
 physiques
 physis
+physisorb
+physisorbs
+physogastry
 phytal
 phytase
 phytases
@@ -33212,6 +33404,7 @@ pigeon
 pigeongram
 pigeonite
 pightle
+pigism
 piglet
 pigly
 pigmy
@@ -33220,6 +33413,7 @@ pignorate
 pignorating
 pigpen
 pigpens
+pigs
 pigwash
 pika
 pikake
@@ -33305,6 +33499,7 @@ pimped
 pimpernel
 pimpernels
 pimping
+pimpish
 pimple
 pimpler
 pimples
@@ -33533,6 +33728,7 @@ piratism
 piratisms
 piratize
 piratries
+piratry
 piriform
 piripiri
 piripiris
@@ -34260,7 +34456,11 @@ pogonium
 pogonology
 pogonophora
 pogonophoran
+pogos
 pogrom
+pogromist
+pogromists
+pogroms
 pogue
 pogues
 pogy
@@ -34474,6 +34674,7 @@ pomade
 pomaded
 pomas
 pomato
+pomatos
 pomatum
 pomatums
 pombe
@@ -34644,6 +34845,8 @@ poring
 porins
 porion
 porions
+porism
+porisms
 porite
 pork
 porket
@@ -34656,6 +34859,7 @@ pornie
 porno
 pornotopia
 porny
+porogamy
 porometer
 poroporo
 poroporoaki
@@ -34789,6 +34993,8 @@ posoles
 post
 postal
 postals
+postbag
+postbags
 postcard
 postcava
 postcavas
@@ -34846,6 +35052,7 @@ potai
 potail
 potamic
 potarite
+potash
 potation
 potato
 potatoey
@@ -36437,6 +36644,7 @@ pwes
 pwn
 pwns
 pya
+pyarthrosis
 pyas
 pycnial
 pycnic
@@ -36451,6 +36659,7 @@ pye
 pyet
 pygal
 pygarg
+pygargs
 pygmy
 pygmydom
 pygopod
@@ -36468,6 +36677,7 @@ pyoses
 pyosis
 pyot
 pyots
+pypgras
 pyran
 pyrane
 pyrans
@@ -36491,6 +36701,9 @@ pyrodin
 pyrodins
 pyrograph
 pyrographic
+pyrographist
+pyrographists
+pyrographs
 pyrography
 pyrology
 pyrolytic
@@ -36506,6 +36719,8 @@ pyrophorus
 pyrophyte
 pyros
 pyrosis
+pyrostat
+pyrostats
 pyrotechny
 pyrus
 python
@@ -36971,6 +37186,7 @@ rafting
 rafts
 rag
 raga
+ragabash
 ragas
 ragbag
 ragbags
@@ -37446,6 +37662,7 @@ ratas
 ratatat
 ratatats
 ratbag
+ratbags
 ratcatcher
 ratcatchers
 ratch
@@ -37600,7 +37817,10 @@ raylet
 raylets
 raylike
 rayls
+rayogram
+rayograms
 rayograph
+rayographs
 rayon
 rays
 razai
@@ -39968,8 +40188,11 @@ rhumbs
 rhus
 rhuses
 rhusma
+rhymist
+rhymists
 rhymy
 rhyparograph
+rhyparographs
 rhyparography
 rhypography
 rhypophagy
@@ -40149,6 +40372,7 @@ rightish
 rightism
 rightist
 rightists
+rightmost
 righto
 rights
 righty
@@ -40162,6 +40386,7 @@ rigids
 rigol
 rigolet
 rigor
+rigorism
 rigorist
 rigorists
 rigors
@@ -40682,6 +40907,7 @@ romped
 romper
 rompering
 romping
+rompish
 rompu
 rompy
 romulea
@@ -40871,6 +41097,7 @@ rotis
 roto
 rotochute
 rotograph
+rotographs
 rotolo
 rotolos
 rotometer
@@ -41924,6 +42151,7 @@ satori
 satrap
 satrapies
 satraps
+satrapy
 satsuma
 satsumas
 saturant
@@ -43261,6 +43489,8 @@ shrieks
 shrieval
 shrike
 shrikes
+shrimp
+shrimpy
 shrive
 shroud
 shrouds
@@ -43318,6 +43548,7 @@ sibilate
 sibilated
 sibilates
 sibs
+sibship
 sic
 sice
 sices
@@ -44374,6 +44605,7 @@ sophism
 sophisms
 sophist
 sophistic
+sophistry
 sophists
 sophs
 sopor
@@ -44939,6 +45171,7 @@ stages
 stagier
 stagiest
 stags
+stagy
 staid
 staidly
 stain
@@ -45003,6 +45236,7 @@ starbases
 starbeam
 starbeams
 starbirth
+starbirths
 starboard
 starboards
 starburst
@@ -45098,6 +45332,8 @@ stateside
 statevisit
 statevisits
 statewise
+stathmograph
+stathmographs
 static
 statical
 statice
@@ -45403,6 +45639,7 @@ stog
 stogie
 stogies
 stogs
+stogy
 stoic
 stoical
 stoics
@@ -45424,6 +45661,7 @@ stomates
 stomatitis
 stomp
 stomps
+stompy
 stone
 stones
 stoniest
@@ -45436,6 +45674,7 @@ stop
 stopcock
 stope
 stopes
+stopgap
 stoplist
 stoplists
 stops
@@ -45454,6 +45693,7 @@ stork
 storks
 storm
 storms
+stormy
 story
 storyboard
 storyboards
@@ -46319,6 +46559,15 @@ sylph
 sylphs
 symbioses
 symbiosis
+sympathy
+sympatry
+symphysis
+symposia
+symposiast
+symposiasts
+sympto
+symptom
+symptoms
 synaesthesia
 synaesthete
 synaesthetes
@@ -47850,6 +48099,7 @@ thymomata
 thymus
 thymuses
 thymy
+thyristor
 thyroid
 thyrotrophin
 thyrsi
@@ -48347,6 +48597,11 @@ tomins
 tomium
 tomiums
 tomo
+tomogram
+tomograms
+tomograph
+tomographs
+tomography
 tomorn
 tomos
 tompion
@@ -48428,6 +48683,8 @@ topknots
 toplight
 topline
 topman
+topmast
+topmasts
 topmen
 topmost
 topnotch
@@ -48790,7 +49047,9 @@ tramper
 trampers
 trampier
 trampiest
+trampish
 tramps
+trampy
 tramroad
 tramroads
 trams
@@ -49052,12 +49311,15 @@ triform
 trig
 trigamist
 trigamists
+trigamy
 trigon
 trigonal
 trigone
 trigons
 trigram
+trigrams
 trigraph
+trigraphs
 trigs
 trijet
 trike
@@ -52556,6 +52818,7 @@ yada
 yag
 yage
 yagna
+yags
 yah
 yahs
 yak
@@ -52564,6 +52827,8 @@ yaks
 yakuza
 yakuzas
 yam
+yampa
+yampas
 yampier
 yampy
 yams
@@ -52684,6 +52949,10 @@ yoghourt
 yoghs
 yogi
 yogini
+yogis
+yogism
+yogist
+yogists
 yogurt
 yogurty
 yohah
@@ -52714,6 +52983,7 @@ yolks
 yolky
 yolp
 yolps
+yomp
 yon
 yond
 yong
@@ -52724,6 +52994,7 @@ yopo
 yopos
 yore
 yorga
+yorgas
 york
 yorked
 yorker
