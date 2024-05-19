@@ -1969,6 +1969,7 @@ almighty
 almimar
 almirah
 almoin
+almoner
 almonry
 almost
 alms
@@ -2067,7 +2068,9 @@ alternantheras
 alternants
 alternate
 alternately
+alternatim
 alternation
+alternator
 alterne
 alterned
 alterns
@@ -2078,6 +2081,7 @@ althea
 altheas
 althorn
 altigraph
+altimeter
 altiplanation
 altiplano
 altiport
@@ -2514,6 +2518,7 @@ animals
 animas
 animastic
 animate
+animater
 animates
 animati
 animatic
@@ -13128,6 +13133,7 @@ emanate
 emanated
 emanates
 emanative
+emanator
 emancipist
 emancipists
 embalm
@@ -13194,6 +13200,7 @@ emit
 emits
 emo
 emocore
+emoji
 emoney
 emos
 emote
@@ -13288,6 +13295,7 @@ enactor
 enacts
 enamel
 enameled
+enameler
 enamels
 enamor
 enamors
@@ -13662,6 +13670,7 @@ epact
 epacts
 eparch
 eparchy
+epater
 epazote
 epena
 epene
@@ -13829,6 +13838,7 @@ erotica
 eroticise
 eroticises
 erotology
+erotomania
 erst
 erucic
 eruct
@@ -19883,6 +19893,7 @@ inkhorns
 inkier
 inkiest
 inking
+inkjet
 inkle
 inkling
 inkpot
@@ -20599,6 +20610,8 @@ jail
 jailbait
 jails
 jalap
+jalapeno
+jaleo
 jali
 jam
 jamb
@@ -20608,10 +20621,17 @@ jamun
 jamuns
 jane
 janes
+janitor
+janitorial
 jank
+jankier
 janky
+japan
+jape
 jar
 jarhead
+jarkman
+jarkmen
 jarl
 jarls
 jars
@@ -20638,6 +20658,10 @@ jejune
 jejunum
 jel
 jels
+jeon
+jerk
+jerkier
+jerkin
 jest
 jested
 jester
@@ -20646,6 +20670,8 @@ jests
 jet
 jete
 jetes
+jeton
+jetport
 jets
 jetsam
 jetset
@@ -20672,6 +20698,7 @@ jilt
 jilted
 jilts
 jim
+jink
 jip
 jips
 jird
@@ -20702,6 +20729,7 @@ jojoba
 jojobas
 joke
 joked
+jokier
 jol
 jolie
 jolt
@@ -21322,6 +21350,7 @@ kiyaki
 klatch
 klatsch
 klaxon
+kleptomania
 klick
 klieg
 klik
@@ -21421,6 +21450,7 @@ kola
 kolas
 kolo
 kolos
+komatik
 kombu
 konaki
 konakis
@@ -21428,11 +21458,13 @@ koneke
 konekes
 konfyt
 kongoni
+konimeter
 kop
 kopek
 kopeks
 kopi
 kopitiam
+kopje
 kops
 kora
 korai
@@ -23772,14 +23804,18 @@ maiming
 maims
 main
 maincrop
+maineporte
 mainland
 mainline
 mainman
 mainmast
 mainmasts
 mainmen
+mainmorte
 mainour
 mainours
+mainpernor
+mainplane
 mainport
 mains
 mainsail
@@ -23803,14 +23839,19 @@ maises
 maison
 maisons
 maistry
+maitre
 maja
 majas
 majat
 majita
 majitas
 majo
+majoe
 major
 majora
+majorat
+majoritarian
+majorite
 majoron
 makaf
 makai
@@ -23878,6 +23919,7 @@ malambo
 malambos
 malamute
 malamutes
+malapert
 malaprop
 malapropian
 malar
@@ -23924,6 +23966,7 @@ malison
 malisons
 malist
 malists
+malkin
 malky
 malm
 malms
@@ -23940,6 +23983,7 @@ malosol
 maloti
 malpais
 malpaises
+malpita
 malt
 maltalent
 maltase
@@ -23994,6 +24038,7 @@ mamey
 mameys
 mamil
 mamils
+mamotie
 mamoty
 mamp
 mampalon
@@ -24104,6 +24149,7 @@ maninose
 maninoses
 manioc
 maniocs
+maniple
 manipulandum
 manipular
 manis
@@ -24126,6 +24172,7 @@ manoao
 manoaos
 manoir
 manoirs
+manometer
 manor
 manorial
 manors
@@ -24246,6 +24293,7 @@ maraging
 maral
 marals
 maran
+maranite
 marans
 maranta
 marantas
@@ -24347,6 +24395,7 @@ marimonda
 marina
 marinara
 marinas
+marinate
 marine
 mariner
 marinera
@@ -24366,7 +24415,9 @@ marismas
 marismases
 marital
 maritimal
+maritime
 maritorious
+marjoram
 mark
 marka
 markal
@@ -24380,6 +24431,7 @@ marketers
 markets
 markhor
 markman
+markmen
 marks
 markup
 marl
@@ -24441,13 +24493,20 @@ marsilea
 marsquake
 mart
 martabani
+martele
+marten
+martenot
 marthy
 martial
 martin
+martinet
+martineta
 martini
 martinis
+martinite
 martins
 martite
+martlet
 marts
 martyr
 martyry
@@ -24595,8 +24654,10 @@ mate
 mated
 mater
 materia
+material
 materiate
 materiel
+maternal
 maters
 mates
 matey
@@ -24976,9 +25037,11 @@ melanin
 melanise
 melanite
 melanoma
+melanomata
 melas
 melasma
 melasmic
+melatonin
 melch
 melched
 meld
@@ -24999,6 +25062,7 @@ melinite
 melinites
 meliorator
 melisma
+melktert
 melmont
 melmot
 melo
@@ -25201,6 +25265,7 @@ meromictic
 meromixis
 meromixises
 meront
+meroplankton
 merse
 merses
 mersk
@@ -25304,7 +25369,9 @@ metaled
 metalepsis
 metalepsises
 metalevel
+metalmark
 metals
+metamaterial
 metamer
 metamere
 metameres
@@ -25312,7 +25379,10 @@ metameric
 metamerism
 metamers
 metamict
+metanotal
 metanotum
+metaparapteron
+metapelet
 metaphone
 metas
 metasoma
@@ -25343,6 +25413,7 @@ metatheses
 metathesis
 metathesise
 metathesised
+metatonie
 metaxite
 metaxylem
 metaxylems
@@ -25360,6 +25431,7 @@ meteorites
 meteorometer
 meteorometers
 meteors
+metepimeron
 meter
 meterage
 metered
@@ -25814,6 +25886,7 @@ minable
 minacity
 minakari
 minar
+minaret
 minars
 minas
 minatorily
@@ -25845,6 +25918,7 @@ minemen
 miner
 minera
 mineragrapher
+mineral
 mineras
 mineries
 miners
@@ -25863,6 +25937,7 @@ mingqui
 minhag
 minhagim
 mini
+miniate
 miniator
 minibar
 minibars
@@ -25950,6 +26025,7 @@ minorants
 minoration
 minored
 minoring
+minoritarian
 minors
 minotaur
 minse
@@ -26378,6 +26454,7 @@ moaned
 moaner
 moaners
 moanful
+moanier
 moans
 moansome
 moany
@@ -26486,6 +26563,7 @@ moeone
 moeones
 moepel
 moepels
+moeriki
 moey
 mofo
 mofongo
@@ -26554,6 +26632,7 @@ moisty
 moit
 moits
 moity
+mojito
 mojo
 moke
 moker
@@ -26712,6 +26791,7 @@ monists
 monition
 monitor
 monitored
+monitorial
 monitoring
 monk
 monkey
@@ -26765,6 +26845,7 @@ monogenean
 monogerm
 monoid
 monoids
+monojet
 monokine
 monokines
 monokini
@@ -26792,15 +26873,18 @@ monometer
 monomial
 monomials
 monomictic
+monomineral
 monomino
 monominos
 monomode
 monomorphic
 monomyarian
 monomyarians
+mononitrate
 mononomial
 mononomials
 mononym
+monopalmitin
 monophase
 monophases
 monophasic
@@ -26816,7 +26900,9 @@ monopolies
 monopolise
 monopolises
 monopolism
+monoporate
 monops
+monopteral
 monoptic
 monoracial
 monorail
@@ -26940,6 +27026,7 @@ morel
 morena
 morenas
 moreover
+morepork
 mores
 morg
 morgen
@@ -27124,6 +27211,7 @@ motored
 motorhome
 motorial
 motoric
+motorik
 motoring
 motorise
 motorises
@@ -27981,6 +28069,9 @@ nanocrystals
 nanofiber
 nanofibre
 nanoid
+nanomaterial
+nanometer
+nanometre
 nanomolar
 nanomole
 nanomoles
@@ -28013,6 +28104,7 @@ naos
 naow
 nap
 napa
+napalm
 nape
 napes
 naphtha
@@ -28366,6 +28458,7 @@ nemesism
 nemesisms
 nemic
 nemo
+nemoral
 nemorous
 nenbutsu
 nene
@@ -28933,6 +29026,7 @@ nitrite
 nitrites
 nitritoid
 nitro
+nitroamine
 nitroaniline
 nitrobarite
 nitroform
@@ -29103,6 +29197,8 @@ nomic
 nominal
 nominalist
 nominalists
+nominate
+nominatim
 nominator
 nominies
 nominy
@@ -29204,7 +29300,9 @@ nonliteral
 nonliterary
 nonliterate
 nonlogical
+nonmaterial
 nonmember
+nonmetal
 nonmoral
 nonoic
 nonordained
@@ -30072,6 +30170,7 @@ oekist
 oenanthate
 oenochoe
 oenochoes
+oenomania
 oenomel
 oenomels
 oer
@@ -30179,6 +30278,7 @@ oirans
 ois
 oiticica
 oiticicas
+ojime
 oka
 okapi
 okapis
@@ -30371,6 +30471,7 @@ oners
 ones
 onesie
 onesies
+onetime
 oneuse
 oneworld
 onflow
@@ -30417,6 +30518,8 @@ onomasticons
 onomastics
 onomasts
 onomatomania
+onomatope
+onomatopoeia
 onramp
 onroad
 onrush
@@ -30477,6 +30580,8 @@ opepe
 opepes
 opera
 operagoer
+operate
+operator
 operon
 opes
 opex
@@ -31931,6 +32036,7 @@ paisans
 paise
 paitung
 pajala
+pajama
 pajock
 pakalolo
 pakamac
@@ -32017,14 +32123,21 @@ palki
 palkis
 palm
 palmar
+palmate
+palmatipartite
 palmed
 palmer
 palmered
 palmful
+palmier
+palmierite
+palmiet
 palmiped
 palmipede
+palmitate
 palmitic
 palmitin
+palmtop
 palolo
 palomino
 palone
@@ -32094,6 +32207,7 @@ panamas
 panarchy
 panary
 panatela
+panatom
 pancake
 pancakes
 pancarditis
@@ -32422,6 +32536,7 @@ paragraphists
 paragraphize
 paragraphs
 parakinesis
+paraleipomena
 paralic
 paralipsis
 paralog
@@ -32429,8 +32544,14 @@ paralogy
 paralytic
 paralytical
 paramalic
+paramenia
 paramere
+parameter
+parametral
+parametrial
+parametron
 paramo
+paramoeon
 paramorph
 paramorphic
 paramos
@@ -32842,6 +32963,7 @@ patenting
 pater
 patera
 paterae
+paternal
 patete
 path
 pathia
@@ -32891,6 +33013,7 @@ patricianships
 patrie
 patries
 patriliny
+patrimonial
 patrin
 patrinite
 patrins
@@ -32908,6 +33031,7 @@ patronal
 patronat
 patronate
 patronite
+patronomate
 pats
 patsies
 patsy
@@ -33150,6 +33274,7 @@ peirastic
 peise
 peises
 peisy
+pejorate
 pekan
 pekans
 pekau
@@ -33261,6 +33386,7 @@ peneplaned
 penes
 penetrable
 penetralia
+penetrameter
 penetrant
 penetrate
 penetrated
@@ -33379,6 +33505,7 @@ peptide
 peptise
 peptize
 peptizer
+peptonate
 peptone
 pequi
 pequia
@@ -33485,10 +33612,13 @@ perils
 perilune
 perimeter
 perimeters
+perimetral
+perimetrial
 perimetritis
 perimetritises
 perimetry
 perimortem
+perinatal
 perine
 perinea
 perineal
@@ -33508,10 +33638,12 @@ periople
 perioral
 periorbital
 peripancreatic
+peripeteia
 peripety
 periplum
 periplus
 peripluses
+periportal
 peripter
 peripteral
 peripteries
@@ -33541,6 +33673,8 @@ peritomy
 peritonea
 peritoneal
 peritoneum
+peritonital
+peritrema
 peritreme
 peritremes
 peritrich
@@ -33548,6 +33682,7 @@ peritriches
 peritrope
 periuterine
 periwig
+perjink
 perjure
 perjurer
 perjurers
@@ -33559,6 +33694,7 @@ perkish
 perks
 perky
 perle
+perlemoen
 perlid
 perlite
 perlitic
@@ -33599,9 +33735,11 @@ pernor
 perns
 peroba
 perogi
+peronate
 peroneal
 peronium
 peroral
+perorate
 perorator
 peroses
 perosis
@@ -33640,6 +33778,7 @@ perspire
 perspires
 perspiry
 pert
+pertain
 perten
 perthite
 perthites
@@ -34115,6 +34254,7 @@ piaches
 piacular
 piai
 piaiman
+piaimen
 piais
 pial
 pian
@@ -34208,6 +34348,7 @@ piehole
 pieing
 pielet
 pielets
+pieman
 piemen
 piemontite
 piend
@@ -34326,6 +34467,7 @@ pilulous
 pilus
 pily
 pimbina
+pimelate
 pimelodid
 pimlico
 pimp
@@ -34502,6 +34644,7 @@ pipeman
 pipemen
 piper
 piperade
+piperate
 piperi
 piperie
 piperies
@@ -34674,6 +34817,7 @@ pitman
 pitmans
 pitmatic
 pitmatics
+pitmatik
 pitmen
 pito
 pitohui
@@ -34803,6 +34947,7 @@ planh
 planhs
 planigraph
 planigraphy
+planimeter
 planing
 planities
 planity
@@ -34816,6 +34961,7 @@ plankton
 planky
 planograph
 planography
+planometer
 plans
 planster
 plansters
@@ -34881,6 +35027,7 @@ plateman
 platemen
 platen
 platens
+plater
 plates
 plateway
 platic
@@ -34982,6 +35129,7 @@ pleons
 pleopod
 pleoptic
 plereme
+pleroma
 plerome
 plet
 plets
@@ -35345,6 +35493,7 @@ poke
 pokeable
 pokes
 pokie
+pokier
 poking
 pokit
 poky
@@ -35511,6 +35660,7 @@ poma
 pomace
 pomade
 pomaded
+pomarine
 pomas
 pomato
 pomatos
@@ -35690,12 +35840,17 @@ porite
 pork
 porket
 porkets
+porkier
 porking
 porkling
+porkman
+porkmen
 porkpie
 porn
 pornie
+pornier
 porno
+pornomania
 pornotopia
 porny
 porogamy
@@ -35731,6 +35886,7 @@ porpoising
 port
 portable
 portage
+portainer
 portal
 portals
 portapack
@@ -35773,6 +35929,8 @@ portlet
 portlier
 portlight
 portly
+portman
+portmanmote
 portmen
 portmote
 portolan
@@ -35890,6 +36048,8 @@ potage
 potai
 potail
 potamic
+potamometer
+potamoplankton
 potarite
 potash
 potation
@@ -35937,6 +36097,7 @@ potlatched
 potline
 potman
 potmen
+potomania
 potometer
 potpie
 potplant
@@ -37165,6 +37326,7 @@ pterins
 pterion
 pteris
 pterises
+pteroma
 pteropine
 pterotic
 pterygote
@@ -37172,6 +37334,7 @@ pterygotes
 ptilinal
 ptilinum
 ptish
+ptomaine
 ptomainic
 ptosis
 ptotic
@@ -39767,8 +39930,12 @@ reiver
 reivers
 reives
 reiving
+reja
+rejerk
 rejig
 rejigs
+rejon
+rejoneo
 rejudge
 rekey
 rekeyed
@@ -39944,6 +40111,7 @@ remakes
 reman
 remanet
 remanets
+remanie
 remans
 remanure
 remanures
@@ -40108,6 +40276,7 @@ renitents
 renk
 renks
 renminbi
+renominate
 renounce
 renouncer
 renovise
@@ -40173,6 +40342,7 @@ repapered
 repapering
 repapers
 reparable
+reparate
 reparative
 reparator
 reparent
@@ -40188,6 +40358,7 @@ repases
 repast
 repasts
 repat
+repatriate
 repats
 repave
 repaving
@@ -40265,6 +40436,7 @@ replant
 replants
 replaster
 replasters
+replate
 replay
 replead
 repleat
@@ -41979,12 +42151,15 @@ roloway
 rolypoly
 romaine
 romaines
+romaji
 romal
 romalis
 romals
 roman
 romanise
 romanises
+romanita
+romanite
 romanium
 romans
 romanso
@@ -42156,6 +42331,8 @@ rotalian
 rotalid
 rotaliform
 rotaline
+rotamer
+rotameter
 rotan
 rotang
 rotans
@@ -48076,6 +48253,7 @@ talkies
 talkiest
 talking
 talks
+talktime
 talky
 talofa
 talon
@@ -48532,6 +48710,7 @@ tekotekos
 tektite
 tektites
 telaesthesia
+telamon
 telco
 tele
 telearch
@@ -48567,6 +48746,8 @@ telekineticist
 telekineticists
 telelens
 telelenses
+telemanometer
+telemark
 telematic
 telemedicine
 telemeter
@@ -48576,6 +48757,8 @@ teleodont
 teleologic
 teleological
 teleometer
+teleoperate
+teleoperator
 teleorganic
 teleosis
 teleost
@@ -48583,6 +48766,7 @@ teleosteous
 teleosts
 teleplastic
 teleport
+teleporter
 teleporting
 teleprint
 teleprinter
@@ -48592,6 +48776,7 @@ telergic
 telergies
 telergy
 telerobot
+teleroman
 teleromen
 teles
 telesales
@@ -48835,6 +49020,7 @@ ternary
 ternate
 ternately
 terne
+terneplate
 ternlet
 ternlets
 terns
@@ -49738,6 +49924,7 @@ toker
 tokers
 tokes
 toking
+tokonoma
 tokotoko
 tolar
 tolars
@@ -49760,6 +49947,7 @@ toluols
 tom
 toman
 tomatin
+tomatine
 tomato
 tomatoes
 tomatoey
@@ -50218,6 +50406,7 @@ training
 trainload
 trainloads
 trainman
+trainmen
 trains
 trainset
 trainsets
@@ -50408,6 +50597,8 @@ trends
 trente
 trepan
 trepans
+treponema
+treponemal
 treponeme
 tres
 trestle
