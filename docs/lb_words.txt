@@ -14870,10 +14870,12 @@ fifers
 fifes
 fifing
 fifth
+fifthly
 fifths
 fifties
 fiftieth
 fiftieths
+fifty
 fig
 figary
 fight
@@ -14935,6 +14937,9 @@ filth
 filthied
 filthier
 filthified
+filthify
+filthifying
+filthily
 filtre
 fin
 finagling
@@ -15065,6 +15070,7 @@ fitch
 fitche
 fitchew
 fitful
+fitly
 fitment
 fitna
 fitnah
@@ -15347,6 +15353,7 @@ fogo
 fogos
 fogou
 fogram
+fogy
 fohn
 fohns
 foible
@@ -15506,6 +15513,7 @@ foveate
 fowl
 fowler
 fowlers
+fowling
 fowls
 foyaite
 fracas
@@ -15608,12 +15616,15 @@ frith
 friths
 frits
 frivol
+frivoling
+frivolity
 fro
 froe
 froes
 frog
 frogbit
 froglet
+frogling
 froideur
 from
 frons
@@ -15636,10 +15647,14 @@ froth
 frothed
 frother
 frothier
+frothily
+frothing
 froufrou
 frow
 frown
 frowner
+frowning
+frowningly
 frowny
 frows
 frowsier
@@ -16617,17 +16632,22 @@ glop
 gloried
 glorified
 glorifier
+glorify
+glorifying
 gloriole
 glory
+glorying
 glost
 glosts
 glove
 glover
 glovers
 gloves
+gloving
 glow
 glower
 glowier
+glowy
 gloze
 glozes
 glozing
@@ -17190,13 +17210,18 @@ grove
 grovel
 groveler
 groves
+grovy
 grow
 grower
 growing
 growl
 growler
 growlier
+growling
+growlingly
+growly
 grown
+growth
 grozing
 grub
 grudge
@@ -19824,6 +19849,8 @@ ingratiatingly
 ingratiation
 ingroup
 ingrowing
+ingrown
+ingrowth
 inguinal
 ingulf
 ingulfing
@@ -19911,6 +19938,7 @@ inlier
 inliers
 inline
 inly
+inlying
 inmate
 inmates
 inmost
@@ -20337,6 +20365,7 @@ invited
 inviter
 invites
 inviting
+invitingly
 invitro
 invoice
 invoiced
@@ -20576,6 +20605,7 @@ ivied
 ivies
 ivories
 ivorine
+ivory
 ivy
 iwi
 ixia
@@ -22737,6 +22767,7 @@ lingerer
 lingering
 lingo
 lingot
+lingtow
 lingua
 lingual
 linguet
@@ -22892,6 +22923,8 @@ lithest
 lithia
 lithiasis
 lithic
+lithify
+lithifying
 litho
 lithoed
 lithoes
@@ -22942,6 +22975,8 @@ lividity
 lividly
 livier
 liviers
+living
+livingly
 livity
 livor
 livors
@@ -23080,7 +23115,9 @@ loeweite
 loft
 lofted
 lofter
+loftily
 lofting
+lofty
 log
 logan
 logchop
@@ -23142,6 +23179,7 @@ long
 longa
 longan
 longdog
+longfin
 longful
 longhair
 longhand
@@ -23265,6 +23303,8 @@ lovers
 loves
 lovesick
 loveware
+loving
+lovingly
 low
 lowan
 lowance
@@ -23293,8 +23333,10 @@ lowland
 lowlier
 lowliest
 lowlily
+lowling
 lowly
 lown
+lowning
 lowns
 lowres
 lowrie
@@ -28861,6 +28903,8 @@ nife
 nifle
 nifs
 niftier
+niftily
+nifty
 nifuratel
 niger
 nigeran
@@ -29299,6 +29343,7 @@ nonlinear
 nonliteral
 nonliterary
 nonliterate
+nonliving
 nonlogical
 nonmaterial
 nonmember
@@ -29343,6 +29388,7 @@ nonurban
 nonveg
 nonviable
 nonvoter
+nonvoting
 nonwhite
 nonwireline
 nonwork
@@ -29486,6 +29532,8 @@ noticers
 notices
 notified
 notifier
+notify
+notifying
 noting
 notion
 notional
@@ -31756,6 +31804,7 @@ ovoid
 ovoids
 ovoli
 ovolo
+ovology
 ovonic
 ovonics
 ovotestes
@@ -31784,6 +31833,7 @@ owler
 owlers
 owlet
 owlets
+owling
 owlism
 owlisms
 owls
@@ -41402,6 +41452,7 @@ rhinitis
 rhino
 rhinodon
 rhinolith
+rhinology
 rhizobia
 rhizomic
 rho
@@ -42505,6 +42556,7 @@ rovers
 roverso
 roves
 roving
+rovingly
 rovings
 row
 rowable
@@ -49293,6 +49345,7 @@ think
 thinko
 thinks
 thinktank
+thinly
 thins
 thinspo
 thiol
@@ -49383,9 +49436,12 @@ threw
 thrice
 thrift
 thriftier
+thriftily
+thrifty
 thrip
 thrips
 thrive
+thriving
 thro
 throat
 throatal
@@ -49414,6 +49470,8 @@ thrombosis
 thronal
 throne
 thronelet
+throng
+throning
 through
 througher
 throughgate
@@ -50021,6 +50079,8 @@ tonicity
 tonics
 tonier
 toniest
+tonify
+tonifying
 tonight
 toning
 tonk
@@ -50273,8 +50333,12 @@ town
 townho
 townie
 townies
+townify
+townifying
 townlet
 townlets
+townling
+townly
 towno
 towns
 townsite
@@ -51296,6 +51360,7 @@ twocs
 twonk
 twos
 twyer
+tying
 tyke
 tykes
 tylopod
@@ -53013,6 +53078,8 @@ vile
 vilely
 viler
 vilifier
+vilify
+vilifying
 vim
 vin
 vina
@@ -53030,6 +53097,8 @@ vinewed
 vinho
 vinier
 viniest
+vinify
+vinifying
 vining
 vino
 vinos
@@ -53042,6 +53111,8 @@ vinting
 vintner
 vintners
 vints
+viny
+vinyl
 viol
 viola
 violable
@@ -53079,12 +53150,14 @@ virginal
 virgins
 virgo
 virile
+virility
 virilocal
 virino
 virinos
 virion
 virions
 virological
+virology
 virtu
 virtue
 virtuise
@@ -53160,6 +53233,8 @@ vivianite
 vivid
 vividly
 vivifies
+vivify
+vivifying
 vivisect
 vivisection
 vivisectionist
@@ -53218,6 +53293,7 @@ volens
 volente
 voles
 volet
+volition
 volitive
 volk
 volke
@@ -53227,6 +53303,7 @@ volt
 voltaic
 volte
 volted
+volting
 voltmeter
 volts
 volume
@@ -53283,6 +53360,7 @@ vulval
 vulvar
 vulvas
 vulvitis
+vying
 wabayo
 wabi
 wack
@@ -53767,7 +53845,9 @@ whichaway
 whidah
 whies
 whift
+whifty
 while
+whiling
 whim
 whimper
 whimperer
@@ -53779,7 +53859,9 @@ whiner
 whinge
 whinger
 whinging
+whingy
 whining
+whiningly
 whinings
 whins
 whiny
@@ -53787,6 +53869,8 @@ whip
 whir
 whirl
 whirligig
+whirling
+whirlingly
 whirlwind
 whirs
 whisk
@@ -53806,6 +53890,8 @@ whiter
 whites
 whitest
 whitework
+whiting
+whitling
 whitlow
 whits
 whiz
@@ -54221,6 +54307,7 @@ wring
 wringer
 wringing
 wrings
+wringy
 wrinkle
 wrinkled
 wrinklie
@@ -54243,11 +54330,14 @@ writeup
 writhe
 writhen
 writhes
+writhing
+writing
 writs
 wrong
 wronger
 wrongful
 wronging
+wrongly
 wrongs
 wrongun
 wrot
