@@ -1,6 +1,8 @@
 abac
 abaca
 abacas
+abacinate
+abacinating
 abacist
 abacists
 aback
@@ -299,6 +301,7 @@ absurdist
 absurdists
 abt
 abthain
+abthane
 abud
 abuela
 abuelita
@@ -2329,6 +2332,7 @@ amyotrophy
 ana
 anabases
 anabasis
+anabatic
 anabiosis
 anabolism
 anabranch
@@ -2818,6 +2822,7 @@ apart
 apartotel
 apastron
 apastrons
+apathetic
 apathy
 apatite
 ape
@@ -2832,6 +2837,7 @@ aperture
 apes
 apex
 apexes
+apexing
 aphagia
 aphagic
 aphasia
@@ -3518,6 +3524,7 @@ athetise
 athetised
 athetises
 athetize
+athetizing
 athetoid
 athetosis
 athirst
@@ -4010,6 +4017,7 @@ bachchas
 bached
 bachelor
 baches
+baching
 back
 backarc
 backbar
@@ -4293,6 +4301,7 @@ baptist
 baptistries
 baptists
 baptize
+baptizing
 bapu
 bar
 bara
@@ -7038,11 +7047,14 @@ canzoni
 caoutchouc
 cap
 capable
+capacitate
+capacitating
 capacities
 capacitor
 capacity
 caparison
 caparisons
+capax
 cape
 capelin
 capelins
@@ -7052,6 +7064,7 @@ caperers
 capering
 capers
 capes
+capex
 capias
 capiases
 capiche
@@ -7060,8 +7073,10 @@ capisce
 capita
 capital
 capitana
+capitanate
 capitao
 capitaos
+capitate
 capito
 capitol
 capitolo
@@ -7094,7 +7109,10 @@ capsid
 capstan
 capstans
 captain
+captainate
+captaining
 captan
+captanate
 captcha
 captchas
 caption
@@ -7471,6 +7489,8 @@ catechism
 catechisms
 catechist
 catechists
+catechize
+catechizing
 catechol
 catechu
 category
@@ -7732,8 +7752,10 @@ cha
 chacha
 chachacha
 chachachaed
+chachachaing
 chachachas
 chachaed
+chachaing
 chachalaca
 chachalacas
 chacham
@@ -7934,6 +7956,7 @@ chaws
 chayote
 cheap
 cheapen
+cheapening
 cheapens
 cheaper
 cheapest
@@ -7945,6 +7968,7 @@ cheapos
 cheat
 cheated
 cheater
+cheating
 cheats
 cheba
 check
@@ -8443,6 +8467,7 @@ citadel
 citate
 citated
 citates
+citating
 citation
 citational
 citative
@@ -8464,8 +8489,11 @@ cither
 cithern
 citied
 cities
+citing
 citizen
+citizening
 citizenize
+citizenizing
 citole
 citoler
 citolers
@@ -13679,6 +13707,7 @@ epenthesis
 epergne
 epexegeses
 epexegesis
+epexegetic
 ephah
 ephahs
 ephebe
@@ -13693,6 +13722,7 @@ ephyrae
 epic
 epicanthic
 epicarp
+epicatechin
 epicene
 epicenes
 epicerie
@@ -13706,6 +13736,7 @@ epidural
 epigeal
 epigene
 epigenesis
+epigenetic
 epigone
 epigoni
 epigram
@@ -13727,6 +13758,7 @@ epimerises
 epimeron
 epimers
 epinephrine
+epinician
 epiphanic
 epiphany
 epiphora
@@ -14002,6 +14034,7 @@ ethicisms
 ethicist
 ethicists
 ethicize
+ethicizing
 ethics
 ethide
 ethides
@@ -14191,8 +14224,14 @@ excel
 excels
 excelsior
 excelsiors
+except
+excepting
+exchange
+exchanging
 excimer
 excimers
+excite
+exciting
 exclaim
 exclaimed
 excursus
@@ -14210,6 +14249,8 @@ exegeses
 exegesis
 exegete
 exegetes
+exegetic
+exegeting
 exemplied
 exemplum
 exempt
@@ -16251,6 +16292,7 @@ genet
 genetic
 genetical
 geneticize
+geneticizing
 genets
 geneva
 genever
@@ -16685,6 +16727,7 @@ gnarly
 gnash
 gnashing
 gnat
+gnathic
 gnaw
 gnawing
 gnaws
@@ -17722,6 +17765,7 @@ haplotypic
 haply
 haps
 hapten
+haptenic
 haptic
 haptics
 haptin
@@ -17866,6 +17910,7 @@ hathi
 hathis
 hating
 hatorade
+hatpin
 hatrack
 hats
 haugh
@@ -17987,6 +18032,7 @@ healthcare
 healthful
 healthier
 heap
+heaping
 heaps
 hear
 hearable
@@ -18041,6 +18087,7 @@ heathers
 heathery
 heaths
 heathy
+heating
 heatmap
 heats
 heatwave
@@ -18323,8 +18370,10 @@ hexameters
 hexametric
 hexametrist
 hexametrists
+hexane
 hexed
 hexes
+hexing
 hexose
 hexoses
 hey
@@ -31991,6 +32040,8 @@ pads
 padsaw
 padsaws
 paean
+paeanize
+paeanizing
 paeans
 paedo
 paenula
@@ -32258,6 +32309,7 @@ panarchy
 panary
 panatela
 panatom
+panax
 pancake
 pancakes
 pancarditis
@@ -32321,6 +32373,7 @@ pang
 panga
 pangen
 pangene
+pangenetic
 pangeran
 pangram
 pangraphic
@@ -33016,6 +33069,7 @@ paterae
 paternal
 patete
 path
+pathetic
 pathia
 pathic
 pathics
@@ -33038,6 +33092,8 @@ patination
 patine
 patines
 patining
+patinize
+patinizing
 patio
 patios
 pativrata
@@ -33555,6 +33611,7 @@ peptide
 peptise
 peptize
 peptizer
+peptizing
 peptonate
 peptone
 pequi
@@ -33961,6 +34018,7 @@ petuned
 petunes
 petuning
 petuntse
+petzite
 peut
 pew
 pewing
@@ -34534,6 +34592,7 @@ pimps
 pimpship
 pin
 pina
+pinacate
 pinacoid
 pinacol
 pinacolic
@@ -34847,12 +34906,14 @@ pitchy
 piteous
 pitful
 pith
+pithecine
 pithed
 pithful
 pithiatic
 pithier
 pithiest
 pithily
+pithing
 pithoi
 pithos
 piths
@@ -34917,6 +34978,7 @@ pixy
 piyut
 pize
 pizer
+pizing
 placable
 placard
 placate
@@ -48638,10 +48700,12 @@ taxer
 taxers
 taxes
 taxi
+taxicab
 taxied
 taxies
 taximeter
 taximeters
+taxing
 taxis
 taxol
 tayra
@@ -48660,6 +48724,8 @@ teacher
 teaches
 teachest
 teachests
+teachin
+teaching
 teacup
 teacups
 teaed
@@ -48722,10 +48788,13 @@ techne
 technes
 technic
 technica
+technician
 technicise
 technicist
 technicists
 technicities
+technicize
+technicizing
 technicolor
 technique
 techno
@@ -49119,6 +49188,7 @@ tetanic
 tetanise
 tetanises
 tetanize
+tetanizing
 tetanoid
 tetanus
 tetany
@@ -49185,6 +49255,7 @@ thangs
 thank
 thanks
 thankyou
+thanx
 thar
 thars
 that
@@ -49615,6 +49686,7 @@ tigerish
 tigers
 tight
 tighten
+tightening
 tighter
 tightknit
 tightly
