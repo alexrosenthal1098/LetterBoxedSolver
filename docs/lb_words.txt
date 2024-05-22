@@ -1510,6 +1510,7 @@ aircrew
 aircrews
 airdash
 airdate
+airdrome
 airdrop
 airdrops
 aired
@@ -2834,6 +2835,7 @@ aperient
 aperients
 aperies
 aperture
+apery
 apes
 apex
 apexes
@@ -3197,6 +3199,7 @@ armload
 armlock
 armoire
 armor
+armored
 armorer
 armorers
 armorial
@@ -3827,6 +3830,7 @@ avenue
 avenues
 aver
 average
+averaged
 averaging
 averment
 avers
@@ -4074,6 +4078,7 @@ badgerer
 badgerers
 badgers
 badges
+badiaga
 badian
 badiane
 bae
@@ -4088,6 +4093,8 @@ baghs
 bagman
 bagnio
 bagnios
+bagpipe
+bagpiper
 bags
 bagsy
 bagua
@@ -4588,6 +4595,7 @@ baulked
 baulks
 baulky
 bauxite
+bavardage
 bavarois
 bavaroise
 bavaroises
@@ -4727,6 +4735,8 @@ beget
 begets
 begin
 begins
+begird
+begirded
 begob
 begone
 begonia
@@ -4810,6 +4820,8 @@ belves
 bema
 bemas
 bemata
+bemire
+bemired
 bemoan
 bemuse
 bemused
@@ -4932,6 +4944,7 @@ bevans
 bevel
 beveled
 bevels
+beverage
 bevies
 bevy
 bewail
@@ -5532,8 +5545,10 @@ boaking
 boaks
 boar
 board
+boardbag
 boarded
 boarder
+boardgame
 boards
 boars
 boart
@@ -5586,15 +5601,23 @@ bodabodas
 bodach
 bode
 boded
+bodega
 bodes
 bodge
+bodged
 bodger
+bodgie
+bodgy
 bodhran
+bodied
 bodies
 bodily
 bodoh
 bods
 body
+bodybag
+bodyboard
+bodyboarder
 bodykit
 bodyside
 bodysides
@@ -5694,6 +5717,10 @@ boluses
 boma
 bomas
 bomb
+bombard
+bombarde
+bombarded
+bombardier
 bombast
 bombe
 bombed
@@ -5781,6 +5808,7 @@ bordure
 bore
 boreal
 bored
+boredom
 borehole
 borek
 boreks
@@ -5949,6 +5977,7 @@ boyars
 boyau
 boyband
 boybands
+boydom
 boyey
 boykin
 boyly
@@ -10587,6 +10616,7 @@ daimio
 daimios
 daimon
 daimonic
+daimyo
 dainty
 dairies
 dairy
@@ -10854,6 +10884,7 @@ death
 deb
 debacle
 debacles
+debag
 debar
 debark
 debarked
@@ -11124,6 +11155,7 @@ delves
 dem
 demagogue
 demagogued
+demagogy
 deme
 demean
 demeaned
@@ -11227,6 +11259,8 @@ depluming
 deport
 deported
 depot
+deprave
+depraved
 deprogram
 deprogramed
 der
@@ -11264,6 +11298,7 @@ dermis
 dernier
 derp
 derpier
+derpy
 derv
 desalt
 desalted
@@ -11687,6 +11722,7 @@ diluting
 dilution
 dim
 dime
+dimebag
 dimer
 dimers
 dimes
@@ -12075,6 +12111,7 @@ dogan
 dogana
 dogate
 dogdom
+dogdrave
 doge
 dogeared
 dogeate
@@ -12172,6 +12209,7 @@ dopants
 dope
 doped
 doper
+dopier
 dopily
 dops
 dopy
@@ -12191,6 +12229,7 @@ dorky
 dorm
 dormer
 dormice
+dormy
 dorp
 dorps
 dors
@@ -12349,11 +12388,14 @@ drakes
 dram
 drama
 dramatic
+dramedy
 drams
 drank
 dranks
 drape
+draped
 draper
+drapery
 drapy
 drastic
 drat
@@ -12421,6 +12463,7 @@ droids
 droit
 droits
 drome
+dromedary
 dromoi
 dromond
 drone
@@ -12907,6 +12950,7 @@ edges
 edgier
 edgiest
 edging
+edgy
 edh
 edibility
 edible
@@ -13178,6 +13222,8 @@ emblematical
 emblematise
 emblematises
 emblems
+embodied
+embodier
 embody
 emboli
 embolic
@@ -14164,6 +14210,7 @@ everwhere
 everwho
 everwhut
 every
+everybody
 eves
 evesong
 evesongs
@@ -16004,13 +16051,19 @@ gamasid
 gamasids
 gamb
 gamba
+gambade
+gambado
 gambas
+gambier
+gambir
 gambit
 gambo
+gamboge
 gambos
 gambow
 gambs
 game
+gamebird
 gamed
 gameful
 gamene
@@ -16112,6 +16165,9 @@ garboard
 garbos
 garbs
 garcon
+garde
+garderobe
+gardie
 garganey
 garget
 gargle
@@ -16759,6 +16815,7 @@ goatly
 goats
 goaty
 goave
+goaved
 goaves
 goaving
 gob
@@ -16948,6 +17005,7 @@ gowned
 gowning
 gowns
 goy
+goyim
 goys
 grab
 graben
@@ -17437,6 +17495,8 @@ gweilo
 gweilos
 gwine
 gyan
+gybe
+gybed
 gybing
 gym
 gymp
@@ -17454,12 +17514,16 @@ gyration
 gyrator
 gyratory
 gyre
+gyred
 gyres
 gyri
 gyring
 gyro
 gyron
 gyros
+gyve
+gyved
+gyver
 hab
 habanera
 habeas
@@ -19420,9 +19484,11 @@ ilmorans
 ilvaite
 image
 imageable
+imageboard
 imaged
 imager
 imagers
+imagery
 images
 imagic
 imaginant
@@ -23745,6 +23811,7 @@ madmen
 mado
 madombe
 mados
+madrepore
 madrich
 madrigal
 madrina
@@ -23816,6 +23883,7 @@ magnetophone
 magnum
 magot
 magots
+magpie
 magret
 magrets
 mags
@@ -24399,6 +24467,7 @@ marasmus
 marathon
 maraud
 marauds
+maravedi
 maray
 marays
 marble
@@ -24430,7 +24499,9 @@ marcots
 marcs
 mard
 mardana
+mardier
 mards
+mardy
 mare
 marena
 marenga
@@ -25027,6 +25098,7 @@ medicative
 medicinal
 medicine
 medieval
+medigap
 medin
 medina
 meditate
@@ -25052,9 +25124,13 @@ medusome
 medusomes
 meg
 mega
+megadairy
 megagamete
+megamedia
 megaphone
 megaphoning
+megapod
+megapode
 megaron
 megathere
 megatheria
@@ -25209,6 +25285,7 @@ memorat
 memorate
 memorial
 memoriam
+memoried
 memorise
 memoriser
 memorisers
@@ -25345,10 +25422,12 @@ merlin
 merlins
 merlon
 merlot
+mermaid
 merman
 mermen
 mermithid
 merodiploid
+merogamy
 merogon
 merogone
 meroistic
@@ -25767,6 +25846,7 @@ midgie
 midgies
 midgut
 midguts
+midgy
 midi
 midibus
 midibuses
@@ -27064,10 +27144,12 @@ mop
 mopane
 mopanes
 mopani
+mopboard
 mope
 moped
 mopeful
 moper
+mopery
 mopes
 mopier
 moping
@@ -27141,6 +27223,7 @@ mormaorships
 mormo
 mormos
 mormyr
+mormyrid
 mormyrs
 morn
 morna
@@ -27900,6 +27983,7 @@ myen
 myna
 mynah
 mynas
+myodome
 myogram
 myograms
 myograph
@@ -27907,11 +27991,13 @@ myographs
 myography
 myoma
 myomas
+myombo
 myomere
 myomeres
 myon
 myons
 myopathy
+myope
 myopia
 myopism
 myopisms
@@ -27937,6 +28023,7 @@ myotonic
 myotonica
 myriad
 myriads
+myriapod
 myrica
 myricas
 myriorama
@@ -30485,6 +30572,7 @@ omda
 omdah
 omdas
 omdeh
+omega
 omelet
 omen
 omened
@@ -30680,6 +30768,7 @@ operagoer
 operate
 operator
 operon
+opery
 opes
 opex
 opgaf
@@ -32069,6 +32158,9 @@ page
 pageant
 pageantic
 pageants
+pageboy
+paged
+pagedom
 pageful
 pager
 pages
@@ -32095,6 +32187,7 @@ paibans
 paiche
 paiches
 paid
+paideia
 paidle
 paigeite
 paigle
@@ -32278,6 +32371,7 @@ paludian
 paludinal
 palwar
 paly
+pamby
 pame
 pampaean
 pampas
@@ -32547,6 +32641,7 @@ papermakers
 papern
 papers
 paperware
+papery
 papeterie
 papey
 papier
@@ -32585,6 +32680,7 @@ para
 parabanate
 parabases
 parabasis
+parabema
 paraben
 parabens
 parabiont
@@ -32601,6 +32697,8 @@ paracrine
 parade
 paraded
 parader
+paradigm
+paradigma
 parading
 paradisiac
 paradisian
@@ -32683,6 +32781,7 @@ parapathia
 parapathy
 parapatric
 parapatry
+parapegma
 parapente
 parapenter
 parapet
@@ -32870,6 +32969,7 @@ parodiable
 parodial
 parodic
 parodical
+parodied
 parodist
 parodists
 parody
@@ -33168,6 +33268,7 @@ pavanes
 pavans
 pavas
 pave
+paved
 paver
 paves
 pavie
@@ -33187,6 +33288,7 @@ pavon
 pavonine
 pavons
 pavs
+pavy
 paw
 pawang
 pawing
@@ -33339,9 +33441,11 @@ pectins
 pects
 peculium
 peculiums
+pedage
 pedagog
 pedagogal
 pedagogue
+pedagogy
 pedal
 pedalboard
 pedaled
@@ -33356,11 +33460,14 @@ pediment
 pedimented
 pedlar
 pedo
+pedogamy
 pedrail
+pedrero
 peg
 pegity
 pegleg
 peglet
+pegma
 pego
 pegos
 pegs
@@ -33699,9 +33806,11 @@ pericarp
 pericarpic
 pericarps
 pericecal
+periderm
 peridia
 peridiole
 peridium
+peridrome
 peridural
 periegesis
 periegesises
@@ -33822,6 +33931,7 @@ permeases
 permeate
 permeates
 permeator
+permed
 permie
 permies
 perming
@@ -33907,8 +34017,12 @@ peruses
 peruvin
 peruvins
 perv
+pervade
+pervaded
+pervader
 pervasive
 perve
+perved
 pervert
 perverter
 perverts
@@ -34483,6 +34597,8 @@ piets
 piety
 pig
 pigboat
+pigdog
+pigdom
 pigeon
 pigeongram
 pigeonite
@@ -34803,6 +34919,7 @@ pira
 piracy
 piragua
 pirai
+piramidig
 piranha
 piraracu
 pirarucu
@@ -35482,6 +35599,10 @@ podcast
 podcasts
 podere
 podex
+podge
+podged
+podger
+podgier
 podgily
 podgy
 podia
@@ -35785,6 +35906,7 @@ pomeises
 pomelo
 pomerium
 pomeron
+pomeroy
 pomes
 pomfret
 pomo
@@ -35866,6 +35988,7 @@ pope
 popedom
 popeing
 popeism
+popery
 popes
 popeship
 popeships
@@ -36336,6 +36459,7 @@ prag
 prahu
 prairie
 prairied
+prairiedom
 prairion
 prajna
 pralay
@@ -36408,6 +36532,8 @@ preamp
 preamps
 preantepenult
 prebait
+preboard
+preboarded
 precancer
 precant
 precants
@@ -36433,6 +36559,7 @@ preclear
 precoracoid
 precordia
 predial
+predy
 prefade
 prefaded
 prefader
@@ -36445,6 +36572,7 @@ prefired
 preflight
 preg
 pregame
+pregamed
 pregaming
 pregave
 pregive
@@ -36456,6 +36584,7 @@ preharvest
 preheat
 preheater
 preheats
+preimage
 preke
 prekes
 prelabial
@@ -36488,6 +36617,7 @@ premial
 premie
 premier
 premiere
+premiered
 premio
 premios
 premise
@@ -36711,6 +36841,7 @@ primar
 primarian
 primaries
 primars
+primary
 primase
 primases
 primatal
@@ -36741,6 +36872,7 @@ primites
 primitiae
 primitive
 primo
+primordia
 primores
 primoreses
 primos
@@ -36872,11 +37004,13 @@ probating
 probative
 probe
 probed
+prober
 probes
 probie
 probing
 probit
 probs
+proby
 procacity
 procain
 procarp
@@ -36920,6 +37054,7 @@ progenital
 progenitor
 progenitorial
 progenote
+progeria
 progeroid
 proging
 prograde
@@ -37011,10 +37146,12 @@ propaganda
 propagator
 propagatory
 propage
+propaged
 propaging
 propagular
 propagule
 propagulum
+propaideia
 propalation
 propalinal
 propanal
@@ -37862,6 +37999,7 @@ pyet
 pygal
 pygarg
 pygargs
+pygidia
 pygmy
 pygmydom
 pygopod
@@ -37874,12 +38012,16 @@ pylorus
 pynson
 pyocyanic
 pyocyanin
+pyoderma
+pyodermia
 pyoid
 pyoses
 pyosis
 pyot
 pyots
 pypgras
+pyramid
+pyramided
 pyran
 pyrane
 pyrans
@@ -37915,6 +38057,7 @@ pyrometry
 pyrone
 pyronin
 pyronins
+pyrope
 pyrophone
 pyrophor
 pyrophore
@@ -38767,6 +38910,7 @@ rapidly
 rapido
 rapidos
 rapier
+rapiered
 rapiers
 rapin
 rapine
@@ -38971,6 +39115,7 @@ rauriki
 rauwacke
 rav
 ravage
+ravaged
 ravager
 ravages
 ravaging
@@ -39210,6 +39355,8 @@ reawakes
 reawoke
 rebab
 rebabs
+rebadge
+rebadged
 rebail
 rebailed
 rebait
@@ -39268,6 +39415,7 @@ rebites
 reblog
 reboard
 reboarded
+rebodied
 rebody
 reboil
 reboiled
@@ -39774,6 +39922,8 @@ regalties
 regalty
 regar
 regard
+regarded
+regarder
 regardful
 regather
 regathers
@@ -39807,6 +39957,8 @@ regexp
 regexps
 regia
 regiculture
+regidor
+regidore
 regie
 regies
 regift
@@ -40247,6 +40399,8 @@ remble
 remeant
 remede
 remedial
+remedied
+remedy
 remeid
 remelt
 remelted
@@ -40256,6 +40410,7 @@ remembered
 rememberer
 rememberers
 remembers
+remembery
 rememorable
 rememorate
 rememory
@@ -40473,6 +40628,7 @@ repat
 repatriate
 repats
 repave
+repaved
 repaving
 repawn
 repawns
@@ -40596,6 +40752,7 @@ repricing
 reprick
 repricks
 reprieve
+reprieved
 repriever
 reprieves
 reprime
@@ -40619,6 +40776,8 @@ reprivatise
 repro
 reprobable
 reprobator
+reprobe
+reprobed
 reprogram
 reprogramed
 repromise
@@ -41227,6 +41386,7 @@ reutilize
 rev
 revamp
 revamping
+revaried
 revaries
 revary
 reveal
@@ -41787,6 +41947,7 @@ rimayes
 rimbase
 rimbases
 rimbomb
+rimbombed
 rimbombs
 rime
 rimed
@@ -42071,6 +42232,7 @@ roak
 roake
 roaky
 roam
+roamed
 roamer
 roamers
 roaming
@@ -42333,6 +42495,7 @@ ropeable
 roped
 ropeful
 roper
+ropery
 ropes
 ropier
 ropily
@@ -52607,9 +52770,11 @@ vacuo
 vada
 vadas
 vade
+vadge
 vaelensi
 vag
 vagal
+vagary
 vagi
 vagina
 vaginae
@@ -52690,14 +52855,18 @@ vangs
 vanish
 vans
 vape
+vaped
 vaper
 vapes
+vapid
 vaping
 vapor
+vapored
 vaporer
 vaporing
 vapors
 vaporware
+vapory
 vapour
 vapours
 vara
@@ -53432,6 +53601,7 @@ vulval
 vulvar
 vulvas
 vulvitis
+vygie
 vying
 wabayo
 wabi
