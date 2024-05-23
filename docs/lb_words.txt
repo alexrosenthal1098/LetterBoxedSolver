@@ -38,6 +38,7 @@ abaser
 abasers
 abases
 abash
+abashes
 abashing
 abasia
 abasias
@@ -226,6 +227,8 @@ abrases
 abrasing
 abrasive
 abrasives
+abrasure
+abrasures
 abraze
 abrazo
 abreact
@@ -318,6 +321,7 @@ abusage
 abusages
 abuse
 abused
+abuser
 abuses
 abusive
 abut
@@ -1088,8 +1092,13 @@ aero
 aerobat
 aerobated
 aerobe
+aerobes
 aerobian
 aerobot
+aerobrake
+aerobrakes
+aerobus
+aerobuses
 aerocar
 aerocycle
 aerodone
@@ -1113,6 +1122,8 @@ aerophone
 aerophore
 aerophyte
 aerosol
+aerosphere
+aerospheres
 aerostat
 aerostats
 aerotolerance
@@ -1624,6 +1635,7 @@ akebia
 akebias
 akes
 akhara
+akharas
 akilter
 akimbo
 akin
@@ -2840,11 +2852,13 @@ apes
 apex
 apexes
 apexing
+aphaereses
 aphagia
 aphagic
 aphasia
 aphasic
 aphasics
+aphereses
 apheretic
 aphesis
 aphetic
@@ -4141,9 +4155,12 @@ baju
 bajus
 bake
 baked
+bakehouse
+bakehouses
 baker
 bakeries
 bakers
+bakery
 bakes
 bakeware
 baking
@@ -4310,6 +4327,7 @@ baptists
 baptize
 baptizing
 bapu
+bapus
 bar
 bara
 baraita
@@ -4492,6 +4510,8 @@ basha
 bashas
 bashaw
 bashaws
+basher
+bashes
 bashful
 bashing
 basho
@@ -4618,6 +4638,7 @@ bayas
 bayed
 baying
 bayou
+bayous
 bays
 bayside
 baysides
@@ -4699,6 +4720,7 @@ becalms
 became
 becard
 because
+beck
 become
 becomes
 bed
@@ -4862,6 +4884,8 @@ berates
 berberine
 berberis
 berberises
+berceuse
+berceuses
 bereave
 bereaves
 bereft
@@ -5672,6 +5696,7 @@ boite
 boites
 boke
 boked
+bokeh
 bokes
 boking
 bol
@@ -6075,7 +6100,10 @@ branle
 brant
 brants
 bras
+brasco
+brascos
 brash
+brasher
 brat
 brats
 brava
@@ -6130,6 +6158,8 @@ breakers
 breakeven
 breakin
 breakins
+breakup
+breakups
 bream
 breams
 breast
@@ -6266,6 +6296,8 @@ brocaded
 broch
 brochs
 brochure
+brochures
+brock
 brogue
 broider
 broidered
@@ -6366,6 +6398,7 @@ brunt
 brush
 brushback
 brushbacks
+brushes
 brushstroke
 brushstrokes
 brushwork
@@ -6584,6 +6617,7 @@ burnouts
 burns
 burnt
 burp
+burps
 burqa
 burs
 bursa
@@ -6610,6 +6644,8 @@ busauns
 busbar
 busbars
 busbies
+busboy
+busboys
 busby
 buscarl
 buscarls
@@ -6619,6 +6655,7 @@ buses
 bush
 bushbuck
 bushbucks
+bushes
 busier
 busies
 busiest
@@ -7746,6 +7783,7 @@ cermets
 cero
 ceroc
 ceros
+cerous
 cert
 certain
 certes
@@ -8004,6 +8042,8 @@ check
 checker
 checkin
 checks
+checkup
+checkups
 cheder
 chedi
 chef
@@ -8045,6 +8085,7 @@ chert
 cherts
 cherty
 cherub
+cherubs
 chervil
 chesed
 chest
@@ -8235,6 +8276,7 @@ chochos
 chock
 chocka
 chockablock
+chocker
 chocko
 chocks
 choco
@@ -8256,7 +8298,10 @@ choirman
 choirmen
 choirs
 choke
+choker
 chokes
+chokey
+chokeys
 choko
 chokos
 choky
@@ -8284,6 +8329,7 @@ chorded
 chords
 chore
 chorea
+choreas
 chores
 choriamb
 choriambi
@@ -8357,6 +8403,7 @@ chufa
 chug
 chugs
 chukar
+chukor
 chum
 chump
 chumps
@@ -8374,6 +8421,8 @@ churching
 churchish
 churchism
 churchisms
+churchkey
+churchkeys
 churchship
 churchships
 churchy
@@ -8891,6 +8940,7 @@ coble
 cobot
 cobots
 cobra
+cobras
 cobs
 coca
 cocaine
@@ -8916,6 +8966,8 @@ cocker
 cockerel
 cockerels
 cockers
+cockeye
+cockeyes
 cockie
 cockier
 cockies
@@ -8936,6 +8988,7 @@ cocktail
 cocktails
 cockup
 cockups
+cocky
 coco
 cocoa
 cocoanut
@@ -9030,6 +9083,8 @@ coition
 coke
 coked
 cokes
+cokey
+cokeys
 cokies
 col
 cola
@@ -9554,6 +9609,10 @@ corporatocrat
 corporatocratic
 corporator
 corps
+corpse
+corpses
+corpus
+corpuses
 corsac
 corsair
 corsairs
@@ -9589,6 +9648,7 @@ corvina
 corvine
 coryza
 cos
+coscoroba
 cosecant
 cosecants
 coses
@@ -9780,6 +9840,7 @@ craic
 craisin
 craisins
 crake
+crakes
 cram
 crambo
 cramdown
@@ -9858,6 +9919,7 @@ creak
 creakier
 creakiest
 creaks
+creaky
 cream
 creamer
 creamers
@@ -9880,6 +9942,7 @@ creature
 creaturely
 creatures
 creche
+creches
 cred
 credal
 credent
@@ -10050,13 +10113,16 @@ critics
 criticus
 crits
 croak
+croaker
 croaking
+croaky
 croc
 crochet
 crocheted
 crocheter
 croci
 crock
+crockery
 crocket
 crockets
 crocking
@@ -10170,10 +10236,14 @@ cruor
 crura
 cruraeus
 crural
+crureus
+crureuses
 crus
 cruse
 cruses
 crush
+crusher
+crushes
 crusie
 crusies
 crust
@@ -10199,6 +10269,8 @@ cryonics
 cryophorus
 cryosar
 cryosars
+cryosphere
+cryospheres
 cryostasis
 cryostat
 cryostats
@@ -10548,6 +10620,7 @@ cynical
 cynics
 cynodont
 cynodonts
+cypher
 cyst
 cystic
 cystitis
@@ -12746,6 +12819,9 @@ eaning
 ear
 earache
 earaches
+earbash
+earbasher
+earbashes
 earcup
 earcups
 eardrop
@@ -12899,6 +12975,8 @@ ecocline
 ecoclines
 ecocritic
 ecocritical
+ecohouse
+ecohouses
 ecole
 ecologic
 ecological
@@ -12921,6 +12999,8 @@ ecoresort
 ecoresorts
 ecospace
 ecospaces
+ecosphere
+ecospheres
 ecostate
 ecotage
 ecoteur
@@ -12929,6 +13009,7 @@ ecotones
 ecotour
 ecotoured
 ecotours
+ecphrases
 ecru
 ecstasy
 ectoderm
@@ -13032,6 +13113,7 @@ eke
 eked
 ekes
 eking
+ekphrases
 elaborate
 elaborating
 elaborator
@@ -14138,6 +14220,7 @@ eulogy
 eunuch
 euploid
 eureka
+eurekas
 euretic
 euribor
 euro
@@ -14471,6 +14554,8 @@ eyer
 eyers
 eyes
 eyesome
+eyesore
+eyesores
 eyestrain
 eyeward
 eyewards
@@ -14483,6 +14568,7 @@ eyots
 eyra
 eyras
 eyre
+eyres
 eyrie
 eyries
 eyrir
@@ -17845,6 +17931,8 @@ haram
 harangue
 haranguer
 haranguing
+harbor
+harborer
 harbour
 harbourage
 harbourer
@@ -18656,6 +18744,8 @@ hobs
 hoc
 hock
 hocket
+hockey
+hockeys
 hocks
 hocus
 hocuses
@@ -19001,10 +19091,17 @@ housal
 house
 houseboy
 houseboys
+housebreak
+housebreaker
+housebroke
 housel
 houselet
 houselets
+houser
 houses
+houseshare
+housesharer
+houseshares
 housesit
 housesits
 housesmith
@@ -21068,6 +21165,7 @@ kapha
 kaphas
 kapok
 kapu
+kapur
 kaput
 kara
 karabiner
@@ -21105,6 +21203,7 @@ karts
 karzy
 kas
 kasbah
+kasbahs
 kasha
 kata
 katabatic
@@ -21151,6 +21250,7 @@ keas
 kebab
 kebabs
 kebaya
+kebayas
 keck
 kecked
 kecks
@@ -21630,6 +21730,7 @@ koru
 koruna
 koruru
 korus
+kosher
 kotch
 koto
 kotos
@@ -21637,7 +21738,12 @@ kotwal
 kotwali
 kotwalis
 kotwals
+kouprey
+koupreys
+kourbash
+kourbashes
 kouroi
+kouros
 kowari
 kowaris
 kowtow
@@ -21699,6 +21805,7 @@ kupapa
 kupapas
 kura
 kurbash
+kurbashes
 kuri
 kuris
 kurta
@@ -21735,6 +21842,7 @@ kyte
 kytes
 kyu
 kyudo
+kyus
 lab
 labarum
 labarums
@@ -30065,6 +30173,8 @@ obdurate
 obdurated
 obdurately
 obeah
+obeche
+obeches
 obeli
 obelia
 obeliac
@@ -30201,6 +30311,7 @@ ocelots
 och
 oche
 ocher
+ocherous
 ochery
 oches
 ochlocrat
@@ -30210,6 +30321,7 @@ ochone
 ochre
 ochrea
 ochreae
+ochreas
 ochreate
 ochred
 ochroid
@@ -30224,10 +30336,12 @@ ocietrova
 ocker
 ockers
 ockies
+ocky
 oclock
 ocote
 ocrea
 ocreae
+ocreas
 ocreate
 octactinian
 octad
@@ -31156,6 +31270,7 @@ orpharion
 orphion
 orphions
 orphrey
+orphreys
 orpin
 orpine
 orping
@@ -31275,6 +31390,8 @@ osophies
 osophy
 osotogari
 osotogaris
+osprey
+ospreys
 osteal
 osteitic
 osteitis
@@ -32242,6 +32359,8 @@ pakeha
 pakehas
 pakhal
 pakololo
+pakora
+pakoras
 pakua
 pakul
 pal
@@ -32675,6 +32794,8 @@ papule
 papyri
 papyrology
 papyrosa
+papyrus
+papyruses
 par
 para
 parabanate
@@ -32792,6 +32913,9 @@ paraphiliac
 paraphilic
 paraphimosis
 paraphonic
+paraphrase
+paraphraser
+paraphrases
 paraphrasia
 paraphrasias
 paraphrasis
@@ -32824,6 +32948,8 @@ pararenal
 paras
 parasail
 parasails
+parashah
+parashahs
 parasitic
 parasitise
 parasitises
@@ -32854,7 +32980,9 @@ parcenary
 parcener
 parch
 parcher
+parches
 parching
+parcour
 parcs
 pard
 pardao
@@ -32865,6 +32993,7 @@ pardoner
 pardons
 pards
 pare
+parecbases
 pared
 pareidolia
 pareira
@@ -32893,6 +33022,7 @@ pareses
 paresis
 paretic
 pareu
+pareus
 parev
 pareve
 parfait
@@ -33068,6 +33198,7 @@ partyist
 partyists
 parula
 parure
+parures
 parve
 parvule
 pas
@@ -33090,6 +33221,7 @@ pases
 pash
 pasha
 pashas
+pashes
 pashka
 pashm
 pasigraphy
@@ -33309,6 +33441,7 @@ pay
 payasam
 paybob
 paybobs
+paycheck
 payday
 paydirt
 payer
@@ -34156,6 +34289,7 @@ phalerae
 phanatron
 phanotron
 pharaoh
+pharaohs
 pharate
 pharbitin
 phare
@@ -34163,6 +34297,8 @@ phares
 pharma
 pharming
 pharology
+pharos
+pharoses
 phase
 phaser
 phases
@@ -34278,6 +34414,7 @@ phonoscopes
 phonotypy
 phons
 phony
+phoresy
 phoretic
 phoria
 phorid
@@ -34295,6 +34432,11 @@ phospholipids
 phospholipoid
 phospholipoids
 phosphon
+phosphor
+phosphoresce
+phosphoresces
+phosphorous
+phosphorus
 phot
 phota
 photae
@@ -34387,6 +34529,9 @@ photronic
 phots
 photy
 phrasal
+phrase
+phraser
+phrases
 phrasy
 phrator
 phratry
@@ -36457,6 +36602,7 @@ praetorian
 praevia
 prag
 prahu
+prahus
 prairie
 prairied
 prairiedom
@@ -36548,6 +36694,8 @@ precept
 preceptial
 preceptor
 precepts
+preces
+preceses
 precip
 precipice
 precipit
@@ -36725,6 +36873,7 @@ preserves
 preses
 preset
 presets
+presoak
 presort
 prest
 prestant
@@ -36785,6 +36934,7 @@ prexy
 prey
 preyer
 preying
+preys
 prez
 prial
 prials
@@ -37009,13 +37159,20 @@ probes
 probie
 probing
 probit
+probosces
 probs
 proby
 procacity
 procain
 procarp
+proceres
+procereses
+procerus
+proceruses
 prochiral
 prochordal
+prochous
+prochouses
 prochronic
 proclaim
 proclamator
@@ -37068,6 +37225,7 @@ progun
 proing
 proings
 proke
+proker
 prokes
 proking
 prolamin
@@ -37290,6 +37448,8 @@ prosomes
 prosper
 prosperity
 prospers
+prosphora
+prosphoras
 prost
 prostatic
 prostatism
@@ -37547,6 +37707,8 @@ psorosperm
 psorospermoses
 psorospermosis
 psych
+psyche
+psyches
 psychic
 psychicist
 psychicists
@@ -37559,9 +37721,13 @@ psychon
 psychons
 psychophony
 psychos
+psychoses
+psychosphere
 psychotic
 psychotronic
 psychotropic
+psychrosphere
+psychrospheres
 psychrotroph
 psychrotrophic
 psychrotrophs
@@ -37593,11 +37759,13 @@ ptype
 ptyxis
 ptyxises
 pub
+pubarche
 pube
 puberulent
 pubes
 pubis
 pubs
+pubsy
 pucan
 puce
 puck
@@ -37632,7 +37800,9 @@ pukas
 puke
 pukeko
 pukekos
+puker
 pukes
+pukey
 puku
 pukus
 puky
@@ -37820,6 +37990,9 @@ purale
 purao
 purau
 puraus
+purchase
+purchaser
+purchases
 purdah
 purdy
 pure
@@ -37923,6 +38096,8 @@ purview
 purwanah
 pus
 push
+pusher
+pushes
 pushpin
 pushpins
 pushpit
@@ -38069,12 +38244,15 @@ pyros
 pyrosis
 pyrosome
 pyrosomes
+pyrosphere
+pyrospheres
 pyrostat
 pyrostats
 pyrotechny
 pyrothere
 pyrotheres
 pyrus
+pyruses
 python
 pythonic
 pythonist
@@ -39215,6 +39393,8 @@ reabling
 reabridge
 reabridged
 reabridges
+reabsorb
+reabsorbs
 reach
 reached
 reacher
@@ -39391,8 +39571,10 @@ rebeat
 rebeaten
 rebeats
 rebec
+rebeck
 rebecome
 rebecomes
+rebecs
 rebeget
 rebegot
 rebel
@@ -39458,15 +39640,23 @@ rebud
 rebuild
 rebuilder
 rebuilt
+rebuke
+rebuker
+rebukes
 rebuoy
 rebuoyed
+rebuoys
 reburies
+rebury
 rebus
 rebuses
+rebush
+rebushes
 rebut
 rebutment
 rebuts
 rebuy
+rebuys
 rec
 recado
 recant
@@ -39636,6 +39826,8 @@ recorte
 recortes
 recount
 recounter
+recoup
+recoups
 recourse
 recourses
 recourt
@@ -39700,6 +39892,7 @@ recut
 recuts
 recycle
 recycler
+recypher
 red
 redan
 redargue
@@ -40094,6 +40287,8 @@ rehoist
 rehoists
 rehome
 rehonour
+rehouse
+rehouses
 rehung
 reif
 reified
@@ -40203,6 +40398,7 @@ rejoneo
 rejudge
 rekey
 rekeyed
+rekeys
 rekindle
 rekindler
 rekindlers
@@ -41027,6 +41223,8 @@ resort
 resorter
 resorters
 resorts
+resource
+resources
 resow
 resown
 resows
@@ -41609,6 +41807,7 @@ rewrote
 rews
 reyoke
 reyoked
+reyokes
 rez
 rezero
 rezeros
@@ -41632,6 +41831,7 @@ rhea
 rheadin
 rheadine
 rheas
+rhebok
 rhegosol
 rheid
 rheidity
@@ -41703,6 +41903,9 @@ rhoptry
 rhos
 rhotic
 rhoticity
+rhubarb
+rhubarber
+rhubarbs
 rhumb
 rhumba
 rhumbs
@@ -42324,6 +42527,7 @@ rockcod
 rocked
 rocker
 rockers
+rockery
 rocket
 rocketlike
 rockets
@@ -42339,6 +42543,7 @@ rockling
 rockrose
 rockroses
 rockwork
+rocky
 rococo
 rocs
 rod
@@ -42544,7 +42749,10 @@ roscoes
 rose
 roseal
 roseate
+rosebay
+rosebays
 rosebush
+rosebushes
 rosed
 rosehip
 rosehips
@@ -43235,6 +43443,7 @@ sabred
 sabres
 sabretache
 sabretaches
+sabreur
 sabring
 sabs
 sac
@@ -43310,6 +43519,7 @@ sahibs
 sahitya
 sahuaro
 sahuaros
+sahukar
 sai
 said
 saiga
@@ -43808,6 +44018,7 @@ saxists
 say
 saya
 sayas
+sayer
 sayid
 sayids
 sayon
@@ -44043,6 +44254,7 @@ scope
 scopes
 scops
 scorch
+scorcher
 scorches
 score
 scorer
@@ -44091,6 +44303,8 @@ scramjets
 scrams
 scran
 scrap
+scrapheap
+scrapheaps
 scraps
 scrapyard
 scratch
@@ -44152,6 +44366,7 @@ scrunch
 scrutator
 scrutators
 scry
+scryer
 scuba
 scubas
 scud
@@ -44172,6 +44387,9 @@ scute
 scutes
 scuts
 scutum
+scyphos
+scyphus
+scyphuses
 scythe
 scythes
 sea
@@ -44222,6 +44440,8 @@ sears
 seas
 seascape
 seascapes
+seashore
+seashores
 seasick
 seaside
 seasides
@@ -44249,6 +44469,7 @@ second
 secondi
 secondo
 seconds
+secrecy
 secret
 secrete
 secretes
@@ -44545,6 +44766,8 @@ serang
 serangs
 serape
 serapes
+seraph
+seraphs
 seraskier
 sere
 serenata
@@ -44754,6 +44977,8 @@ shake
 shaken
 shaker
 shakes
+shakeup
+shakeups
 shakier
 shakiest
 shako
@@ -44764,6 +44989,7 @@ shakshuka
 shakshukas
 shakuhachi
 shakuhachis
+shaky
 shale
 shales
 shaley
@@ -44823,6 +45049,9 @@ sharifs
 shark
 sharks
 sharkskin
+sharp
+sharps
+sharpy
 shart
 sharts
 shashlik
@@ -44844,6 +45073,8 @@ shawm
 shawms
 shaws
 shay
+shaykh
+shaykhs
 shays
 shaytan
 shaytans
@@ -44987,6 +45218,7 @@ shoats
 shochet
 shochu
 shock
+shocker
 shocks
 shod
 shoe
@@ -46052,6 +46284,8 @@ sociuses
 sock
 socket
 sockets
+sockeye
+sockeyes
 socko
 socks
 socle
@@ -46237,6 +46471,8 @@ sorbs
 sorbus
 sorcerer
 sorcerers
+sorcerous
+sorcery
 sord
 sordid
 sordini
@@ -46308,6 +46544,8 @@ soup
 soups
 soupy
 sour
+source
+sources
 sourer
 sourest
 sourish
@@ -46640,6 +46878,7 @@ sprats
 sprawl
 sprawls
 spray
+sprayer
 sprays
 spreite
 spreiten
@@ -46684,6 +46923,7 @@ spruit
 spruits
 sprung
 spry
+spryer
 spud
 spuds
 spue
@@ -47608,10 +47848,14 @@ subashi
 subaud
 subauded
 subauds
+subchaser
 subchron
 subchronic
 subchrons
 subcritical
+subcruraeus
+subcrureus
+subcrureuses
 subcrust
 subcrustal
 subcrusts
@@ -47633,6 +47877,8 @@ suber
 suberin
 suberise
 suberises
+suberose
+suberous
 subface
 subfaces
 subfacies
@@ -47677,6 +47923,7 @@ subnucleus
 subnucleuses
 suborn
 suborns
+subpar
 subrepent
 subrisive
 subrotund
@@ -47688,6 +47935,9 @@ subsenses
 subsensible
 subsere
 subseres
+subserosa
+subserosas
+subserous
 subserve
 subserves
 subservient
@@ -52505,6 +52755,7 @@ unwraps
 unyoke
 uomo
 upas
+upases
 upbeat
 upcase
 upcases
@@ -52546,6 +52797,7 @@ uproariously
 uproars
 uprose
 uprush
+uprushes
 ups
 upset
 upsets
@@ -54708,6 +54960,7 @@ yearner
 yearning
 years
 yeas
+yeasayer
 yebo
 yech
 yechy
@@ -54722,6 +54975,7 @@ yeow
 yep
 yer
 yerba
+yerbas
 yerk
 yerked
 yes
