@@ -1555,6 +1555,7 @@ airlanding
 airleg
 airlift
 airlifting
+airlifts
 airlike
 airline
 airliner
@@ -3246,6 +3247,8 @@ aronia
 aronias
 arose
 around
+arousal
+arousals
 arouse
 arouses
 arpent
@@ -3733,6 +3736,8 @@ autarchist
 autarchists
 autarchs
 autarkic
+autarkist
+autarkists
 autecology
 auteur
 auteurs
@@ -14805,6 +14810,7 @@ fatly
 fats
 fatso
 fatsos
+fatuous
 fatwa
 fauces
 fauch
@@ -15065,6 +15071,7 @@ figuring
 filaria
 filariae
 filarial
+filariasis
 filature
 filbert
 filch
@@ -15561,6 +15568,8 @@ foliole
 folios
 folium
 folk
+folklorist
+folklorists
 folks
 foment
 fomenter
@@ -15582,6 +15591,7 @@ fontal
 fontanel
 fonts
 fop
+fops
 for
 fora
 forage
@@ -15640,6 +15650,12 @@ forgone
 forgot
 fori
 forint
+fork
+forklift
+forklifts
+forks
+forktail
+forktails
 forlorn
 form
 forma
@@ -15658,6 +15674,7 @@ forthwith
 fortifier
 fortiori
 fortlet
+forts
 forum
 fou
 foudre
@@ -15689,6 +15706,9 @@ fowler
 fowlers
 fowling
 fowls
+fox
+foxtail
+foxtails
 foyaite
 fracas
 fracases
@@ -15782,6 +15802,8 @@ fringy
 frise
 friseur
 friseurs
+frisk
+frisks
 frit
 frita
 frite
@@ -15864,6 +15886,7 @@ frum
 frumenty
 frump
 frumpier
+frusta
 fry
 fryer
 frying
@@ -21678,6 +21701,8 @@ kobo
 kochia
 kochias
 koel
+kofta
+koftas
 koha
 kohas
 kohen
@@ -21809,6 +21834,7 @@ kurbashes
 kuri
 kuris
 kurta
+kurtas
 kurtha
 kurthas
 kuru
@@ -22188,6 +22214,7 @@ larked
 larking
 larkish
 larks
+larkspur
 larky
 larn
 larned
@@ -23340,6 +23367,7 @@ lofted
 lofter
 loftily
 lofting
+lofts
 lofty
 log
 logan
@@ -23485,6 +23513,7 @@ loudmouth
 loudmouthed
 lough
 loughs
+louis
 lound
 lounging
 loup
@@ -31607,6 +31636,7 @@ outfling
 outflinging
 outflung
 outfought
+outfox
 outgain
 outgaining
 outgang
@@ -31757,6 +31787,8 @@ outstink
 outstinks
 outstrike
 outstrikes
+outstrip
+outstrips
 outstruck
 outstunk
 outswim
@@ -32144,6 +32176,8 @@ oximetry
 oximide
 oxisol
 oxisols
+oxlip
+oxlips
 oxtail
 oxtails
 oxter
@@ -34782,8 +34816,10 @@ pikopiko
 pikul
 piladex
 pilaf
+pilafs
 pilar
 pilau
+pilaus
 pilch
 pilcorn
 pilcrow
@@ -35382,6 +35418,7 @@ plasticine
 plastics
 plastin
 plastins
+plastral
 plat
 platan
 platano
@@ -35547,6 +35584,7 @@ plips
 ploat
 ploated
 ploating
+ploats
 ploce
 plock
 plocking
@@ -36226,6 +36264,7 @@ porkling
 porkman
 porkmen
 porkpie
+porks
 porn
 pornie
 pornier
@@ -36370,6 +36409,7 @@ posoles
 post
 postal
 postals
+postaxial
 postbag
 postbags
 postcard
@@ -36380,6 +36420,8 @@ postdicts
 poste
 postea
 posteas
+postfix
+postfixal
 posthaste
 posthitis
 posthitises
@@ -36419,6 +36461,7 @@ postscriptal
 postscripts
 postseason
 postseasons
+postural
 postwar
 posy
 pot
@@ -36656,6 +36699,7 @@ prawner
 prawners
 prawns
 prawny
+praxis
 pray
 prayer
 praying
@@ -37102,6 +37146,7 @@ prismane
 prismanes
 prismic
 prisms
+pristaf
 pristane
 pristanes
 pristav
@@ -37143,6 +37188,7 @@ proal
 proamnion
 proanthocyanidin
 proas
+proatlas
 proavis
 prob
 probabilize
@@ -37202,9 +37248,12 @@ prof
 profile
 profiled
 profiler
+profilist
+profilists
 profit
 proform
 proforma
+profs
 prog
 progenial
 progenital
@@ -37357,6 +37406,7 @@ propodial
 propodium
 propodus
 propofol
+propofols
 propolis
 propone
 proponent
@@ -37373,12 +37423,15 @@ proportioning
 proportions
 proports
 propos
+proposal
+proposals
 propose
 proposes
 proposita
 propositas
 propound
 propounds
+propoxur
 propraetor
 propraetorial
 propraetorian
@@ -37431,6 +37484,9 @@ prorogues
 proroguing
 proruption
 pros
+prosaist
+prosaists
+prosal
 prose
 proser
 prosers
@@ -37660,6 +37716,8 @@ pruritic
 prurits
 pruritus
 prushin
+prusik
+prusiks
 prutah
 prutahs
 pry
@@ -37691,6 +37749,7 @@ psia
 psias
 psilomelane
 psilomelanes
+psilosis
 psionic
 psis
 psoas
@@ -39191,6 +39250,7 @@ ratability
 ratable
 ratably
 ratafia
+ratafias
 ratal
 ratals
 ratama
@@ -39284,12 +39344,14 @@ raunch
 raunchy
 raupatu
 raupo
+raupos
 raurakau
 raureka
 raurekau
 raurekaus
 raurikau
 rauriki
+raurikis
 rauwacke
 rav
 ravage
@@ -42087,6 +42149,7 @@ rifling
 rift
 rifted
 rifting
+rifts
 rig
 rigatone
 rigatoni
@@ -42320,6 +42383,7 @@ risorius
 risoriuses
 risp
 risposta
+rispostas
 risps
 risque
 rist
@@ -43497,6 +43561,7 @@ saeter
 saeters
 saether
 safari
+safaris
 safranin
 safranine
 safranins
@@ -46353,6 +46418,8 @@ solid
 solidi
 solids
 solidus
+solipsist
+solipsists
 solo
 soloes
 soloist
@@ -46457,6 +46524,7 @@ sophists
 sophs
 sopor
 soporose
+soporous
 sops
 sora
 soras
@@ -46844,6 +46912,7 @@ sponsons
 sponsor
 sponsors
 spork
+sporks
 sport
 sportcast
 sportcasts
@@ -46863,6 +46932,8 @@ spot
 spotch
 spotlit
 spots
+spousal
+spousals
 spouse
 spouses
 spout
@@ -46919,6 +46990,8 @@ spruce
 spruces
 sprue
 sprues
+spruik
+spruiks
 spruit
 spruits
 sprung
@@ -47037,6 +47110,8 @@ staidly
 stain
 stains
 stair
+stairlift
+stairlifts
 stairs
 staithe
 staithes
@@ -47242,6 +47317,7 @@ statuarists
 statue
 statued
 statues
+statural
 stature
 status
 statuses
@@ -48218,6 +48294,7 @@ supine
 supines
 supinity
 supra
+suprafoliar
 supraliminal
 supralineal
 supramarine
@@ -48249,6 +48326,7 @@ sureties
 surety
 surf
 surfari
+surfaris
 surfie
 surfs
 surge
@@ -51439,6 +51517,7 @@ trougher
 troupe
 trouper
 troupial
+troupials
 trout
 trouting
 trouts
@@ -51664,6 +51743,7 @@ tuning
 tuns
 tup
 tupik
+tupiks
 tuple
 tuples
 tups
@@ -52777,6 +52857,7 @@ uphold
 upholder
 upland
 uplift
+uplifts
 uplight
 upon
 uprate
@@ -52806,6 +52887,7 @@ upshots
 upsize
 upsizes
 upsizing
+upskirt
 upstair
 upstairs
 upstand
@@ -52815,6 +52897,7 @@ upstarts
 upstate
 upstater
 upstaters
+uptalk
 uptempo
 upthrow
 upthrown
@@ -53006,6 +53089,7 @@ uvula
 uvulae
 uvular
 uvulas
+uxorial
 vac
 vaca
 vacant
