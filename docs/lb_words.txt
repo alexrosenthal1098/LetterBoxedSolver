@@ -27,6 +27,8 @@ abalone
 abalones
 aband
 abanding
+abandon
+abandoner
 abands
 abangan
 abangans
@@ -74,6 +76,7 @@ abdast
 abdest
 abdicate
 abdicated
+abdomen
 abduct
 abducted
 abeam
@@ -93,13 +96,17 @@ abengs
 aberuncate
 aberuncated
 abet
+abetment
 abets
 abey
+abeyant
 abeyed
 abeys
 abhesive
 abhesives
+abhinaya
 abhor
+abhorment
 abhors
 abidable
 abide
@@ -183,6 +190,8 @@ abomasa
 abomasum
 abomasus
 abomasuses
+abominate
+abomination
 aborad
 aboral
 aborigen
@@ -754,9 +763,14 @@ adalin
 adaline
 adamance
 adamant
+adamantane
+adamantean
+adamantine
+adamantinoma
 adamantoid
 adamas
 adamases
+adamine
 adamite
 adamites
 adamsite
@@ -803,11 +817,13 @@ adherent
 adherer
 adhibit
 adhibited
+adhibition
 adhibits
 adhoc
 adhorn
 adhorned
 adhort
+adhortation
 adhortatory
 adiabat
 adiabatic
@@ -890,6 +906,9 @@ admirers
 admires
 admit
 admits
+admonition
+admonitioner
+adname
 adnate
 adnation
 adnex
@@ -897,6 +916,7 @@ adnexa
 adnexal
 adnexed
 adnominal
+adnomination
 adnoun
 adnouns
 ado
@@ -929,6 +949,7 @@ adorb
 adorbs
 adore
 adored
+adorement
 adorer
 adoring
 adoringly
@@ -938,6 +959,7 @@ adornated
 adornating
 adornation
 adorned
+adorner
 adorning
 adorningly
 adorns
@@ -948,6 +970,7 @@ adprep
 adradial
 adradius
 adraw
+adream
 adrenal
 adrenalin
 adrenaline
@@ -1024,6 +1047,8 @@ advouter
 advt
 advts
 adware
+adynamia
+adynamy
 adynaton
 adyt
 adyta
@@ -1103,6 +1128,7 @@ aerocar
 aerocycle
 aerodone
 aerodrome
+aerodyne
 aerofoil
 aerofoiled
 aerogel
@@ -1114,10 +1140,12 @@ aerologic
 aerological
 aerology
 aerometer
+aerometry
 aeromotor
 aeronat
 aeronomer
 aeronomers
+aeronomy
 aerophone
 aerophore
 aerophyte
@@ -1155,6 +1183,10 @@ aestivates
 aestive
 aetatis
 aether
+aetherian
+aetherin
+aetheromania
+aethionema
 aethiops
 aetite
 aetites
@@ -1503,6 +1535,7 @@ aionian
 air
 airbag
 airbags
+airband
 airbase
 airbases
 airbed
@@ -2238,14 +2271,18 @@ ambulated
 ambush
 amdram
 ameba
+amebae
 amebas
 amebic
 ameboid
 amen
 amenable
+amend
+amendment
 amenities
 amens
 ament
+amentia
 amerce
 amethyst
 amethysts
@@ -2479,6 +2516,7 @@ aneling
 anemia
 anemic
 anemometer
+anemometry
 anemone
 anemones
 anent
@@ -2518,6 +2556,7 @@ anguine
 angular
 anhedonia
 anhinga
+anhydrite
 ani
 aniline
 anima
@@ -2541,6 +2580,7 @@ animates
 animati
 animatic
 animatics
+animation
 animatism
 animatisms
 animato
@@ -2581,9 +2621,11 @@ anodal
 anode
 anodic
 anodizing
+anodyne
 anogenital
 anoint
 anointer
+anointment
 anoints
 anole
 anoles
@@ -2602,6 +2644,7 @@ anoraks
 anoraky
 anorectal
 anorectic
+anorthite
 anosmia
 another
 ansa
@@ -2643,6 +2686,7 @@ anted
 antedate
 antedated
 antefact
+antemortem
 antenatal
 antenuptial
 antepast
@@ -2672,6 +2716,7 @@ anthemises
 anthemize
 anther
 antheral
+antherine
 anthers
 anthesis
 anthias
@@ -2684,7 +2729,9 @@ anthocyan
 anthocyanidin
 anthocyanin
 anthoid
+anthoinite
 anthomania
+anthonyite
 anthracic
 anthracitic
 anthracoid
@@ -2710,6 +2757,7 @@ antiasthmatic
 antiasthmatics
 antiatrophic
 antibiosis
+antibody
 antic
 anticancer
 antichoice
@@ -2723,9 +2771,13 @@ antigen
 antigens
 antigun
 antihero
+antiheroine
 antiknock
 antilife
 antilucan
+antimony
+antinomian
+antinomy
 antipasti
 antipasto
 antipathic
@@ -2807,7 +2859,9 @@ anuses
 anvil
 anvils
 any
+anybody
 anyhow
+anymore
 anyon
 anyone
 anyons
@@ -3538,6 +3592,7 @@ atheism
 atheist
 atheistic
 atheists
+atheroma
 atheteses
 athetesis
 athetise
@@ -4100,6 +4155,8 @@ badges
 badiaga
 badian
 badiane
+badman
+badmen
 bae
 baerse
 baes
@@ -4258,6 +4315,9 @@ banding
 bandit
 bandito
 banditos
+bandmate
+bandoneon
+bandore
 bands
 bandsaw
 bandsaws
@@ -4596,6 +4656,8 @@ bathtimes
 bathtub
 bathtubs
 bathyal
+bathymeter
+bathymetry
 bathysphere
 bathyspheres
 batik
@@ -4603,6 +4665,7 @@ batiks
 bating
 batiste
 batman
+batmen
 bato
 baton
 batons
@@ -4662,6 +4725,7 @@ beaded
 beadier
 beadle
 beadlet
+beady
 beak
 beaked
 beaker
@@ -4671,15 +4735,18 @@ beaks
 beaky
 bealach
 beam
+beamer
 beamier
 beamiest
 beams
+beamy
 bean
 beanbag
 beanbags
 beaned
 beaneries
 beaners
+beanery
 beanie
 beanies
 beano
@@ -4866,7 +4933,9 @@ bending
 bendlet
 bendlets
 bends
+bendy
 bene
+beneath
 benevolent
 benga
 benign
@@ -5215,6 +5284,7 @@ biolytic
 biome
 biomes
 biometer
+biometry
 biomining
 biomolecule
 bion
@@ -5267,12 +5337,15 @@ birched
 birchen
 birches
 bird
+birdbath
 birdbrain
 birdbrained
 birdbrains
 birder
 birdie
 birdied
+birdman
+birdmen
 birdo
 birdos
 birds
@@ -5292,6 +5365,8 @@ biro
 biros
 birse
 birth
+birthdate
+birthday
 birther
 birthright
 birthrights
@@ -5599,6 +5674,8 @@ boatlift
 boatlifts
 boatlike
 boatload
+boatman
+boatmen
 boatpeople
 boats
 boaty
@@ -5653,6 +5730,7 @@ bodysides
 bodysuit
 bodysuits
 boe
+boehmite
 boer
 boerboel
 boerbul
@@ -5680,6 +5758,8 @@ bogs
 bogy
 bohaun
 bohea
+bohemia
+bohemian
 boho
 bohos
 bohunk
@@ -5776,6 +5856,7 @@ bonding
 bondmaid
 bondmaids
 bondman
+bondmen
 bonds
 bondsman
 bondstone
@@ -6156,6 +6237,7 @@ breadiest
 breadline
 breads
 breadth
+bready
 break
 breakable
 breaker
@@ -6322,6 +6404,9 @@ bromate
 brome
 bromeliad
 bromic
+brominate
+bromination
+bromine
 bromism
 bronc
 bronchi
@@ -6723,6 +6808,7 @@ byes
 bygone
 bylaw
 byline
+byname
 bypath
 bypaths
 byre
@@ -10700,6 +10786,8 @@ dairies
 dairy
 dairymaid
 dairymaids
+dairyman
+dairymen
 dais
 daises
 daisies
@@ -10764,6 +10852,7 @@ dank
 dankly
 dans
 dansant
+danthonia
 dap
 daphnia
 daps
@@ -10881,16 +10970,22 @@ day
 dayal
 dayals
 dayan
+dayanim
 daybed
 daybeds
 dayboat
 dayboats
+daydream
+daydreamer
+daydreamy
 dayglo
 daylight
 daylighting
 daylighty
 daylily
 daylong
+dayman
+daymen
 days
 daysack
 daysacks
@@ -12241,6 +12336,7 @@ dolphinaria
 dolt
 dolts
 domain
+domaine
 domal
 domatium
 dome
@@ -12249,6 +12345,9 @@ domes
 domesday
 domical
 domicil
+dominant
+dominate
+domination
 dominical
 dominie
 dominion
@@ -12305,6 +12404,7 @@ dorkier
 dorkiest
 dorky
 dorm
+dormant
 dormer
 dormice
 dormy
@@ -12313,6 +12413,8 @@ dorps
 dors
 dorsa
 dory
+doryman
+dorymen
 dos
 dosa
 dosai
@@ -12497,6 +12599,12 @@ dray
 dread
 dreaded
 dreadful
+dream
+dreamer
+dreamery
+dreamt
+dreamteam
+dreamy
 drear
 drearier
 drearily
@@ -12798,6 +12906,10 @@ dyer
 dyers
 dyes
 dyn
+dynamite
+dynamiter
+dynamo
+dynamometer
 dynast
 dynasts
 dynasty
@@ -13291,6 +13403,7 @@ emails
 emanate
 emanated
 emanates
+emanation
 emanative
 emanator
 emancipist
@@ -13327,6 +13440,7 @@ embus
 embused
 embuses
 emend
+emendation
 emended
 emending
 emerald
@@ -13461,8 +13575,10 @@ enamels
 enamor
 enamors
 enanthate
+enanthema
 enanthol
 enanthole
+enantiodromia
 enantiomer
 enargite
 enation
@@ -13555,6 +13671,7 @@ enema
 enemas
 enemata
 enemies
+enemy
 energetic
 energies
 energise
@@ -13694,6 +13811,10 @@ ent
 entablement
 entail
 entailed
+entameba
+entamebae
+entamoeba
+entamoebae
 entases
 entasis
 entendre
@@ -13706,11 +13827,14 @@ enteric
 entering
 enteritis
 enters
+entertain
+entertainer
 enthral
 enthrone
 enthronement
 enthusiast
 enthusiasts
+enthymeme
 entice
 enticer
 enticers
@@ -14145,6 +14269,7 @@ etherates
 ethereal
 etherealize
 etherean
+etherian
 etheric
 etherin
 etherine
@@ -14156,6 +14281,7 @@ etherist
 etherists
 etherize
 etherizer
+etheromania
 ethers
 ethic
 ethician
@@ -14172,6 +14298,7 @@ ethics
 ethide
 ethides
 ethidium
+ethionine
 ethiops
 ethiopses
 ethnic
@@ -14179,6 +14306,7 @@ ethnicist
 ethnicists
 ethnicities
 ethnogenic
+ethnonym
 ethnopoetics
 ethnos
 ethnosemantic
@@ -18169,6 +18297,8 @@ headache
 headaches
 headachy
 headage
+headband
+headbay
 headboard
 headcase
 headcases
@@ -18185,6 +18315,7 @@ headline
 headlined
 headliner
 headload
+headman
 headmen
 headrail
 heads
@@ -18194,6 +18325,7 @@ headstay
 headstays
 headwater
 headwear
+heady
 heal
 healable
 heald
@@ -18256,6 +18388,7 @@ heater
 heaters
 heath
 heathen
+heathendom
 heathens
 heather
 heathers
@@ -18345,6 +18478,7 @@ helve
 hem
 hemal
 hematemesis
+hematin
 hematite
 hematites
 hematoma
@@ -18449,6 +18583,8 @@ hernia
 herniae
 hernial
 hernias
+herniate
+herniation
 hero
 heroarchy
 heroed
@@ -18467,6 +18603,7 @@ heroistic
 herology
 heron
 heronite
+heronry
 heroship
 heroships
 herp
@@ -18495,7 +18632,10 @@ hetairas
 hetero
 heterocyst
 heterocysts
+heterodyne
 heterology
+heteronomy
+heteronym
 heterophyte
 heterophytic
 heteroptera
@@ -18559,6 +18699,8 @@ hiba
 hibachi
 hibachis
 hibas
+hibernate
+hibernation
 hic
 hick
 hickory
@@ -18636,6 +18778,7 @@ hilts
 hilum
 hilus
 him
+himation
 himbo
 himbos
 hin
@@ -18756,6 +18899,7 @@ hoatzin
 hoax
 hoaxes
 hob
+hobday
 hobnail
 hobnails
 hobnob
@@ -18773,7 +18917,10 @@ hocks
 hocus
 hocuses
 hod
+hodman
+hodmen
 hodograph
+hodometer
 hods
 hoe
 hoecake
@@ -18861,6 +19008,8 @@ hombre
 home
 homebase
 homebases
+homebird
+homebirth
 homebody
 homecome
 homecomer
@@ -18869,6 +19018,7 @@ homecomes
 homed
 homelet
 homemade
+homeodomain
 homeoses
 homeosis
 homeostases
@@ -18905,7 +19055,9 @@ hominines
 hominins
 hominoid
 hominoids
+hominy
 homo
+homoeodomain
 homoeoses
 homoeosis
 homoeostases
@@ -18914,6 +19066,8 @@ homoeotic
 homoerotic
 homoloid
 homomorphic
+homonym
+homonymy
 homophonic
 homopolar
 homos
@@ -18934,9 +19088,13 @@ hones
 honest
 honesty
 honey
+honeybird
 honeydew
 honeydewed
+honeyeater
 honeyed
+honeyman
+honeymen
 honeypot
 honeytrap
 honeywort
@@ -19311,6 +19469,7 @@ hydra
 hydrant
 hydrator
 hydria
+hydriae
 hydriai
 hydric
 hydride
@@ -19323,6 +19482,9 @@ hydroid
 hydrologic
 hydrology
 hydrolytic
+hydrometeor
+hydrometer
+hydrometry
 hydropathic
 hydropathy
 hydrophilic
@@ -19335,6 +19497,8 @@ hygienic
 hying
 hyla
 hylic
+hymen
+hymenia
 hymn
 hymnal
 hymnic
@@ -19795,6 +19959,7 @@ inanely
 inanga
 inangas
 inanimate
+inanimation
 inanities
 inanition
 inanity
@@ -19885,6 +20050,7 @@ incursions
 incus
 incuse
 incuses
+indaba
 indebt
 indebted
 indebting
@@ -20343,6 +20509,7 @@ intend
 intendant
 intended
 intending
+intendment
 intense
 intenser
 intensest
@@ -20381,6 +20548,7 @@ interdealer
 interdental
 interdict
 interdicted
+interdominion
 interest
 interests
 interfacial
@@ -20427,6 +20595,7 @@ internalists
 internals
 internasal
 internasals
+internation
 internaut
 internauts
 interne
@@ -20629,6 +20798,7 @@ iodize
 iodized
 iodizing
 iodoform
+iodometry
 iodophor
 ion
 ionamine
@@ -23941,6 +24111,7 @@ madeleine
 maderise
 maderised
 madhab
+madhead
 madison
 madisons
 madman
@@ -23953,6 +24124,7 @@ madrich
 madrigal
 madrina
 madrona
+madrone
 madrono
 madronos
 mads
@@ -23961,10 +24133,12 @@ madumbi
 madumbis
 maduro
 madwort
+maeandrine
 maedi
 maegasira
 maegeri
 maegth
+maenad
 maenol
 maenor
 maenors
@@ -24119,6 +24293,7 @@ mainsails
 mainstay
 mainstays
 maintain
+maintainer
 maintaining
 maintainor
 maintains
@@ -24384,10 +24559,16 @@ mandapa
 mandapam
 mandara
 mandarin
+mandat
+mandate
+manday
 mandir
 mandirs
+mandor
+mandore
 mands
 mandur
+mandy
 mane
 maneaba
 maneabas
@@ -24469,12 +24650,14 @@ manoaos
 manoir
 manoirs
 manometer
+manometry
 manor
 manorial
 manors
 manostat
 manostats
 manque
+manrent
 manrope
 mans
 manscape
@@ -25171,6 +25354,7 @@ meals
 mealtime
 mealtimes
 mean
+meandrine
 meaner
 meanest
 meanie
@@ -25444,6 +25628,7 @@ mence
 mend
 mended
 mending
+mendon
 mendung
 menhir
 menhirs
@@ -25496,6 +25681,7 @@ mentum
 mentums
 menu
 menus
+menyanthin
 meontic
 meow
 meowing
@@ -25506,6 +25692,7 @@ mephitises
 meq
 mer
 meranti
+merbromin
 merc
 mercer
 mercers
@@ -25572,6 +25759,8 @@ meromictic
 meromixis
 meromixises
 meront
+meronym
+meronymy
 meroplankton
 merse
 merses
@@ -25666,6 +25855,7 @@ metacharacter
 metacharacters
 metacone
 metadata
+metadyne
 metage
 metake
 metal
@@ -25685,9 +25875,12 @@ metameres
 metameric
 metamerism
 metamers
+metamery
 metamict
+metanoia
 metanotal
 metanotum
+metantimonate
 metaparapteron
 metapelet
 metaphone
@@ -25716,6 +25909,9 @@ metatarsus
 metataxis
 metate
 metates
+metatheater
+metatheatre
+metatherian
 metatheses
 metathesis
 metathesise
@@ -25724,6 +25920,7 @@ metatonie
 metaxite
 metaxylem
 metaxylems
+metayer
 metazoa
 metazoan
 mete
@@ -25756,6 +25953,7 @@ methanoic
 metheg
 methegh
 methegs
+methenamine
 methene
 mether
 methers
@@ -25765,6 +25963,8 @@ methides
 methies
 methine
 methines
+methionate
+methionine
 metho
 method
 methode
@@ -26210,6 +26410,7 @@ minceur
 minceurs
 mincy
 mind
+mindae
 mindbending
 minded
 minder
@@ -26217,6 +26418,7 @@ mindi
 mindic
 minding
 mindon
+mindry
 minds
 mine
 mineable
@@ -26230,6 +26432,7 @@ mineral
 mineras
 mineries
 miners
+minery
 mines
 minestra
 minestras
@@ -26253,6 +26456,7 @@ minibeast
 minibeasts
 minibike
 minibikes
+minibore
 minibreak
 minibus
 minibuses
@@ -26872,6 +27076,7 @@ moeones
 moepel
 moepels
 moeriki
+moeritheria
 moey
 mofo
 mofongo
@@ -27048,6 +27253,7 @@ monamine
 monamines
 monandrian
 monandric
+monandry
 monarda
 monas
 monases
@@ -27058,6 +27264,7 @@ monatomic
 monaural
 moncheite
 mondain
+mondaine
 monde
 mondo
 moneme
@@ -27068,6 +27275,9 @@ monerans
 monesia
 monetite
 money
+moneyer
+moneyman
+moneymen
 moneys
 mong
 mongan
@@ -27110,6 +27320,7 @@ monks
 mono
 monoamine
 monoamines
+monoanion
 monoao
 monoaos
 monoazo
@@ -27118,6 +27329,8 @@ monobaths
 monobloc
 monobosom
 monobosoms
+monobrominate
+monobromination
 monocalcic
 monocarp
 monocarpic
@@ -27148,6 +27361,9 @@ monocular
 monodermic
 monodon
 monodont
+monodrome
+monodromy
+monody
 monogamian
 monogenean
 monogerm
@@ -27262,10 +27478,12 @@ monpe
 mons
 monstro
 montane
+montanite
 montant
 montants
 montaria
 montarias
+montbretia
 monte
 montero
 montes
@@ -27326,6 +27544,7 @@ morbid
 morbus
 morcha
 morchas
+mordant
 mordida
 mordita
 mordore
@@ -27335,6 +27554,7 @@ moreish
 morel
 morena
 morenas
+morendo
 moreover
 morepork
 mores
@@ -27343,9 +27563,11 @@ morgen
 morgue
 morgy
 moria
+moribana
 morient
 moriform
 morin
+morindone
 morine
 morinite
 morion
@@ -28158,8 +28380,12 @@ myotomy
 myotonia
 myotonic
 myotonica
+myrbane
 myriad
 myriads
+myriadth
+myriameter
+myriametre
 myriapod
 myrica
 myricas
@@ -28167,6 +28393,7 @@ myriorama
 myrioramas
 myristoyl
 myristoyls
+myronate
 myrosin
 myrosins
 myrtly
@@ -28763,6 +28990,7 @@ nematicidal
 nematicide
 nembie
 nembies
+nemertean
 nemertine
 nemertines
 nemeses
@@ -28860,6 +29088,7 @@ nerd
 nerdier
 nerdiest
 nerds
+nerdy
 nereid
 nereids
 nerf
@@ -29259,6 +29488,7 @@ nineties
 ninetieth
 ninetieths
 ninety
+ninhydrin
 niniamer
 ninjutsu
 ninon
@@ -29267,6 +29497,7 @@ ninth
 ninthly
 ninths
 ninyam
+niobate
 niobian
 niobic
 niobite
@@ -29414,6 +29645,7 @@ noblest
 noblify
 nobly
 nobodies
+nobody
 nobs
 nocake
 nocent
@@ -29516,6 +29748,7 @@ nominalist
 nominalists
 nominate
 nominatim
+nomination
 nominator
 nominies
 nominy
@@ -29602,6 +29835,7 @@ nonic
 nonics
 nonideal
 noninert
+noninherent
 noninteger
 noninvasive
 nonionic
@@ -29685,6 +29919,7 @@ norbornane
 norbornanes
 norbornene
 norbornenes
+norethindrone
 nori
 noria
 norias
@@ -29713,6 +29948,9 @@ norsels
 nortena
 norteno
 north
+norther
+northern
+northerner
 northing
 northland
 northly
@@ -30303,6 +30541,7 @@ obtainer
 obtaining
 obtains
 obtect
+obtention
 obtrude
 obtruded
 obtruder
@@ -30457,6 +30696,7 @@ odium
 odograph
 odom
 odometer
+odometry
 odonata
 odonatan
 odonate
@@ -30472,6 +30712,8 @@ odor
 odorable
 odorant
 odorants
+odorimeter
+odorimetry
 odorizing
 odorosity
 odorous
@@ -30753,6 +30995,7 @@ omochi
 omochis
 omomyid
 omomyids
+omomyine
 omphacite
 omphacites
 omphacitic
@@ -31251,6 +31494,9 @@ ormer
 ormering
 ormers
 ormolu
+ornament
+ornamentation
+ornamenter
 ornate
 ornated
 ornatrix
@@ -31327,6 +31573,9 @@ orthoceratites
 orthochoanitic
 orthoconic
 orthodigita
+orthodome
+orthodontia
+orthodrome
 orthoform
 orthology
 orthophonic
@@ -39448,6 +39697,7 @@ razors
 rdv
 rdvs
 rea
+reaband
 reable
 reabled
 reables
@@ -39480,6 +39730,7 @@ read
 readabilities
 readable
 readapt
+readathon
 reader
 readers
 readhere
@@ -39494,8 +39745,10 @@ readmired
 readmires
 readmit
 readmits
+readorn
 readout
 reads
+ready
 reagent
 reagents
 reagin
@@ -39540,6 +39793,8 @@ reamer
 reamers
 reams
 rean
+reanimate
+reanimation
 reanoint
 reans
 reanswer
@@ -39625,6 +39880,7 @@ rebasing
 rebatable
 rebate
 rebated
+rebatement
 rebater
 rebates
 rebato
@@ -39643,6 +39899,7 @@ rebel
 rebeldom
 rebelries
 rebels
+rebend
 rebent
 rebete
 rebetic
@@ -39657,6 +39914,7 @@ rebit
 rebite
 rebites
 reblog
+reboant
 reboard
 reboarded
 rebodied
@@ -40345,6 +40603,7 @@ rehire
 rehired
 rehires
 rehiring
+rehoboam
 rehoist
 rehoists
 rehome
@@ -40631,6 +40890,11 @@ remains
 remake
 remakes
 reman
+remanant
+remanation
+remand
+remandment
+remanent
 remanet
 remanets
 remanie
@@ -40685,6 +40949,8 @@ remf
 remiges
 remigrant
 remigration
+remind
+remint
 remiped
 remipede
 remise
@@ -40802,6 +41068,7 @@ renk
 renks
 renminbi
 renominate
+renomination
 renounce
 renouncer
 renovise
@@ -41562,6 +41829,7 @@ retreatful
 retreatist
 retreatists
 retreative
+retreatment
 retreats
 retrench
 retrencher
@@ -41589,6 +41857,7 @@ retrochoir
 retrod
 retrofit
 retroform
+retronym
 retroperitoneum
 retrorse
 retros
@@ -42488,6 +42757,8 @@ roadie
 roadied
 roadman
 roadmap
+roadmen
+roadometer
 roads
 roadsman
 roadtrip
@@ -42624,8 +42895,12 @@ roding
 rodizio
 rodlet
 rodlike
+rodman
+rodmen
+rodney
 rodny
 rodomont
+rodomontado
 rods
 rody
 roe
@@ -48723,6 +48998,7 @@ tael
 taels
 taenia
 taeniae
+taeniodont
 taenioid
 taenite
 taenites
@@ -49590,6 +49866,7 @@ tercentenary
 terces
 tercet
 tercets
+terebinth
 teredo
 teres
 terete
@@ -49599,6 +49876,7 @@ tergal
 tergite
 tergites
 tergum
+terindam
 teriyaki
 term
 termed
@@ -49606,6 +49884,8 @@ termer
 termers
 termes
 termeses
+terminate
+termination
 terminer
 termini
 terminism
@@ -49800,6 +50080,7 @@ themes
 then
 thenar
 thence
+theobromine
 theor
 theorbist
 theorbists
@@ -49832,7 +50113,9 @@ thereat
 thereby
 therein
 thereinafter
+theremin
 thereof
+thereon
 thereout
 therethrough
 thereto
@@ -49844,7 +50127,9 @@ theriacs
 therian
 therians
 therm
+thermae
 thermic
+thermion
 thermit
 thermite
 thermometer
@@ -49876,6 +50161,7 @@ thews
 thewy
 they
 thiamin
+thiamine
 thick
 thicken
 thickener
@@ -49916,6 +50202,8 @@ thionyl
 thiram
 third
 thirdhand
+thirdman
+thirdmen
 thirds
 thirst
 thirstier
@@ -50088,6 +50376,7 @@ thy
 thyme
 thymes
 thymi
+thymine
 thymoma
 thymomas
 thymomata
@@ -50369,6 +50658,7 @@ titanate
 titanates
 titanation
 titanaugite
+titanhematite
 titanian
 titanic
 titanical
@@ -50378,6 +50668,7 @@ titanite
 titanitic
 titanium
 titanoaugite
+titanohematite
 titans
 titar
 titas
@@ -50407,6 +50698,7 @@ tithing
 tithis
 tithonic
 tithonicity
+tithonometer
 tithymal
 titi
 titihoya
@@ -51221,6 +51513,7 @@ trendline
 trendoid
 trendoids
 trends
+trendy
 trente
 trepan
 trepans
@@ -51265,6 +51558,7 @@ tribes
 tribesman
 triblet
 triblets
+tribometer
 tribrach
 tribrachic
 tribulation
@@ -54977,6 +55271,7 @@ yaks
 yakuza
 yakuzas
 yam
+yamen
 yampa
 yampas
 yampier
@@ -55054,6 +55349,8 @@ yelper
 yen
 yens
 yenta
+yeoman
+yeomanry
 yeomen
 yeow
 yep
