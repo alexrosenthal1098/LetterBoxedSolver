@@ -725,6 +725,7 @@ actory
 acts
 actual
 actualite
+actuarian
 actuate
 actuated
 actuates
@@ -2686,6 +2687,7 @@ anted
 antedate
 antedated
 antefact
+antelucan
 antemortem
 antenatal
 antenuptial
@@ -7276,6 +7278,8 @@ caption
 captions
 captor
 captors
+capture
+capturer
 capuchin
 car
 carabao
@@ -7711,6 +7715,7 @@ caudex
 caught
 caul
 caulk
+caulker
 caulking
 caulks
 cauls
@@ -7792,6 +7797,7 @@ ceilis
 ceilometer
 ceilometers
 ceils
+ceinture
 cel
 celeb
 celebrator
@@ -7855,6 +7861,8 @@ cerastes
 cerated
 ceratite
 ceratites
+cercaria
+cercariae
 cerci
 cerclage
 cercus
@@ -7883,6 +7891,7 @@ certifiers
 certifies
 certiorari
 certs
+cerulean
 ceruse
 cervelat
 cervical
@@ -8867,6 +8876,7 @@ clinic
 clinical
 clinician
 clink
+clinker
 clinking
 clint
 clip
@@ -9956,6 +9966,7 @@ crank
 crankier
 crankily
 cranking
+crankpin
 cranks
 cranky
 crans
@@ -10092,6 +10103,7 @@ cretins
 crevice
 crevices
 crew
+crewcut
 crewed
 crewel
 crewels
@@ -10406,6 +10418,7 @@ ctenidia
 ctenidium
 ctenophoran
 ctenophore
+cuartel
 cuatro
 cuatros
 cub
@@ -10502,6 +10515,7 @@ cuneate
 cuneus
 cuneuses
 cup
+cupcake
 cupel
 cupola
 cupric
@@ -10562,6 +10576,7 @@ curl
 curled
 curler
 curlers
+curlew
 curlicue
 curlicued
 curlicues
@@ -12939,6 +12954,7 @@ earaches
 earbash
 earbasher
 earbashes
+earclip
 earcup
 earcups
 eardrop
@@ -13956,6 +13972,7 @@ epacts
 eparch
 eparchy
 epater
+epaulet
 epazote
 epena
 epene
@@ -19988,6 +20005,7 @@ incase
 incases
 incense
 incenses
+incept
 incest
 inch
 incharge
@@ -23212,6 +23230,7 @@ linker
 linkers
 linking
 links
+linkup
 linky
 lino
 linoleate
@@ -32809,6 +32828,7 @@ panax
 pancake
 pancakes
 pancarditis
+pancelet
 panch
 pancheon
 pancheons
@@ -33031,6 +33051,7 @@ papelito
 paper
 paperbank
 paperbark
+paperclip
 papered
 paperen
 paperer
@@ -33259,6 +33280,7 @@ parawais
 parawing
 parbreak
 parc
+parcel
 parcenary
 parcener
 parch
@@ -33789,6 +33811,7 @@ peanuts
 peapern
 pear
 pearance
+pearceite
 pearl
 pearled
 pearler
@@ -33855,6 +33878,7 @@ pectinal
 pectineal
 pectins
 pects
+peculiar
 peculium
 peculiums
 pedage
@@ -34314,6 +34338,8 @@ peritriches
 peritrope
 periuterine
 periwig
+periwinkle
+periwinkler
 perjink
 perjure
 perjurer
@@ -35154,6 +35180,8 @@ pinax
 pinboard
 pinboy
 pinc
+pince
+pincer
 pinch
 pincord
 pincushion
@@ -35804,6 +35832,7 @@ plews
 plexi
 plexure
 pliable
+pliance
 pliancy
 pliant
 pliantly
@@ -35824,6 +35853,7 @@ plim
 plimpler
 plims
 plink
+plinker
 plinking
 plinth
 pliofilm
@@ -38130,11 +38160,13 @@ pulka
 pulp
 pulpal
 pulper
+pulperia
 pulpier
 pulpiest
 pulpified
 pulpit
 pulpitarian
+pulpiter
 pulpitic
 pulpitis
 pulpits
@@ -39112,6 +39144,7 @@ raiment
 rain
 rainbird
 rainbow
+raincape
 raincoat
 raindrop
 raindrops
@@ -39418,6 +39451,7 @@ raptly
 raptor
 raptorial
 raptors
+rapture
 rapturing
 rara
 rare
@@ -39987,6 +40021,7 @@ recap
 recaps
 recaption
 recaptor
+recapture
 recart
 recarts
 recase
@@ -39996,6 +40031,7 @@ recasts
 recatch
 recatches
 recaught
+recaulk
 recede
 receded
 receder
@@ -40173,6 +40209,7 @@ recrews
 recrown
 recruit
 recruital
+recruiter
 recs
 recta
 rectal
@@ -40198,6 +40235,7 @@ rectrix
 recue
 recueil
 recueils
+recuperance
 recur
 recurs
 recurse
@@ -41810,6 +41848,7 @@ retrack
 retracks
 retract
 retractative
+retractile
 retraction
 retractive
 retractor
@@ -49604,6 +49643,7 @@ tele
 telearch
 telebus
 telebuses
+telecare
 telecast
 telecaster
 telecasters
@@ -49632,6 +49672,7 @@ telekinesis
 telekinetic
 telekineticist
 telekineticists
+telelecture
 telelens
 telelenses
 telemanometer
@@ -49979,6 +50020,7 @@ tetrameric
 tetramers
 tetrameter
 tetrameters
+tetrapak
 tetraplegia
 tetrarch
 tetrarchate
@@ -50565,6 +50607,7 @@ timpani
 timpanist
 timpanists
 tin
+tincture
 tinder
 tine
 tinea
@@ -52179,6 +52222,9 @@ twines
 twinging
 twining
 twink
+twinkle
+twinkler
+twinklier
 twins
 twinset
 twinsets
@@ -53153,6 +53199,7 @@ upland
 uplift
 uplifts
 uplight
+uplink
 upon
 uprate
 uprates
@@ -54913,6 +54960,7 @@ winkers
 winkie
 winkle
 winkled
+winkler
 winky
 wino
 winos
