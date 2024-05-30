@@ -1316,6 +1316,7 @@ ageist
 ageists
 agelast
 agelasts
+agelong
 agenbite
 agencies
 agenda
@@ -1404,6 +1405,7 @@ agnition
 agnize
 agnized
 agnizing
+agnogenic
 ago
 agog
 agogic
@@ -1807,6 +1809,7 @@ alcopops
 alcornoco
 alcosol
 alcosols
+alcove
 alcyonarian
 alcyonian
 aldea
@@ -2196,6 +2199,7 @@ alveated
 alveolar
 alveolars
 alveolate
+alveole
 alveoli
 alveolitis
 alveolus
@@ -2535,6 +2539,8 @@ angary
 angekok
 angel
 angelic
+angelica
+angelical
 anger
 angered
 angering
@@ -3167,6 +3173,7 @@ areolar
 areolate
 areole
 areoles
+areological
 areophane
 arepa
 arepas
@@ -3887,6 +3894,7 @@ avadavat
 avail
 available
 availed
+availing
 avails
 avarice
 avast
@@ -3895,6 +3903,7 @@ avatars
 avaunt
 ave
 avel
+avelong
 avels
 avenge
 avenged
@@ -6914,6 +6923,7 @@ cafe
 cafes
 cafeteria
 cafetiere
+cafone
 cage
 cages
 cagey
@@ -6967,11 +6977,14 @@ calcareous
 calceolaria
 calces
 calcic
+calcicole
 calcicolous
 calcific
 calcified
+calcifuge
 calcine
 calcined
+calcining
 calcite
 calcitic
 calcium
@@ -7031,6 +7044,7 @@ calumnies
 calve
 calved
 calves
+calving
 calx
 calyx
 cam
@@ -7093,10 +7107,12 @@ canalicule
 canalicules
 canaliculi
 canaliculus
+canaling
 canalise
 canalises
 canals
 cananga
+canango
 canape
 canapes
 canard
@@ -7148,6 +7164,7 @@ canker
 cankle
 canoe
 canoed
+canoeing
 canoer
 canoes
 canola
@@ -7347,6 +7364,9 @@ carcanets
 carcase
 carcases
 carceral
+carcinogen
+carcinogenic
+carcinological
 carcinoma
 carcinomas
 carcinomata
@@ -7387,6 +7407,8 @@ cardy
 care
 cared
 careful
+caregiver
+caregiving
 careline
 carer
 carers
@@ -7458,6 +7480,7 @@ carnier
 carnies
 carnita
 carnitas
+carnival
 carny
 carob
 carobs
@@ -7516,11 +7539,13 @@ caruncle
 carve
 carved
 carvel
+carven
 carver
 carveries
 carvers
 carvery
 carves
+carving
 caryatid
 caryopsis
 casaba
@@ -7754,11 +7779,14 @@ cavern
 cavers
 caves
 caviar
+caviare
 caviars
 cavies
 cavil
 caviled
 caviler
+caviling
+caving
 cavitary
 cavities
 cavity
@@ -7793,6 +7821,7 @@ ceibas
 ceil
 ceiled
 ceili
+ceiling
 ceilis
 ceilometer
 ceilometers
@@ -7894,6 +7923,7 @@ certs
 cerulean
 ceruse
 cervelat
+cervena
 cervical
 cervices
 cervicitis
@@ -8596,6 +8626,7 @@ cineasts
 cinema
 cinematic
 cineraria
+cingula
 cinq
 cinquain
 cinque
@@ -8871,6 +8902,7 @@ cline
 clines
 cling
 clinger
+clingier
 clinging
 clinic
 clinical
@@ -8886,6 +8918,7 @@ clitic
 cliticise
 cliticises
 clitoral
+clivia
 cloaca
 cloacae
 cloacal
@@ -8979,6 +9012,7 @@ cluiest
 clump
 clunch
 clung
+clunge
 clunk
 clunking
 clutch
@@ -8995,10 +9029,12 @@ coachman
 coachmen
 coactive
 coadjutor
+coagula
 coal
 coaled
 coaler
 coalface
+coaling
 coalise
 coalite
 coalited
@@ -9128,6 +9164,7 @@ coerce
 coercer
 coercers
 coerces
+coercing
 coercion
 coercions
 coercive
@@ -9135,6 +9172,7 @@ coeternal
 coeval
 coevolve
 coevolves
+coevolving
 coexist
 coexists
 cog
@@ -9142,6 +9180,7 @@ cogeneration
 cogent
 cogitate
 cogito
+cognac
 cogon
 coheir
 coheirs
@@ -9220,6 +9259,7 @@ coloboma
 colobus
 colocate
 colocates
+cologne
 colon
 colonel
 colonelcies
@@ -9266,6 +9306,7 @@ colour
 colouration
 coloured
 colourer
+colourful
 colourman
 colourology
 colours
@@ -9431,16 +9472,26 @@ coned
 conehead
 cones
 conex
+confer
+configure
+confine
+confining
 confirm
+confocal
 conform
+confrere
 conga
 congaing
 conge
+congener
+congenial
+conger
 coni
 conic
 conical
 conics
 conidia
+conifer
 coning
 conjuror
 conk
@@ -9448,6 +9499,8 @@ conker
 conkers
 conking
 conks
+conlang
+conlanger
 conman
 conmen
 conodont
@@ -9838,6 +9891,7 @@ couply
 coupon
 coups
 cour
+courage
 coureur
 courol
 course
@@ -9865,9 +9919,11 @@ coved
 coven
 covens
 cover
+coverage
 covered
 covergirl
 coverlet
+coverline
 covers
 covert
 coverts
@@ -9877,6 +9933,7 @@ coveted
 covets
 covin
 covine
+coving
 cow
 coward
 cowed
@@ -9997,9 +10054,11 @@ cravatier
 cravats
 crave
 craved
+craven
 craver
 cravers
 craves
+craving
 craw
 crawdad
 crawdads
@@ -10611,6 +10670,7 @@ curvative
 curve
 curves
 curvier
+curving
 curvous
 cuscus
 cuscuses
@@ -13742,6 +13802,7 @@ enkindles
 enlace
 enlaced
 enlaces
+enlacing
 enlarge
 enlarger
 enlarging
@@ -13752,6 +13813,7 @@ enlisters
 enlists
 enliven
 enlivener
+enlivening
 enlivens
 enmanacle
 enmantle
@@ -13761,6 +13823,7 @@ enmeshes
 enmities
 enoki
 enokis
+enological
 enormous
 enosis
 enough
@@ -13927,6 +13990,7 @@ enuretic
 enuring
 enurn
 enurned
+enurning
 enurnment
 enurns
 envelop
@@ -14107,6 +14171,7 @@ erections
 erector
 erectors
 erects
+erelong
 eremite
 eremites
 eremitic
@@ -14116,6 +14181,7 @@ erfs
 erg
 ergative
 ergo
+ergogenic
 ergometer
 ergometrine
 ergosterol
@@ -14392,6 +14458,9 @@ evaginate
 evaluate
 evaluated
 evaluative
+evangel
+evangelic
+evangelical
 evasive
 eve
 evected
@@ -14486,6 +14555,7 @@ evolvents
 evolver
 evolvers
 evolves
+evolving
 ewe
 ewer
 ewers
@@ -14748,6 +14818,7 @@ facie
 facies
 facile
 facilitative
+facing
 fact
 facta
 factfile
@@ -14822,6 +14893,8 @@ falafels
 falcate
 falcated
 falcial
+falcon
+falconer
 falderal
 fale
 fales
@@ -14981,6 +15054,9 @@ fav
 fava
 fave
 favela
+favicon
+favour
+favourer
 favrile
 fawn
 fawned
@@ -15022,6 +15098,7 @@ fedora
 feh
 feign
 feigned
+feigning
 feint
 feinting
 feints
@@ -15042,6 +15119,7 @@ feline
 felinity
 felix
 felo
+felon
 felt
 feltch
 felts
@@ -15106,6 +15184,7 @@ fertilizer
 ferula
 ferule
 ferules
+fervour
 fescue
 fescues
 fest
@@ -15299,8 +15378,10 @@ finetuned
 finger
 fingerable
 fingerer
+fingerful
 fingering
 fingerling
+fingernail
 fingertip
 fingling
 finial
@@ -15404,6 +15485,7 @@ fitout
 fitouts
 fits
 five
+fivefinger
 fiver
 fix
 fixative
@@ -15644,6 +15726,7 @@ flyleaf
 flyway
 flywire
 foal
+foaling
 foals
 foam
 foams
@@ -15703,6 +15786,7 @@ folds
 foley
 folia
 foliaceous
+foliage
 foliar
 foliating
 foliation
@@ -16112,10 +16196,13 @@ fungic
 fungin
 fungine
 fungo
+fungological
 fungos
 fungus
 funic
 funicle
+funicular
+funiculi
 funis
 funises
 funk
@@ -16124,6 +16211,7 @@ funkers
 funkiest
 funks
 funky
+funloving
 funs
 funsie
 funsies
@@ -16153,6 +16241,7 @@ furlong
 furlough
 furls
 furmety
+furnace
 furnish
 furnisher
 furnishers
@@ -16282,6 +16371,7 @@ galeate
 galeated
 galena
 galenic
+galenical
 galere
 galeres
 gales
@@ -16295,6 +16385,7 @@ galop
 galore
 galpal
 gals
+galvanic
 galvo
 gam
 gamahe
@@ -16507,6 +16598,7 @@ gauzy
 gavage
 gave
 gavel
+gaveling
 gavial
 gavone
 gawk
@@ -16610,6 +16702,8 @@ genial
 geniality
 genian
 genic
+genicula
+genicular
 genie
 genin
 genins
@@ -16659,6 +16753,7 @@ geo
 geobotany
 geocache
 geocached
+geoclinal
 geocode
 geocoded
 geocratic
@@ -16669,6 +16764,7 @@ geodized
 geogenic
 geogeny
 geogonic
+geogonical
 geogonies
 geogony
 geoid
@@ -16676,6 +16772,8 @@ geoisotherm
 geokronite
 geologer
 geologers
+geologic
+geological
 geometer
 geometers
 geometrer
@@ -16837,6 +16935,7 @@ ginghams
 ginging
 gingiva
 gingivae
+gingival
 gingko
 gingkoes
 gingkos
@@ -17033,6 +17132,7 @@ glyptography
 gnapi
 gnar
 gnarl
+gnarlier
 gnarly
 gnash
 gnashing
@@ -17157,6 +17257,8 @@ gonadal
 gondola
 gone
 goner
+gonfalon
+gonfalonier
 gong
 gonged
 gonging
@@ -17266,6 +17368,7 @@ graben
 grabens
 grabs
 grace
+graceful
 gracer
 gracers
 graces
@@ -17387,6 +17490,8 @@ graupel
 gravamen
 gravamina
 grave
+gravel
+graveling
 graven
 graver
 gravers
@@ -17398,6 +17503,7 @@ gravies
 graving
 gravitas
 gravitate
+gravure
 gray
 grayer
 graying
@@ -20189,6 +20295,8 @@ infer
 inferable
 inference
 inferior
+infernal
+inferno
 infertile
 infest
 infests
@@ -22122,6 +22230,7 @@ laciest
 lacily
 lacinato
 lacinatos
+lacing
 lacinia
 lacinias
 laciniate
@@ -22526,6 +22635,7 @@ lava
 lavabo
 lavaboes
 lavabos
+lavage
 lavas
 lavash
 lavatera
@@ -22535,6 +22645,7 @@ laved
 laver
 lavers
 laves
+laving
 lavish
 lavs
 law
@@ -22772,6 +22883,7 @@ leglin
 legno
 lego
 legong
+legover
 legrope
 leguan
 leguleian
@@ -22889,11 +23001,13 @@ level
 leveled
 leveler
 levelers
+leveling
 levels
 lever
 leverage
 leveraged
 leverages
+leveraging
 levered
 leveret
 leverets
@@ -23023,6 +23137,7 @@ lifeful
 lifefuls
 lifehold
 lifeline
+lifelong
 lifer
 liferaft
 liferent
@@ -23058,6 +23173,7 @@ lightly
 lighty
 lignin
 lignite
+lignocaine
 lignum
 ligroin
 ligula
@@ -23210,6 +23326,7 @@ lingua
 lingual
 linguet
 linguina
+linguine
 linguini
 lingula
 lingular
@@ -23235,6 +23352,7 @@ linky
 lino
 linoleate
 linoleic
+linolenic
 linoprint
 linos
 lint
@@ -23398,9 +23516,11 @@ liveable
 lived
 livelier
 livelily
+livelong
 lively
 liven
 livener
+livening
 livens
 liver
 liverish
@@ -23430,6 +23550,7 @@ load
 loaded
 loads
 loaf
+loafer
 loafing
 loafs
 loam
@@ -23438,6 +23559,8 @@ loanable
 loaned
 loaner
 loaners
+loangang
+loaning
 loans
 loas
 loath
@@ -23619,18 +23742,26 @@ long
 longa
 longan
 longdog
+longe
+longeing
+longer
+longeval
 longfin
 longful
 longhair
 longhand
 longhorn
 longhorns
+longicone
+longie
+longifolene
 longing
 longingly
 longish
 longlick
 longlining
 longly
+lonicera
 lop
 lope
 loped
@@ -23704,6 +23835,8 @@ lough
 loughs
 louis
 lound
+lounge
+lounger
 lounging
 loup
 loups
@@ -23721,20 +23854,25 @@ lousily
 lousy
 lout
 louts
+louvar
 louver
 louvered
 louvre
 louvred
 lovable
+lovage
 lovat
 love
 loveable
 loved
+loveful
 lovekin
 lovekins
 lovekinses
 lovelier
 lovelies
+lovelife
+loveling
 lovelives
 lovelock
 lovelorn
@@ -23876,6 +24014,7 @@ lune
 lunes
 lung
 lunge
+lungeing
 lungfish
 lungful
 lungi
@@ -23925,6 +24064,7 @@ lurs
 lurve
 lurved
 lurves
+lurving
 luscious
 lush
 lust
@@ -28697,6 +28837,7 @@ narceines
 narcistic
 narco
 narcocracy
+narcological
 narcomania
 narcomaniac
 narcomaniacs
@@ -28849,6 +28990,7 @@ naveta
 navew
 navews
 navicert
+navicular
 navies
 naviform
 navigate
@@ -28969,6 +29111,7 @@ negligent
 negligibility
 negligible
 negligibly
+negoce
 negociant
 negotiable
 negotiant
@@ -29046,6 +29189,9 @@ neolites
 neolith
 neoliths
 neolocal
+neologian
+neologic
+neological
 neomenia
 neomort
 neomorts
@@ -29083,6 +29229,7 @@ neotesites
 neotocite
 neotokite
 neotropic
+neovolcanic
 neoza
 neozas
 nepenthe
@@ -29130,6 +29277,7 @@ neroli
 nerols
 nerts
 nertz
+nerval
 nervate
 nerve
 nervelet
@@ -29139,6 +29287,7 @@ nervier
 nerviest
 nervine
 nervines
+nerving
 nervism
 nervisms
 nervule
@@ -29419,6 +29568,7 @@ niece
 nieces
 nief
 niente
+nieveful
 nif
 nife
 nifle
@@ -29865,6 +30015,7 @@ noniuses
 nonjurant
 nonjury
 nonleaded
+nonlife
 nonlinear
 nonliteral
 nonliterary
@@ -30124,6 +30275,7 @@ novela
 novelese
 novelet
 novelets
+noveling
 novelise
 novelises
 novelism
@@ -30148,6 +30300,7 @@ novitiate
 novities
 novity
 novo
+novocaine
 novolac
 novy
 now
@@ -30206,6 +30359,7 @@ nucleoli
 nucleolin
 nucleoloid
 nucleon
+nucleonic
 nucleus
 nuclide
 nuclidic
@@ -30620,6 +30774,7 @@ ochry
 ocicat
 ocicats
 ocietrova
+ocifer
 ocker
 ockers
 ockies
@@ -30696,6 +30851,7 @@ ocular
 oculi
 oculist
 oculists
+oculogravic
 oculus
 oda
 odah
@@ -30758,6 +30914,7 @@ oekist
 oenanthate
 oenochoe
 oenochoes
+oenological
 oenomania
 oenomel
 oenomels
@@ -30772,6 +30929,7 @@ oestrous
 oestrus
 oeuvre
 ofay
+oficina
 oft
 often
 ofuro
@@ -30910,7 +31068,11 @@ oldly
 oldman
 ole
 oleate
+olecranal
 olecranon
+olefin
+olefine
+olefinic
 oleh
 olehs
 oleic
@@ -30929,6 +31091,9 @@ oliban
 olibane
 olid
 oligo
+oligoclonal
+oligogene
+oligogenic
 oligolege
 oligos
 oligotroph
@@ -32091,6 +32256,7 @@ ouzo
 ouzos
 ova
 oval
+ovaling
 ovalise
 ovalish
 ovals
@@ -32148,12 +32314,14 @@ overbowled
 overbred
 overcame
 overcare
+overcareful
 overclock
 overclocker
 overclockers
 overcoat
 overcoated
 overcoats
+overcolour
 overcome
 overcomer
 overcomers
@@ -32164,6 +32332,7 @@ overcrow
 overcrowd
 overcrowded
 overcrowed
+overcure
 overcut
 overcuts
 overdid
@@ -32183,6 +32352,8 @@ overeaters
 overeats
 overenter
 overest
+overface
+overfacing
 overfar
 overfine
 overflew
@@ -32250,7 +32421,10 @@ overleant
 overlent
 overlie
 overline
+overling
+overlining
 overlit
+overlong
 overloud
 overlove
 overloves
@@ -32306,6 +32480,7 @@ overtrod
 overture
 overuse
 overuses
+overvaluing
 overview
 overviewer
 overvote
@@ -32340,6 +32515,7 @@ overzeals
 oviaries
 ovibovine
 ovibovines
+ovicular
 oviform
 ovigenesis
 ovine
@@ -32364,6 +32540,7 @@ ovonic
 ovonics
 ovotestes
 ovotestis
+ovular
 ovule
 ovules
 ovuline
@@ -39351,6 +39528,7 @@ ranga
 rangale
 range
 ranged
+rangeful
 ranger
 rangier
 rangiferine
@@ -39648,6 +39826,8 @@ raved
 ravel
 raveled
 raveler
+ravelin
+raveling
 raven
 ravener
 ravening
@@ -40013,6 +40193,8 @@ rebuy
 rebuys
 rec
 recado
+recalcine
+recalcining
 recant
 recanter
 recanters
@@ -40044,6 +40226,7 @@ received
 receiver
 receivers
 receives
+receiving
 recense
 recenses
 recension
@@ -40130,6 +40313,7 @@ recluse
 recluses
 reco
 recoal
+recoaling
 recoat
 recoated
 recoats
@@ -40168,6 +40352,10 @@ recondition
 reconditioner
 reconditioners
 reconditions
+reconfer
+reconfigure
+reconfine
+reconfining
 recons
 reconvert
 reconvict
@@ -40242,6 +40430,7 @@ recurse
 recurses
 recurve
 recurves
+recurving
 recusal
 recusals
 recuse
@@ -40348,7 +40537,9 @@ redye
 redyed
 ref
 reface
+refacing
 refan
+refavour
 refect
 refective
 refectorer
@@ -40445,6 +40636,7 @@ refuels
 refuge
 refuged
 refugia
+refugial
 refurb
 refutal
 refute
@@ -40604,6 +40796,7 @@ regulation
 reguli
 reguline
 regulo
+regulon
 regulus
 reguluses
 regur
@@ -40857,6 +41050,7 @@ relieved
 reliever
 relievers
 relieves
+relieving
 relievo
 relift
 relifted
@@ -40896,9 +41090,11 @@ relitigated
 relitigates
 relitigation
 relive
+reliving
 relo
 reload
 reloan
+reloaning
 reloans
 relocatable
 relocate
@@ -40910,6 +41106,7 @@ relos
 relove
 reloved
 reloves
+reloving
 relucent
 reluct
 reluctance
@@ -41079,6 +41276,7 @@ renegue
 reneguing
 renerve
 renerves
+renerving
 renew
 renewable
 renewal
@@ -41952,6 +42150,7 @@ reutilise
 reutilises
 reutilize
 rev
+revaluing
 revamp
 revamping
 revaried
@@ -41973,6 +42172,7 @@ revelative
 reveled
 reveler
 revelers
+reveling
 revelment
 revelries
 revels
@@ -41980,6 +42180,7 @@ revenant
 revend
 revends
 revenge
+revengeful
 revenger
 revenging
 revent
@@ -42058,6 +42259,7 @@ reviewish
 reviews
 revile
 reviler
+reviling
 revirginise
 revisal
 revise
@@ -42119,6 +42321,7 @@ revolver
 revolvered
 revolvers
 revolves
+revolving
 revomit
 revomited
 revote
@@ -43468,6 +43671,7 @@ rubster
 rubus
 rubuses
 ruby
+rucervine
 ruche
 ruched
 ruches
@@ -43659,6 +43863,7 @@ runkles
 runlet
 runlets
 runo
+runological
 runology
 runos
 runout
@@ -52322,6 +52527,7 @@ ubuntu
 udal
 udon
 udyog
+ufological
 ugali
 ugh
 uglier
@@ -52423,6 +52629,7 @@ unaided
 unaired
 unalienable
 unalike
+unalive
 unambitious
 unamenable
 unaneled
@@ -52434,6 +52641,7 @@ unartistic
 unary
 unaudited
 unavailable
+unavailing
 unaware
 unawares
 unbalance
@@ -52569,6 +52777,7 @@ unenergetic
 unenviable
 unenvied
 unequal
+unevangelical
 uneven
 unevenly
 uneventful
@@ -52590,10 +52799,15 @@ unfolds
 unfurl
 unfurled
 unfurling
+ungainlier
 ungenial
 ungird
 ungirds
+ungiving
 ungodly
+ungraceful
+ungrave
+ungraving
 unground
 ungroup
 ungrouping
@@ -52632,6 +52846,7 @@ unicum
 unidead
 unideal
 unidentate
+uniface
 unified
 unifier
 uniflow
@@ -52723,6 +52938,7 @@ units
 unitude
 unity
 univalve
+univocal
 unjoyous
 unjust
 unjustest
@@ -52749,6 +52965,7 @@ unlabored
 unlaboured
 unlace
 unlaced
+unlacing
 unlade
 unladed
 unladen
@@ -52812,11 +53029,16 @@ unliterate
 unliturgical
 unlive
 unlively
+unliving
 unload
 unloads
 unloath
 unlock
+unlogic
+unlogical
 unlordly
+unlove
+unloving
 unloyal
 unloyalty
 unlucent
@@ -53009,11 +53231,18 @@ unrang
 unrank
 unranks
 unrated
+unravel
+unraveler
+unraveling
 unreacted
 unreal
 unrebated
+unreceiving
+unreclining
 unred
 unrede
+unrefine
+unrefining
 unregal
 unregenerate
 unregenerately
@@ -53049,7 +53278,9 @@ unretarded
 unretire
 unreturnable
 unreturned
+unrevengeful
 unreverent
+unrevolving
 unrich
 unrife
 unrig
@@ -53273,6 +53504,7 @@ uranite
 uranites
 uranium
 uranography
+uranological
 uranology
 uranotil
 uranotile
@@ -53444,6 +53676,8 @@ vacs
 vacua
 vacui
 vacuo
+vacuolar
+vacuole
 vada
 vadas
 vade
@@ -53471,6 +53705,7 @@ vaidyas
 vail
 vailed
 vailensi
+vailing
 vails
 vain
 vainer
@@ -53500,6 +53735,7 @@ valises
 valonia
 valonias
 valor
+valour
 valse
 valses
 valuable
@@ -53508,6 +53744,7 @@ valuated
 valuative
 value
 valued
+valuing
 valuta
 valvate
 valve
@@ -53628,6 +53865,7 @@ vedalia
 veg
 vega
 vegan
+veganic
 vegans
 vegas
 vege
@@ -53652,10 +53890,12 @@ vegos
 vehement
 veil
 veiled
+veiling
 veils
 veiltail
 veily
 vein
+veinage
 veinal
 veined
 veiner
@@ -53688,6 +53928,7 @@ veliger
 veligers
 velitation
 velocities
+velogenic
 velour
 veloute
 velum
@@ -53715,6 +53956,7 @@ vendues
 venerable
 venerate
 venerator
+venereological
 venerer
 venerers
 venery
@@ -53723,6 +53965,7 @@ venesections
 venetian
 venetianed
 venetians
+vengeful
 venial
 venison
 venom
@@ -53749,6 +53992,7 @@ venturi
 venturis
 venue
 venues
+venular
 venule
 venules
 venus
@@ -53816,6 +54060,7 @@ vermian
 vermin
 vermis
 vermouth
+vernacular
 vernal
 vernicle
 vernicles
@@ -53939,12 +54184,15 @@ vibrative
 vibrer
 vibrio
 vicar
+vicarage
 vicarial
 vice
+viceregal
 vicereine
 vicereines
 vices
 vici
+vicinage
 vicinal
 vicinities
 vicinity
@@ -53954,6 +54202,7 @@ victor
 victors
 victual
 victualed
+vicuna
 vicus
 vid
 vide
@@ -53988,6 +54237,7 @@ vigneron
 vignerons
 vigor
 vigoro
+vigour
 vihara
 viharas
 vihuela
@@ -54183,6 +54433,7 @@ voes
 vog
 vogue
 vogues
+voguing
 voice
 voiced
 voicelet
@@ -54206,6 +54457,13 @@ voivode
 voivods
 volant
 volar
+volcan
+volcanian
+volcanic
+volcano
+volcanogenic
+volcanologic
+volcanological
 vole
 volens
 volente
@@ -54242,6 +54500,7 @@ vomiter
 vomits
 voms
 von
+vongole
 vortal
 vortices
 vostro
@@ -54267,8 +54526,13 @@ vrous
 vrouw
 vug
 vugs
+vugular
+vulcanic
+vulcanologic
+vulcanological
 vulgar
 vuln
+vulning
 vulns
 vulpine
 vult
