@@ -1670,6 +1670,7 @@ akeake
 akeakes
 akebia
 akebias
+akelat
 akes
 akhara
 akharas
@@ -4382,6 +4383,7 @@ bantams
 banter
 banterer
 bants
+bantz
 banyan
 banzai
 bao
@@ -4713,6 +4715,7 @@ bawn
 bawns
 bay
 baya
+bayanihan
 bayas
 bayed
 baying
@@ -4918,6 +4921,7 @@ beltmen
 belts
 beltwise
 beluga
+beluka
 belve
 belved
 belvedere
@@ -5030,6 +5034,7 @@ betelnuts
 betels
 beth
 bethel
+bethink
 bethought
 beths
 betide
@@ -5062,6 +5067,7 @@ bewails
 beware
 bey
 beys
+bezant
 bezel
 bezels
 bezoar
@@ -5205,6 +5211,7 @@ bilge
 bilged
 bilging
 biliary
+biliblanket
 bilinear
 bilingual
 bilious
@@ -5477,6 +5484,7 @@ bland
 blank
 blanket
 blanketing
+blankety
 blankie
 blanking
 blanks
@@ -5556,12 +5564,15 @@ blinis
 blink
 blinker
 blinks
+blintz
+blintze
 bliny
 blip
 blister
 blistered
 blisters
 blithe
+blithely
 blither
 blitz
 blitzer
@@ -6808,6 +6819,7 @@ butyrin
 buy
 buyable
 buyer
+buyin
 buys
 bwana
 bwanas
@@ -6829,6 +6841,7 @@ byroad
 byroads
 byte
 bytes
+byun
 byway
 cab
 cabal
@@ -14403,6 +14416,8 @@ ethos
 ethrog
 eths
 ethyde
+ethyl
+ethylate
 ethyne
 ethynes
 etic
@@ -14447,6 +14462,7 @@ eustasy
 eustatic
 eutectic
 euthanasia
+euthanize
 evacuate
 evacuative
 evade
@@ -17887,9 +17903,12 @@ gyver
 hab
 habanera
 habeas
+habile
 habilitate
 habit
 habitability
+habitable
+habitant
 habitat
 habitative
 habitats
@@ -18295,6 +18314,7 @@ hastier
 hastiest
 hasty
 hat
+hatable
 hatamoto
 hatamotos
 hatband
@@ -18318,6 +18338,7 @@ hatchets
 hatchety
 hatchway
 hate
+hateable
 hated
 hateful
 hately
@@ -18409,9 +18430,13 @@ haystacks
 hazard
 hazardize
 haze
+hazel
+hazelnut
 hazer
 hazes
 hazier
+hazily
+hazle
 hazmat
 hazmats
 hazy
@@ -19582,6 +19607,7 @@ hyaena
 hyaenodon
 hyaenodons
 hyalin
+hyalite
 hyaloid
 hydathode
 hydathodes
@@ -20384,6 +20410,10 @@ ingulfing
 ingurgitating
 ingurgitation
 ingyne
+inhabit
+inhabitability
+inhabitable
+inhabitant
 inhalant
 inhalants
 inhalation
@@ -21410,6 +21440,7 @@ kagouls
 kagu
 kagus
 kahawai
+kahikatea
 kahuna
 kai
 kaikai
@@ -21474,6 +21505,7 @@ kangris
 kantele
 kanuka
 kanukas
+kanzu
 kaolin
 kaolinic
 kaon
@@ -21731,6 +21763,7 @@ kibitka
 kibitkas
 kibitz
 kibla
+kiblah
 kick
 kicked
 kicker
@@ -21760,6 +21793,7 @@ kif
 kikay
 kikoi
 kikois
+kikuyu
 kilikiti
 kilim
 kilims
@@ -22122,6 +22156,7 @@ kund
 kunds
 kune
 kung
+kunzite
 kupapa
 kupapas
 kura
@@ -22152,11 +22187,14 @@ kwiknit
 kwink
 kwirl
 kwon
+kyanite
+kyanize
 kyanizing
 kyat
 kyats
 kyle
 kyles
+kylie
 kylin
 kype
 kyphotic
@@ -22585,6 +22623,7 @@ latex
 latexes
 lath
 lathe
+lathekin
 lather
 lathers
 lathes
@@ -22685,6 +22724,8 @@ lazes
 lazier
 lazily
 lazing
+lazuli
+lazulite
 lazy
 lea
 leach
@@ -28711,6 +28752,7 @@ nakerer
 nakerers
 nakers
 nakfa
+nakhlite
 nakodo
 nala
 nalas
@@ -30436,6 +30478,7 @@ nunks
 nunky
 nunlet
 nunlets
+nunlike
 nuns
 nunship
 nunships
@@ -49179,6 +49222,7 @@ tabu
 tabued
 tabuing
 tabula
+tabulate
 tabulator
 tabun
 tabus
@@ -49486,6 +49530,7 @@ tantalise
 tantalises
 tantalite
 tantalites
+tantalize
 tantalum
 tantalus
 tantaluses
@@ -50437,6 +50482,8 @@ thingos
 things
 thingy
 think
+thinkable
+thinkably
 thinko
 thinks
 thinktank
@@ -50933,6 +50980,7 @@ titer
 titers
 titfer
 titfers
+tithable
 tithal
 tithe
 tithed
@@ -52183,6 +52231,7 @@ tubal
 tubas
 tube
 tubed
+tubelike
 tuber
 tubes
 tubeworm
@@ -52510,6 +52559,7 @@ tzar
 tzarist
 tzarists
 tzars
+tzatziki
 tzigane
 uakari
 uakaris
@@ -52632,6 +52682,7 @@ unalike
 unalive
 unambitious
 unamenable
+unanalyzable
 unaneled
 unapt
 unarguably
@@ -52650,6 +52701,8 @@ unban
 unbans
 unbar
 unbars
+unbeatable
+unbeatably
 unbeaten
 unbelt
 unbelted
@@ -52856,6 +52909,7 @@ unilinear
 unilingual
 unilocular
 unimpeded
+uninhabitable
 uninitiated
 uninstal
 uninstals
@@ -52951,6 +53005,7 @@ unking
 unkink
 unkinking
 unkinks
+unkinlike
 unknit
 unknits
 unknock
@@ -52976,6 +53031,7 @@ unlap
 unlarded
 unlash
 unlatined
+unlatinize
 unlaugh
 unlaunched
 unlaw
@@ -52986,6 +53042,7 @@ unlead
 unleaded
 unleaf
 unleafs
+unleakable
 unlean
 unlearn
 unlearned
@@ -53008,6 +53065,10 @@ unliberated
 unlid
 unlids
 unlifted
+unlikable
+unlike
+unlikeable
+unlikely
 unlimb
 unlimbed
 unlimbing
@@ -53368,6 +53429,9 @@ untended
 untenured
 untether
 unthaw
+unthinkability
+unthinkable
+unthinkably
 unthread
 unthrone
 untick
@@ -55803,6 +55867,7 @@ yuks
 yulan
 yule
 yum
+yunz
 yup
 yupa
 yups
@@ -55819,6 +55884,7 @@ zaftig
 zag
 zaide
 zaire
+zakat
 zakouska
 zakouskas
 zakuska
@@ -55842,12 +55908,14 @@ zariba
 zas
 zawn
 zax
+zayin
 zazen
 zeal
 zealous
 zebra
 zebras
 zebrine
+zebu
 zed
 zeds
 zef
