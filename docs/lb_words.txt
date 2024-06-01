@@ -416,6 +416,7 @@ acedy
 acene
 acenes
 acequia
+acequias
 acer
 aceramic
 acerb
@@ -450,6 +451,9 @@ acetums
 acetyl
 acetylate
 acetylated
+acetylates
+acetylic
+acetylsalicylic
 ach
 achalasia
 achar
@@ -575,12 +579,19 @@ acouchis
 acouri
 acousma
 acousmas
+acquest
+acquests
+acquiesce
+acquiesces
 acquihire
 acquire
 acquirer
+acquiries
 acquiring
 acquiror
+acquiry
 acquit
+acquits
 acral
 acrania
 acranial
@@ -658,6 +669,8 @@ acrostichic
 acrosticism
 acrostics
 acryl
+acrylate
+acrylates
 acrylic
 acrylics
 acryloyl
@@ -752,6 +765,8 @@ acutest
 acutish
 acyclic
 acyl
+acylate
+acylates
 acyloin
 acyloins
 acyrology
@@ -1704,6 +1719,7 @@ alaborate
 alack
 alacrative
 alacritive
+alacrity
 alai
 alairies
 alairy
@@ -1898,6 +1914,7 @@ algraphy
 alhagi
 alia
 alias
+aliases
 alibi
 alibied
 alibis
@@ -1907,6 +1924,7 @@ alicks
 alicorn
 alicorns
 alicyclic
+alicyclics
 alidade
 alidades
 alien
@@ -3011,6 +3029,7 @@ apter
 aptest
 aptly
 apts
+aqsaqal
 aqua
 aquaculture
 aqualung
@@ -3019,6 +3038,8 @@ aquaria
 aquarium
 aquariums
 aquatic
+aquatics
+aquavit
 aqueous
 aquifer
 aquorin
@@ -3776,6 +3797,7 @@ aureoles
 aureus
 auric
 auricle
+auricles
 auricula
 auricular
 auriculas
@@ -3931,8 +3953,10 @@ avians
 aviaries
 aviate
 aviated
+aviates
 aviating
 aviation
+aviatrices
 avid
 avidin
 avidity
@@ -3960,6 +3984,8 @@ avowals
 avowed
 avowing
 avows
+avulse
+avulses
 avulsion
 await
 awaited
@@ -6894,6 +6920,7 @@ cachous
 cachucha
 cachuchas
 cacique
+caciques
 cack
 cacked
 cacking
@@ -6953,6 +6980,7 @@ caiman
 caimans
 caipirosca
 caique
+caiques
 cairn
 cairns
 cajon
@@ -7026,6 +7054,8 @@ calibre
 calibred
 calices
 caliche
+calicivirus
+caliciviruses
 calico
 calicoes
 calicos
@@ -7059,6 +7089,7 @@ calved
 calves
 calving
 calx
+calyces
 calyx
 cam
 cama
@@ -7601,6 +7632,8 @@ cask
 casket
 caskets
 casks
+casque
+casques
 cast
 castanet
 castanets
@@ -7610,6 +7643,7 @@ caster
 casters
 castes
 castle
+castles
 castmate
 castmates
 castor
@@ -7625,6 +7659,9 @@ casts
 casual
 casualise
 casualises
+casuals
+casualties
+casualty
 casuarina
 casuarinas
 casuist
@@ -7639,7 +7676,9 @@ catachreses
 catachresis
 catachrestic
 cataclasis
+cataclastic
 catacomb
+catalase
 catalectic
 catalog
 catalpa
@@ -7738,6 +7777,8 @@ catnaps
 catnip
 cats
 catsat
+catseye
+catseyes
 catsit
 catsits
 catsuit
@@ -7760,11 +7801,16 @@ cauls
 causa
 causable
 causal
+causality
+causative
+causatively
+causatives
 cause
 causer
 causerie
 causeries
 causes
+causey
 caustic
 causticity
 caustics
@@ -7799,6 +7845,7 @@ cavil
 caviled
 caviler
 caviling
+cavils
 caving
 cavitary
 cavities
@@ -7815,6 +7862,8 @@ cay
 cayman
 caymans
 cays
+cayuse
+cayuses
 cease
 ceases
 cebid
@@ -7847,6 +7896,11 @@ celebre
 celebs
 celeriac
 celery
+celesta
+celestas
+celeste
+celestes
+celestial
 celiac
 celiacs
 celom
@@ -8652,6 +8706,8 @@ circinate
 circle
 circled
 circles
+circlet
+circlets
 circling
 circs
 circuit
@@ -8672,6 +8728,7 @@ circuses
 cire
 cirl
 cirque
+cirques
 cis
 cisco
 ciscoes
@@ -8742,6 +8799,8 @@ citrovorum
 citrus
 citruses
 citrusy
+citryl
+citryls
 city
 cityish
 cityishes
@@ -8754,6 +8813,7 @@ civicism
 civics
 civil
 civilian
+civilities
 civility
 clack
 clacked
@@ -8792,6 +8852,10 @@ clanks
 clap
 claps
 claptrap
+claque
+claques
+claqueur
+claqueurs
 clarence
 claret
 claries
@@ -8809,7 +8873,9 @@ clash
 clasp
 clasps
 clast
+clastic
 clasts
+clausal
 clause
 clauses
 clausum
@@ -8927,11 +8993,17 @@ clint
 clip
 clipart
 clips
+clique
+cliques
+cliquey
+cliquiest
 clitic
 cliticise
 cliticises
+clitics
 clitoral
 clivia
+clivias
 cloaca
 cloacae
 cloacal
@@ -10279,6 +10351,7 @@ criteria
 criterial
 critic
 critical
+criticality
 criticaster
 criticasters
 criticise
@@ -10286,6 +10359,8 @@ criticiser
 criticises
 critics
 criticus
+critique
+critiques
 crits
 croak
 croaker
@@ -10381,6 +10456,9 @@ crudo
 cruds
 cruel
 crueler
+cruelest
+cruels
+cruelties
 cruelty
 cruet
 cruets
@@ -10424,6 +10502,10 @@ crusies
 crust
 crustal
 crusted
+crustie
+crusties
+crustiest
+crustily
 crustose
 crusts
 crusty
@@ -10782,6 +10864,7 @@ cycleway
 cycleways
 cyclic
 cyclical
+cyclicals
 cyclin
 cycling
 cyclizing
@@ -13218,6 +13301,8 @@ ecotours
 ecphrases
 ecru
 ecstasy
+ecstatic
+ecstatics
 ectoderm
 ectopic
 ectropion
@@ -13329,6 +13414,7 @@ elapse
 elapses
 elastase
 elastic
+elasticity
 elastin
 elate
 elated
@@ -13413,6 +13499,7 @@ elemi
 elenchi
 elevate
 elevated
+elevates
 elevation
 eleven
 elevens
@@ -14144,12 +14231,17 @@ epsilon
 epsilons
 equable
 equal
+equalities
+equality
 equalize
 equalizer
+equals
 equanimous
 equant
 equatable
 equate
+equates
+equative
 equator
 equatorial
 eques
@@ -14157,6 +14249,8 @@ equine
 equines
 equip
 equips
+equites
+equities
 equity
 equoreal
 era
@@ -14309,6 +14403,7 @@ estimate
 estimated
 estimates
 estime
+estival
 estivate
 estivates
 estoile
@@ -14323,6 +14418,7 @@ estreats
 estrin
 estrone
 estrous
+estrual
 estrum
 estrus
 esurient
@@ -14473,6 +14569,7 @@ evading
 evaginate
 evaluate
 evaluated
+evaluates
 evaluative
 evangel
 evangelic
@@ -21136,6 +21233,7 @@ istle
 ists
 ital
 italic
+italics
 itch
 itched
 itches
@@ -22292,6 +22390,7 @@ laconica
 laconicum
 lacquer
 lacquerer
+lacquey
 lacrima
 lacrimal
 lacrimals
@@ -22575,6 +22674,8 @@ lash
 lasher
 lashers
 lashline
+lasque
+lasques
 last
 lastage
 lastages
@@ -22632,6 +22733,7 @@ lathing
 lathis
 laths
 lati
+latices
 laticifer
 latish
 latitude
@@ -23062,6 +23164,7 @@ leviratic
 leviratical
 levitate
 levitated
+levitates
 levitation
 levities
 levity
@@ -23096,6 +23199,7 @@ liard
 liards
 liars
 lias
+liases
 liatris
 lib
 libel
@@ -23433,7 +23537,10 @@ lipotropin
 lipread
 lips
 lipstatin
+liquate
+liquates
 liqueur
+liqueurs
 liquor
 liquoring
 lira
@@ -23556,6 +23663,7 @@ live
 liveable
 lived
 livelier
+liveliest
 livelily
 livelong
 lively
@@ -24111,6 +24219,7 @@ lush
 lust
 luster
 lustiest
+lustily
 lustra
 lustre
 lustres
@@ -24152,6 +24261,8 @@ luxuriant
 luxuriate
 luxury
 lwei
+lyase
+lyases
 lycanthropic
 lycanthropy
 lychgate
@@ -38834,8 +38945,10 @@ qibla
 qiblah
 qigong
 qila
+qilas
 qipao
 qipaos
+qiviuq
 qtr
 qua
 quab
@@ -38864,6 +38977,7 @@ quahaug
 quai
 quail
 quailing
+quails
 quaite
 quake
 quakes
@@ -38872,7 +38986,11 @@ quaky
 quale
 qualia
 qualie
+qualies
 qualifier
+qualitative
+qualitatively
+qualities
 quality
 qualm
 qualmy
@@ -38976,24 +39094,31 @@ quidam
 quidams
 quids
 quies
+quiesce
+quiesces
 quiet
 quieten
 quietener
 quieter
 quietest
+quieties
 quietism
 quietist
 quietists
+quietive
+quietives
 quietize
 quietly
 quietner
 quiets
 quiety
 quila
+quilas
 quilombo
 quilt
 quilter
 quilting
+quilts
 quim
 quims
 quin
@@ -39052,8 +39177,12 @@ quirings
 quirk
 quirking
 quirl
+quirley
 quirlie
+quirlies
 quirling
+quirls
+quirly
 quirt
 quirting
 quirts
@@ -42972,9 +43101,13 @@ riva
 rivage
 rival
 rivaled
+rivalities
+rivality
 rivalries
 rivalry
 rivals
+rivalties
+rivalty
 rivas
 rive
 rived
@@ -43980,19 +44113,25 @@ rust
 rusted
 rustic
 rustical
+rusticality
 rusticals
 rusticate
 rusticater
 rusticates
 rusticise
 rusticity
+rusticle
+rusticles
+rusticly
 rusticoat
 rustics
 rustier
 rustiest
+rustily
 rustle
 rustler
 rustlers
+rustles
 rustly
 rustre
 rustres
@@ -44189,6 +44328,7 @@ sakuras
 sal
 sala
 salable
+salacity
 salad
 salade
 salades
@@ -44215,6 +44355,8 @@ salicin
 salicine
 salicional
 salicionals
+salicylate
+salicylates
 salicylic
 salience
 saliencies
@@ -44233,6 +44375,7 @@ salinities
 salis
 saliva
 salivate
+salivates
 salmi
 salmis
 salmon
@@ -44258,6 +44401,7 @@ saltie
 saltier
 salties
 saltiest
+saltily
 saltine
 saltines
 saltire
@@ -44270,6 +44414,7 @@ salts
 saltus
 saltuses
 saltwater
+salty
 saluki
 salukis
 salume
@@ -44535,6 +44680,7 @@ satinises
 satire
 satires
 satiric
+satirical
 satirise
 satirised
 satirises
@@ -44588,6 +44734,7 @@ sauted
 sautes
 sautoir
 sautoirs
+sauve
 sav
 savable
 savage
@@ -44600,6 +44747,8 @@ savarin
 savarins
 savasana
 savate
+savateur
+savateurs
 save
 saveage
 saveages
@@ -45089,6 +45238,7 @@ sebum
 sec
 secant
 secants
+secateurs
 secede
 seceded
 secedes
@@ -45382,6 +45532,10 @@ septuples
 septuplet
 septuplets
 seq
+sequacity
+sequel
+sequela
+sequels
 sequin
 sequins
 sera
@@ -46604,6 +46758,8 @@ slubs
 slue
 slues
 slug
+sluice
+sluices
 sluit
 sluits
 slum
@@ -47621,12 +47777,15 @@ squints
 squire
 squires
 squiring
+squirl
+squirls
 squirm
 squirmer
 squirmers
 squirms
 squirt
 squirts
+squirty
 squit
 squits
 squiz
@@ -47672,6 +47831,8 @@ staidly
 stain
 stains
 stair
+staircase
+staircases
 stairlift
 stairlifts
 stairs
@@ -47855,6 +48016,7 @@ statisticise
 statistics
 statists
 stative
+statively
 statives
 stativity
 statize
@@ -48462,6 +48624,7 @@ stylopid
 stylopids
 stylops
 stylus
+styluses
 stymie
 styptic
 styptics
@@ -48470,7 +48633,11 @@ suasible
 suasion
 suasory
 suave
+suavely
 suaver
+suavest
+suavities
+suavity
 sub
 suba
 subacid
@@ -48719,6 +48886,7 @@ sukhs
 suki
 sukis
 suks
+sulcate
 sulci
 sulcus
 sulfa
@@ -48742,7 +48910,9 @@ sultanas
 sultanate
 sultanates
 sultans
+sultriest
 sultrily
+sultry
 sulu
 sulus
 sum
@@ -48898,6 +49068,7 @@ suricate
 suricates
 surimi
 surlier
+surliest
 surlily
 surly
 surmise
@@ -48912,9 +49083,15 @@ sursumduct
 sursumducts
 surtax
 surtitle
+surtitles
 surtos
 surtout
 surtouts
+surveil
+surveils
+survey
+survival
+survivals
 survive
 survives
 survivor
@@ -49681,6 +49858,7 @@ tasters
 tastes
 tastier
 tastiest
+tastily
 tasto
 tasty
 tat
@@ -50139,6 +50317,7 @@ tepal
 tepals
 tephra
 tequila
+tequilas
 terabyte
 terabytes
 terai
@@ -51903,6 +52082,10 @@ tricorn
 tricorns
 tricot
 tricuspid
+tricycle
+tricycles
+tricyclic
+tricyclics
 tried
 triene
 trienes
@@ -52030,6 +52213,8 @@ trivet
 trivets
 trivia
 trivial
+trivialities
+triviality
 trixie
 trixies
 trocar
@@ -52171,6 +52356,7 @@ trusters
 trustier
 trusties
 trustiest
+trustily
 trusts
 trustworthy
 trusty
@@ -53787,8 +53973,10 @@ valeric
 vales
 valet
 valeta
+valetas
 valete
 valeted
+valets
 valiance
 valiant
 valiha
@@ -53805,9 +53993,11 @@ valses
 valuable
 valuate
 valuated
+valuates
 valuative
 value
 valued
+values
 valuing
 valuta
 valvate
@@ -53847,6 +54037,8 @@ vaporware
 vapory
 vapour
 vapours
+vaquita
+vaquitas
 vara
 varas
 varda
@@ -53895,6 +54087,7 @@ vasospastic
 vast
 vaster
 vastest
+vastly
 vasts
 vasty
 vat
@@ -53912,6 +54105,7 @@ vats
 vatu
 vault
 vaulted
+vaults
 vaunt
 vaunter
 vav
@@ -53957,6 +54151,7 @@ veiled
 veiling
 veils
 veiltail
+veiltails
 veily
 vein
 veinage
@@ -54182,6 +54377,7 @@ vesper
 vest
 vesta
 vestal
+vestals
 vestas
 vested
 vestibule
@@ -54306,9 +54502,13 @@ vihara
 viharas
 vihuela
 vihuelas
+vilayati
+vilayet
+vilayets
 vile
 vilely
 viler
+vilest
 vilifier
 vilify
 vilifying
@@ -54435,11 +54635,14 @@ vitae
 vital
 vitalist
 vitalists
+vitality
+vitals
 vitamin
 vitamins
 vitas
 vitiate
 vitiated
+vitiates
 vitiating
 vitiation
 vitrescent
