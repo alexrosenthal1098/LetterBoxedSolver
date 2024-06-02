@@ -523,6 +523,7 @@ acidotic
 acids
 acidulate
 acidulated
+acidulation
 aciduric
 acidy
 acierage
@@ -629,6 +630,7 @@ acritical
 acroama
 acroamas
 acroamatic
+acroamatical
 acroamatics
 acroases
 acroasis
@@ -700,6 +702,7 @@ actinide
 actinin
 actinins
 actinium
+actinoid
 actinon
 actinons
 actinopod
@@ -742,17 +745,20 @@ actuarian
 actuate
 actuated
 actuates
+actuation
 actuator
 actuators
 actus
 acuate
 acuated
 acuates
+acuation
 acuity
 aculeate
 aculeus
 aculeuses
 acumen
+acupoint
 acupunctuate
 acupunctuates
 acupuncture
@@ -1841,6 +1847,7 @@ aldereldes
 alders
 aldicarb
 aldol
+aldordom
 aldoxim
 aldoxime
 aldrin
@@ -2020,6 +2027,7 @@ alma
 almacabala
 almacabalas
 almacantar
+almacour
 almacur
 almacurs
 almade
@@ -2042,6 +2050,7 @@ almighty
 almimar
 almirah
 almoin
+almond
 almoner
 almonry
 almost
@@ -2232,6 +2241,7 @@ alypin
 alytarch
 amacrine
 amadavat
+amadou
 amadumbe
 amadumbi
 amadumbis
@@ -2363,6 +2373,7 @@ amoroso
 amorosos
 amorous
 amosite
+amount
 amour
 amours
 amp
@@ -2387,6 +2398,7 @@ ampules
 ampuls
 amputate
 amputates
+amputation
 amrit
 amrita
 amscray
@@ -7005,6 +7017,7 @@ calamine
 calamint
 calamints
 calamitic
+calamondin
 calamus
 calando
 calandra
@@ -7030,6 +7043,7 @@ calcite
 calcitic
 calcium
 calcrete
+calculation
 calculative
 calculi
 calculus
@@ -7069,6 +7083,7 @@ calks
 calm
 calmed
 calmly
+calmodulin
 calms
 calomel
 caloric
@@ -7084,6 +7099,7 @@ calumniate
 calumniated
 calumnied
 calumnies
+calutron
 calve
 calved
 calves
@@ -7269,6 +7285,7 @@ cap
 capable
 capacitate
 capacitating
+capacitation
 capacities
 capacitor
 capacity
@@ -7297,11 +7314,14 @@ capitanate
 capitao
 capitaos
 capitate
+capitation
 capito
 capitol
 capitolo
 capiton
 capitons
+capitula
+capitulation
 caplet
 caplets
 caplin
@@ -7678,6 +7698,7 @@ catachrestic
 cataclasis
 cataclastic
 catacomb
+catadioptric
 catalase
 catalectic
 catalog
@@ -7691,6 +7712,8 @@ catalytic
 catamaran
 catamarans
 catamenia
+catamount
+catamountain
 catananche
 catananches
 cataphatic
@@ -7793,6 +7816,7 @@ caudate
 caudex
 caught
 caul
+cauldron
 caulk
 caulker
 caulking
@@ -8709,6 +8733,7 @@ circles
 circlet
 circlets
 circling
+circlip
 circs
 circuit
 circuitous
@@ -8717,6 +8742,7 @@ circular
 circularise
 circularises
 circulars
+circulation
 circulative
 circumambience
 circumambiences
@@ -8875,6 +8901,7 @@ clasps
 clast
 clastic
 clasts
+claudication
 clausal
 clause
 clauses
@@ -9112,7 +9139,9 @@ coaches
 coachload
 coachman
 coachmen
+coaction
 coactive
+coadaptation
 coadjutor
 coagula
 coal
@@ -9128,6 +9157,7 @@ coalitional
 coalitioner
 coals
 coaly
+coaptation
 coarct
 coarctate
 coarcted
@@ -9468,9 +9498,13 @@ compete
 competes
 competition
 competitions
+compilation
 compile
 compiler
+complain
+complaint
 compleat
+complication
 complicit
 complicitous
 complot
@@ -9486,10 +9520,13 @@ composition
 compositions
 compost
 composts
+compound
 comprador
 compradore
 comps
 compte
+compunction
+computation
 comsat
 con
 conacre
@@ -9535,6 +9572,7 @@ concoctions
 concoctor
 concocts
 concord
+concordat
 concours
 concrete
 concur
@@ -9545,6 +9583,7 @@ conditions
 condo
 condole
 condoles
+condom
 condone
 condoned
 condoner
@@ -9552,6 +9591,9 @@ condoners
 condones
 condor
 condors
+conduct
+conducti
+conduction
 cone
 coned
 conehead
@@ -9576,6 +9618,8 @@ conic
 conical
 conics
 conidia
+conidioma
+conidiomatal
 conifer
 coning
 conjuror
@@ -9633,6 +9677,8 @@ constricts
 contact
 contactor
 contacts
+contadini
+contadino
 contagia
 contain
 contains
@@ -9651,6 +9697,7 @@ contests
 continent
 continents
 continua
+continual
 continuation
 continuator
 continuo
@@ -9726,6 +9773,7 @@ coplanar
 copout
 copouts
 copra
+coproduction
 coprolalia
 coprophilia
 cops
@@ -9733,6 +9781,7 @@ copse
 copses
 copula
 copular
+copulation
 copy
 copycat
 coq
@@ -9967,6 +10016,7 @@ coumarin
 council
 councilor
 count
+countdom
 countenance
 counter
 countercheck
@@ -10269,6 +10319,7 @@ crickled
 crickling
 cricks
 cricoid
+cricoidal
 cricotomy
 cried
 crier
@@ -10665,12 +10716,14 @@ cumquats
 cumuli
 cumulous
 cumulus
+cunctation
 cuneate
 cuneus
 cuneuses
 cup
 cupcake
 cupel
+cupid
 cupola
 cupric
 cupro
@@ -11862,6 +11915,7 @@ diapasons
 diaper
 diapered
 diapir
+diapiric
 diapirs
 diapsid
 diarchic
@@ -11920,6 +11974,7 @@ dictamen
 dictamni
 dictate
 dictated
+dictation
 dictative
 dictator
 dictatory
@@ -12047,6 +12102,7 @@ dike
 diked
 dikes
 diking
+dilapidation
 dilatable
 dilatancy
 dilatation
@@ -12128,6 +12184,7 @@ diodes
 diogenite
 diol
 diols
+dioptric
 diorama
 dioramic
 dioritic
@@ -12639,6 +12696,7 @@ doula
 doum
 dour
 dourly
+douroucouli
 douse
 douses
 dout
@@ -13010,6 +13068,7 @@ duper
 dupion
 dupioni
 duple
+duplication
 dur
 dura
 durability
@@ -20227,11 +20286,13 @@ inca
 incant
 incants
 incapacitant
+incapacitation
 incapacity
 incarnate
 incas
 incase
 incases
+incaution
 incense
 incenses
 incept
@@ -20286,11 +20347,14 @@ incrust
 incrusts
 incubi
 incubus
+inculcation
+inculpation
 incumbencies
 incunable
 incur
 incurable
 incurables
+incuriam
 incurs
 incursion
 incursions
@@ -20313,6 +20377,7 @@ indexing
 indica
 indican
 indicant
+indication
 indicator
 indices
 indicia
@@ -20354,6 +20419,8 @@ indorses
 indrawn
 indri
 indris
+induct
+induction
 indue
 indued
 indues
@@ -20597,6 +20664,7 @@ inmate
 inmates
 inmost
 inocula
+inoculation
 inoculum
 inorganic
 inosine
@@ -20939,6 +21007,7 @@ intrigues
 intriguing
 intrinsic
 intro
+introduction
 introit
 introits
 intron
@@ -22371,6 +22440,7 @@ lacinia
 lacinias
 laciniate
 laciniated
+laciniation
 laciniato
 lacinula
 lacinulate
@@ -22408,6 +22478,7 @@ lactam
 lactate
 lactated
 lactates
+lactation
 lacteal
 lacteals
 lactic
@@ -22764,6 +22835,7 @@ launched
 launcher
 launching
 launchpad
+laundromat
 laureate
 laurel
 laureled
@@ -23495,6 +23567,7 @@ links
 linkup
 linky
 lino
+linocut
 linoleate
 linoleic
 linolenic
@@ -24096,6 +24169,7 @@ lucern
 lucerne
 luchter
 lucid
+lucida
 lucifer
 lucine
 lucines
@@ -24380,6 +24454,8 @@ macrocosmos
 macrocosms
 macrocyst
 macrocysts
+macrodont
+macrodontia
 macroform
 macron
 macrons
@@ -24393,13 +24469,16 @@ macrosocial
 macrosomia
 macrosomic
 macrostomia
+macrourid
 macruran
+macrurid
 macrurous
 macs
 macte
 macula
 maculae
 macular
+maculation
 macule
 macules
 maculopapular
@@ -24685,6 +24764,7 @@ malacon
 malacons
 malacostracan
 malacostracans
+maladaptation
 maladies
 maladif
 maladive
@@ -24715,6 +24795,8 @@ malasol
 malate
 malates
 malathion
+malconduct
+malcriado
 male
 maleate
 maleates
@@ -24754,6 +24836,7 @@ malm
 malms
 malmsey
 malmseys
+malnutrition
 maloca
 malocas
 malodor
@@ -25495,6 +25578,9 @@ matricaria
 matricarias
 matricary
 matricial
+matricidal
+matricula
+matriculation
 matriliny
 matrilocal
 matrimonial
@@ -25539,6 +25625,7 @@ maud
 maudit
 maudle
 maudled
+maudlin
 mauds
 mauger
 mauka
@@ -27372,6 +27459,7 @@ modoc
 modom
 mods
 modular
+modulation
 module
 moduli
 modulo
@@ -27577,6 +27665,7 @@ moncheite
 mondain
 mondaine
 monde
+mondial
 mondo
 moneme
 monemes
@@ -27609,6 +27698,7 @@ monikers
 monilia
 monilial
 moniliasis
+monilioid
 monimolimnion
 monimolimnions
 monion
@@ -27629,6 +27719,8 @@ monkism
 monkisms
 monks
 mono
+monoacid
+monoacidic
 monoamine
 monoamines
 monoanion
@@ -27659,6 +27751,7 @@ monoclinic
 monoclonal
 monocolor
 monocolour
+monocompound
 monoconsonantal
 monocormic
 monocot
@@ -27666,12 +27759,16 @@ monocots
 monocracy
 monocrat
 monocrats
+monocrop
 monocrystal
 monocrystals
 monocular
 monodermic
+monodia
+monodic
 monodon
 monodont
+monodontid
 monodrome
 monodromy
 monody
@@ -27679,6 +27776,7 @@ monogamian
 monogenean
 monogerm
 monoid
+monoidal
 monoids
 monojet
 monokine
@@ -27728,6 +27826,10 @@ monopitch
 monopitches
 monoplane
 monoplanes
+monopod
+monopodia
+monopodial
+monopodic
 monopolar
 monopole
 monopoles
@@ -27736,9 +27838,11 @@ monopolise
 monopolises
 monopolism
 monoporate
+monoprint
 monops
 monopteral
 monoptic
+monoptical
 monoracial
 monorail
 monorails
@@ -27800,6 +27904,7 @@ montero
 montes
 month
 months
+monticuliporoid
 montre
 montuno
 montunos
@@ -27878,6 +27983,7 @@ moribana
 morient
 moriform
 morin
+morindin
 morindone
 morine
 morinite
@@ -27931,6 +28037,7 @@ morphon
 morphonic
 morphophonic
 morphs
+morpion
 mort
 mortal
 mortalist
@@ -27961,6 +28068,7 @@ moruk
 morula
 morulae
 morular
+morulation
 moruloid
 moruti
 morutis
@@ -28099,6 +28207,7 @@ moultered
 moults
 mound
 mount
+mountain
 mountant
 mounter
 mounting
@@ -29693,9 +29802,11 @@ nicotinoid
 nicotinoids
 nictate
 nictated
+nictation
 nictitant
 nictitate
 nictitated
+nictitation
 nicy
 nidal
 nidality
@@ -29976,8 +30087,12 @@ nocive
 nock
 nocked
 nocking
+noctiluca
+noctilucal
 noctovision
 noctovisions
+noctua
+nocturia
 nod
 nodal
 nodality
@@ -29988,6 +30103,7 @@ noded
 nodhead
 nodheads
 nodi
+nodical
 nodose
 nodosity
 nodous
@@ -30059,6 +30175,8 @@ nolo
 nom
 noma
 nomad
+nomadic
+nomadical
 nome
 nomen
 nomens
@@ -30112,6 +30230,7 @@ nonbeing
 nonbinary
 nonblack
 nonc
+noncapital
 nonce
 nonces
 noncey
@@ -30581,6 +30700,7 @@ nuncius
 nunciuses
 nuncle
 nuncles
+nuncupation
 nundine
 nunk
 nunkie
@@ -30663,6 +30783,7 @@ nutmeats
 nutmeg
 nutria
 nutrias
+nutricial
 nutrient
 nutrients
 nutriment
@@ -30941,6 +31062,7 @@ ocreas
 ocreate
 octactinian
 octad
+octadic
 octagon
 octagonal
 octal
@@ -30953,6 +31075,7 @@ octanoyls
 octant
 octantal
 octants
+octapla
 octaploid
 octarch
 octastich
@@ -31522,6 +31645,7 @@ opiating
 opie
 opihi
 opihis
+opilionid
 opinable
 opinant
 opinants
@@ -31606,6 +31730,7 @@ optograms
 optometer
 optomotor
 optophone
+optronic
 opts
 opuntia
 opuntioid
@@ -33061,6 +33186,7 @@ palindromic
 palindromical
 paling
 palinodial
+palinodic
 palinody
 palinspastic
 palinspastics
@@ -33070,6 +33196,7 @@ palkis
 palm
 palmar
 palmate
+palmation
 palmatipartite
 palmed
 palmer
@@ -33120,6 +33247,7 @@ paltrier
 paludal
 paludial
 paludian
+paludic
 paludinal
 palwar
 paly
@@ -33400,6 +33528,7 @@ papeterie
 papey
 papier
 papilio
+papilionid
 papilionine
 papilios
 papirosa
@@ -33984,6 +34113,8 @@ patrician
 patricians
 patricianship
 patricianships
+patricidal
+patrico
 patrie
 patries
 patriliny
@@ -34004,6 +34135,7 @@ patron
 patronal
 patronat
 patronate
+patrondom
 patronite
 patronomate
 pats
@@ -34018,6 +34150,8 @@ patwaris
 patzer
 paua
 pauas
+paucal
+pauldron
 paulin
 paunch
 paunchy
@@ -35447,6 +35581,7 @@ pilgrimed
 pilgrimer
 pili
 piliated
+piliation
 pilidium
 pilidiums
 pilifer
@@ -35889,6 +36024,7 @@ placable
 placard
 placate
 placated
+placation
 place
 placeable
 placed
@@ -35902,7 +36038,9 @@ placid
 placidity
 placidly
 plack
+placodal
 placodioid
+placodont
 placoid
 placophoran
 placula
@@ -36171,6 +36309,7 @@ plica
 plicae
 plical
 plicas
+plication
 plie
 plied
 plieing
@@ -36400,6 +36539,7 @@ podgily
 podgy
 podia
 podial
+podiatric
 podiatrist
 podiatrists
 podiatry
@@ -36763,7 +36903,9 @@ ponor
 ponors
 pons
 pont
+pontac
 pontage
+pontal
 pontes
 pontil
 pontine
@@ -36978,6 +37120,9 @@ portrayists
 portrays
 ports
 portuis
+portulac
+portulaca
+portunid
 porty
 porus
 poruses
@@ -37705,8 +37850,11 @@ primy
 prince
 princeps
 princes
+principal
 principi
+principial
 principiant
+principiation
 pring
 pringle
 pringling
@@ -37799,6 +37947,7 @@ proamnion
 proanthocyanidin
 proas
 proatlas
+proaulion
 proavis
 prob
 probabilize
@@ -37831,6 +37980,7 @@ prochous
 prochouses
 prochronic
 proclaim
+proclamation
 proclamator
 proclitic
 procoracoid
@@ -37849,6 +37999,9 @@ prodrome
 prodromic
 prodrug
 prods
+product
+productid
+production
 proem
 proemial
 proemium
@@ -37955,6 +38108,8 @@ pronoun
 pronounal
 pronouns
 pronto
+pronuncial
+pronunciation
 prop
 propachlor
 propaedia
@@ -38004,6 +38159,7 @@ propitiable
 propitial
 propitiate
 propitiating
+propitiation
 propitiative
 propitiator
 propitious
@@ -38312,6 +38468,7 @@ pruning
 prunish
 prunitrin
 pruno
+prunoid
 prunt
 prunts
 prunus
@@ -38444,6 +38601,7 @@ pud
 pudeur
 pudge
 pudgier
+pudic
 pudina
 pudinas
 pudor
@@ -38484,10 +38642,13 @@ puled
 puler
 pules
 puli
+pulicat
 pulicine
 puling
 pulk
 pulka
+pulmonia
+pulmonic
 pulp
 pulpal
 pulper
@@ -38574,8 +38735,13 @@ punchy
 puncta
 punctae
 punctate
+punctation
+punctilio
+punctual
 punctuate
 punctuates
+punctuation
+punctulation
 punctum
 puncture
 punctures
@@ -43400,6 +43566,7 @@ romanite
 romanium
 romans
 romanso
+romaunt
 romcom
 romeite
 romeites
@@ -43862,6 +44029,7 @@ rucksacks
 ruckus
 ruckuses
 rucola
+ructation
 ruction
 ructions
 rud
@@ -49649,6 +49817,7 @@ tamper
 tamperer
 tamperers
 tampers
+tampion
 tampon
 tamps
 tams
@@ -52072,6 +52241,8 @@ tricksier
 tricksiest
 triclad
 triclads
+triclinia
+triclinic
 tricolate
 tricolates
 tricolor
@@ -52168,6 +52339,7 @@ tripled
 triples
 triplet
 triplets
+triplication
 triploid
 triploids
 tripmeter
@@ -52343,6 +52515,7 @@ trumpeter
 trumpeting
 trumping
 trumps
+truncal
 truncation
 trundle
 trundler
@@ -52568,6 +52741,7 @@ turista
 turkey
 turkeys
 turlough
+turmoil
 turn
 turnabout
 turnabouts
@@ -52605,6 +52779,7 @@ turs
 turtle
 turtledove
 turtles
+turundam
 turves
 tusche
 tusches
@@ -52930,6 +53105,7 @@ uncial
 uncinariasis
 uncinate
 unclad
+unclamp
 unclap
 unclay
 uncle
@@ -52964,6 +53140,7 @@ uncoiling
 uncolored
 uncoloured
 unconcern
+uncord
 uncork
 uncorking
 uncouth
@@ -53085,6 +53262,7 @@ unicum
 unidead
 unideal
 unidentate
+unidiomatic
 uniface
 unified
 unifier
@@ -53289,6 +53467,7 @@ unloving
 unloyal
 unloyalty
 unlucent
+unlucid
 unluck
 unlust
 unlustrous
@@ -53351,6 +53530,7 @@ unmixed
 unmixing
 unmolten
 unmoral
+unmortal
 unmould
 unmount
 unmounting
@@ -53412,6 +53592,7 @@ unpin
 unpinion
 unpinioning
 unpins
+unplacid
 unplain
 unplait
 unplan
@@ -53458,13 +53639,16 @@ unprinting
 unprints
 unprone
 unprop
+unproportion
 unprops
 unproud
+unpunctual
 unpure
 unpurse
 unpurses
 unpursing
 unput
+unputrid
 unquailing
 unquaking
 unquick
