@@ -17114,6 +17114,8 @@ gingkos
 gings
 gink
 ginkgo
+ginkgos
+ginks
 ginorite
 gins
 ginseng
@@ -17270,6 +17272,7 @@ gloving
 glow
 glower
 glowier
+glows
 glowy
 gloze
 glozes
@@ -17281,6 +17284,7 @@ glued
 glues
 gluey
 glug
+glugs
 gluier
 gluing
 glum
@@ -17402,6 +17406,7 @@ goiters
 goitre
 goitred
 goitres
+goji
 goke
 gokes
 gold
@@ -19040,6 +19045,7 @@ highchair
 highchairs
 higher
 highish
+highjinks
 highland
 highlife
 highlight
@@ -19064,6 +19070,7 @@ hijack
 hijacks
 hijiki
 hijikis
+hijinks
 hike
 hiked
 hiker
@@ -19245,6 +19252,8 @@ hogo
 hogoh
 hogos
 hogs
+hogskin
+hogskins
 hogtie
 hogtied
 hoha
@@ -21457,6 +21466,7 @@ jilted
 jilts
 jim
 jink
+jinks
 jip
 jips
 jird
@@ -21478,9 +21488,15 @@ joe
 joes
 joey
 joeys
+jog
+jogs
 john
 johns
+johnson
+johnsons
 joie
+join
+joins
 joist
 joists
 jojoba
@@ -21495,6 +21511,7 @@ jolted
 jolts
 jorts
 jorum
+josh
 jot
 jota
 jotas
@@ -23916,6 +23933,7 @@ logical
 logician
 logier
 login
+logins
 logion
 logo
 logoed
@@ -24193,6 +24211,7 @@ luges
 lughole
 luging
 lugnut
+lugs
 luls
 lulu
 lulus
@@ -30651,6 +30670,7 @@ nug
 nugs
 nuh
 nuit
+nujol
 nuke
 nukes
 nukespeak
@@ -30756,6 +30776,8 @@ nus
 nusach
 nuse
 nuses
+nushnik
+nushniks
 nut
 nutant
 nutarian
@@ -42786,6 +42808,7 @@ rhino
 rhinodon
 rhinolith
 rhinology
+rhinos
 rhizobia
 rhizomic
 rho
@@ -43142,6 +43165,7 @@ rink
 rinking
 rinkite
 rinkomania
+rinks
 rins
 rinse
 rinser
@@ -46248,6 +46272,7 @@ show
 showd
 showding
 showds
+showgirl
 showie
 showies
 showiest
@@ -46274,6 +46299,8 @@ shrimper
 shrimpers
 shrimps
 shrimpy
+shrink
+shrinks
 shrive
 shroud
 shrouds
@@ -53248,6 +53275,8 @@ unholy
 unhuman
 unhung
 unhurt
+unhusk
+unhusks
 unhygienic
 uni
 unibrow
@@ -53378,6 +53407,9 @@ unknot
 unknots
 unknow
 unknowability
+unknown
+unknowns
+unknows
 unkut
 unlabeled
 unlabored
@@ -53554,6 +53586,8 @@ unopen
 unopening
 unordain
 unos
+unown
+unowns
 unpack
 unpacking
 unpagan
@@ -53715,6 +53749,7 @@ unrevolving
 unrich
 unrife
 unrig
+unrigs
 unring
 unringing
 unrip
@@ -55676,6 +55711,7 @@ winkie
 winkle
 winkled
 winkler
+winks
 winky
 wino
 winos
@@ -55778,6 +55814,7 @@ wodge
 woe
 woeful
 woes
+wogs
 wok
 woke
 woken
@@ -55806,6 +55843,7 @@ won
 wonga
 wonk
 wonkier
+wonks
 wonky
 wont
 wonton
