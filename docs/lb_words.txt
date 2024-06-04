@@ -2172,6 +2172,7 @@ altitudinal
 altitudo
 alto
 altogether
+altograph
 altoist
 altoists
 altos
@@ -2466,6 +2467,7 @@ analog
 analogate
 analogic
 analogical
+analogizing
 analogon
 analogy
 analysans
@@ -2677,6 +2679,7 @@ anomie
 anomy
 anon
 anonym
+anopluran
 anorak
 anoraks
 anoraky
@@ -2769,8 +2772,10 @@ anthocyanidin
 anthocyanin
 anthoid
 anthoinite
+anthologizing
 anthomania
 anthonyite
+anthozoan
 anthracic
 anthracitic
 anthracoid
@@ -2813,8 +2818,10 @@ antihero
 antiheroine
 antiknock
 antilife
+antilog
 antilucan
 antimony
+anting
 antinomian
 antinomy
 antipasti
@@ -2825,6 +2832,7 @@ antipathy
 antiperspirant
 antiperspirants
 antiphon
+antiphonal
 antiphonary
 antiphons
 antiphony
@@ -2863,6 +2871,7 @@ antler
 antlerite
 antlers
 antlike
+antling
 antlion
 antlions
 antode
@@ -3001,6 +3010,7 @@ apogean
 apolar
 apolitical
 apologia
+apologizing
 apologue
 apology
 apols
@@ -3401,6 +3411,7 @@ arthrozoic
 artiad
 artiads
 artialise
+artializing
 artic
 article
 artics
@@ -3871,10 +3882,16 @@ autodidacts
 autoflare
 autogeny
 autogony
+autograph
+autographing
 autogyro
+autoharp
 autoist
 autoists
 autoland
+autolith
+autolithograph
+autolithographing
 autoload
 autolocate
 autolocator
@@ -3898,7 +3915,9 @@ automises
 autopathy
 autophon
 autophony
+autophotograph
 autopiano
+autopilot
 autorad
 autorads
 autorotate
@@ -16552,6 +16571,7 @@ galia
 galinga
 galingale
 galiot
+galipot
 galis
 galop
 galore
@@ -16686,6 +16706,8 @@ garde
 garderobe
 gardie
 garganey
+gargantua
+gargantuan
 garget
 gargle
 gargled
@@ -17609,6 +17631,7 @@ granite
 granites
 granitise
 granitises
+granitizing
 granitoid
 granivore
 granivores
@@ -17617,6 +17640,7 @@ grano
 granola
 grans
 grant
+granting
 grantor
 grantors
 grants
@@ -17640,6 +17664,7 @@ graphing
 graphite
 graphitic
 graphitize
+graphitizing
 graphology
 graphs
 grapier
@@ -18251,6 +18276,7 @@ halted
 halter
 haltere
 halters
+halting
 halts
 haluhalo
 halva
@@ -18333,6 +18359,7 @@ hanging
 hangings
 hangman
 hangnail
+hangout
 hangrier
 hangry
 hangs
@@ -19742,8 +19769,10 @@ hurt
 hurtful
 hurtier
 hurtiest
+hurting
 hurtle
 hurtled
+hurtling
 hurts
 hurty
 hush
@@ -19765,6 +19794,7 @@ hutia
 hutias
 hutkept
 hutlike
+hutong
 huts
 hwyl
 hyacinth
@@ -20624,6 +20654,7 @@ initialese
 initialing
 initialise
 initialises
+initializing
 initials
 initiand
 initiands
@@ -23558,6 +23589,7 @@ lingot
 lingtow
 lingua
 lingual
+lingualizing
 linguet
 linguina
 linguine
@@ -31399,8 +31431,10 @@ oligotroph
 oliguria
 olim
 olingo
+olinguito
 olio
 olios
+oliphant
 olisbos
 olisboses
 olistolith
@@ -31590,6 +31624,7 @@ ontic
 ontical
 onto
 ontogonies
+ontologizing
 ontonomies
 ontonomy
 ontopic
@@ -31612,6 +31647,7 @@ opal
 opalinid
 opalise
 opalize
+opalizing
 opals
 opanci
 opanka
@@ -32436,6 +32472,7 @@ outnoises
 outpart
 outpatient
 outpitch
+outplant
 outpoint
 outpointing
 outport
@@ -32450,8 +32487,12 @@ output
 outputs
 outrage
 outrager
+outraging
 outran
+outrang
+outranging
 outrant
+outranting
 outrate
 outrating
 outray
@@ -33045,6 +33086,7 @@ pagador
 pagadore
 pagan
 paganic
+paganizing
 paganly
 paganries
 pagans
@@ -33063,6 +33105,7 @@ pager
 pages
 pageship
 pageships
+paginal
 paging
 pagne
 pagnes
@@ -33203,6 +33246,7 @@ paletot
 palets
 pali
 palilalia
+palilogia
 palinal
 palindromic
 palindromical
@@ -33372,6 +33416,7 @@ pangen
 pangene
 pangenetic
 pangeran
+pangolin
 pangram
 pangraphic
 panguingue
@@ -33461,15 +33506,19 @@ pantherish
 panties
 pantihose
 pantile
+pantiling
 pantin
 pantine
 pantines
+panting
 pantle
 pantler
 pantlers
 panto
 pantocain
 pantocratic
+pantograph
+pantographing
 pantonal
 pantopod
 pantos
@@ -33511,6 +33560,7 @@ papalist
 papalists
 papality
 papalize
+papalizing
 papaloi
 papalois
 papaphobia
@@ -33642,12 +33692,15 @@ paragraphisms
 paragraphist
 paragraphists
 paragraphize
+paragraphizing
 paragraphs
 parakinesis
 paraleipomena
 paralic
 paralipsis
 paralog
+paralogia
+paralogizing
 paralogy
 paralytic
 paralytical
@@ -33938,6 +33991,7 @@ parthenin
 parti
 partial
 partiality
+partializing
 partiary
 partible
 participance
@@ -35136,8 +35190,11 @@ philanthropic
 philanthropical
 philanthropoid
 philanthropy
+philautia
 philibeg
 philodinid
+philologian
+philologizing
 philopatry
 philothion
 philter
@@ -35148,6 +35205,7 @@ phish
 phisiog
 phit
 phiz
+phizog
 phloem
 phlorol
 phlox
@@ -35183,6 +35241,7 @@ phonating
 phonation
 phonational
 phonatory
+phonautograph
 phone
 phoneme
 phoner
@@ -35194,6 +35253,7 @@ phonic
 phonily
 phoning
 phono
+phonoautograph
 phonograph
 phonography
 phonolith
@@ -35244,6 +35304,7 @@ photistic
 photo
 photoact
 photoaction
+photoaging
 photocatalytic
 photocopy
 photodiode
@@ -35259,6 +35320,8 @@ photoglyphy
 photograph
 photographic
 photographica
+photographing
+photographizing
 photography
 photoheterotroph
 photoheterotrophic
@@ -35269,6 +35332,8 @@ photoion
 photoions
 photolith
 photolitho
+photolithograph
+photolithographing
 photolithotroph
 photolithotrophy
 photology
@@ -35548,6 +35613,9 @@ pigism
 piglet
 pigly
 pigmy
+pignoli
+pignolia
+pignolo
 pignon
 pignorate
 pignorating
@@ -35618,6 +35686,7 @@ pilot
 pilotari
 piloted
 piloti
+piloting
 pilots
 pilous
 pilpul
@@ -35706,6 +35775,7 @@ pingau
 pinge
 pingel
 pinger
+pingil
 pinging
 pingle
 pingling
@@ -35714,6 +35784,7 @@ pingpong
 pinguin
 pinguite
 pingwing
+pinholing
 piniform
 pining
 pinion
@@ -36069,6 +36140,7 @@ placula
 placulas
 plaga
 plagal
+plaguing
 plaguy
 plaice
 plaid
@@ -36138,8 +36210,10 @@ planktic
 plankton
 planky
 planograph
+planographing
 planography
 planometer
+planont
 plans
 planster
 plansters
@@ -36151,8 +36225,10 @@ plantar
 planted
 planter
 planters
+planting
 plantlet
 plantlets
+plantling
 plantocracy
 plants
 plantula
@@ -36406,6 +36482,7 @@ pluds
 plug
 plughole
 plugin
+plugola
 pluke
 plum
 plumasite
@@ -36477,6 +36554,7 @@ pluralise
 pluralises
 pluralism
 pluralisms
+pluralizing
 plurative
 pluriarc
 pluriarcs
@@ -36718,6 +36796,7 @@ poligar
 poliklinik
 poling
 polio
+poliphant
 polis
 polisman
 polismen
@@ -36726,6 +36805,7 @@ political
 politico
 politicos
 politics
+politizing
 polity
 polka
 polkaing
@@ -39886,6 +39966,7 @@ ranes
 rang
 ranga
 rangale
+rangant
 range
 ranged
 rangeful
@@ -39932,6 +40013,7 @@ rant
 ranted
 ranter
 ranters
+ranting
 rantipike
 rantispike
 rants
@@ -42809,6 +42891,7 @@ rhinodon
 rhinolith
 rhinology
 rhinos
+rhizina
 rhizobia
 rhizomic
 rho
@@ -44270,6 +44353,7 @@ ruralist
 ruralists
 ruralite
 rurality
+ruralizing
 rurban
 rurbanism
 rurbanisms
@@ -50847,6 +50931,7 @@ thighs
 thin
 thine
 thing
+thingal
 thingam
 thingamabob
 thingamabobs
@@ -50926,11 +51011,13 @@ thoughtful
 thoughtlet
 thoughtway
 thoughty
+thouing
 thous
 thousand
 thousands
 thousandth
 thousandths
+thrang
 thrash
 thrasher
 thrashers
@@ -51242,6 +51329,7 @@ tined
 tines
 tinfoil
 ting
+tingaling
 tinge
 tinged
 tingeing
@@ -51968,6 +52056,7 @@ trageremic
 tragi
 tragic
 tragics
+tragopan
 trags
 tragu
 tragule
@@ -52505,6 +52594,7 @@ trows
 troy
 troys
 truant
+truanting
 truants
 truce
 truces
@@ -52564,6 +52654,7 @@ truth
 truther
 truthers
 truthful
+truthing
 truthlike
 truthly
 truths
@@ -54116,9 +54207,11 @@ utility
 utilizable
 utilize
 utilizer
+utilizing
 utmost
 utopia
 utopian
+utopianizing
 utopic
 utriculi
 utriculus
