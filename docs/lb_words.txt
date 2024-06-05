@@ -665,6 +665,7 @@ acroscopic
 acrosin
 acrosomal
 acrosomic
+acrospore
 acrost
 acrostic
 acrostichic
@@ -1216,6 +1217,7 @@ aetiteses
 aevum
 afaint
 afanc
+afancs
 afar
 afara
 afaras
@@ -7213,6 +7215,7 @@ canceler
 cancer
 cancerate
 cancerine
+cancers
 cancerwort
 cancroid
 candid
@@ -7240,11 +7243,15 @@ caning
 canister
 canisters
 canker
+cankers
+cankery
 cankle
+cankry
 canoe
 canoed
 canoeing
 canoer
+canoers
 canoes
 canola
 canon
@@ -7410,6 +7417,7 @@ caravans
 caravansaries
 caravel
 caraway
+caraways
 carb
 carbanilic
 carbanilide
@@ -7502,6 +7510,9 @@ caretaken
 caretaker
 caretakers
 carets
+careworker
+careworkers
+careworn
 carex
 carfare
 carful
@@ -7558,6 +7569,7 @@ carne
 carnelian
 carnet
 carney
+carneys
 carnie
 carnier
 carnies
@@ -7960,6 +7972,7 @@ censers
 censes
 censor
 censors
+censorware
 censurable
 census
 censuses
@@ -10295,6 +10308,8 @@ creperies
 crepes
 crepey
 crepitant
+crepon
+crepons
 crept
 crepy
 crescendi
@@ -10434,7 +10449,9 @@ critiques
 crits
 croak
 croaker
+croakers
 croaking
+croaks
 croaky
 croc
 crochet
@@ -10586,6 +10603,7 @@ cry
 crybabies
 crybaby
 cryer
+cryers
 cryne
 cryocautery
 cryology
@@ -13940,6 +13958,8 @@ enfant
 enfleurage
 enflurane
 enforce
+enforcer
+enforcers
 enforces
 engage
 engaged
@@ -15000,7 +15020,13 @@ face
 faceache
 facelift
 facer
+facers
 faces
+facework
+faceworker
+faceworkers
+faceworks
+facey
 facia
 facial
 facials
@@ -15076,9 +15102,12 @@ faithwise
 fake
 faker
 fakers
+fakery
 fakes
+fakey
 fakir
 fakirs
+faky
 falafel
 falafels
 falcate
@@ -15127,6 +15156,7 @@ fan
 fanal
 fanals
 fancier
+fancy
 fane
 fanes
 fanfare
@@ -15146,12 +15176,15 @@ fantail
 fantails
 fantod
 fap
+faps
 faquir
 far
 farad
 farang
+faraway
 farce
 farcical
+farcy
 fard
 fardel
 fare
@@ -15259,6 +15292,7 @@ fax
 faxing
 fay
 fayalite
+fayre
 fays
 faze
 fazed
@@ -15342,6 +15376,9 @@ femurs
 fen
 fence
 fencer
+fencerow
+fencerows
+fencers
 fencing
 fend
 feng
@@ -15362,6 +15399,8 @@ fermentor
 fermi
 fermion
 fern
+fernery
+ferns
 ferox
 feroxes
 fertile
@@ -15406,6 +15445,7 @@ few
 fewer
 fewest
 fey
+feyer
 feyest
 feyly
 fez
@@ -16020,6 +16060,8 @@ foramen
 forard
 foray
 forayer
+forayers
+forays
 forb
 forbear
 forbearing
@@ -16029,6 +16071,9 @@ forborne
 forby
 forbye
 force
+forceps
+forcer
+forcers
 forces
 ford
 forded
@@ -16047,8 +16092,15 @@ foregoer
 foregoing
 foregone
 foregut
+foreknew
+foreknow
+foreknows
 foreleg
 foremen
+forepaw
+forepaws
+foreperson
+forepersons
 foreran
 forerib
 forerun
@@ -16057,6 +16109,8 @@ foretold
 foretop
 forewarn
 forewarner
+forewarners
+forewarns
 forfeit
 forfeiter
 forfeiting
@@ -16087,6 +16141,8 @@ forme
 former
 formes
 fornent
+forswore
+forsworn
 fort
 forte
 forth
@@ -16130,6 +16186,8 @@ fox
 foxtail
 foxtails
 foyaite
+foyer
+foyers
 fracas
 fracases
 frack
@@ -21798,6 +21856,7 @@ kay
 kayak
 kayaked
 kayaker
+kayakers
 kayaking
 kayaks
 kayo
@@ -21926,6 +21985,7 @@ keycard
 keycards
 keyed
 keyer
+keyers
 keyhole
 keylet
 keys
@@ -22328,11 +22388,13 @@ krakens
 krans
 kranses
 kranskies
+kransky
 kratom
 kratoms
 kraut
 krauts
 kray
+krays
 krewe
 krewes
 kriol
@@ -29120,6 +29182,7 @@ nap
 napa
 napalm
 nape
+napery
 napes
 naphtha
 naphthenate
@@ -29386,6 +29449,7 @@ necks
 necktie
 neckties
 neckwear
+necropsy
 necrose
 necroses
 necrosis
@@ -29754,13 +29818,17 @@ newspaperist
 newspaperists
 newspaperman
 newspapers
+newspapery
 newspeak
+newsperson
 newsprint
 newswire
 newswires
 newswoman
 newswomen
 newswork
+newsworks
+newsy
 newt
 newtake
 newtakes
@@ -30359,6 +30427,9 @@ nonparty
 nonpast
 nonpasts
 nonpayer
+nonpayers
+nonperson
+nonpersons
 nonracial
 nonrational
 nonreader
@@ -30629,6 +30700,7 @@ novy
 now
 nowaday
 noway
+noways
 nowd
 nowder
 nowds
@@ -31260,6 +31332,7 @@ oestrous
 oestrus
 oeuvre
 ofay
+ofays
 oficina
 oft
 often
@@ -31529,6 +31602,7 @@ onboard
 onboards
 once
 oncer
+oncers
 oncogen
 oncogene
 oncogenic
@@ -31664,15 +31738,19 @@ open
 openable
 opened
 opener
+openers
 opening
 opens
 opepe
 opepes
 opera
 operagoer
+operance
+operancy
 operate
 operator
 operon
+operons
 opery
 opes
 opex
@@ -33011,6 +33089,8 @@ paceman
 pacer
 pacers
 paces
+paceway
+paceways
 pacey
 pacha
 pachanga
@@ -33410,6 +33490,8 @@ panentheistic
 panentheists
 panes
 panesthesia
+panfan
+panfans
 pang
 panga
 pangen
@@ -33482,6 +33564,7 @@ panspermist
 panspermists
 pansperms
 panstick
+pansy
 pant
 pantan
 pantans
@@ -33595,6 +33678,8 @@ papermakers
 papern
 papers
 paperware
+paperwork
+paperworks
 papery
 papeterie
 papey
@@ -33818,6 +33903,7 @@ parc
 parcel
 parcenary
 parcener
+parceners
 parch
 parcher
 parches
@@ -33850,6 +33936,7 @@ parenteral
 parentis
 parents
 pareo
+pareos
 parer
 parera
 pareras
@@ -33912,6 +33999,9 @@ parkland
 parklands
 parklet
 parks
+parkway
+parkways
+parky
 parlando
 parlatic
 parlatory
@@ -33974,6 +34064,7 @@ parses
 parsnip
 parsnips
 parson
+parsonry
 parsons
 part
 partable
@@ -34271,6 +34362,7 @@ paw
 pawang
 pawing
 pawkier
+pawky
 pawl
 pawls
 pawn
@@ -34291,6 +34383,7 @@ paycheck
 payday
 paydirt
 payer
+payers
 paying
 payload
 payola
@@ -34629,6 +34722,7 @@ penster
 pensters
 pensum
 pensums
+pensy
 pent
 pentad
 pentail
@@ -34928,10 +35022,12 @@ perms
 permy
 pern
 pernancies
+pernancy
 perne
 perning
 pernio
 pernor
+pernors
 perns
 peroba
 perogi
@@ -34973,6 +35069,10 @@ persistent
 persister
 persisters
 persists
+person
+persona
+personpower
+persons
 persp
 perspire
 perspires
@@ -37088,6 +37188,7 @@ porcupiny
 pore
 pored
 porer
+porers
 porey
 porfido
 porge
@@ -37110,6 +37211,9 @@ porism
 porisms
 porite
 pork
+porker
+porkers
+porkery
 porket
 porkets
 porkier
@@ -37119,11 +37223,13 @@ porkman
 porkmen
 porkpie
 porks
+porky
 porn
 pornie
 pornier
 porno
 pornomania
+pornos
 pornotopia
 porny
 porogamy
@@ -37459,11 +37565,13 @@ powans
 power
 powering
 powerpop
+powers
 powhiri
 powie
 powis
 powises
 powlt
+powsy
 pox
 poxes
 poxiest
@@ -39107,6 +39215,7 @@ pycnodont
 pycnodonts
 pycnogon
 pycnosis
+pycnospore
 pycnotic
 pye
 pyet
@@ -39533,6 +39642,8 @@ races
 racetrack
 racetracks
 racewalk
+raceway
+raceways
 rache
 rachel
 raches
@@ -40081,6 +40192,7 @@ rarefactive
 rarefiable
 rarefied
 rarefier
+rarefy
 rareish
 rarely
 rarer
@@ -40669,6 +40781,7 @@ receiver
 receivers
 receives
 receiving
+recency
 recense
 recenses
 recension
@@ -40981,6 +41094,7 @@ ref
 reface
 refacing
 refan
+refans
 refavour
 refect
 refective
@@ -40993,6 +41107,7 @@ refer
 referable
 reference
 referencer
+referencers
 referencing
 referent
 referential
@@ -41782,7 +41897,9 @@ reobtain
 reogram
 reopen
 reopener
+reopeners
 reopening
+reopens
 reordain
 reorder
 reordered
@@ -41837,7 +41954,9 @@ repawn
 repawns
 repay
 repayer
+repayers
 repaying
+repays
 repeal
 repealable
 repealed
@@ -41936,6 +42055,7 @@ reportable
 reporter
 reporting
 reportorial
+repos
 repot
 repour
 repouring
@@ -42810,6 +42930,7 @@ reword
 rework
 reworker
 reworkers
+reworks
 rewound
 rewove
 rewoven
@@ -43731,8 +43852,12 @@ ropeable
 roped
 ropeful
 roper
+ropers
 ropery
 ropes
+ropeway
+ropeways
+ropey
 ropier
 ropily
 roping
@@ -44025,6 +44150,7 @@ rovings
 row
 rowable
 rowan
+rowans
 rowboat
 rowdy
 rowed
@@ -45148,9 +45274,12 @@ scarcest
 scarcities
 scarcity
 scare
+scarecrow
+scarecrows
 scarer
 scarers
 scares
+scareware
 scarf
 scarfie
 scarfies
@@ -45184,6 +45313,7 @@ scenas
 scend
 scends
 scene
+scenery
 scenes
 scenic
 scenical
@@ -45355,6 +45485,9 @@ scramjets
 scrams
 scran
 scrap
+scrape
+scraper
+scrapers
 scrapheap
 scrapheaps
 scraps
@@ -45419,6 +45552,7 @@ scrutator
 scrutators
 scry
 scryer
+scryers
 scuba
 scubas
 scud
@@ -46897,12 +47031,19 @@ sky
 skybal
 skybals
 skyble
+skycap
+skycaps
+skyer
+skyers
 skyey
 skyish
 skylark
 skylarked
 skylarks
 skyr
+skyscape
+skyscraper
+skyscrapers
 skyship
 skyships
 skyward
@@ -47181,9 +47322,11 @@ snakepit
 snakepits
 snakes
 snakeskin
+snakey
 snakier
 snakiest
 snaking
+snaky
 snap
 snapin
 snaps
@@ -47201,6 +47344,7 @@ snarkier
 snarkiest
 snarking
 snarks
+snarky
 snarl
 snarler
 snarlers
@@ -47269,6 +47413,8 @@ snout
 snouts
 snouty
 snow
+snowcap
+snowcaps
 snowiest
 snowing
 snowman
@@ -47278,6 +47424,7 @@ snowmobiles
 snowplow
 snowplows
 snows
+snowscape
 snowsuit
 snowsuits
 snub
@@ -47289,6 +47436,8 @@ snus
 soak
 soakage
 soakages
+soakaway
+soakaways
 soaker
 soakers
 soaking
@@ -47300,6 +47449,7 @@ soapboxes
 soaps
 soapy
 soar
+soaraway
 soarer
 soarers
 soaring
@@ -47495,6 +47645,7 @@ sonobuoy
 sonobuoys
 sonofa
 sonofas
+sonofer
 sonolysis
 sonorant
 sonorants
@@ -47649,6 +47800,8 @@ soys
 soz
 spa
 space
+spacefarer
+spacefarers
 spaceman
 spaceplane
 spacer
@@ -47662,6 +47815,9 @@ spacespeak
 spacespeaks
 spacetime
 spacewalk
+spaceway
+spaceways
+spacey
 spacial
 spacier
 spaciest
@@ -47705,6 +47861,7 @@ sparkier
 sparkies
 sparkiest
 sparks
+sparky
 spars
 sparse
 sparser
@@ -47767,6 +47924,8 @@ spelk
 spelt
 spelter
 spence
+spencer
+spencers
 spences
 spent
 sperm
@@ -47908,6 +48067,7 @@ sponson
 sponsons
 sponsor
 sponsors
+spore
 spork
 sporks
 sport
@@ -49423,6 +49583,7 @@ swandris
 swank
 swankier
 swanks
+swanky
 swans
 swansong
 swansongs
@@ -49517,6 +49678,7 @@ swops
 sword
 swords
 swore
+sworn
 swot
 swots
 swum
@@ -55152,6 +55314,8 @@ wads
 wady
 wafer
 wafered
+wafers
+wafery
 waft
 wafted
 wafting
@@ -55312,6 +55476,7 @@ warmonger
 warn
 warned
 warner
+warners
 warning
 warnings
 warns
@@ -55416,6 +55581,9 @@ waxes
 waxiest
 way
 wayed
+wayfare
+wayfarer
+wayfarers
 waygate
 waylaid
 waylay
@@ -55952,9 +56120,12 @@ wore
 work
 workaday
 workaway
+workaways
 worked
 worker
 workers
+workfare
+workforce
 workhand
 workhorse
 workhorses
@@ -55963,11 +56134,13 @@ workhouses
 workie
 workies
 workload
+workperson
 workrate
 workrates
 works
 worksite
 worksites
+workspace
 worktop
 workup
 workwear
@@ -56179,6 +56352,7 @@ yang
 yank
 yanked
 yanking
+yanks
 yantra
 yantras
 yap
@@ -56193,6 +56367,7 @@ yarding
 yare
 yark
 yarked
+yarks
 yarlin
 yarling
 yarmulka
@@ -56214,6 +56389,9 @@ yawner
 yawnier
 yawny
 yawp
+yawper
+yawpers
+yawps
 yaws
 yay
 yaya
@@ -56253,6 +56431,7 @@ yerba
 yerbas
 yerk
 yerked
+yerks
 yes
 yeses
 yet
@@ -56344,6 +56523,7 @@ yorgas
 york
 yorked
 yorker
+yorkers
 yorks
 yorling
 you
