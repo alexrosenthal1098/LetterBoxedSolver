@@ -4874,6 +4874,7 @@ bedaub
 bedaubed
 bedaubs
 bedbug
+bedbugs
 bedel
 bedels
 bedew
@@ -4891,6 +4892,7 @@ bedside
 bedsides
 bedsit
 bedsits
+bedtime
 befog
 befoul
 befouls
@@ -4916,6 +4918,8 @@ beguinage
 beguinages
 beguine
 beguines
+begum
+begums
 begun
 behalf
 behave
@@ -4927,6 +4931,8 @@ behemoth
 behest
 behests
 behind
+behold
+beholds
 behove
 behoved
 beige
@@ -4959,6 +4965,7 @@ belike
 belimb
 belimbs
 belime
+belimed
 belit
 beloid
 belote
@@ -5231,6 +5238,8 @@ bignonias
 bigonial
 bigos
 bigot
+bigotism
+bigotisms
 bigotry
 bigots
 bigram
@@ -5357,6 +5366,8 @@ biogs
 bioherm
 bioimaging
 biolith
+bioliths
+biologism
 biolytic
 biome
 biomes
@@ -5455,6 +5466,7 @@ biryanis
 birze
 bis
 bish
+bismuth
 bison
 bisque
 bisques
@@ -5597,6 +5609,8 @@ bleb
 blebs
 blech
 bled
+blemish
+blemished
 blench
 blenching
 blend
@@ -5646,6 +5660,7 @@ block
 blocks
 blocs
 blog
+blogs
 bloke
 blokey
 blonks
@@ -5680,6 +5695,8 @@ blue
 bluebeak
 bluebird
 blued
+bluegum
+bluegums
 blueing
 blueish
 blueline
@@ -5719,6 +5736,7 @@ blurt
 blurted
 blurts
 blush
+blushed
 bluster
 blusterer
 boa
@@ -6689,6 +6707,7 @@ bumbling
 bumboat
 bumboats
 bumf
+bumhole
 bump
 bumped
 bumper
@@ -6814,6 +6833,7 @@ busaun
 busauns
 busbar
 busbars
+busbied
 busbies
 busboy
 busboys
@@ -6826,7 +6846,13 @@ buses
 bush
 bushbuck
 bushbucks
+bushed
+bushel
+bushels
 bushes
+bushie
+bushtit
+busied
 busier
 busies
 busiest
@@ -11362,6 +11388,7 @@ debs
 debt
 debtor
 debug
+debugs
 debur
 debus
 debuses
@@ -11482,6 +11509,7 @@ degreaser
 degreasers
 degreases
 degu
+degus
 dehorn
 dehorned
 dehors
@@ -11500,6 +11528,7 @@ deign
 deigned
 deigning
 deil
+deils
 deink
 deinked
 deisal
@@ -11565,6 +11594,7 @@ delineate
 delineated
 delirium
 delis
+delish
 delist
 delisted
 delists
@@ -11606,6 +11636,7 @@ demerger
 demerit
 demes
 demigod
+demigods
 demilune
 demine
 demined
@@ -12526,6 +12557,7 @@ docu
 dodge
 dodged
 dodgem
+dodgems
 dodger
 dodgier
 dodgily
@@ -12565,6 +12597,10 @@ dognap
 dogology
 dogpile
 dogpiled
+dogs
+dogsit
+dogsled
+dogsleds
 dogtown
 dogtrot
 doh
@@ -12590,6 +12626,7 @@ dolinas
 doline
 doling
 dolma
+dolmus
 dolomitic
 dolor
 dolorous
@@ -12599,6 +12636,7 @@ dolours
 dolphin
 dolphinaria
 dolt
+doltish
 dolts
 domain
 domaine
@@ -13420,6 +13458,7 @@ edgiest
 edging
 edgy
 edh
+edhs
 edibility
 edible
 edibles
@@ -13453,10 +13492,12 @@ egested
 egests
 egirine
 ego
+egoism
 egoist
 egoists
 egos
 egotise
+egotism
 egotist
 egotists
 egotize
@@ -16913,6 +16954,9 @@ geld
 gelded
 gelds
 gelid
+gelisol
+gelisols
+gels
 gelt
 gem
 gematria
@@ -17492,13 +17536,17 @@ gokes
 gold
 goldbeater
 goldbug
+goldbugs
 goldfield
 goldfish
 goldleaf
 goldleafed
 goldrush
 golds
+goldsmith
+goldsmiths
 golem
+golems
 golf
 golfed
 golfer
@@ -17988,6 +18036,7 @@ guarani
 guard
 guars
 gub
+gubs
 guck
 guelder
 guenon
@@ -18049,6 +18098,9 @@ gumleaf
 gumnut
 gumption
 gums
+gumshield
+gumshields
+gumshoe
 gun
 guna
 gunas
@@ -18091,6 +18143,7 @@ gurt
 guru
 gurus
 gush
+gushed
 gusher
 gushers
 gushier
@@ -18821,6 +18874,7 @@ heder
 hedge
 hedged
 hedgehog
+hedgehogs
 hedgehop
 hedger
 hedgie
@@ -18863,8 +18917,10 @@ helmed
 helmer
 helmet
 helmeted
+helms
 helot
 helotage
+helotism
 helotry
 help
 helpful
@@ -19363,6 +19419,7 @@ hokum
 hold
 holder
 holding
+holdout
 holds
 holdup
 hole
@@ -19615,6 +19672,7 @@ hostilities
 hosts
 hot
 hotbed
+hotbeds
 hotbox
 hotch
 hotcha
@@ -19623,6 +19681,7 @@ hotches
 hotchpot
 hotchpotch
 hotdog
+hotdogs
 hote
 hotel
 hotelier
@@ -19834,6 +19893,7 @@ hurtling
 hurts
 hurty
 hush
+hushed
 hushes
 husk
 huskie
@@ -23195,6 +23255,7 @@ legitimatised
 legitimatises
 legitimatist
 legitimatists
+legitime
 legitimise
 legitimised
 legitimises
@@ -23210,6 +23271,7 @@ lego
 legong
 legover
 legrope
+legs
 leguan
 leguleian
 legume
@@ -23387,6 +23449,8 @@ lib
 libel
 libeled
 libeler
+libelous
+libels
 liberal
 liberalize
 liberalizer
@@ -23503,6 +23567,7 @@ lignite
 lignocaine
 lignum
 ligroin
+ligs
 ligula
 ligular
 ligulate
@@ -23836,6 +23901,7 @@ litigating
 litigation
 litigative
 litigator
+litigious
 litmus
 litre
 litreage
@@ -24003,6 +24069,7 @@ locutory
 lode
 loden
 lodge
+lodged
 lodger
 lodging
 loerie
@@ -24156,6 +24223,7 @@ lotmen
 lotment
 lotong
 lots
+lotus
 louche
 loucher
 loud
@@ -24187,6 +24255,7 @@ louses
 lousily
 lousy
 lout
+loutish
 louts
 louvar
 louver
@@ -24403,6 +24472,7 @@ lurves
 lurving
 luscious
 lush
+lushed
 lust
 luster
 lustiest
@@ -25973,6 +26043,8 @@ megaton
 megaureter
 megaureters
 megimide
+megohm
+megohms
 megrim
 megrimish
 megrims
@@ -26081,6 +26153,7 @@ melons
 melopoeia
 melos
 mels
+melshed
 melt
 meltabilities
 meltable
@@ -26781,6 +26854,8 @@ milages
 milagro
 milarite
 milarites
+milblog
+milblogs
 milch
 milched
 milchig
@@ -27208,6 +27283,7 @@ misdivided
 misdivides
 misdo
 misdoes
+misdoubt
 mise
 misease
 miseases
@@ -27271,6 +27347,8 @@ mislines
 mislist
 mislive
 mislives
+mislodge
+mislodged
 misls
 mismade
 mismae
@@ -28465,8 +28543,11 @@ mugho
 mugil
 mugilid
 mugiloid
+mugils
 mugo
+mugos
 mugs
+mugshot
 muguet
 muguets
 mugwump
@@ -28517,6 +28598,7 @@ multibed
 multibit
 multiblade
 multibladed
+multibus
 multicar
 multichain
 multicircuit
@@ -28530,12 +28612,15 @@ multicuspid
 multidialectal
 multihit
 multihole
+multiholed
+multihued
 multilaminate
 multilane
 multiline
 multilineal
 multilinealities
 multilines
+multilithed
 multilocation
 multilocus
 multiman
@@ -28745,6 +28830,7 @@ museums
 mush
 musha
 mushaira
+mushed
 musher
 mushers
 mushie
@@ -28842,6 +28928,7 @@ mutualists
 mutuals
 mutuca
 mutuel
+mutuels
 mutule
 mutules
 mutum
@@ -31265,6 +31352,7 @@ odelet
 odeon
 odes
 odeum
+odeums
 odic
 odious
 odiously
@@ -31373,6 +31461,8 @@ ohias
 ohm
 ohmage
 ohmic
+ohmigod
+ohmigosh
 ohms
 ohmygod
 oho
@@ -32389,6 +32479,7 @@ ouched
 oud
 ouds
 oued
+oueds
 ouens
 ough
 ought
@@ -32432,6 +32523,8 @@ outbids
 outbirth
 outbirths
 outbled
+outblush
+outblushed
 outboard
 outboards
 outborn
@@ -32497,6 +32590,8 @@ outgrabe
 outgrabing
 outgroup
 outgun
+outgush
+outgushed
 outhalf
 outhaul
 outhauler
@@ -32506,6 +32601,7 @@ outher
 outhit
 outhits
 outhold
+outholds
 outhomer
 outhouse
 outhouses
@@ -46288,6 +46384,8 @@ sheathe
 sheathes
 sheaths
 sheave
+shed
+sheds
 sheik
 sheikh
 sheikha
@@ -46326,6 +46424,10 @@ shiatsu
 shicer
 shicers
 shicker
+shied
+shield
+shielded
+shields
 shies
 shift
 shifts
@@ -46476,6 +46578,7 @@ shotputs
 shots
 shoud
 shoujo
+should
 shounen
 shouse
 shouses
@@ -46553,6 +46656,7 @@ shunts
 shura
 shuras
 shush
+shushed
 shushes
 shut
 shutout
@@ -46666,6 +46770,7 @@ sighter
 sighters
 sights
 sigil
+sigils
 sigma
 sigmas
 sigmate
@@ -46722,6 +46827,7 @@ silkiest
 silklike
 silks
 silo
+siloed
 siloes
 silos
 silt
@@ -47103,9 +47209,12 @@ sleazy
 sleb
 slebs
 sled
+sledge
+sledged
 sleds
 slept
 sleuth
+sleuthed
 sleuths
 slew
 slewed
@@ -47123,6 +47232,7 @@ slid
 slily
 slim
 slime
+slimed
 slimes
 slimier
 slimiest
@@ -47152,6 +47262,7 @@ slocore
 sloe
 sloes
 slog
+slogs
 sloka
 slokas
 slomo
@@ -47160,10 +47271,12 @@ slope
 slopes
 slops
 slosh
+sloshed
 sloshier
 sloshiest
 slot
 sloth
+sloths
 slots
 slouch
 slough
@@ -47176,8 +47289,10 @@ slows
 slub
 slubs
 slue
+slued
 slues
 slug
+slugs
 sluice
 sluices
 sluit
@@ -47195,6 +47310,7 @@ slurps
 slurpy
 slurs
 slush
+slushed
 sly
 slyest
 slyly
@@ -47265,11 +47381,13 @@ smiters
 smites
 smith
 smitham
+smithed
 smither
 smithers
 smithery
 smithiantha
 smithianthas
+smithied
 smithies
 smithite
 smithites
@@ -47302,6 +47420,7 @@ smudge
 smudgier
 smug
 smush
+smushed
 smut
 smuts
 snack
@@ -47526,6 +47645,7 @@ sogo
 soh
 soie
 soil
+soiled
 soils
 soily
 soit
@@ -47553,6 +47673,7 @@ sold
 soldi
 soldo
 sole
+soled
 solei
 solera
 soles
@@ -47568,6 +47689,7 @@ solidus
 solipsist
 solipsists
 solo
+soloed
 soloes
 soloist
 soloists
@@ -47575,6 +47697,7 @@ solos
 sols
 solstice
 solstices
+soluble
 solunar
 solus
 solute
@@ -47742,6 +47865,7 @@ soul
 soulace
 soulaces
 soular
+souled
 souler
 soulers
 soulful
@@ -47778,6 +47902,7 @@ soutars
 souteneur
 souteneurs
 south
+southed
 souths
 southwest
 sov
@@ -49111,6 +49236,7 @@ subdial
 subdials
 subdivisible
 subdivisive
+subdolous
 subdue
 subdues
 subedit
@@ -49136,6 +49262,8 @@ subgiant
 subgiants
 subgrain
 subgrains
+subgum
+subgums
 subhumid
 subiculum
 subiculums
@@ -49152,7 +49280,10 @@ sublet
 sublets
 sublevel
 sublevels
+sublime
+sublimed
 sublimise
+sublimish
 submicro
 submicron
 submicrons
@@ -49203,6 +49334,9 @@ subsist
 subsisted
 subsistent
 subsists
+subsoil
+subsoiled
+subsoils
 substate
 substates
 substitute
@@ -49225,7 +49359,10 @@ subtenures
 subtest
 subtests
 subtiaba
+subtil
+subtile
 subtitle
+subtitled
 subtitles
 subtle
 subtleise
@@ -51706,6 +51843,7 @@ toea
 toecap
 toed
 toehold
+toeholds
 toeing
 toenail
 toerag
@@ -52082,6 +52220,7 @@ tours
 tourtiere
 tourtieres
 tousle
+tousled
 tousles
 tout
 touted
@@ -53259,6 +53398,8 @@ ultimately
 ultimates
 ultimatum
 ultimo
+ultisol
+ultisols
 ultra
 ultrabasic
 ultracareful
