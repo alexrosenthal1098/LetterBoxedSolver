@@ -1676,6 +1676,7 @@ aiyoh
 ajar
 aji
 ajiaco
+ajuga
 akakia
 akakias
 akalat
@@ -1958,6 +1959,8 @@ aliform
 alifs
 aligation
 alight
+alighten
+alightening
 alighting
 align
 alignation
@@ -2596,6 +2599,7 @@ angrily
 angry
 anguine
 angular
+angulate
 anhedonia
 anhinga
 anhydrite
@@ -2729,6 +2733,7 @@ anted
 antedate
 antedated
 antefact
+anteing
 antelucan
 antemortem
 antenatal
@@ -13516,6 +13521,7 @@ eidolons
 eidos
 eight
 eighth
+eighthly
 eighths
 eightieth
 eightieths
@@ -13617,6 +13623,8 @@ electrowin
 elects
 elegance
 elegant
+elegante
+elegantly
 elegiac
 elegiacal
 elegic
@@ -13891,6 +13899,7 @@ enanthate
 enanthema
 enanthol
 enanthole
+enanthyl
 enantiodromia
 enantiomer
 enargite
@@ -14046,6 +14055,9 @@ enlarge
 enlarger
 enlarging
 enlicht
+enlight
+enlighten
+enlightening
 enlist
 enlister
 enlisters
@@ -14129,6 +14141,7 @@ ent
 entablement
 entail
 entailed
+entailing
 entameba
 entamebae
 entamoeba
@@ -14565,6 +14578,7 @@ eta
 etagere
 etageres
 etailer
+etailing
 etalon
 etas
 etat
@@ -14653,6 +14667,7 @@ eths
 ethyde
 ethyl
 ethylate
+ethylene
 ethyne
 ethynes
 etic
@@ -15019,6 +15034,7 @@ eyelet
 eyeleted
 eyelets
 eyelid
+eyelight
 eyeline
 eyeliner
 eyepiece
@@ -16620,6 +16636,7 @@ gah
 gai
 gaiatri
 gaiety
+gaijin
 gaily
 gain
 gainable
@@ -16757,12 +16774,14 @@ gangril
 gangs
 gangsman
 gangue
+ganja
 gank
 ganking
 ganks
 ganoid
 ganoids
 gantlet
+gantline
 gantries
 gaokao
 gaol
@@ -16884,6 +16903,8 @@ gault
 gaunch
 gaunt
 gaunter
+gauntlet
+gauntly
 gaur
 gaurs
 gauze
@@ -17037,6 +17058,8 @@ gentile
 gentium
 gentle
 gentler
+gentling
+gently
 gentrified
 gentrifier
 gents
@@ -18035,6 +18058,8 @@ guarana
 guarani
 guard
 guars
+guava
+guayule
 gub
 gubs
 guck
@@ -18163,6 +18188,7 @@ gutsiest
 gutsy
 guv
 guy
+guying
 guys
 gweilo
 gweilos
@@ -19241,6 +19267,7 @@ hinds
 hindwing
 hindwings
 hinge
+hingeing
 hinging
 hinky
 hinoki
@@ -19802,6 +19829,7 @@ hued
 hues
 hug
 huge
+hugely
 huger
 hugs
 huh
@@ -19920,6 +19948,7 @@ hyaena
 hyaenodon
 hyaenodons
 hyalin
+hyaline
 hyalite
 hyaloid
 hydathode
@@ -20605,6 +20634,8 @@ inedible
 inegalitarian
 inelastic
 inelegance
+inelegant
+inelegantly
 ineligibility
 ineligible
 ineligibly
@@ -20810,6 +20841,7 @@ inlaid
 inland
 inlay
 inlayer
+inlaying
 inlays
 inlet
 inlets
@@ -21004,6 +21036,7 @@ intensivists
 intent
 intention
 intentional
+intently
 intents
 inter
 interact
@@ -21521,9 +21554,11 @@ jackpots
 jacks
 jade
 jaded
+jag
 jai
 jail
 jailbait
+jailing
 jails
 jalap
 jalapeno
@@ -21561,16 +21596,21 @@ jato
 jatos
 jaune
 jaunt
+jaunty
 java
+javelin
+javelina
 jaw
 jawed
 jaws
+jay
 jean
 jeans
 jebel
 jejuna
 jejunal
 jejune
+jejunely
 jejunum
 jel
 jels
@@ -21586,6 +21626,7 @@ jests
 jet
 jete
 jetes
+jetlag
 jeton
 jetport
 jets
@@ -21614,6 +21655,8 @@ jilt
 jilted
 jilts
 jim
+jing
+jingal
 jink
 jinks
 jip
@@ -21628,6 +21671,8 @@ jitis
 jive
 jived
 jives
+jivey
+jiving
 job
 jobs
 jobsmith
@@ -21697,7 +21742,10 @@ judoist
 judoists
 judy
 jug
+juga
+jugal
 jugs
+jugulate
 jugum
 jujitsu
 juju
@@ -21711,6 +21759,7 @@ jukskei
 juku
 julep
 juleps
+julia
 jumar
 jumbie
 jumbies
@@ -21723,6 +21772,7 @@ jumpsuit
 jun
 juncture
 junctures
+jung
 junk
 junks
 junky
@@ -21755,6 +21805,8 @@ justitial
 jut
 jute
 juts
+juvenile
+juvenilia
 juvie
 juvies
 kabaka
@@ -22814,6 +22866,9 @@ lang
 langar
 langer
 langra
+language
+langue
+languet
 languor
 langur
 laniard
@@ -22940,6 +22995,7 @@ latened
 latening
 latens
 latent
+latently
 later
 laterad
 lateral
@@ -22997,6 +23053,7 @@ laughably
 laughed
 laugher
 laughful
+laughing
 laughter
 laughy
 launce
@@ -23295,9 +23352,13 @@ lempira
 lemur
 lend
 lends
+length
+lengthily
+lengthy
 lenience
 leniencies
 lenient
+leniently
 lenis
 lenite
 lenited
@@ -23559,8 +23620,12 @@ liger
 ligers
 light
 lightbulb
+lighten
+lightening
+lightgun
 lighting
 lightly
+lightning
 lighty
 lignin
 lignite
@@ -23717,12 +23782,14 @@ lingtow
 lingua
 lingual
 lingualizing
+linguate
 linguet
 linguina
 linguine
 linguini
 lingula
 lingular
+lingulate
 linhay
 linhays
 linier
@@ -29414,6 +29481,8 @@ naturists
 natya
 naucraries
 naufrage
+naught
+naughty
 naupaka
 nauplial
 naupliar
@@ -29591,6 +29660,7 @@ negus
 neguses
 neicher
 neigh
+neighing
 neighs
 neignted
 neinei
@@ -30058,6 +30128,8 @@ nightgown
 nightgowns
 nighthawk
 nightie
+nightlight
+nightly
 nightman
 nighty
 nigiri
@@ -30129,6 +30201,7 @@ ninetieths
 ninety
 ninhydrin
 niniamer
+ninja
 ninjutsu
 ninon
 ninta
@@ -50872,6 +50945,7 @@ tented
 tenter
 tenters
 tenth
+tenthly
 tenths
 tenting
 tentlike
@@ -51224,6 +51298,7 @@ thicko
 thieve
 thievery
 thieves
+thieving
 thievish
 thigh
 thighs
@@ -53611,6 +53686,7 @@ uneducated
 unelected
 unending
 unenergetic
+unenlightening
 unenviable
 unenvied
 unequal
@@ -53637,7 +53713,10 @@ unfurl
 unfurled
 unfurling
 ungainlier
+ungainly
 ungenial
+ungentle
+ungently
 ungird
 ungirds
 ungiving
@@ -53653,6 +53732,7 @@ unguard
 unguent
 ungues
 unguis
+ungulate
 unhand
 unhandy
 unhang
@@ -53662,6 +53742,7 @@ unhasps
 unhealed
 unheard
 unheralded
+unhinge
 unhinging
 unhip
 unhitch
@@ -53778,8 +53859,12 @@ unitors
 units
 unitude
 unity
+univalent
 univalve
 univocal
+unjail
+unjailing
+unjaunty
 unjoyous
 unjust
 unjustest
@@ -53823,10 +53908,12 @@ unlash
 unlatined
 unlatinize
 unlaugh
+unlaughing
 unlaunched
 unlaw
 unlawful
 unlay
+unlaying
 unleached
 unlead
 unleaded
@@ -53855,6 +53942,7 @@ unliberated
 unlid
 unlids
 unlifted
+unlight
 unlikable
 unlike
 unlikeable
@@ -54223,6 +54311,7 @@ untaken
 untalented
 untamable
 untameable
+untaught
 untenable
 untended
 untenured
@@ -54252,6 +54341,7 @@ untunable
 untuned
 unturned
 untwine
+untying
 unum
 unusable
 unusual
@@ -54561,6 +54651,7 @@ vagrant
 vagrants
 vags
 vague
+vaguely
 vaguest
 vagus
 vaid
@@ -54575,8 +54666,10 @@ vails
 vain
 vainer
 vainest
+vainly
 vair
 vairy
+vajayjay
 vajra
 valance
 valanced
@@ -54594,6 +54687,7 @@ valeted
 valets
 valiance
 valiant
+valiantly
 valiha
 valihas
 valine
@@ -54637,6 +54731,7 @@ vanga
 vangs
 vanish
 vans
+vantage
 vape
 vaped
 vaper
@@ -54714,6 +54809,7 @@ vatic
 vaticinal
 vaticinate
 vaticinated
+vatje
 vato
 vatos
 vats
@@ -54748,6 +54844,7 @@ veges
 vegetable
 vegetables
 vegetal
+vegetant
 vegetate
 vegetated
 vegetates
@@ -55108,6 +55205,7 @@ vigil
 vigilance
 vigilant
 vigilante
+vigilantly
 vigneron
 vignerons
 vigor
@@ -56473,6 +56571,7 @@ yagna
 yags
 yah
 yahs
+yajna
 yak
 yakitori
 yaks
