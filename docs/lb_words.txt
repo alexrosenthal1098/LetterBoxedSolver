@@ -3695,6 +3695,7 @@ atonality
 atone
 atoned
 atonement
+atones
 atonic
 atoning
 atony
@@ -6974,6 +6975,7 @@ cache
 cachectic
 cached
 cachepot
+cachepots
 caches
 cachet
 cachets
@@ -7040,6 +7042,7 @@ cahiers
 cahoun
 cahouns
 cahow
+cahows
 caiman
 caimans
 caipirosca
@@ -7281,6 +7284,8 @@ cankry
 canoe
 canoed
 canoeing
+canoeist
+canoeists
 canoer
 canoers
 canoes
@@ -7295,6 +7300,7 @@ canonize
 canonries
 canonry
 canons
+canopies
 canopy
 canorous
 cans
@@ -7368,6 +7374,7 @@ capita
 capital
 capitana
 capitanate
+capitano
 capitao
 capitaos
 capitate
@@ -7405,6 +7412,8 @@ capsicums
 capsid
 capstan
 capstans
+capstone
+capstones
 captain
 captainate
 captaining
@@ -7852,6 +7861,7 @@ catholic
 catholicon
 cation
 cationic
+cations
 catkin
 catlick
 catlike
@@ -8019,6 +8029,8 @@ centers
 centile
 centiliter
 centiliters
+centipoise
+centipoises
 centisecond
 centiseconds
 centner
@@ -8295,6 +8307,8 @@ chatbot
 chatbots
 chateau
 chats
+chatshow
+chatshows
 chautauqua
 chav
 chava
@@ -8395,6 +8409,9 @@ chewed
 chewer
 chewie
 chewier
+chewies
+chewiest
+chews
 chewy
 chez
 chi
@@ -8563,6 +8580,8 @@ chockablock
 chocker
 chocko
 chocks
+chockstone
+chockstones
 choco
 chocoholic
 chocoholics
@@ -8586,6 +8605,8 @@ choker
 chokes
 chokey
 chokeys
+chokies
+chokiest
 choko
 chokos
 choky
@@ -8648,6 +8669,10 @@ chowderhead
 chowderheaded
 chowed
 chowk
+chowki
+chowkies
+chowkis
+chowks
 chows
 chrism
 chroma
@@ -9294,9 +9319,12 @@ cockler
 cocklers
 cockles
 cockling
+cockpit
+cockpits
 cockrag
 cockroach
 cocks
+cockshies
 cocksucker
 cocksuckers
 cocktail
@@ -9594,6 +9622,7 @@ comsat
 con
 conacre
 conation
+conations
 concatenate
 concave
 conceal
@@ -9730,6 +9759,7 @@ constant
 constantan
 constantly
 constants
+constipation
 constrain
 constrains
 constraint
@@ -9824,8 +9854,13 @@ copal
 copasetic
 copay
 cope
+copeck
+copecks
 copes
+copestone
+copestones
 copha
+copies
 copilot
 copilots
 coping
@@ -10048,6 +10083,7 @@ cosy
 cot
 cotch
 cotched
+cotches
 cote
 cotise
 cotises
@@ -10148,6 +10184,7 @@ cowries
 cowrote
 cows
 cowtown
+cowtowns
 cox
 coxa
 coxae
@@ -13419,6 +13456,7 @@ economises
 economist
 economistic
 economists
+ecopoiesis
 ecorat
 ecorats
 ecorche
@@ -13434,9 +13472,13 @@ ecotage
 ecoteur
 ecotone
 ecotones
+ecotopia
+ecotopian
 ecotour
 ecotoured
 ecotours
+ecotown
+ecotowns
 ecphrases
 ecru
 ecstasy
@@ -13886,6 +13928,7 @@ enabling
 enact
 enacted
 enaction
+enactions
 enactive
 enactor
 enacts
@@ -13904,6 +13947,7 @@ enantiodromia
 enantiomer
 enargite
 enation
+enations
 encage
 encages
 encamp
@@ -14137,6 +14181,8 @@ ensuite
 ensuites
 ensure
 ensures
+enswathe
+enswathes
 ent
 entablement
 entail
@@ -14374,7 +14420,9 @@ epitomes
 epitomise
 epitomises
 epitope
+epitopes
 epoch
+epochs
 epode
 epoque
 epoxies
@@ -14506,8 +14554,11 @@ escapists
 escarp
 escarps
 eschar
+eschaton
 escheat
 escheats
+eschew
+eschews
 escolar
 escolars
 escort
@@ -18256,6 +18307,7 @@ hacienda
 haciendado
 hack
 hackathon
+hackathons
 hacked
 hacker
 hacket
@@ -18685,6 +18737,8 @@ hatorade
 hatpin
 hatrack
 hats
+hatshop
+hatshops
 haugh
 haughs
 haughtily
@@ -18736,6 +18790,9 @@ hawk
 hawked
 hawker
 hawkish
+hawks
+hawkshaw
+hawkshaws
 haws
 hawse
 hawsepipe
@@ -18984,6 +19041,8 @@ henchmen
 henequen
 henge
 henley
+henpeck
+henpecks
 henries
 henry
 hens
@@ -19095,6 +19154,8 @@ hesitate
 hesitated
 hesitater
 hesitates
+hesitation
+hesitations
 hesitative
 hest
 hests
@@ -19287,6 +19348,7 @@ hipes
 hiphop
 hiping
 hiply
+hipoisie
 hips
 hipshot
 hirable
@@ -19322,6 +19384,8 @@ histoid
 histomap
 histometabases
 histometabasis
+histone
+histones
 historian
 historians
 historic
@@ -19440,6 +19504,7 @@ hoke
 hokes
 hokey
 hoki
+hokiest
 hokonui
 hoks
 hokum
@@ -19620,6 +19685,7 @@ hopes
 hoping
 hops
 hopscotch
+hopscotches
 hora
 horah
 horahs
@@ -19724,12 +19790,14 @@ hotly
 hotnot
 hotnots
 hotpant
+hotpants
 hotplate
 hotpot
 hotpots
 hotrod
 hotrods
 hots
+hotseat
 hotshoe
 hotshoes
 hotshot
@@ -22305,6 +22373,7 @@ kitab
 kitabs
 kitchen
 kitchener
+kitchens
 kitchenware
 kite
 kiteboard
@@ -22382,6 +22451,7 @@ knockback
 knocker
 knockers
 knocking
+knocks
 knop
 knops
 knot
@@ -22447,6 +22517,8 @@ konfyt
 kongoni
 konimeter
 kop
+kopeck
+kopecks
 kopek
 kopeks
 kopi
@@ -22474,6 +22546,7 @@ koruru
 korus
 kosher
 kotch
+kotches
 koto
 kotos
 kotwal
@@ -22490,6 +22563,7 @@ kowari
 kowaris
 kowtow
 kowtower
+kowtows
 kraft
 krai
 krais
@@ -29347,6 +29421,7 @@ naphtyl
 napkin
 napkins
 napoh
+napohs
 napoleon
 napoleons
 naps
@@ -29462,6 +29537,7 @@ national
 nationale
 nationality
 nationalty
+nations
 native
 natively
 nativity
@@ -29777,6 +29853,10 @@ nephew
 nephric
 nephrite
 nepotal
+nepotation
+nepotations
+nepotist
+nepotists
 neptunite
 neptunites
 neptunium
@@ -29947,7 +30027,9 @@ newels
 newer
 newest
 newie
+newies
 newing
+newish
 newlans
 newline
 newlins
@@ -29960,6 +30042,8 @@ newscaster
 newscasters
 newscasts
 newsful
+newshawk
+newshawks
 newsie
 newsier
 newsies
@@ -29991,6 +30075,7 @@ newtake
 newtakes
 newton
 newtonite
+newtons
 newts
 nexal
 nexin
@@ -30366,6 +30451,7 @@ nocive
 nock
 nocked
 nocking
+nocks
 noctiluca
 noctilucal
 noctovision
@@ -30611,6 +30697,8 @@ nonsuch
 nonsuit
 nonsuits
 nonsunt
+nontheist
+nontheists
 nontrivial
 nontronite
 nonuniform
@@ -30738,13 +30826,16 @@ notatin
 notating
 notation
 notational
+notations
 notative
 notator
 notators
 notch
 notched
 notcher
+notches
 notchier
+notchiest
 notchy
 note
 noted
@@ -31399,6 +31490,7 @@ octonian
 octonion
 octonions
 octopean
+octopian
 octopic
 octoploid
 octoploids
@@ -31992,6 +32084,7 @@ optate
 optated
 optating
 optation
+optations
 optative
 opted
 optic
@@ -32534,6 +32627,7 @@ otoliths
 otology
 otomycosis
 otopathic
+otopathies
 otopathy
 otosclerosis
 otoscopic
@@ -33715,6 +33809,7 @@ panplains
 panplanation
 panplane
 panpot
+panpots
 pans
 pansala
 pansalas
@@ -34379,6 +34474,7 @@ patacas
 patache
 pataches
 patacon
+patacons
 patagia
 patagon
 pataka
@@ -34389,6 +34485,8 @@ patard
 patards
 patas
 patch
+patches
+patchiest
 patchy
 patdown
 pate
@@ -34408,6 +34506,7 @@ pathic
 pathics
 pathing
 pathname
+pathopoeia
 paths
 patia
 patias
@@ -34531,6 +34630,7 @@ paw
 pawang
 pawing
 pawkier
+pawkiest
 pawky
 pawl
 pawls
@@ -34540,6 +34640,8 @@ pawner
 pawners
 pawnor
 pawns
+pawnshop
+pawnshops
 pawpaw
 pawpaws
 paws
@@ -34586,6 +34688,10 @@ peaching
 peachy
 peacing
 peacoat
+peacock
+peacockish
+peacocks
+peacow
 peaeater
 peaeaters
 peag
@@ -34671,6 +34777,7 @@ pecias
 peck
 peckish
 peckle
+pecks
 pecs
 pect
 pecten
@@ -34889,6 +34996,8 @@ pensions
 pensive
 penster
 pensters
+penstock
+penstocks
 pensum
 pensums
 pensy
@@ -34898,6 +35007,8 @@ pentail
 pentane
 pentaspast
 pentaspasts
+pentatone
+pentatones
 pentene
 pentenes
 pentereme
@@ -34909,7 +35020,9 @@ pentine
 pentito
 pentode
 penton
+pentons
 pentop
+pentops
 pentrow
 penuche
 penult
@@ -34965,6 +35078,7 @@ peptizer
 peptizing
 peptonate
 peptone
+peptones
 pequi
 pequia
 pequis
@@ -35293,6 +35407,7 @@ pesantes
 pesch
 peseta
 pesetas
+pesewa
 pesher
 peshers
 peshkash
@@ -35389,6 +35504,7 @@ peut
 pew
 pewing
 pewit
+pewits
 pews
 pewter
 pewterer
@@ -35834,6 +35950,7 @@ piecening
 piecens
 piecer
 pieces
+piecewise
 piecey
 piecier
 piecing
@@ -36168,6 +36285,7 @@ pipery
 pipes
 pipestem
 pipestems
+pipestone
 pipet
 pipewort
 pipfruit
@@ -36248,6 +36366,8 @@ pisanes
 pisanka
 pisatin
 piscary
+piscation
+piscations
 piscator
 piscatorial
 piscators
@@ -36300,11 +36420,13 @@ pitcher
 pitches
 pitchi
 pitchier
+pitchiest
 pitchis
 pitchout
 pitchouts
 pitchpole
 pitchpoled
+pitchstone
 pitchy
 piteous
 pitful
@@ -36885,7 +37007,9 @@ pochoirs
 pochos
 pock
 pocking
+pockish
 pockling
+pocks
 poco
 poculum
 poculums
@@ -36939,6 +37063,8 @@ poemlet
 poemlets
 poems
 poena
+poenskop
+poenskops
 poephol
 poesis
 poesises
@@ -37029,6 +37155,8 @@ pokeable
 pokes
 pokie
 pokier
+pokies
+pokiest
 poking
 pokit
 poky
@@ -37302,6 +37430,7 @@ popgun
 popguns
 popia
 popiah
+popiahs
 popinac
 popinacs
 poping
@@ -37599,6 +37728,7 @@ posy
 pot
 potable
 potae
+potaes
 potage
 potai
 potail
@@ -37608,7 +37738,9 @@ potamoplankton
 potarite
 potash
 potation
+potations
 potato
+potatoes
 potatoey
 potator
 potators
@@ -37655,6 +37787,7 @@ potmen
 potomania
 potometer
 potpie
+potpies
 potplant
 potrack
 potrero
@@ -37669,6 +37802,8 @@ potsie
 potsies
 potstick
 potsticks
+potstone
+potstones
 potsy
 pou
 pouble
@@ -37738,6 +37873,7 @@ powers
 powhiri
 powie
 powis
+powisce
 powises
 powlt
 powsy
@@ -38898,6 +39034,7 @@ psilomelanes
 psilosis
 psionic
 psis
+pskhent
 psoas
 psoases
 psoatic
@@ -45621,6 +45758,7 @@ scorp
 scorps
 scot
 scotch
+scotches
 scote
 scoter
 scoters
@@ -45754,6 +45892,7 @@ seabed
 seaborne
 seabream
 seacock
+seacocks
 seafan
 seafans
 seafarer
@@ -46092,6 +46231,8 @@ septa
 septage
 septal
 septate
+septation
+septations
 septet
 septets
 septic
@@ -46585,11 +46726,16 @@ shochet
 shochu
 shock
 shocker
+shockie
+shockies
 shocks
 shod
 shoe
 shoehorn
 shoehorns
+shoepac
+shoepack
+shoepacks
 shoes
 shoeshine
 shoeshiner
@@ -46605,6 +46751,8 @@ shonen
 shongololo
 shongololos
 shonk
+shonkies
+shonkiest
 shonks
 shonky
 shop
@@ -46672,6 +46820,7 @@ showies
 showiest
 showing
 showings
+showish
 showman
 shown
 shows
@@ -47522,6 +47671,8 @@ snaky
 snap
 snapin
 snaps
+snapshot
+snapshots
 snare
 snarer
 snarers
@@ -47545,6 +47696,8 @@ snarliest
 snarls
 snarly
 snash
+snatch
+snatches
 snavel
 snavels
 snavle
@@ -47607,6 +47760,10 @@ snouty
 snow
 snowcap
 snowcaps
+snowcat
+snowcats
+snowcock
+snowcocks
 snowiest
 snowing
 snowman
@@ -47617,6 +47774,9 @@ snowplow
 snowplows
 snows
 snowscape
+snowscapes
+snowshoe
+snowshoes
 snowsuit
 snowsuits
 snub
@@ -48011,6 +48171,8 @@ spaceship
 spaceships
 spacespeak
 spacespeaks
+spacestation
+spacestations
 spacetime
 spacewalk
 spaceway
@@ -48035,6 +48197,7 @@ spake
 spam
 spams
 span
+spanakopita
 spaniel
 spaniels
 spank
@@ -48074,6 +48237,8 @@ spasms
 spastic
 spastics
 spat
+spatchcock
+spatchcocks
 spathe
 spathes
 spathic
@@ -48111,6 +48276,7 @@ speciose
 speck
 speckle
 specklier
+specks
 specs
 spect
 specter
@@ -48207,6 +48373,8 @@ spirts
 spirulina
 spiry
 spit
+spitchcock
+spitchcocks
 spite
 spites
 spits
@@ -48519,6 +48687,8 @@ standpoints
 stands
 standup
 standups
+stanhope
+stanhopes
 stank
 stanky
 stans
@@ -48642,6 +48812,8 @@ statie
 staties
 statin
 statins
+station
+stations
 statise
 statism
 statist
@@ -48659,6 +48831,8 @@ stativity
 statize
 statoblast
 statoblasts
+statocone
+statocones
 statocracy
 statocyst
 statocysts
@@ -48966,6 +49140,10 @@ stomp
 stomps
 stompy
 stone
+stonechat
+stonechats
+stonehatch
+stonehatches
 stoner
 stoners
 stones
@@ -48980,6 +49158,7 @@ stonks
 stony
 stop
 stopcock
+stopcocks
 stope
 stopes
 stopgap
@@ -49792,6 +49971,9 @@ swandri
 swandris
 swank
 swankier
+swankiest
+swankpot
+swankpots
 swanks
 swanky
 swans
@@ -49799,6 +49981,8 @@ swansong
 swansongs
 swap
 swaps
+swaption
+swaptions
 sward
 swards
 sware
@@ -49812,10 +49996,13 @@ swashing
 swastika
 swastikas
 swat
+swatch
+swatches
 swath
 swathe
 swather
 swathers
+swathes
 swathing
 swaths
 swats
@@ -49834,6 +50021,8 @@ sweatiest
 sweatpant
 sweatpants
 sweats
+sweatshop
+sweatshops
 swede
 swedes
 swelter
@@ -49868,7 +50057,12 @@ swirlier
 swirls
 swish
 swisher
+swishes
+swishest
 swishier
+swishiest
+switch
+switches
 swither
 swithers
 swive
@@ -51327,6 +51521,7 @@ thinspo
 thiol
 thiols
 thionyl
+thiopentone
 thiram
 third
 thirdhand
@@ -51789,6 +51984,7 @@ titan
 titanate
 titanates
 titanation
+titanations
 titanaugite
 titanhematite
 titanian
@@ -51870,6 +52066,7 @@ tits
 titubation
 titular
 titwank
+titwanks
 tivaevae
 tix
 tiyin
@@ -51916,6 +52113,7 @@ tody
 toe
 toea
 toecap
+toecaps
 toed
 toehold
 toeholds
@@ -52136,6 +52334,7 @@ topsoil
 topsoils
 topspin
 topstitch
+topstitches
 toque
 toques
 tor
@@ -52307,6 +52506,7 @@ tovarish
 tow
 towage
 towai
+towais
 toward
 towed
 towel
@@ -52331,6 +52531,10 @@ townling
 townly
 towno
 towns
+townscape
+townscapes
+township
+townships
 townsite
 townsites
 townsman
@@ -53313,6 +53517,7 @@ twangs
 tweak
 tweaker
 tweakers
+tweaks
 twelfth
 twelve
 twenties
@@ -53360,7 +53565,9 @@ twit
 twitch
 twitchel
 twitcher
+twitches
 twitchier
+twitchiest
 twitchy
 twite
 twites
@@ -53372,6 +53579,7 @@ twocer
 twocker
 twocs
 twonk
+twonks
 twos
 twyer
 tying
@@ -55645,6 +55853,7 @@ wanes
 waney
 waning
 wankier
+wankiest
 wanky
 wanly
 want
@@ -55656,6 +55865,7 @@ wantaway
 wanter
 wanters
 wantey
+wanties
 wanton
 wantoned
 wantoner
@@ -55663,6 +55873,7 @@ wantoning
 wantons
 wants
 wantwit
+wantwits
 wanty
 wanwirt
 wanwit
@@ -55767,6 +55978,7 @@ watch
 watcha
 watched
 watcher
+watches
 watchfire
 watchful
 watchtower
@@ -55842,6 +56054,7 @@ weakeners
 weakens
 weaker
 weakest
+weakish
 weaklier
 weal
 wealed
@@ -55852,6 +56065,8 @@ wean
 weaner
 weaners
 weans
+weapon
+weapons
 wear
 wearable
 wearables
@@ -56258,6 +56473,8 @@ wised
 wisely
 wiseman
 wisemen
+wisent
+wisents
 wiser
 wises
 wisest
@@ -56270,6 +56487,7 @@ wishes
 wishlist
 wishlists
 wisp
+wispiest
 wisps
 wist
 wistaria
@@ -56282,7 +56500,9 @@ witarna
 witch
 witchcraft
 witchery
+witches
 witchier
+witchiest
 witchy
 with
 withal
@@ -56343,11 +56563,14 @@ won
 wonga
 wonk
 wonkier
+wonkiest
+wonkish
 wonks
 wonky
 wont
 wonton
 wontons
+wonts
 wop
 wops
 word
