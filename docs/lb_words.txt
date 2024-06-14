@@ -720,6 +720,7 @@ activate
 activated
 activates
 active
+actively
 actives
 activewear
 activin
@@ -2397,6 +2398,7 @@ amphora
 amping
 ample
 ampler
+amply
 amps
 ampul
 ampule
@@ -3267,6 +3269,8 @@ argyrophil
 argyrophilia
 arhat
 arhats
+arhythmia
+arhythmic
 aria
 ariary
 arias
@@ -7210,6 +7214,7 @@ campsite
 campsites
 campus
 campuses
+campy
 cams
 can
 canaigre
@@ -7350,6 +7355,7 @@ capacitate
 capacitating
 capacitation
 capacities
+capacitive
 capacitor
 capacity
 caparison
@@ -7423,6 +7429,8 @@ captcha
 captchas
 caption
 captions
+captive
+captivity
 captor
 captors
 capture
@@ -8175,8 +8183,11 @@ chamois
 champ
 champak
 champaks
+champerty
+champetre
 champion
 champions
+champleve
 champs
 chana
 chance
@@ -8223,11 +8234,14 @@ chapati
 chapatis
 chape
 chapeau
+chapel
 chapes
+chaplet
 chapman
 chaps
 chapstick
 chapsticks
+chapter
 char
 charabanc
 characin
@@ -8255,6 +8269,7 @@ charger
 charging
 charier
 chariest
+charily
 chariot
 chariots
 charism
@@ -8268,6 +8283,7 @@ charivaris
 charka
 charkha
 charlady
+charley
 charlie
 charlock
 charm
@@ -8281,6 +8297,7 @@ chart
 charter
 charterer
 charterers
+charterparty
 charters
 chartreuse
 chartreuses
@@ -8328,6 +8345,7 @@ cheapest
 cheapie
 cheapies
 cheapish
+cheaply
 cheapo
 cheapos
 cheat
@@ -8747,6 +8765,7 @@ chutes
 chutist
 chutists
 chyle
+chymic
 chypre
 chyron
 ciao
@@ -9052,6 +9071,7 @@ cleugh
 clever
 cleverer
 cleverest
+cleverly
 clevis
 clevises
 clew
@@ -9075,6 +9095,9 @@ cliented
 clientele
 clienteled
 clifties
+climacter
+climacteric
+climactic
 climatal
 climatic
 climatical
@@ -9216,6 +9239,8 @@ clunge
 clunk
 clunking
 clutch
+clype
+clypei
 cnemial
 cnidarian
 cnidarians
@@ -10319,7 +10344,10 @@ creaky
 cream
 creamer
 creamers
+creamier
+creamily
 creamware
+creamy
 creance
 crease
 creases
@@ -10446,9 +10474,11 @@ criminatory
 criminous
 criminy
 crimp
+crimper
 crimple
 crimples
 crimps
+crimpy
 crims
 crin
 crinal
@@ -11031,6 +11061,7 @@ cycloidal
 cyclonic
 cylindroid
 cyma
+cymae
 cymas
 cyme
 cymes
@@ -14719,6 +14750,7 @@ ethyde
 ethyl
 ethylate
 ethylene
+ethylic
 ethyne
 ethynes
 etic
@@ -14737,6 +14769,7 @@ etudes
 etui
 etuis
 etyma
+etymic
 euchology
 euchre
 euchred
@@ -14812,6 +14845,7 @@ evergrowing
 everin
 evering
 everings
+everly
 evermore
 everse
 eversible
@@ -18384,6 +18418,7 @@ hailing
 hails
 hair
 hairbrush
+haircare
 haircut
 haircuts
 hairdo
@@ -18486,6 +18521,7 @@ hame
 hamel
 hames
 hamfat
+hamlet
 hamper
 hampering
 hams
@@ -18574,6 +18610,7 @@ hapa
 hapas
 hapax
 haplite
+haplitic
 haplodiploid
 haplodiploidy
 haplography
@@ -18769,12 +18806,15 @@ havan
 havans
 havarti
 have
+havel
+haveli
 haven
 havenage
 havener
 havenor
 haver
 havered
+haverel
 haverer
 haverers
 havering
@@ -18939,6 +18979,7 @@ heaves
 heavier
 heavies
 heaviest
+heavily
 heavy
 heavyset
 hebetude
@@ -18986,8 +19027,10 @@ held
 heliacal
 helianthus
 helical
+helicity
 helicon
 heliconia
+helictite
 heliport
 heliski
 heliskier
@@ -19006,6 +19049,7 @@ helotage
 helotism
 helotry
 help
+helper
 helpful
 helve
 hem
@@ -19063,6 +19107,7 @@ heptanes
 heptarchic
 heptarchies
 heptarchy
+heptyl
 her
 herald
 heralded
@@ -19145,6 +19190,7 @@ herp
 herpes
 herpetic
 herps
+herptile
 hers
 hertz
 hes
@@ -20068,6 +20114,7 @@ hypanthial
 hype
 hyper
 hyperactive
+hyperactively
 hyperactivity
 hyperaesthetic
 hyperbaric
@@ -20078,6 +20125,8 @@ hypermiler
 hypernym
 hypernymy
 hypertext
+hyperthermia
+hyperthermic
 hypes
 hypesthetic
 hypha
@@ -20391,6 +20440,7 @@ imp
 impact
 impaction
 impactions
+impactive
 impactor
 impacts
 impair
@@ -20457,6 +20507,7 @@ implicit
 implied
 implies
 implore
+imply
 impoison
 impolder
 impoldered
@@ -23812,6 +23863,7 @@ limped
 limper
 limpet
 limpid
+limply
 limps
 limuli
 limulus
@@ -23972,6 +24024,7 @@ litchis
 lite
 litem
 liter
+literacy
 literage
 literages
 literal
@@ -24067,6 +24120,7 @@ liverish
 liverleaf
 livers
 lives
+livetrap
 liveware
 livewire
 livid
@@ -24732,6 +24786,7 @@ macers
 maces
 machaca
 machacas
+machaera
 machair
 machaira
 machairs
@@ -25525,6 +25580,7 @@ marceline
 marcelines
 march
 marchen
+marcher
 marches
 marchesa
 marchese
@@ -25535,6 +25591,7 @@ marcid
 marcot
 marcots
 marcs
+marcylite
 mard
 mardana
 mardier
@@ -25636,6 +25693,7 @@ marks
 markup
 marl
 marled
+marley
 marlie
 marlier
 marlies
@@ -26011,6 +26069,7 @@ maybes
 mayday
 maydays
 mayest
+mayhap
 mayhem
 mayo
 mayor
@@ -26795,10 +26854,12 @@ mica
 micaceous
 micacious
 mice
+michaelite
 michi
 michis
 mick
 micks
+micrite
 micritic
 micro
 microbe
@@ -27315,6 +27376,7 @@ mirabilia
 mirabilias
 mirabilis
 mirabilite
+miracle
 miraculin
 miraculism
 mirador
@@ -29099,6 +29161,7 @@ mycosis
 mycota
 mycotas
 mydriasis
+myelitic
 myen
 myna
 mynah
@@ -33918,6 +33981,7 @@ papasans
 papauma
 papaumas
 papaumu
+papaveric
 papaverine
 papaw
 papaws
@@ -34158,6 +34222,7 @@ paratone
 paratonia
 paratrophic
 paratyphoid
+paravail
 paravane
 parawai
 parawais
@@ -34226,6 +34291,8 @@ pargeting
 parging
 pargo
 pargos
+parhelia
+parhelic
 pari
 pariah
 parial
@@ -34272,6 +34339,7 @@ parlatory
 parlay
 parle
 parled
+parley
 parling
 parloir
 parlor
@@ -34355,6 +34423,7 @@ participant
 participants
 participator
 participial
+particle
 particolor
 partie
 partier
@@ -34375,6 +34444,8 @@ partitionary
 partitioner
 partitioning
 partitive
+partitively
+partitivity
 partlet
 partly
 partner
@@ -34685,6 +34756,7 @@ peachicks
 peachier
 peachiest
 peaching
+peachlet
 peachy
 peacing
 peacoat
@@ -34725,11 +34797,14 @@ pearl
 pearled
 pearler
 pearlet
+pearleye
 pearlier
 pearlies
 pearlite
+pearlitic
 pearlware
 pearlwort
+pearly
 pears
 peart
 pearten
@@ -34761,6 +34836,7 @@ peatry
 peats
 peaty
 peau
+peavey
 peavies
 peavy
 peba
@@ -34854,6 +34930,7 @@ pelargonate
 pelargone
 pelargonin
 pelau
+pelch
 pele
 pelerin
 pelerine
@@ -34900,6 +34977,7 @@ pelure
 pelures
 pelus
 pelves
+pelvic
 pelvis
 pelvises
 pembina
@@ -35114,6 +35192,7 @@ perchists
 percipiencies
 percipient
 percipients
+percylite
 perdu
 perdue
 perdurant
@@ -35157,6 +35236,7 @@ periapsis
 periapt
 periapts
 periarterial
+periarteritic
 periaster
 periasters
 pericaecal
@@ -35164,6 +35244,9 @@ pericarp
 pericarpic
 pericarps
 pericecal
+pericycle
+pericyclic
+pericyte
 periderm
 peridia
 peridiole
@@ -35509,6 +35592,7 @@ pews
 pewter
 pewterer
 pewterers
+peytrel
 pfui
 phage
 phages
@@ -36720,6 +36804,8 @@ playpen
 plaything
 playway
 plea
+pleach
+pleacher
 plead
 pleadable
 pleaful
@@ -36978,6 +37064,8 @@ pluty
 pluvius
 pluviuses
 ply
+plyer
+plym
 plz
 pneu
 pneuma
@@ -37978,6 +38066,7 @@ pre
 preach
 preacher
 preacheries
+preacherly
 preachery
 preaches
 preachier
@@ -37991,6 +38080,7 @@ preak
 preamp
 preamps
 preantepenult
+prearticle
 prebait
 preboard
 preboarded
@@ -38060,6 +38150,7 @@ prelects
 prelife
 prelim
 prelimit
+preliteracy
 preload
 prelude
 preluded
@@ -38225,9 +38316,12 @@ pretors
 pretorship
 pretorships
 pretrain
+pretravel
 pretreat
 pretreats
 pretrial
+prevail
+prevailer
 prevaricate
 prevaricates
 prevaricative
@@ -38297,6 +38391,7 @@ prig
 prigs
 prim
 prima
+primacy
 primage
 primal
 primalism
@@ -38304,6 +38399,7 @@ primalisms
 primar
 primarian
 primaries
+primarily
 primars
 primary
 primase
@@ -38322,7 +38418,9 @@ primetimes
 primeur
 primices
 primiceses
+primicier
 primigene
+primily
 priming
 primip
 primipara
@@ -38335,6 +38433,9 @@ primite
 primites
 primitiae
 primitive
+primitively
+primitivity
+primly
 primo
 primordia
 primores
@@ -38427,9 +38528,11 @@ pristave
 pristavs
 pristine
 pritch
+pritchel
 pritches
 prius
 priuses
+privacy
 private
 privates
 privatise
@@ -38442,6 +38545,7 @@ privatives
 privet
 privets
 privies
+privily
 privities
 privity
 privy
@@ -40797,6 +40901,7 @@ reactionary
 reactivate
 reactivates
 reactive
+reactively
 reactivity
 reactor
 reacts
@@ -42305,6 +42410,7 @@ repetiteur
 repetition
 repetitional
 repetitive
+repetitively
 repetitor
 repetitors
 rephase
@@ -42337,6 +42443,8 @@ replay
 replead
 repleat
 replete
+repletive
+repletively
 repleve
 repleves
 replevies
@@ -42345,12 +42453,14 @@ replevins
 replica
 replicant
 replicants
+replicar
 replicas
 replier
 repliers
 replique
 replot
 replum
+reply
 repo
 repoint
 repointing
@@ -42422,6 +42532,7 @@ reptant
 reptile
 reptilian
 reptilians
+reptility
 reptiloid
 repugn
 repugner
@@ -42840,6 +42951,7 @@ reticence
 reticences
 reticencies
 reticent
+reticle
 reticula
 retie
 retied
@@ -42915,6 +43027,7 @@ retracks
 retract
 retractative
 retractile
+retractility
 retraction
 retractive
 retractor
@@ -42924,6 +43037,7 @@ retrains
 retraite
 retraites
 retral
+retravel
 retread
 retreat
 retreatal
@@ -43361,6 +43475,7 @@ rhymer
 rhymers
 rhymery
 rhymes
+rhymic
 rhymist
 rhymists
 rhymy
@@ -43376,6 +43491,9 @@ rhythm
 rhythmal
 rhythmer
 rhythmers
+rhythmic
+rhythmica
+rhythmicity
 rhythmise
 rhythmist
 rhythmists
@@ -43826,6 +43944,7 @@ riverings
 riverish
 riverlet
 riverlets
+riverly
 riverman
 rivermen
 rivers
@@ -50801,6 +50920,7 @@ teacake
 teacakes
 teach
 teacher
+teacherly
 teaches
 teachest
 teachests
@@ -50997,8 +51117,11 @@ teletalkie
 teletex
 teletext
 teletheatre
+teletherapy
 telethermometer
 telethon
+teletype
+teletyper
 televersities
 teleview
 televiewer
@@ -51219,6 +51342,7 @@ termitid
 termitids
 termitine
 termitines
+termly
 termon
 termoner
 termor
@@ -51289,7 +51413,9 @@ tether
 tethered
 tethers
 tetra
+tetracyclic
 tetrad
+tetraethyl
 tetragonal
 tetramer
 tetrameric
@@ -51424,6 +51550,7 @@ theosophic
 theosophist
 theosophists
 therapize
+therapy
 there
 thereafter
 thereanent
@@ -51701,6 +51828,7 @@ thy
 thyme
 thymes
 thymi
+thymic
 thymine
 thymoma
 thymomas
@@ -52692,6 +52820,8 @@ trampers
 trampier
 trampiest
 trampish
+trample
+trampler
 tramps
 trampy
 tramroad
@@ -54927,6 +55057,7 @@ vamp
 vamping
 vampire
 vamps
+vampy
 van
 vanadate
 vanadinite
@@ -55180,6 +55311,7 @@ vera
 veracity
 veranda
 verandah
+verapamil
 veratrum
 verb
 verba
@@ -55222,6 +55354,7 @@ verglas
 veriest
 verifiable
 verifier
+verily
 verisimilar
 verism
 verist
@@ -56859,6 +56992,7 @@ yaws
 yay
 yaya
 yayas
+yclept
 yds
 yea
 yeah
