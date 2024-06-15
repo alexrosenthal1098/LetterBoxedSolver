@@ -1227,6 +1227,8 @@ afeard
 afeared
 afearing
 afears
+afghan
+aficionada
 afield
 afion
 afions
@@ -2776,6 +2778,7 @@ anthobian
 anthobians
 anthocodia
 anthocodial
+anthocorid
 anthocyan
 anthocyanidin
 anthocyanin
@@ -3769,6 +3772,7 @@ augh
 aught
 aughts
 augite
+augitic
 augitite
 augur
 augural
@@ -3880,6 +3884,7 @@ autobios
 autobox
 autocar
 autocars
+autochthon
 autocoherer
 autocrat
 autocrator
@@ -8326,6 +8331,7 @@ chateau
 chats
 chatshow
 chatshows
+chaudhuri
 chautauqua
 chav
 chava
@@ -9406,6 +9412,8 @@ coevolves
 coevolving
 coexist
 coexists
+cofactor
+cofound
 cog
 cogeneration
 cogent
@@ -9437,6 +9445,7 @@ cohosts
 cohune
 coif
 coifs
+coign
 coil
 coiled
 coiling
@@ -9672,6 +9681,7 @@ conches
 conchie
 conchiolin
 concho
+conchoid
 conchs
 concierge
 conciliar
@@ -9689,10 +9699,12 @@ concoctions
 concoctor
 concocts
 concord
+concordant
 concordat
 concours
 concrete
 concur
+condign
 condition
 conditioner
 conditioners
@@ -9711,19 +9723,24 @@ condors
 conduct
 conducti
 conduction
+conduit
 cone
 coned
 conehead
 cones
 conex
 confer
+confidant
 configure
 confine
 confining
 confirm
+confit
 confocal
 conform
+confound
 confrere
+confront
 conga
 congaing
 conge
@@ -10144,6 +10161,7 @@ countdom
 countenance
 counter
 countercheck
+countian
 coup
 coupe
 couply
@@ -10566,6 +10584,7 @@ crocodilian
 crocoite
 crocs
 croeso
+croft
 crombec
 cron
 crone
@@ -15183,8 +15202,12 @@ facta
 factfile
 factful
 factice
+faction
 factitive
 factive
+facto
+factoid
+factor
 factual
 facture
 facula
@@ -15224,6 +15247,7 @@ fairation
 faire
 faired
 fairer
+fairground
 fairies
 fairily
 fairing
@@ -15304,6 +15328,7 @@ fanes
 fanfare
 fanfares
 fanfic
+fanfiction
 fang
 fanged
 fanging
@@ -15399,6 +15424,7 @@ fatwa
 fauces
 fauch
 faucial
+faugh
 fault
 faultier
 faultily
@@ -15614,6 +15640,7 @@ fiche
 fichu
 ficta
 fictile
+fiction
 fictive
 fid
 fide
@@ -16402,11 +16429,14 @@ fretboard
 fretful
 frets
 friable
+friand
 friar
 friaries
 friars
 friary
 fricative
+fricot
+friction
 fridge
 fried
 frier
@@ -16443,6 +16473,7 @@ froglet
 frogling
 froideur
 from
+frond
 frons
 front
 frontage
@@ -17265,6 +17296,7 @@ ghibli
 ghis
 ghoul
 ghusl
+gianduia
 giant
 giants
 giaour
@@ -18070,6 +18102,7 @@ grouch
 grouchy
 ground
 groundhog
+groundnut
 group
 groupage
 grouper
@@ -18134,6 +18167,7 @@ guaiacol
 guaiacum
 guaiacums
 guan
+guanaco
 guanine
 guano
 guanxi
@@ -18218,6 +18252,7 @@ gunboat
 gundi
 gundog
 gundy
+gunfight
 gunfire
 gunflint
 gunge
@@ -19711,6 +19746,7 @@ honorary
 honoration
 honored
 honorial
+honorific
 honorifies
 honoring
 honoris
@@ -30520,7 +30556,9 @@ noctilucal
 noctovision
 noctovisions
 noctua
+noctuid
 nocturia
+nocturn
 nod
 nodal
 nodality
@@ -30693,7 +30731,9 @@ nonet
 nonets
 nonevent
 nonevents
+nonfactor
 nonfat
+nonfiction
 nonfinite
 nonfluent
 nong
@@ -30933,6 +30973,7 @@ notionists
 notions
 notitia
 notitias
+notochord
 notonectid
 notonectids
 notopodial
@@ -31541,6 +31582,7 @@ octiles
 octine
 octli
 octoate
+octochord
 octocoral
 octocorals
 octode
@@ -44874,6 +44916,7 @@ runrig
 runs
 runt
 runted
+runthrough
 runtier
 runtime
 runting
@@ -51776,6 +51819,7 @@ throng
 throning
 through
 througher
+throughgang
 throughgate
 throughly
 throughother
@@ -52263,6 +52307,7 @@ togs
 togt
 tohubohu
 tohubohus
+tohunga
 toidey
 toideys
 toidy
@@ -53919,12 +53964,14 @@ unbury
 unburying
 uncage
 uncages
+uncandid
 uncap
 uncaps
 uncared
 uncaring
 uncase
 uncases
+uncaught
 unchain
 unchaining
 unchains
@@ -54569,6 +54616,7 @@ unrevolving
 unrich
 unrife
 unrig
+unright
 unrigs
 unring
 unringing
@@ -54586,6 +54634,7 @@ unrobe
 unrobes
 unrobust
 unroping
+unrough
 unround
 unrounds
 unrove
@@ -54658,6 +54707,7 @@ unthaw
 unthinkability
 unthinkable
 unthinkably
+unthought
 unthread
 unthrone
 untick
