@@ -164,6 +164,7 @@ ablo
 ablow
 ablude
 abluded
+abluent
 ablush
 ablute
 ablutes
@@ -314,6 +315,7 @@ absurdists
 abt
 abthain
 abthane
+abthanerie
 abud
 abuela
 abuelita
@@ -415,6 +417,7 @@ acedies
 acedy
 acene
 acenes
+acentric
 acequia
 acequias
 acer
@@ -432,6 +435,9 @@ acescences
 acescencies
 acescency
 acescent
+acetable
+acetabula
+acetabular
 acetal
 acetaldehyde
 acetals
@@ -503,6 +509,7 @@ acicles
 acicula
 acicular
 aciculas
+aciculate
 acicule
 acicules
 aciculum
@@ -773,6 +780,7 @@ acupunctuate
 acupunctuates
 acupuncture
 acushla
+acutance
 acute
 acuted
 acutely
@@ -1795,6 +1803,7 @@ albedo
 albeit
 albergo
 albert
+albertite
 albid
 albify
 albinic
@@ -1872,6 +1881,7 @@ ale
 aleak
 alebench
 alec
+alecithal
 aleck
 alecs
 alegar
@@ -1889,6 +1899,7 @@ alerts
 ales
 aletaster
 aletasters
+alethic
 aleuron
 aleurone
 alevin
@@ -2752,6 +2763,7 @@ ante
 anteal
 anteater
 antecaecal
+antecubital
 anted
 antedate
 antedated
@@ -2778,6 +2790,7 @@ antetheme
 antethemes
 antevert
 anthelia
+anthelic
 anthem
 anthemia
 anthemic
@@ -2891,12 +2904,14 @@ antitheists
 antitheses
 antithesis
 antithetic
+antithetical
 antitrust
 antitypical
 antivenene
 antivenenes
 antivenin
 antivenins
+antiviral
 antiwar
 antler
 antlerite
@@ -3204,6 +3219,7 @@ archive
 archives
 archivist
 archivists
+archlute
 archly
 archon
 archons
@@ -3449,7 +3465,9 @@ artializing
 artic
 article
 artics
+articulable
 articular
+articulate
 articulation
 articulations
 articulative
@@ -3699,6 +3717,8 @@ athetosis
 athirst
 athlete
 athletes
+athletic
+athletical
 athlothete
 athwart
 atilt
@@ -3867,6 +3887,7 @@ auricles
 auricula
 auricular
 auriculas
+auriculate
 aurochs
 aurora
 aurorae
@@ -3885,6 +3906,7 @@ australite
 autapomorphic
 autarch
 autarchic
+autarchical
 autarchist
 autarchists
 autarchs
@@ -3895,6 +3917,9 @@ autecology
 auteur
 auteurs
 auth
+authentic
+authentical
+authenticate
 author
 authorish
 authors
@@ -4592,6 +4617,7 @@ barging
 bargirl
 bari
 bariatric
+bariatrician
 baring
 barista
 baristas
@@ -4621,6 +4647,7 @@ barmier
 barmiest
 barmy
 barn
+barnburner
 barnet
 barnets
 barney
@@ -4784,6 +4811,7 @@ bato
 baton
 batons
 batos
+batrachian
 bats
 batsman
 batwing
@@ -4907,6 +4935,7 @@ becalms
 became
 becard
 because
+bechance
 beck
 become
 becomes
@@ -5047,6 +5076,7 @@ ben
 bench
 benched
 bencher
+benchlet
 benchmen
 benchrest
 benchrests
@@ -5069,6 +5099,7 @@ benjis
 benk
 bens
 bent
+benthic
 bento
 bentos
 bents
@@ -5204,6 +5235,7 @@ bias
 biases
 biasing
 biatch
+biathlete
 biaxial
 bib
 bibelot
@@ -5732,6 +5764,7 @@ blowzily
 blowzy
 blub
 blubs
+blucher
 bludging
 blue
 bluebeak
@@ -7268,6 +7301,7 @@ canaled
 canaler
 canalet
 canalicular
+canaliculate
 canaliculation
 canaliculations
 canalicule
@@ -7361,11 +7395,13 @@ canorous
 cans
 canst
 cant
+cantabile
 cantal
 cantata
 cantatas
 canter
 canters
+canthari
 canthi
 canthic
 canthus
@@ -7626,6 +7662,7 @@ caribe
 caribes
 caribou
 caricatural
+caricature
 caricaturist
 caricaturists
 carices
@@ -8056,6 +8093,7 @@ celeb
 celebrator
 celebre
 celebs
+celebutante
 celeriac
 celery
 celesta
@@ -8065,6 +8103,7 @@ celestes
 celestial
 celiac
 celiacs
+celibate
 celom
 celomic
 cels
@@ -8084,7 +8123,14 @@ censurable
 census
 censuses
 cent
+cental
 centas
+centaur
+centaurial
+centaurian
+centauric
+centenarial
+centenarian
 centenary
 centenier
 centeniers
@@ -8092,9 +8138,11 @@ center
 centerline
 centerpiece
 centers
+centibar
 centile
 centiliter
 centiliters
+centilitre
 centipoise
 centipoises
 centisecond
@@ -8104,11 +8152,17 @@ centners
 cento
 centonise
 centra
+central
+centrale
 centre
 centres
+centric
+centrical
 centroid
 centroids
 cents
+centurial
+centuriate
 ceorl
 ceorls
 cep
@@ -8273,9 +8327,11 @@ chanoyu
 chanson
 chansons
 chant
+chantable
 chantage
 chantant
 chanter
+chanteur
 chanties
 chantries
 chantry
@@ -8320,6 +8376,7 @@ charactery
 charade
 charango
 charas
+charcuterie
 chard
 charge
 chargeable
@@ -8334,6 +8391,7 @@ charism
 charisma
 charismata
 charisms
+charitable
 charities
 charity
 charivari
@@ -8341,6 +8399,7 @@ charivaris
 charka
 charkha
 charlady
+charlatan
 charley
 charlie
 charlock
@@ -8431,6 +8490,7 @@ chelicer
 chelicera
 chelicerae
 cheliceral
+chelicerate
 chelicere
 chelonian
 chemiatric
@@ -8460,6 +8520,7 @@ chert
 cherts
 cherty
 cherub
+cherubic
 cherubs
 chervil
 chesed
@@ -8803,12 +8864,15 @@ churchdom
 churched
 churches
 churchful
+churchier
 churching
 churchish
 churchism
 churchisms
+churchite
 churchkey
 churchkeys
+churchlet
 churchship
 churchships
 churchy
@@ -8911,6 +8975,7 @@ circularisation
 circularise
 circularises
 circulars
+circulate
 circulation
 circulations
 circulative
@@ -8941,6 +9006,7 @@ cists
 cistus
 cistuses
 cit
+citable
 citadel
 citate
 citated
@@ -10926,6 +10992,7 @@ cuatro
 cuatros
 cub
 cubage
+cubature
 cube
 cubeb
 cubebs
@@ -10940,6 +11007,7 @@ cubist
 cubistic
 cubists
 cubit
+cubital
 cubiti
 cubits
 cubitus
@@ -11126,6 +11194,7 @@ curves
 curvier
 curving
 curvous
+curvulate
 cuscus
 cuscuses
 cusec
@@ -14387,6 +14456,7 @@ ensures
 enswathe
 enswathes
 ent
+entablature
 entablement
 entail
 entailed
@@ -14452,6 +14522,7 @@ entreat
 entreaties
 entreatment
 entreats
+entrechat
 entrench
 entrenches
 entrepot
@@ -14868,8 +14939,10 @@ etherates
 ethereal
 etherealize
 etherean
+etherial
 etherian
 etheric
+etherical
 etherin
 etherine
 etherise
@@ -14883,6 +14956,7 @@ etherizer
 etheromania
 ethers
 ethic
+ethical
 ethician
 ethicians
 ethicise
@@ -14900,6 +14974,7 @@ ethidium
 ethionine
 ethiops
 ethiopses
+ethnarch
 ethnic
 ethnicist
 ethnicists
@@ -14969,6 +15044,7 @@ eustatic
 eutectic
 euthanasia
 euthanize
+eutherian
 evacuate
 evacuative
 evade
@@ -18599,6 +18675,7 @@ habitative
 habitats
 habited
 habits
+habitual
 habituate
 habituated
 habituates
@@ -18755,6 +18832,7 @@ halibut
 halide
 halier
 haliers
+halieutic
 haling
 halite
 halitosis
@@ -19061,6 +19139,7 @@ haugo
 haul
 haulage
 hauler
+haulier
 hauling
 haulm
 hauls
@@ -19416,12 +19495,14 @@ hereof
 heresies
 heresy
 heretic
+heretical
 heretics
 hereto
 hereunto
 herewith
 heriot
 heriots
+heritable
 heritage
 heritages
 heritor
@@ -19559,6 +19640,7 @@ hiba
 hibachi
 hibachis
 hibas
+hibernal
 hibernate
 hibernation
 hic
@@ -19581,11 +19663,13 @@ hieing
 hielaman
 hierarch
 hierarchic
+hierarchical
 hierarchies
 hierarchise
 hierarchises
 hierarchy
 hieratic
+hieratical
 hies
 hifi
 hifis
@@ -23080,13 +23164,19 @@ lacecap
 lacecaps
 laced
 lacer
+lacerable
+lacerant
+lacerate
 lacerative
 lacers
+lacertian
+lacertilian
 laces
 lacet
 lacets
 lacework
 lachenalia
+lachter
 lacier
 laciest
 lacily
@@ -23448,6 +23538,7 @@ laterigrade
 laterise
 laterised
 laterite
+lateritic
 lateritise
 lateritised
 lateritize
@@ -23817,6 +23908,7 @@ lentando
 lentic
 lenticel
 lenticels
+lenticular
 lentil
 lentils
 lentisc
@@ -23957,6 +24049,7 @@ liberate
 liberated
 liberator
 libero
+libertarian
 liberty
 libidinal
 libido
@@ -23985,6 +24078,7 @@ licensers
 licenses
 licensor
 licensors
+licentiate
 licet
 lichen
 lichened
@@ -25029,6 +25123,7 @@ lutes
 lutetium
 luteum
 luthern
+luthier
 luting
 lutino
 lutinos
@@ -29873,6 +29968,7 @@ narodnost
 narodnosts
 narods
 narsarsukite
+narthecal
 narwhal
 narwhals
 nary
@@ -30073,6 +30169,7 @@ nebhel
 nebris
 nebrises
 nebs
+nebuhaler
 nebula
 nebulae
 nebular
@@ -41478,6 +41575,7 @@ rebake
 rebaked
 rebakes
 rebaking
+rebalance
 rebaptism
 rebaptisms
 rebaptist
@@ -41582,6 +41680,7 @@ rebukes
 rebuoy
 rebuoyed
 rebuoys
+reburial
 reburies
 rebury
 rebus
@@ -41682,10 +41781,13 @@ recipience
 recipient
 recircle
 recircling
+recirculate
 recision
 recisions
 recit
+recitable
 recital
+recitant
 recitate
 recitates
 recitative
@@ -42653,6 +42755,7 @@ rename
 renames
 renaming
 renascent
+renaturable
 renaturation
 renature
 renatures
@@ -42717,6 +42820,7 @@ renown
 renowned
 rensil
 rent
+rentable
 rentage
 rentages
 rental
@@ -43390,6 +43494,9 @@ reticencies
 reticent
 reticle
 reticula
+reticular
+reticulate
+reticule
 retie
 retied
 reties
@@ -45088,6 +45195,7 @@ rubianin
 rubianine
 rubianins
 rubiate
+rubican
 rubicon
 rubicons
 rubies
@@ -45420,9 +45528,11 @@ rusty
 rut
 rutabaga
 ruth
+ruthenate
 ruthenite
 ruther
 ruthful
+rutilance
 rutilant
 rutilation
 rutilations
@@ -50850,6 +50960,7 @@ syzygy
 tab
 tabac
 tabacs
+tabanca
 tabard
 tabards
 tabaret
@@ -50899,6 +51010,7 @@ tabu
 tabued
 tabuing
 tabula
+tabular
 tabulate
 tabulator
 tabun
@@ -51253,6 +51365,7 @@ tarakihi
 tarama
 taramasalata
 tarantism
+tarantula
 tarata
 taratas
 tarboy
@@ -51584,6 +51697,10 @@ telecasters
 telecasts
 telecenter
 telecenters
+telecentre
+telecentric
+telechir
+telechiric
 telecine
 telecinema
 telecoil
@@ -51795,6 +51912,8 @@ tensors
 tent
 tentacle
 tentacled
+tentacular
+tentaculate
 tentage
 tentative
 tentatively
@@ -51967,6 +52086,7 @@ tetraplegia
 tetrarch
 tetrarchate
 tetrarchates
+tetrarchical
 tetrarchies
 tetrarchy
 tetras
@@ -52359,6 +52479,7 @@ thumps
 thumri
 thumris
 thunk
+thurible
 thurifer
 thus
 thuya
@@ -53243,6 +53364,9 @@ toyshops
 tra
 trabeated
 trabeation
+trabecula
+trabecular
+trabeculate
 trace
 traceable
 traced
@@ -53503,6 +53627,7 @@ trebles
 treblier
 trebliest
 trebly
+trebuchet
 trecentist
 trecentists
 trecento
@@ -53637,6 +53762,7 @@ tricolours
 tricorn
 tricorns
 tricot
+triculate
 tricuspid
 tricycle
 tricycles
@@ -53681,6 +53807,7 @@ trilbied
 trilby
 trilinear
 trilith
+trilithic
 trilithon
 triliths
 trilobite
@@ -53764,6 +53891,7 @@ tritium
 triton
 tritone
 tritons
+triturable
 triturate
 triturating
 trituration
@@ -53876,6 +54004,8 @@ truck
 trucks
 truckstop
 truckstops
+truculence
+truculent
 trudge
 trudged
 trudger
@@ -53987,6 +54117,9 @@ tube
 tubed
 tubelike
 tuber
+tubercular
+tuberculate
+tubercule
 tubes
 tubeworm
 tubeworms
@@ -56093,6 +56226,8 @@ vibrio
 vicar
 vicarage
 vicarial
+vicariance
+vicariate
 vice
 viceregal
 vicereine
@@ -56239,8 +56374,12 @@ virions
 virological
 virology
 virtu
+virtual
+virtucrat
 virtue
+virtuecrat
 virtuise
+virulence
 virulent
 virus
 viruses
@@ -56447,6 +56586,7 @@ vulcanologic
 vulcanological
 vulgar
 vuln
+vulnerable
 vulning
 vulns
 vulpine
