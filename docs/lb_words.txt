@@ -946,6 +946,9 @@ admirers
 admires
 admit
 admits
+admix
+admixed
+admixing
 admonition
 admonitioner
 adname
@@ -955,6 +958,7 @@ adnex
 adnexa
 adnexal
 adnexed
+adnexum
 adnominal
 adnomination
 adnoun
@@ -1292,6 +1296,7 @@ against
 agal
 agalactia
 agalactic
+agalaxia
 agalite
 agalites
 agalma
@@ -1362,6 +1367,7 @@ agelong
 agenbite
 agencies
 agenda
+agendum
 agene
 agenesia
 agenesic
@@ -2017,6 +2023,7 @@ aliter
 aliterate
 aliterates
 aliturgical
+aliunde
 alive
 aliyah
 alizarate
@@ -2999,6 +3006,7 @@ aperture
 apery
 apes
 apex
+apexed
 apexes
 apexing
 aphaereses
@@ -3781,6 +3789,7 @@ auction
 auctions
 aucuba
 audacious
+audax
 audial
 audibility
 audible
@@ -3790,6 +3799,7 @@ audiencier
 audient
 audiently
 audile
+auding
 audio
 audioguide
 audion
@@ -3811,6 +3821,7 @@ audits
 auge
 augelite
 augen
+augend
 augens
 auger
 augers
@@ -4138,6 +4149,7 @@ axe
 axed
 axel
 axels
+axemen
 axenic
 axes
 axi
@@ -4147,6 +4159,7 @@ axils
 axing
 axis
 axle
+axmen
 axon
 ayah
 ayahs
@@ -11548,6 +11561,7 @@ daubes
 daubs
 daud
 dauded
+dauding
 dauds
 daughter
 daughterboard
@@ -11643,6 +11657,7 @@ deafer
 deal
 dealer
 dealers
+dealing
 deals
 dealt
 dean
@@ -12218,10 +12233,14 @@ dewar
 dewars
 dewater
 dewatered
+dewax
+dewaxed
+dewaxing
 dewclaw
 dewclaws
 dewed
 dewing
+dewlap
 dews
 dewy
 dex
@@ -12264,6 +12283,7 @@ diagram
 diagramed
 diagrid
 dial
+dialage
 dialdan
 dialdane
 dialect
@@ -13342,6 +13362,7 @@ duad
 duads
 dual
 dualed
+dualing
 duathlon
 dub
 dubitability
@@ -13428,6 +13449,7 @@ dunams
 dunce
 dune
 dung
+dunged
 dunging
 dunite
 dunk
@@ -13548,6 +13570,7 @@ eagle
 eagled
 eaglet
 eagley
+eagling
 eagly
 eagre
 eagres
@@ -14300,6 +14323,7 @@ ends
 endue
 endued
 endues
+enduing
 endure
 endurer
 enduro
@@ -14609,6 +14633,7 @@ eparch
 eparchy
 epater
 epaulet
+epaxial
 epazote
 epena
 epene
@@ -15201,6 +15226,7 @@ exegete
 exegetes
 exegetic
 exegeting
+exempla
 exemplied
 exemplum
 exempt
@@ -15280,6 +15306,7 @@ expires
 expiry
 explain
 explained
+explaining
 explananda
 explanate
 explanator
@@ -15297,6 +15324,8 @@ exported
 expropriate
 expropriated
 expropriator
+expunge
+expunged
 exquisite
 exquisitely
 exsert
@@ -17063,6 +17092,7 @@ gagers
 gages
 gaging
 gagman
+gagmen
 gags
 gagster
 gagsters
@@ -17328,6 +17358,7 @@ gaucho
 gaud
 gaudy
 gauge
+gauged
 gauger
 gaugers
 gauges
@@ -17352,6 +17383,7 @@ gavone
 gawk
 gawkish
 gawp
+gawped
 gawps
 gay
 gayal
@@ -18574,6 +18606,7 @@ gunfight
 gunfire
 gunflint
 gunge
+gunged
 gungeing
 gunges
 gungier
@@ -20815,6 +20848,7 @@ impale
 impaled
 impaler
 impales
+impaling
 impalpable
 impanel
 impanels
@@ -20905,6 +20939,7 @@ improver
 improving
 imps
 impugn
+impugned
 impugning
 impulse
 impulses
@@ -23426,6 +23461,7 @@ lapse
 lapses
 laptop
 laptops
+lapwing
 lar
 larboard
 larcener
@@ -23576,6 +23612,7 @@ laudation
 laudative
 laude
 lauded
+lauding
 laugh
 laughably
 laughed
@@ -23623,6 +23660,7 @@ lawks
 lawman
 lawmen
 lawn
+lawned
 lawns
 lawnsale
 lawny
@@ -24105,6 +24143,7 @@ lied
 lieder
 lief
 liege
+liegemen
 lieges
 lien
 lienor
@@ -24312,6 +24351,7 @@ lingo
 lingot
 lingtow
 lingua
+linguae
 lingual
 lingualizing
 linguate
@@ -26556,6 +26596,7 @@ meal
 mealie
 mealiepap
 mealies
+mealing
 mealman
 mealmen
 meals
@@ -26604,6 +26645,7 @@ med
 medal
 medaled
 medalet
+medaling
 medals
 medano
 medevac
@@ -26849,6 +26891,8 @@ menilite
 menilites
 menina
 meninas
+meningeal
+meninx
 meno
 menorah
 mens
@@ -27240,6 +27284,7 @@ mewed
 mewing
 mewl
 mewled
+mewling
 mewls
 mews
 meze
@@ -27492,6 +27537,9 @@ mild
 mildening
 milder
 mildest
+mildew
+mildewed
+mildewing
 mile
 mileage
 mileages
@@ -27654,6 +27702,7 @@ minestras
 minework
 mineworker
 mineworkers
+mingei
 minger
 mingi
 mingimingi
@@ -28161,6 +28210,7 @@ mixte
 mixtes
 mixtil
 mixtry
+mixup
 mixy
 miya
 miyas
@@ -29150,6 +29200,7 @@ mudcat
 mudeye
 mudeyes
 mudge
+mudged
 mudging
 mudguts
 mudhead
@@ -29320,6 +29371,7 @@ mung
 munga
 mungamunga
 munge
+munged
 mungi
 munging
 mungite
@@ -30136,6 +30188,7 @@ neanic
 neant
 neants
 neap
+neaped
 neaping
 neaps
 near
@@ -30686,6 +30739,7 @@ nidality
 nidation
 nide
 nideot
+nidged
 nidi
 nidicole
 nidicoles
@@ -31546,6 +31600,8 @@ nuclidic
 nucular
 nucule
 nude
+nudge
+nudged
 nudging
 nudibranch
 nudie
@@ -34052,6 +34108,7 @@ pailful
 pailou
 pails
 pain
+pained
 painful
 paining
 pains
@@ -34183,6 +34240,7 @@ palmful
 palmier
 palmierite
 palmiet
+palming
 palmiped
 palmipede
 palmitate
@@ -35205,6 +35263,7 @@ pavs
 pavy
 paw
 pawang
+pawed
 pawing
 pawkier
 pawkiest
@@ -35213,8 +35272,10 @@ pawl
 pawls
 pawn
 pawnable
+pawned
 pawner
 pawners
+pawning
 pawnor
 pawns
 pawnshop
@@ -35289,6 +35350,7 @@ peaks
 peaky
 peal
 pealed
+pealing
 pealite
 pealites
 peals
@@ -35383,6 +35445,7 @@ pedalboard
 pedaled
 pedaler
 pedalian
+pedaling
 pedalo
 pedanda
 pedant
@@ -36091,6 +36154,7 @@ petuntse
 petzite
 peut
 pew
+pewed
 pewing
 pewit
 pewits
@@ -37121,6 +37185,7 @@ placula
 placulas
 plaga
 plagal
+plage
 plaguing
 plaguy
 plaice
@@ -37285,6 +37350,8 @@ platy
 platycranial
 platypod
 plaud
+plauded
+plauding
 plaudit
 plauditor
 plaur
@@ -39724,6 +39791,10 @@ puck
 pucka
 pucks
 pud
+pudend
+pudenda
+pudendal
+pudendum
 pudeur
 pudge
 pudgier
@@ -39877,6 +39948,7 @@ pundler
 pundonor
 pung
 punga
+punged
 pungent
 punger
 pungi
@@ -39885,6 +39957,7 @@ pungies
 punging
 pungings
 pungis
+pungling
 pungo
 pungs
 pungur
@@ -40119,6 +40192,8 @@ puzta
 pwe
 pwes
 pwn
+pwned
+pwning
 pwns
 pya
 pyarthrosis
@@ -54708,6 +54783,7 @@ uncurling
 uncurls
 uncut
 und
+undead
 undenied
 undented
 undid
@@ -54734,6 +54810,7 @@ uneducated
 unelected
 unending
 unenergetic
+unengaged
 unenlightening
 unenviable
 unenvied
@@ -54742,6 +54819,7 @@ unevangelical
 uneven
 unevenly
 uneventful
+unexplained
 unfailing
 unfair
 unfairer
@@ -54780,6 +54858,7 @@ ungual
 unguard
 unguent
 ungues
+unguided
 unguis
 ungulate
 unhand
@@ -54803,6 +54882,7 @@ unhusk
 unhusks
 unhygienic
 uni
+uniaxial
 unibrow
 unica
 unicast
@@ -54954,6 +55034,7 @@ unlacing
 unlade
 unladed
 unladen
+unlading
 unlaid
 unlamed
 unlanced
@@ -54966,6 +55047,7 @@ unlaugh
 unlaughing
 unlaunched
 unlaw
+unlawed
 unlawful
 unlay
 unlaying
@@ -55129,7 +55211,9 @@ unowns
 unpack
 unpacking
 unpagan
+unpaged
 unpaid
+unpained
 unpainful
 unpaint
 unpainting
@@ -55142,6 +55226,8 @@ unpartisan
 unpause
 unpauses
 unpawn
+unpawned
+unpawning
 unpawns
 unpay
 unpeace
@@ -55214,6 +55300,7 @@ unprop
 unproportion
 unprops
 unproud
+unpumped
 unpunctual
 unpure
 unpurse
@@ -55410,7 +55497,11 @@ unvalued
 unveil
 unviable
 unvitiated
+unwaged
+unwaxed
+unwed
 unwind
+unwinding
 unwinds
 unwise
 unworn
@@ -55430,6 +55521,8 @@ upchuck
 upchucks
 updo
 upend
+upended
+upending
 upfield
 upfront
 upful
@@ -56655,6 +56748,7 @@ waif
 wail
 wailer
 wailers
+wailing
 wails
 wain
 wains
@@ -56895,8 +56989,11 @@ wavy
 wawa
 wawas
 wax
+waxed
+waxen
 waxes
 waxiest
+waxing
 way
 wayed
 wayfare
@@ -56925,6 +57022,7 @@ weakish
 weaklier
 weal
 wealed
+wealing
 weals
 wealth
 wealthier
@@ -56971,6 +57069,8 @@ webs
 webwork
 webworks
 wed
+wedge
+wedged
 weds
 weft
 wei
@@ -57216,6 +57316,10 @@ wiki
 wikis
 wilco
 wild
+wilded
+wilding
+wildling
+wildmen
 wilds
 wile
 wiles
@@ -57225,11 +57329,13 @@ wilgie
 wilier
 wiliest
 wilily
+wiling
 wilt
 wiltja
 wilts
 wily
 wimp
+wimped
 wimpiest
 wimping
 wimple
@@ -57281,6 +57387,7 @@ winged
 winger
 winging
 wingman
+wingmen
 wings
 winier
 winiest
@@ -57623,6 +57730,7 @@ wurp
 wurst
 wursts
 wushu
+wuxia
 wych
 wye
 wyes
