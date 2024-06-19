@@ -1758,6 +1758,7 @@ alacrity
 alai
 alairies
 alairy
+alakazam
 alala
 alalas
 alalia
@@ -2164,6 +2165,7 @@ altarists
 altars
 altarstead
 altarsteads
+altazimuth
 alteplase
 alter
 alterabilities
@@ -3768,6 +3770,7 @@ atremble
 atresia
 atria
 atrial
+atrium
 atrocious
 atrocities
 atrocity
@@ -4175,6 +4178,7 @@ azan
 azarole
 azide
 azimuth
+azimuthal
 azine
 azo
 azoic
@@ -5231,6 +5235,8 @@ bhaji
 bhajia
 bhajias
 bhajis
+bhakta
+bhakti
 bhang
 bhangra
 bharal
@@ -5543,6 +5549,7 @@ birth
 birthdate
 birthday
 birther
+birthmark
 birthright
 birthrights
 births
@@ -6351,6 +6358,7 @@ bralet
 bralets
 bramble
 brambles
+brambly
 bran
 branch
 branched
@@ -6552,6 +6560,7 @@ bristled
 bristles
 britches
 brith
+britzka
 bro
 broach
 broad
@@ -20360,6 +20369,7 @@ human
 humana
 humane
 humaner
+humbly
 humdrum
 humect
 humects
@@ -22892,6 +22902,8 @@ kliket
 kliks
 klondike
 klong
+klutz
+klutzy
 knack
 knacker
 knacks
@@ -24285,6 +24297,7 @@ limitage
 limitages
 limital
 limitanean
+limitary
 limitate
 limitated
 limitates
@@ -26039,6 +26052,7 @@ marbler
 marblers
 marbles
 marblue
+marbly
 marc
 marcasine
 marcato
@@ -26552,6 +26566,7 @@ maythes
 maza
 mazac
 mazagan
+mazak
 mazama
 mazamas
 mazar
@@ -26561,8 +26576,11 @@ maze
 mazel
 mazet
 mazets
+mazily
 mazout
+mazula
 mazuma
+mazurka
 mazut
 mazute
 mazuts
@@ -27573,13 +27591,17 @@ miliolite
 miliolites
 miliolitic
 militant
+militaria
 militaries
+militarily
 militarise
 militarised
 militarises
 militarism
 militarist
 militarists
+militarium
+military
 militate
 militated
 militates
@@ -27607,6 +27629,7 @@ milter
 milters
 milts
 milty
+miltz
 milver
 milvers
 mim
@@ -29330,6 +29353,7 @@ multivalence
 multivalued
 multivalve
 multivalved
+multry
 multum
 multure
 mum
@@ -29611,6 +29635,7 @@ mutuals
 mutuca
 mutuel
 mutuels
+mutular
 mutule
 mutules
 mutum
@@ -29623,6 +29648,8 @@ muxe
 muxed
 muxing
 muxy
+muzak
+muzakal
 mvule
 mvules
 mwa
@@ -40964,6 +40991,7 @@ rambla
 ramblas
 ramble
 rambles
+rambly
 rambour
 rambours
 rame
@@ -44534,6 +44562,7 @@ rituals
 ritz
 ritzier
 ritziest
+ritzily
 ritzy
 riva
 rivage
@@ -54251,6 +54280,7 @@ tumbled
 tumbles
 tumbling
 tumbrel
+tumbril
 tumefy
 tumid
 tumidity
@@ -54263,6 +54293,7 @@ tumpline
 tumplines
 tumps
 tums
+tumular
 tumuli
 tumult
 tumults
@@ -58027,6 +58058,8 @@ zakouskas
 zakuska
 zakuskas
 zamac
+zamak
+zambra
 zami
 zamia
 zamias
