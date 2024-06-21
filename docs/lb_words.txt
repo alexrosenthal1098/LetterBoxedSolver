@@ -906,7 +906,12 @@ adjected
 adjectival
 adjective
 adjectived
+adjoin
+adjoupa
 adjourn
+adjudication
+adjudicator
+adjuration
 adjuratory
 adjure
 adjured
@@ -3107,6 +3112,7 @@ apothem
 apotropaic
 apotropaism
 apotropaisms
+apricot
 apriori
 apron
 apropos
@@ -3154,6 +3160,7 @@ arabitol
 arable
 aracari
 aracaris
+arachidonic
 arachis
 arachnid
 arachnoid
@@ -3472,6 +3479,7 @@ arthritical
 arthritis
 arthrodia
 arthrodial
+arthrodiran
 arthrodynia
 arthrogram
 arthrograms
@@ -9948,6 +9956,7 @@ condo
 condole
 condoles
 condom
+condonation
 condone
 condoned
 condoner
@@ -9958,6 +9967,7 @@ condors
 conduct
 conducti
 conduction
+conductor
 conduit
 cone
 coned
@@ -10003,6 +10013,8 @@ conifer
 conifers
 coniform
 coning
+conjoin
+conjuration
 conjuror
 conk
 conker
@@ -12324,6 +12336,7 @@ dhaba
 dhabas
 dhal
 dharma
+dharna
 dhikr
 dhobi
 dhobis
@@ -13560,6 +13573,7 @@ durable
 durably
 dural
 duras
+duration
 durative
 durbar
 durbars
@@ -19056,6 +19070,7 @@ handhold
 handhole
 handhorn
 handi
+handicap
 handier
 handily
 handing
@@ -21081,6 +21096,7 @@ imu
 imus
 inabilities
 inability
+inaction
 inactivate
 inactivated
 inactive
@@ -21121,6 +21137,7 @@ incapacitant
 incapacitation
 incapacity
 incarnate
+incarnation
 incas
 incase
 incases
@@ -21250,6 +21267,8 @@ individs
 indivisible
 indocile
 indocility
+indoctrination
+indoctrinator
 indole
 indolent
 indorse
@@ -21261,6 +21280,7 @@ indri
 indris
 induct
 induction
+inductor
 indue
 indued
 indues
@@ -21272,6 +21292,7 @@ indults
 indumentum
 induna
 indunas
+induration
 indusia
 industrious
 industriously
@@ -22424,6 +22445,9 @@ judge
 judger
 judgers
 judgey
+judicata
+judication
+judicator
 judicious
 judo
 judoist
@@ -31391,6 +31415,7 @@ noncom
 noncompact
 noncompete
 noncoms
+nonconductor
 noncontent
 noncore
 noncount
@@ -31453,6 +31478,7 @@ nonorganic
 nonose
 nonoses
 nonparticipant
+nonparticipation
 nonparty
 nonpast
 nonpasts
@@ -33263,6 +33289,7 @@ ortheses
 orthesis
 orthian
 orthic
+orthicon
 orthid
 orthide
 orthite
@@ -34564,9 +34591,11 @@ pancakes
 pancarditis
 pancelet
 panch
+panchart
 pancheon
 pancheons
 panches
+panchronic
 panchrony
 pancit
 pancratian
@@ -34667,6 +34696,7 @@ panoram
 panorama
 panoramic
 panoramical
+panorpid
 panorpoid
 panostitis
 panpipes
@@ -34866,6 +34896,7 @@ parachordal
 paraclinical
 paracme
 paracolic
+paraconid
 paracrine
 parade
 paraded
@@ -35023,6 +35054,7 @@ paratomy
 paratonal
 paratone
 paratonia
+paratonic
 paratrophic
 paratyphoid
 paravail
@@ -35224,6 +35256,7 @@ participance
 participancy
 participant
 participants
+participation
 participator
 participial
 particle
@@ -35432,6 +35465,7 @@ patrin
 patrinite
 patrins
 patriot
+patriotic
 patriots
 patriotship
 patrist
@@ -36847,6 +36881,7 @@ picolin
 picon
 picons
 picot
+picotah
 picots
 picral
 picric
@@ -39518,7 +39553,10 @@ procoracoid
 proctitis
 proctocele
 proctor
+proctotrupid
 procural
+procuration
+procurator
 procyclical
 prod
 prodigal
@@ -39533,6 +39571,7 @@ prods
 product
 productid
 production
+productor
 proem
 proemial
 proemium
@@ -39903,7 +39942,10 @@ protocoele
 protocol
 protocolar
 protocolic
+protoconch
+protoconid
 protocorm
+protodipnoan
 protoform
 protogine
 protograph
@@ -41096,10 +41138,14 @@ radiatore
 radiators
 radiatory
 radical
+radicand
+radication
+radicidation
 radif
 radio
 radiobe
 radiocarbon
+radioconductor
 radiodating
 radioed
 radiogram
@@ -53759,6 +53805,7 @@ tortoise
 tortoises
 tortoni
 tortonis
+tortricid
 tortrix
 torts
 tortuosities
@@ -53992,6 +54039,10 @@ traditive
 traditor
 traditors
 tradits
+traduct
+traductio
+traduction
+traductor
 trady
 trag
 traga
@@ -56008,6 +56059,7 @@ upcast
 upcasts
 upchuck
 upchucks
+updation
 updo
 upend
 upended
