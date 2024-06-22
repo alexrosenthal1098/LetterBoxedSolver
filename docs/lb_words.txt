@@ -1294,10 +1294,14 @@ afront
 aft
 after
 afterbeat
+afterbirth
 afterburn
 aftercabin
 aftercare
+afterfeather
+afterheat
 afterlife
+aftermath
 afters
 aftersale
 aftershaft
@@ -4995,6 +4999,7 @@ bedew
 bedewed
 bedhead
 bedim
+bedlam
 bedlinen
 bedload
 bedmate
@@ -5574,6 +5579,7 @@ birse
 birth
 birthdate
 birthday
+birthed
 birther
 birthmark
 birthright
@@ -5696,6 +5702,7 @@ blastulas
 blat
 blatant
 blather
+blathered
 blatherer
 blats
 blazar
@@ -5767,6 +5774,7 @@ blisters
 blithe
 blithely
 blither
+blithered
 blitz
 blitzer
 blitzkrieg
@@ -5850,6 +5858,7 @@ blunting
 blunts
 blur
 blurb
+blurbed
 blurbing
 blurbs
 blurs
@@ -6477,6 +6486,7 @@ breastpins
 breasts
 breath
 breathe
+breathed
 breather
 breathes
 breathier
@@ -6536,6 +6546,7 @@ bridle
 bridled
 bridles
 brief
+briefed
 briefer
 briefing
 brier
@@ -6683,6 +6694,7 @@ bruise
 bruiser
 bruises
 bruit
+bruited
 bruiter
 bruiting
 bruits
@@ -11755,6 +11767,8 @@ dearly
 dears
 deasil
 death
+deathbed
+deathlier
 deb
 debacle
 debacles
@@ -11798,6 +11812,9 @@ debouched
 debouchure
 debride
 debrided
+debrief
+debriefed
+debriefer
 debs
 debt
 debtor
@@ -11884,13 +11901,22 @@ dedicatedly
 deduct
 deducted
 def
+defamate
+defamated
 defame
 defamed
 defamer
 defang
 defanged
 defat
+default
+defaulted
+defaulter
 defeat
+defeated
+defeater
+defeather
+defeathered
 defer
 deferent
 deferment
@@ -11902,9 +11928,12 @@ defiladed
 defile
 defiled
 defiler
+deflate
+deflated
 defog
 defrag
 deft
+defter
 degage
 degages
 degas
@@ -12262,6 +12291,7 @@ detracted
 detractive
 detrain
 detrained
+detrital
 detrusor
 detrusors
 detune
@@ -12617,6 +12647,8 @@ dimes
 dimeter
 dimeters
 dimethoate
+dimidiate
+dimidiated
 diminuendi
 dimity
 dimple
@@ -12699,6 +12731,7 @@ direr
 direst
 dirge
 dirges
+dirham
 dirigible
 dirigibles
 dirigisme
@@ -15629,6 +15662,7 @@ fairytale
 fairytales
 fait
 faith
+faithed
 faithly
 faiths
 faithwise
@@ -15811,6 +15845,7 @@ fated
 fateful
 fates
 father
+fathered
 fating
 fatist
 fatists
@@ -15826,6 +15861,7 @@ fauch
 faucial
 faugh
 fault
+faulted
 faultier
 faultily
 faulting
@@ -15882,6 +15918,9 @@ feartie
 fearties
 feat
 feather
+featherbed
+feathered
+feathertail
 feats
 feature
 featuring
@@ -15961,10 +16000,12 @@ fens
 fentanyl
 fer
 feral
+ferberite
 feria
 ferial
 ferias
 feringhi
+fermata
 ferment
 fermentation
 fermenter
@@ -15972,6 +16013,7 @@ fermenting
 fermentor
 fermi
 fermion
+fermium
 fern
 fernery
 ferns
@@ -15999,6 +16041,7 @@ feta
 fetal
 fetation
 fete
+feted
 fetes
 fetid
 fetidly
@@ -16349,6 +16392,7 @@ flambes
 flame
 flamen
 flamenco
+flamier
 flams
 flan
 flanerie
@@ -16396,6 +16440,7 @@ flatlet
 flatline
 flatlined
 flatliner
+flatmate
 flats
 flatus
 flatware
@@ -16992,6 +17037,7 @@ frug
 frugal
 fruit
 fruitage
+fruited
 fruiter
 fruiterer
 fruiterers
@@ -17044,6 +17090,7 @@ fulgour
 fulgural
 fulgurating
 fulguration
+fulham
 fulk
 fulmar
 fulmars
@@ -17062,6 +17109,7 @@ fumed
 fumes
 fumet
 fumets
+fumier
 fumiest
 fun
 funana
@@ -18836,6 +18884,7 @@ habanera
 habeas
 habile
 habilitate
+habilitated
 habit
 habitability
 habitable
@@ -18910,8 +18959,10 @@ haet
 haets
 haft
 hafta
+haftaed
 haftaing
 haftarah
+hafted
 hafting
 hafts
 hag
@@ -18947,6 +18998,7 @@ haircut
 haircuts
 hairdo
 hairdye
+haired
 hairgel
 hairgrip
 hairgrips
@@ -19024,6 +19076,7 @@ halt
 halted
 halter
 haltere
+haltered
 halters
 halting
 halts
@@ -19299,6 +19352,7 @@ hating
 hatorade
 hatpin
 hatrack
+hatred
 hats
 hatshop
 hatshops
@@ -19531,6 +19585,7 @@ hedger
 hedgie
 hedonic
 heft
+hefted
 heftier
 hegira
 hehe
@@ -19660,6 +19715,7 @@ here
 hereafter
 hereat
 hereby
+heredital
 herein
 hereinafter
 hereof
@@ -20510,6 +20566,8 @@ humidex
 humidistat
 humidistats
 humidity
+humiliate
+humiliated
 humiliation
 humiliator
 humint
@@ -20959,6 +21017,7 @@ imbo
 imbongi
 imbos
 imbrue
+imbrued
 imbrues
 imbue
 imbued
@@ -23524,7 +23583,10 @@ lamb
 lambast
 lambasts
 lambda
+lambed
 lambencies
+lamber
+lambert
 lambic
 lambs
 lame
@@ -23751,8 +23813,10 @@ latex
 latexes
 lath
 lathe
+lathed
 lathekin
 lather
+lathered
 lathers
 lathes
 lathi
@@ -24255,6 +24319,7 @@ liberator
 libero
 libertarian
 liberty
+liberum
 libidinal
 libido
 libitum
@@ -24419,6 +24484,7 @@ limba
 limbas
 limbed
 limber
+limbered
 limbers
 limbi
 limbic
@@ -25557,6 +25623,7 @@ mafiosas
 mafioso
 mafiosos
 maft
+mafted
 mafts
 mag
 maga
@@ -25627,6 +25694,7 @@ mahimahi
 mahimahis
 mahis
 mahmal
+mahmudi
 mahoe
 mahoes
 mahonia
@@ -25877,6 +25945,9 @@ maltman
 maltmen
 maltol
 maltols
+maltreat
+maltreated
+maltreater
 malts
 maltster
 maltsters
@@ -28354,6 +28425,7 @@ mitey
 mithai
 mithan
 mither
+mithered
 mithers
 mithramycin
 mithril
@@ -29408,10 +29480,12 @@ mudalali
 mudar
 mudarin
 mudars
+mudbath
 mudbug
 mudcat
 mudeye
 mudeyes
+mudflat
 mudge
 mudged
 mudging
@@ -29430,6 +29504,7 @@ mudra
 mudrun
 muesli
 mueslis
+mufti
 mug
 muga
 mugful
@@ -29488,6 +29563,7 @@ mulmuls
 multeities
 multeity
 multiar
+multibeam
 multibed
 multibit
 multiblade
@@ -29538,6 +29614,7 @@ multisite
 multistate
 multitouch
 multitrack
+multitribal
 multitude
 multivalence
 multivalued
@@ -29551,6 +29628,7 @@ mumble
 mumbled
 mumblement
 mumbles
+mumblier
 mumbling
 mumblingly
 mumbly
@@ -42155,6 +42233,7 @@ rebranch
 rebranched
 rebreak
 rebreathe
+rebreathed
 rebreather
 rebreathes
 rebred
@@ -42503,6 +42582,7 @@ redeye
 redfin
 redger
 redgum
+redhaired
 redhat
 redhead
 redheaded
@@ -42614,6 +42694,7 @@ refix
 refixes
 reflag
 reflate
+reflated
 reflect
 reflective
 refled
@@ -42666,6 +42747,7 @@ refuged
 refugia
 refugial
 refurb
+refurbed
 refutal
 refute
 refuter
@@ -42834,8 +42916,10 @@ regurgitative
 regurs
 rehab
 rehabilitate
+rehabilitated
 rehabs
 rehair
+rehaired
 rehairing
 rehairs
 rehang
@@ -44462,6 +44546,9 @@ rez
 rezero
 rezeros
 rezone
+rhabd
+rhabdite
+rhabditid
 rhachial
 rhachidian
 rhachis
@@ -44560,6 +44647,7 @@ rhubarber
 rhubarbs
 rhumb
 rhumba
+rhumbaed
 rhumbs
 rhus
 rhuses
@@ -45890,6 +45978,7 @@ rumaki
 rumal
 rumals
 rumba
+rumbaed
 rumbas
 rumble
 rumbles
@@ -51680,6 +51769,7 @@ tadgers
 tadpole
 tads
 tae
+taedium
 tael
 taels
 taenia
@@ -51733,6 +51823,7 @@ tailcoat
 tailcoats
 tailed
 tailend
+tailfeather
 tailfin
 tailfins
 tailgate
@@ -52841,6 +52932,7 @@ therian
 therians
 therm
 thermae
+thermal
 thermic
 thermion
 thermit
