@@ -415,9 +415,17 @@ aced
 acedia
 acedies
 acedy
+acenaphthene
+acenaphthylene
 acene
 acenes
 acentric
+acephal
+acephalan
+acephali
+acephalia
+acephalic
+acephaly
 acequia
 acequias
 acer
@@ -441,9 +449,11 @@ acetabular
 acetal
 acetaldehyde
 acetals
+acetaniline
 acetate
 acetated
 acetates
+acetenyl
 acetic
 acetin
 acetins
@@ -458,6 +468,8 @@ acetyl
 acetylate
 acetylated
 acetylates
+acetylene
+acetylenic
 acetylic
 acetylsalicylic
 ach
@@ -2033,6 +2045,7 @@ alinasal
 alinasals
 alios
 aliped
+aliphatic
 aliquot
 aliquots
 aliseptal
@@ -2069,6 +2082,7 @@ alkane
 alkanet
 alkanets
 alkanol
+alkathene
 alkekeng
 alkekenge
 alkekengi
@@ -2306,6 +2320,7 @@ alvite
 alway
 always
 alypin
+alypine
 alytarch
 amacrine
 amadavat
@@ -2569,6 +2584,7 @@ anaphases
 anaphor
 anaphora
 anaphoric
+anaphylactic
 anaplasia
 anaplastic
 anapsid
@@ -2627,6 +2643,8 @@ anemometer
 anemometry
 anemone
 anemones
+anencephalic
+anencephaly
 anent
 anergia
 anergic
@@ -2992,8 +3010,10 @@ anymore
 anyon
 anyone
 anyons
+anyplace
 anyroads
 anything
+anythink
 anyway
 anywhen
 anywhence
@@ -3041,6 +3061,7 @@ aphagic
 aphasia
 aphasic
 aphasics
+aphelia
 aphereses
 apheretic
 aphesis
@@ -7176,6 +7197,7 @@ cahow
 cahows
 caiman
 caimans
+caipirinha
 caipirosca
 caique
 caiques
@@ -7268,6 +7290,7 @@ calico
 calicoes
 calicos
 caliph
+caliphate
 calitris
 calix
 calixes
@@ -7497,6 +7520,7 @@ canzoni
 caoutchouc
 cap
 capable
+capacitance
 capacitate
 capacitating
 capacitation
@@ -7557,6 +7581,8 @@ caprice
 caprine
 capris
 caproic
+caprylate
+caprylic
 caps
 capsaicin
 capsicum
@@ -7956,6 +7982,7 @@ cataphora
 cataphoric
 cataphract
 cataphracts
+cataplectic
 cataract
 cataracts
 catastases
@@ -8028,6 +8055,7 @@ cations
 catkin
 catlick
 catlike
+catlinite
 catmint
 catmints
 catnap
@@ -8232,6 +8260,8 @@ ceorl
 ceorls
 cep
 cepe
+cephalic
+cephalin
 ceps
 ceramic
 ceramicist
@@ -9016,6 +9046,8 @@ cineasts
 cinema
 cinemas
 cinematic
+cinephile
+cinephilia
 cineraria
 cinerarias
 cingula
@@ -10779,7 +10811,9 @@ cribs
 crick
 cricked
 cricket
+cricketana
 crickets
+crickety
 cricking
 crickle
 crickled
@@ -11382,8 +11416,10 @@ cwm
 cwtch
 cwtches
 cyan
+cyanate
 cyanic
 cyanine
+cyanite
 cyanitic
 cyanosis
 cyathia
@@ -11422,6 +11458,7 @@ cynical
 cynics
 cynodont
 cynodonts
+cyphel
 cypher
 cyst
 cystic
@@ -14051,6 +14088,7 @@ electret
 electric
 electrical
 electrician
+electricity
 electrifier
 electro
 electrocoat
@@ -14382,6 +14420,9 @@ encamps
 encase
 encases
 encash
+encephalic
+encephalin
+encephalitic
 enchain
 enchained
 enchaining
@@ -14516,6 +14557,7 @@ enhance
 enhancer
 enisle
 enisles
+enkephalin
 enkindle
 enkindled
 enkindles
@@ -14790,6 +14832,7 @@ ephors
 ephyra
 ephyrae
 epic
+epical
 epicanthic
 epicarp
 epicatechin
@@ -14803,6 +14846,7 @@ epicrisis
 epicrisises
 epicritic
 epics
+epicyte
 epidural
 epigeal
 epigene
@@ -14819,6 +14863,7 @@ epigyny
 epilate
 epilated
 epilator
+epilithic
 epilog
 epilogue
 epimedium
@@ -14835,6 +14880,9 @@ epiphany
 epiphora
 epiphyses
 epiphysis
+epiphytal
+epiphyte
+epiphytic
 episcope
 episcopes
 episiotomy
@@ -14847,8 +14895,12 @@ episteme
 epistemes
 epistemic
 epistemics
+epitaph
+epithelia
+epithelial
 epithet
 epithetic
+epithetical
 epithets
 epitome
 epitomes
@@ -15087,6 +15139,7 @@ eternities
 eternity
 eternize
 eth
+ethacrynic
 ethanal
 ethane
 ethanoate
@@ -15118,6 +15171,7 @@ etheromania
 ethers
 ethic
 ethical
+ethicality
 ethician
 ethicians
 ethicise
@@ -15132,6 +15186,7 @@ ethics
 ethide
 ethides
 ethidium
+ethinyl
 ethionine
 ethiops
 ethiopses
@@ -15140,6 +15195,7 @@ ethnic
 ethnicist
 ethnicists
 ethnicities
+ethnicity
 ethnogenic
 ethnonym
 ethnopoetics
@@ -15156,11 +15212,14 @@ ethrog
 eths
 ethyde
 ethyl
+ethylacetate
 ethylate
 ethylene
+ethylenic
 ethylic
 ethyne
 ethynes
+ethynyl
 etic
 etics
 etiolate
@@ -18929,6 +18988,7 @@ hackit
 hackle
 hackled
 hackly
+hackney
 hacks
 hackstock
 hackstocks
@@ -19009,6 +19069,7 @@ hairlike
 hairline
 hairnet
 hairoil
+hairpiece
 hairpin
 hairs
 hairshirt
@@ -19426,6 +19487,7 @@ haycock
 haycocks
 haying
 haymaker
+hayrick
 hayride
 hays
 haystack
@@ -19633,6 +19695,7 @@ helotry
 help
 helper
 helpful
+helpline
 helve
 hem
 hemal
@@ -19872,6 +19935,7 @@ hibernate
 hibernation
 hic
 hick
+hickey
 hickory
 hicks
 hid
@@ -19981,6 +20045,7 @@ hipers
 hipes
 hiphop
 hiping
+hipline
 hiply
 hipoisie
 hips
@@ -20725,6 +20790,7 @@ hypha
 hyphae
 hyphal
 hyphen
+hyphenate
 hyphy
 hyping
 hypnotic
@@ -21193,6 +21259,7 @@ inca
 incant
 incants
 incapacitant
+incapacitate
 incapacitation
 incapacity
 incarnate
@@ -21218,6 +21285,7 @@ incinerated
 incipience
 incipiences
 incipiencies
+incipiency
 incipit
 incipits
 incircle
@@ -22871,6 +22939,7 @@ keyer
 keyers
 keyhole
 keylet
+keypal
 keys
 keystone
 keystones
@@ -23107,6 +23176,7 @@ kiyaki
 klatch
 klatsch
 klaxon
+klepht
 kleptomania
 klick
 klieg
@@ -23782,6 +23852,7 @@ lateish
 lately
 laten
 latence
+latency
 latened
 latening
 latens
@@ -24026,6 +24097,7 @@ lechery
 leching
 lechon
 lechwe
+lecithin
 lecker
 lectern
 lecterns
@@ -24153,6 +24225,7 @@ lengthily
 lengthy
 lenience
 leniencies
+leniency
 lenient
 leniently
 lenis
@@ -30253,8 +30326,13 @@ nape
 napery
 napes
 naphtha
+naphthacene
+naphthalate
+naphthalene
+naphthalic
 naphthenate
 naphthene
+naphthenic
 naphthol
 naphthyl
 naphtyl
@@ -30717,9 +30795,15 @@ neper
 nepers
 nepeta
 nepetas
+nepheline
+nephelinic
+nephelinite
+nephelinitic
+nephelite
 nephew
 nephric
 nephrite
+nephritic
 nepionic
 nepotal
 nepotation
@@ -30987,9 +31071,11 @@ nice
 niced
 nicefies
 niceish
+nicely
 nicer
 nicest
 niceties
+nicety
 nicey
 niche
 niched
@@ -31004,13 +31090,16 @@ nick
 nicked
 nickel
 nickeled
+nickelian
 nickelic
 nickeline
+nickelite
 nickelocene
 nickelocenes
 nickels
 nicker
 nickers
+nickey
 nickie
 nickies
 nicking
@@ -34342,6 +34431,8 @@ packager
 packages
 packer
 packeries
+packet
+packhal
 packie
 packies
 packing
@@ -34545,6 +34636,7 @@ paleae
 paleate
 paled
 paleic
+palely
 paleman
 palemen
 paleogean
@@ -34624,6 +34716,7 @@ palterers
 palters
 paltock
 paltrier
+paltry
 paludal
 paludial
 paludian
@@ -34759,6 +34852,7 @@ panking
 pankins
 panko
 panks
+panlectal
 panmictic
 panograph
 panography
@@ -35477,6 +35571,7 @@ patdown
 pate
 patel
 paten
+patency
 patent
 patenting
 pater
@@ -35486,6 +35581,7 @@ paternal
 patete
 path
 pathetic
+pathetical
 pathia
 pathic
 pathics
@@ -35495,7 +35591,9 @@ pathopoeia
 paths
 patia
 patias
+patience
 patiencies
+patiency
 patient
 patientries
 patients
@@ -35530,13 +35628,17 @@ patriate
 patriating
 patriation
 patrician
+patricianate
+patricianly
 patricians
 patricianship
 patricianships
+patriciate
 patricidal
 patrico
 patrie
 patries
+patriline
 patriliny
 patrimonial
 patrin
@@ -35645,10 +35747,12 @@ paydirt
 payer
 payers
 paying
+payline
 payload
 payola
 payor
 payors
+paypacket
 payphone
 pays
 paysagist
@@ -35775,15 +35879,19 @@ peck
 peckish
 peckle
 pecks
+peckthank
 pecorino
 pecorinos
 pecs
 pect
+pectate
 pecten
 pectens
 pectic
 pectin
 pectinal
+pectinate
+pectinately
 pectineal
 pectins
 pects
@@ -35865,7 +35973,9 @@ pelf
 pelham
 pelican
 pelicanries
+pelicanry
 pelicans
+pelicat
 pelikai
 pelite
 pelites
@@ -35888,12 +35998,14 @@ pelta
 peltae
 peltage
 peltate
+peltately
 pelter
 pelterer
 pelterers
 pelters
 pelting
 peltoid
+peltry
 pelts
 pelu
 peludo
@@ -35913,7 +36025,9 @@ penal
 penalise
 penalises
 penalities
+penality
 penalties
+penalty
 penance
 penances
 penates
@@ -35973,6 +36087,7 @@ peninsulate
 peninsulates
 penis
 penises
+penitence
 penitent
 penitential
 penitents
@@ -36542,6 +36657,8 @@ pewterer
 pewterers
 peytrel
 pfui
+phacelia
+phacelite
 phage
 phages
 phagolytic
@@ -36588,12 +36705,25 @@ pheme
 phememe
 phememes
 phemes
+phenacaine
+phenacetin
 phenacite
 phenate
 phenazone
+phenenyl
 phenetic
+phenic
+phenicin
 phenon
 phenotypic
+phenyl
+phenylacetate
+phenylacetic
+phenylacetylene
+phenylalanine
+phenylene
+phenylephrine
+phenylic
 pheon
 pheons
 pheran
@@ -36601,12 +36731,16 @@ phew
 phi
 phial
 phiale
+phialine
 phies
 philanthropia
 philanthropic
 philanthropical
 philanthropoid
 philanthropy
+philatelic
+philatelical
+philately
 philautia
 philibeg
 philodinid
@@ -36817,7 +36951,11 @@ phreak
 phreaker
 phrenic
 phrenotropic
+phtanite
 phthalate
+phthalein
+phthaleine
+phthalic
 phthalo
 phthalyl
 phthanite
@@ -36839,6 +36977,7 @@ phwat
 phwoah
 phwoar
 phy
+phycite
 phycocyan
 phycocyanin
 phyla
@@ -36873,11 +37012,13 @@ physisorb
 physisorbs
 physogastry
 phytal
+phytane
 phytase
 phytases
 phytate
 phytates
 phytin
+phytine
 phytoene
 phytoglyphy
 phytograph
@@ -36940,10 +37081,15 @@ pick
 pickage
 pickages
 picker
+picket
+picketline
+pickey
 pickie
 pickier
 pickies
 pickiest
+pickle
+pickney
 picks
 pickthank
 pickthanks
@@ -36963,6 +37109,7 @@ picotah
 picots
 picral
 picric
+picrite
 picritic
 picrotin
 picrotins
@@ -37234,6 +37381,7 @@ pinker
 pinkers
 pinkerses
 pinkest
+pinkeye
 pinkie
 pinkier
 pinkies
@@ -37244,6 +37392,7 @@ pinkly
 pinko
 pinks
 pinky
+pinlay
 pinmaker
 pinmakers
 pinol
@@ -37571,6 +37720,7 @@ placid
 placidity
 placidly
 plack
+placket
 placodal
 placodioid
 placodont
@@ -37618,6 +37768,7 @@ planc
 planch
 plane
 planed
+planeity
 planer
 planerite
 planers
@@ -37742,8 +37893,12 @@ platinum
 plats
 platsh
 platy
+platycephalic
+platycephaly
 platycranial
 platypod
+platyrhinian
+platyrhiny
 plaud
 plauded
 plauding
@@ -37852,6 +38007,8 @@ plica
 plicae
 plical
 plicas
+plicate
+plicately
 plication
 plie
 plied
@@ -37867,6 +38024,7 @@ plimpler
 plims
 plink
 plinker
+plinkety
 plinking
 plinth
 pliofilm
@@ -39387,10 +39545,12 @@ priciest
 pricing
 prick
 pricker
+pricket
 prickle
 pricklet
 pricklets
 pricklier
+prickly
 pricks
 pricy
 pride
@@ -39485,14 +39645,20 @@ primus
 primuses
 primy
 prince
+princelet
+princely
 princeps
 princes
 principal
+principality
+principate
 principe
 principi
 principial
 principiant
+principiate
 principiation
+principle
 pring
 pringle
 pringling
@@ -40174,6 +40340,7 @@ pry
 pryan
 pryer
 prytan
+prytane
 prytany
 psalm
 psalmic
@@ -40694,6 +40861,7 @@ pycnial
 pycnic
 pycnid
 pycnidial
+pycnite
 pycnodont
 pycnodonts
 pycnogon
@@ -44605,6 +44773,7 @@ rhexises
 rhinal
 rhinarial
 rhinarium
+rhinencephalic
 rhinion
 rhinions
 rhinitis
@@ -44764,9 +44933,14 @@ ricker
 ricket
 ricketed
 ricketic
+ricketily
+ricketly
 rickets
+rickety
+rickey
 ricking
 rickle
+rickley
 ricklie
 rickling
 rickly
@@ -45008,6 +45182,7 @@ riparography
 ripcord
 ripe
 ripeful
+ripely
 ripen
 ripened
 ripener
@@ -46200,6 +46375,7 @@ ryas
 rybat
 rybats
 rye
+ryepeck
 ryes
 ryiji
 ryijy
@@ -51749,6 +51925,7 @@ tacky
 taco
 taconite
 tacos
+tacrine
 tact
 tactful
 tactic
@@ -51757,6 +51934,7 @@ tactician
 tacticity
 tactics
 tactile
+tactility
 tactor
 tactors
 tactual
@@ -52432,6 +52610,7 @@ telemedicine
 telemeter
 telemetered
 telemotor
+telencephalic
 teleodont
 teleologic
 teleological
@@ -52443,7 +52622,13 @@ teleosis
 teleost
 teleosteous
 teleosts
+telepath
+telepathetic
+telepathic
+telepathy
+telepic
 teleplastic
+teleplay
 teleport
 teleporter
 teleporting
@@ -52549,6 +52734,7 @@ tenace
 tenacity
 tenacula
 tenakoe
+tenancy
 tenant
 tenantable
 tenanted
@@ -52975,6 +53161,7 @@ thicker
 thickest
 thicket
 thickish
+thickly
 thicko
 thieve
 thievery
@@ -53000,6 +53187,7 @@ think
 thinkable
 thinkably
 thinko
+thinkpiece
 thinks
 thinktank
 thinly
@@ -53187,6 +53375,7 @@ thwack
 thwaite
 thwart
 thy
+thylacine
 thyme
 thymes
 thymi
@@ -53224,12 +53413,14 @@ tickertapes
 ticket
 ticketed
 tickets
+tickey
 tickle
 tickled
 tickler
 ticklers
 tickles
 ticklier
+tickly
 ticks
 ticktock
 ticktocked
@@ -54559,9 +54750,12 @@ tripled
 triples
 triplet
 triplets
+triplicate
 triplication
+triplicity
 triploid
 triploids
+triply
 tripmeter
 tripmeters
 tripod
