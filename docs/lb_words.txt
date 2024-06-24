@@ -474,6 +474,7 @@ acetylic
 acetylsalicylic
 ach
 achalasia
+achalasic
 achar
 acharya
 acharyas
@@ -532,6 +533,7 @@ acidic
 acidific
 acidified
 acidifier
+acidify
 acidise
 acidity
 acidly
@@ -616,6 +618,9 @@ acquiries
 acquiring
 acquiror
 acquiry
+acquis
+acquist
+acquists
 acquit
 acquits
 acral
@@ -768,7 +773,11 @@ actors
 actory
 acts
 actual
+actualist
+actualistic
+actualists
 actualite
+actuality
 actuarian
 actuate
 actuated
@@ -7247,6 +7256,7 @@ calcification
 calcifications
 calcified
 calcifuge
+calcify
 calcination
 calcinations
 calcine
@@ -7997,6 +8007,7 @@ catch
 catcher
 catchers
 catches
+catchfly
 catchier
 catchiest
 catchup
@@ -8032,6 +8043,7 @@ caterers
 caters
 caterwaul
 cates
+catfish
 catflap
 catflaps
 catgut
@@ -8370,6 +8382,7 @@ chaises
 chakra
 chal
 chalcid
+chalcids
 chalcone
 chalet
 chalice
@@ -8380,6 +8393,7 @@ chalkone
 chalks
 chalot
 chaloth
+chals
 cham
 chambray
 chamcha
@@ -8543,6 +8557,7 @@ chatshow
 chatshows
 chaudhuri
 chautauqua
+chautauquas
 chav
 chava
 chavs
@@ -9138,6 +9153,7 @@ citied
 cities
 citification
 citifications
+citify
 citing
 citizen
 citizening
@@ -9177,6 +9193,8 @@ citrusy
 citryl
 citryls
 city
+cityful
+cityfuls
 cityish
 cityishes
 cityship
@@ -9341,6 +9359,7 @@ cliented
 clientele
 clienteled
 clifties
+clifty
 climacter
 climacteric
 climactic
@@ -9382,6 +9401,7 @@ clique
 cliques
 cliquey
 cliquiest
+cliquish
 clitic
 cliticisation
 cliticise
@@ -11442,6 +11462,8 @@ cyclical
 cyclicals
 cyclin
 cycling
+cyclist
+cyclists
 cyclizing
 cycloid
 cycloidal
@@ -12450,6 +12472,8 @@ dialed
 dialer
 dialin
 dialing
+dialist
+dialists
 dialog
 dialoged
 dialogue
@@ -12457,6 +12481,7 @@ dialogued
 dialoguer
 dials
 dialup
+dialysis
 dialytic
 dialyton
 dialyzing
@@ -12483,7 +12508,9 @@ diaspora
 diasporan
 diasporans
 diasporas
+diastasic
 diastasis
+diastatic
 diatom
 diatomic
 diatoms
@@ -12501,6 +12528,7 @@ dicers
 dices
 dicey
 dichasia
+dichasial
 dichoptic
 dichord
 dichords
@@ -12759,6 +12787,7 @@ dipole
 dips
 dipso
 dipsos
+diquat
 diram
 dirams
 dire
@@ -12796,6 +12825,7 @@ disablist
 disabuse
 disabused
 disabuses
+disacidify
 disadapt
 disadapts
 disadvise
@@ -12859,6 +12889,8 @@ diseuses
 disgust
 disgusts
 dish
+dishful
+dishfuls
 dishonor
 dishonors
 dishonour
@@ -12891,6 +12923,7 @@ disport
 disports
 dispositor
 dispositors
+disqualify
 disquisition
 disquisitions
 disrate
@@ -12911,6 +12944,7 @@ distich
 distichous
 distichs
 distil
+distils
 distinct
 distort
 distortion
@@ -13519,6 +13553,11 @@ duads
 dual
 dualed
 dualing
+dualist
+dualistic
+dualists
+duality
+duals
 duathlon
 dub
 dubitability
@@ -13578,6 +13617,7 @@ dulce
 dulcet
 dulcian
 dulciana
+dulcify
 dulia
 dulosis
 dulotic
@@ -13717,6 +13757,7 @@ dynoed
 dynoing
 dynos
 dysbiosis
+dyslalia
 dzo
 dzos
 each
@@ -16159,6 +16200,7 @@ fide
 fidget
 fidgeted
 fidgeter
+fids
 fiducial
 fie
 fief
@@ -16329,6 +16371,7 @@ fiord
 fiords
 fioritura
 fioriture
+fiqh
 fir
 firable
 fire
@@ -16518,6 +16561,7 @@ flax
 flay
 flayer
 flaying
+flays
 flea
 fleabag
 fleabane
@@ -16647,8 +16691,11 @@ fluent
 fluently
 flues
 fluid
+fluidic
+fluidify
 fluidity
 fluidly
+fluids
 flume
 flung
 flunk
@@ -16674,19 +16721,23 @@ flutier
 fluting
 flutist
 flutists
+fluty
 fluviatile
 flux
 fluxing
 fly
 flyable
+flyash
 flyaway
 flyblow
 flyblown
 flyby
 flyer
+flyfish
 flyin
 flying
 flyleaf
+flys
 flyway
 flywire
 foal
@@ -17143,6 +17194,7 @@ fulcra
 fulcral
 fulcre
 fulfil
+fulfils
 fulgor
 fulgorid
 fulgour
@@ -17291,6 +17343,7 @@ fustier
 futhark
 futharks
 futile
+futility
 futon
 futons
 futsal
@@ -19366,6 +19419,7 @@ hastens
 hastes
 hastier
 hastiest
+hastily
 hasty
 hat
 hatable
@@ -19405,6 +19459,7 @@ hatewatch
 hatewatched
 hatewatcher
 hatful
+hatfuls
 hath
 hatha
 hathi
@@ -20989,6 +21044,9 @@ idolizing
 idols
 ids
 idyl
+idylist
+idylists
+idyls
 iechyd
 ifs
 iftar
@@ -23914,6 +23972,7 @@ laudative
 laude
 lauded
 lauding
+lauds
 laugh
 laughably
 laughed
@@ -24737,6 +24796,12 @@ liquate
 liquates
 liqueur
 liqueurs
+liquid
+liquidi
+liquidity
+liquidly
+liquids
+liquify
 liquor
 liquoring
 lira
@@ -41004,6 +41069,7 @@ quag
 quagma
 quahaug
 quai
+quaich
 quail
 quailing
 quails
@@ -41017,6 +41083,7 @@ qualia
 qualie
 qualies
 qualifier
+qualify
 qualitative
 qualitatively
 qualities
@@ -41054,6 +41121,7 @@ quartos
 quarts
 quasar
 quasars
+quash
 quat
 quatch
 quate
@@ -41070,6 +41138,9 @@ quaw
 quawk
 quaws
 quay
+quayful
+quayfuls
+quays
 qubit
 que
 quean
@@ -46616,6 +46687,7 @@ salps
 sals
 salsa
 salsas
+salsify
 salt
 saltation
 saltations
@@ -46645,6 +46717,7 @@ saltus
 saltuses
 saltwater
 salty
+salud
 saluki
 salukis
 salume
@@ -46932,6 +47005,7 @@ satirisms
 satirist
 satirists
 satis
+satisfy
 sativa
 sativas
 satori
@@ -48602,10 +48676,12 @@ silicic
 siliciclastic
 silicification
 silicifications
+silicify
 silicious
 silicon
 silicosis
 silicotic
+siliqua
 siliquous
 silk
 silken
@@ -50168,6 +50244,9 @@ squad
 squadron
 squadrons
 squads
+squalid
+squalidity
+squalidly
 squamate
 squamose
 squamous
@@ -50178,6 +50257,7 @@ squarers
 squares
 squark
 squarks
+squash
 squat
 squatly
 squats
@@ -50203,6 +50283,7 @@ squirms
 squirt
 squirts
 squirty
+squish
 squit
 squits
 squiz
@@ -50468,6 +50549,7 @@ statuarists
 statue
 statued
 statues
+statufy
 statural
 stature
 status
@@ -51002,11 +51084,13 @@ stude
 studes
 studier
 studiers
+studify
 studio
 studios
 studiosity
 studious
 studium
+studly
 studs
 study
 stultification
@@ -51059,6 +51143,7 @@ stylises
 stylish
 stylishly
 stylist
+stylistic
 stylists
 stylite
 stylites
@@ -53371,6 +53456,7 @@ thurible
 thurifer
 thus
 thuya
+thuyas
 thwack
 thwaite
 thwart
@@ -55047,6 +55133,7 @@ tuftier
 tuftiest
 tufting
 tufts
+tufty
 tug
 tugboat
 tugs
@@ -58657,6 +58744,7 @@ yatra
 yatras
 yaupon
 yautia
+yautias
 yaw
 yawed
 yawl
