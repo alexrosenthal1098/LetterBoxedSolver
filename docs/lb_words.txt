@@ -1195,7 +1195,10 @@ aerobated
 aerobe
 aerobes
 aerobian
+aerobioses
+aerobiosis
 aerobot
+aerobots
 aerobrake
 aerobrakes
 aerobus
@@ -1266,6 +1269,7 @@ aesthetics
 aestivate
 aestivates
 aestive
+aestuous
 aetatis
 aether
 aetherian
@@ -1450,6 +1454,7 @@ aging
 agio
 agios
 agiotage
+agiotages
 agism
 agist
 agisted
@@ -1534,6 +1539,7 @@ agrarianizing
 agrestal
 agrestic
 agribiz
+agribizes
 agriculture
 agriculturer
 agrievance
@@ -1637,6 +1643,7 @@ airbase
 airbases
 airbed
 airboat
+airboats
 airborne
 airbrake
 airbrakes
@@ -1646,6 +1653,7 @@ airbrick
 airbricks
 airbrush
 airbus
+airbuses
 aircon
 aircrew
 aircrews
@@ -3252,6 +3260,7 @@ arboured
 arbours
 arbs
 arbutus
+arbutuses
 arc
 arcade
 arcaded
@@ -3848,6 +3857,7 @@ atypicality
 aubade
 aubades
 auberge
+auberges
 aubretia
 aubrietia
 auburn
@@ -5014,6 +5024,7 @@ beats
 beau
 beaus
 beaut
+beauts
 beaver
 bebop
 becalm
@@ -5212,6 +5223,7 @@ beret
 berets
 berg
 bergere
+bergeres
 bergie
 bergies
 bergs
@@ -5301,6 +5313,7 @@ bezant
 bezel
 bezels
 bezoar
+bezoars
 bfs
 bhadralog
 bhai
@@ -5935,6 +5948,7 @@ boasts
 boat
 boatable
 boatage
+boatages
 boated
 boatel
 boater
@@ -6225,6 +6239,7 @@ bosh
 bosie
 bosies
 bosk
+boskage
 bosker
 bosks
 bosky
@@ -6516,6 +6531,10 @@ breadth
 bready
 break
 breakable
+breakage
+breakages
+breakbeat
+breakbeats
 breakbone
 breakbulk
 breaker
@@ -6524,6 +6543,7 @@ breakeven
 breakin
 breakins
 breakneck
+breaks
 breakup
 breakups
 bream
@@ -6839,6 +6859,7 @@ buds
 buena
 bug
 bugaku
+bugakus
 bugan
 bugbane
 bugbanes
@@ -7049,6 +7070,8 @@ busier
 busies
 busiest
 busk
+busker
+buskers
 buskin
 buskins
 busks
@@ -14077,6 +14100,7 @@ egotists
 egotize
 egotized
 egotizing
+egregious
 egret
 egrets
 eide
@@ -17602,6 +17626,7 @@ garbage
 garbagy
 garbarator
 garbas
+garberator
 garbing
 garble
 garbled
@@ -17680,6 +17705,7 @@ gathers
 gatherum
 gating
 gator
+gators
 gats
 gauche
 gauchely
@@ -17730,6 +17756,9 @@ gays
 gazania
 gazar
 gaze
+gazebo
+gazeboes
+gazebos
 gazed
 gazer
 gazers
@@ -17907,6 +17936,7 @@ georginas
 geos
 geotactic
 geotag
+geotags
 geotherm
 geothermometer
 geothermometers
@@ -18672,6 +18702,7 @@ grebes
 grebo
 grebos
 gregarine
+gregarious
 greige
 greigite
 greisen
@@ -18780,6 +18811,8 @@ groping
 gros
 grosgrain
 grosgrains
+grosz
+grosze
 grot
 grotesque
 grotesques
@@ -18797,11 +18830,14 @@ grouping
 groupment
 groupy
 grouse
+grouser
+grousers
 grouses
 grout
 grouted
 grouter
 grouting
+grouts
 grove
 grovel
 groveler
@@ -18902,6 +18938,8 @@ guipure
 guiro
 guiros
 guise
+guiser
+guisers
 guises
 guitar
 guiver
@@ -18990,9 +19028,13 @@ gusty
 gut
 gutful
 guts
+gutser
+gutsers
 gutsier
 gutsiest
 gutsy
+gutzer
+gutzers
 guv
 guy
 guying
@@ -22931,6 +22973,8 @@ ked
 keds
 kef
 keg
+kegerator
+kegerators
 kegs
 keirin
 keirins
@@ -22980,6 +23024,9 @@ keratinise
 keratinises
 keratins
 keratitis
+keratose
+keratoses
+keratosis
 kerb
 kerbing
 kerbs
@@ -32336,6 +32383,8 @@ oakier
 oakleaf
 oakling
 oaks
+oaktag
+oaktags
 oakum
 oakworm
 oaky
@@ -33849,6 +33898,7 @@ outa
 outact
 outacts
 outage
+outages
 outarm
 outarms
 outbeam
@@ -33871,6 +33921,8 @@ outbow
 outbows
 outbox
 outbrave
+outbreak
+outbreaks
 outbreathe
 outbred
 outbuild
@@ -33996,8 +34048,15 @@ outpours
 output
 outputs
 outrage
+outrageous
 outrager
+outragers
+outrages
 outraging
+outraise
+outraises
+outrake
+outrakes
 outran
 outrang
 outranging
@@ -34015,6 +34074,7 @@ outrider
 outriding
 outrig
 outright
+outrigs
 outring
 outringing
 outro
@@ -34033,6 +34093,8 @@ outsails
 outsat
 outscore
 outscores
+outseg
+outsegs
 outsent
 outsert
 outserts
@@ -34049,6 +34111,8 @@ outshut
 outshuts
 outsit
 outsits
+outsize
+outsizes
 outskirt
 outskirts
 outsoar
@@ -34064,6 +34128,8 @@ outspun
 outstand
 outstands
 outstank
+outstare
+outstares
 outstart
 outstarts
 outstation
@@ -34496,6 +34562,7 @@ oysterish
 oystery
 ozaena
 ozeki
+ozekis
 ozena
 ozocerite
 ozone
@@ -42515,10 +42582,12 @@ reboring
 reborn
 rebought
 rebozo
+rebozos
 rebrace
 rebranch
 rebranched
 rebreak
+rebreaks
 rebreathe
 rebreathed
 rebreather
@@ -42543,6 +42612,7 @@ rebuilder
 rebuilt
 rebuke
 rebuker
+rebukers
 rebukes
 rebunk
 rebuoy
@@ -43072,6 +43142,7 @@ regardful
 regather
 regathers
 regauge
+regauges
 regave
 regelate
 regelated
@@ -43132,6 +43203,8 @@ registery
 registrar
 registrars
 registrate
+registrator
+registrators
 regive
 regiven
 regiving
@@ -43180,6 +43253,7 @@ regrouping
 regroupment
 regrout
 regrouted
+regrouts
 regrow
 regrowing
 regs
@@ -44193,6 +44267,10 @@ resites
 resitol
 resitols
 resits
+resize
+resizer
+resizers
+resizes
 reskin
 reskins
 resmile
@@ -45359,12 +45437,14 @@ rising
 risings
 risk
 risker
+riskers
 riskier
 riskiest
 risking
 riskish
 risks
 risktaker
+risktakers
 risoluto
 risorial
 risorius
@@ -47625,6 +47705,7 @@ seastead
 seasteads
 seat
 seated
+seatrout
 seats
 seaward
 seawards
@@ -47988,6 +48069,7 @@ serine
 serins
 seriosities
 seriosity
+serious
 serir
 serirs
 sermon
@@ -48928,9 +49010,13 @@ sixth
 sixths
 sixties
 sixty
+sizar
+sizars
 size
 sizeism
 sizeist
+sizer
+sizers
 sizes
 sizing
 sizism
@@ -48956,6 +49042,7 @@ skean
 skeans
 skease
 skeaze
+skeazer
 skeazy
 sked
 skeds
@@ -48989,6 +49076,8 @@ skiascopes
 skiascopic
 skiatherics
 skible
+skiboat
+skiboats
 skid
 skids
 skier
@@ -50389,6 +50478,8 @@ stairs
 staithe
 staithes
 stake
+stakeout
+stakeouts
 staker
 stakers
 stakes
@@ -50468,6 +50559,10 @@ staretses
 starfish
 starfishes
 starful
+stargaze
+stargazer
+stargazers
+stargazes
 stark
 starken
 starkens
@@ -51005,6 +51100,7 @@ stratocracy
 stratocrat
 stratocratic
 stratocrats
+stratose
 stratum
 stratus
 stravage
@@ -51262,9 +51358,12 @@ subedited
 subedits
 subentries
 suber
+subereous
 suberin
 suberise
 suberises
+suberize
+suberizes
 suberose
 suberous
 subface
@@ -51409,6 +51508,7 @@ suburbian
 suburbians
 suburbs
 subweb
+subzero
 such
 suck
 sucker
@@ -52180,6 +52280,7 @@ take
 takeable
 taken
 takeout
+takeouts
 takeover
 takeovers
 taker
@@ -53943,6 +54044,7 @@ toeholds
 toeing
 toenail
 toerag
+toerags
 toes
 toeside
 toey
@@ -55020,6 +55122,8 @@ troupe
 trouper
 troupial
 troupials
+trouser
+trousers
 trout
 trouting
 trouts
@@ -55157,6 +55261,10 @@ tuber
 tubercular
 tuberculate
 tubercule
+tuberose
+tuberoses
+tuberous
+tubers
 tubes
 tubeworm
 tubeworms
@@ -55188,6 +55296,9 @@ tufts
 tufty
 tug
 tugboat
+tugboats
+tugrik
+tugriks
 tugs
 tui
 tuile
@@ -55366,6 +55477,8 @@ tutelar
 tutelary
 tutes
 tutor
+tutorage
+tutorages
 tutored
 tutorial
 tutoring
@@ -59000,6 +59113,7 @@ zacks
 zacs
 zaftig
 zag
+zags
 zaide
 zaire
 zakat
@@ -59007,6 +59121,7 @@ zakouska
 zakouskas
 zakuska
 zakuskas
+zakuski
 zamac
 zamak
 zambra
@@ -59036,6 +59151,7 @@ zebra
 zebras
 zebrine
 zebu
+zebus
 zed
 zeds
 zef
@@ -59066,6 +59182,7 @@ zibeline
 zig
 zigs
 zigzag
+zigzags
 zikr
 zikrs
 zin
