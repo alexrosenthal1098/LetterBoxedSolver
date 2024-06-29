@@ -15285,6 +15285,7 @@ ethides
 ethidium
 ethinyl
 ethionine
+ethionines
 ethiops
 ethiopses
 ethnarch
@@ -15294,6 +15295,7 @@ ethnicists
 ethnicities
 ethnicity
 ethnogenic
+ethnohistory
 ethnonym
 ethnopoetics
 ethnos
@@ -15314,6 +15316,7 @@ ethylate
 ethylene
 ethylenic
 ethylic
+ethyls
 ethyne
 ethynes
 ethynyl
@@ -15322,6 +15325,7 @@ etics
 etiolate
 etiolated
 etoile
+etoiles
 etourdi
 etre
 etrier
@@ -15683,6 +15687,7 @@ eyebrow
 eyecup
 eyed
 eyehole
+eyeholes
 eyeing
 eyelet
 eyeleted
@@ -15691,10 +15696,14 @@ eyelid
 eyelight
 eyeline
 eyeliner
+eyelines
 eyepiece
 eyer
 eyers
 eyes
+eyeshine
+eyeshines
+eyeshot
 eyesome
 eyesore
 eyesores
@@ -19828,11 +19837,13 @@ helot
 helotage
 helotism
 helotry
+helots
 help
 helper
 helpful
 helpline
 helve
+helves
 hem
 hemal
 hematemesis
@@ -19866,10 +19877,12 @@ henchmen
 henequen
 henge
 henley
+henleys
 henpeck
 henpecks
 henries
 henry
+henrys
 hens
 hentai
 hep
@@ -20216,6 +20229,9 @@ histograph
 histographs
 histography
 histoid
+histolyse
+histolyses
+histolysis
 histomap
 histometabases
 histometabasis
@@ -20235,6 +20251,7 @@ historiosophy
 historist
 historists
 history
+historywise
 histosol
 histotrophic
 histotropic
@@ -20382,6 +20399,8 @@ holt
 holts
 holy
 holyday
+holystone
+holystones
 hom
 homa
 homaging
@@ -20468,18 +20487,24 @@ honed
 honer
 hones
 honest
+honestly
 honesty
+honewort
+honeworts
 honey
 honeybird
 honeydew
 honeydewed
 honeyeater
 honeyed
+honeyish
 honeyman
 honeymen
 honeypot
+honeys
 honeytrap
 honeywort
+honeyworts
 hongi
 hongis
 honi
@@ -20552,6 +20577,7 @@ hornists
 horns
 horntail
 hornwort
+hornworts
 horny
 horologe
 horologer
@@ -20571,6 +20597,7 @@ horseshows
 horsey
 horsier
 horsiest
+horsily
 horst
 horsts
 horsy
@@ -20615,10 +20642,15 @@ hote
 hotel
 hotelier
 hotelified
+hotelise
+hotelish
+hotels
 hothead
 hotheaded
 hoti
 hotis
+hotline
+hotlines
 hotlink
 hotlist
 hotlists
@@ -21734,6 +21766,8 @@ inherent
 inhering
 inherit
 inheritance
+inhesion
+inhesions
 inhibin
 inhibit
 inhibited
@@ -21852,6 +21886,7 @@ inseminates
 insensate
 insensible
 insensitive
+insensitively
 insensitivities
 insentient
 insert
@@ -24504,6 +24539,7 @@ lexemes
 lexis
 ley
 leyline
+leylines
 leys
 lez
 lezes
@@ -24856,6 +24892,8 @@ liny
 lion
 lionhead
 lionisation
+lionise
+lionises
 lionizing
 lionlike
 lions
@@ -25005,6 +25043,7 @@ litigative
 litigator
 litigious
 litmus
+litotes
 litre
 litreage
 litres
@@ -25330,6 +25369,7 @@ lot
 lota
 lotas
 lote
+lotes
 loth
 loti
 lotic
@@ -25428,6 +25468,7 @@ lowery
 lowes
 lowest
 lowies
+lowish
 lowkey
 lowland
 lowlier
@@ -25673,6 +25714,7 @@ lyse
 lysed
 lyses
 lysin
+lysine
 lysins
 lysis
 lysosomal
@@ -31159,6 +31201,7 @@ newsie
 newsier
 newsies
 newsiest
+newsily
 newsmaker
 newsmakers
 newsman
@@ -31180,12 +31223,14 @@ newswoman
 newswomen
 newswork
 newsworks
+newsworthy
 newsy
 newt
 newtake
 newtakes
 newton
 newtonite
+newtonites
 newtons
 newts
 nexal
@@ -31897,6 +31942,8 @@ nornicotines
 nors
 norsel
 norsels
+norsethite
+norsethites
 nortena
 norteno
 north
@@ -31995,6 +32042,7 @@ notepad
 notepaper
 noter
 notes
+noteworthy
 nother
 nothing
 nothingly
@@ -32844,7 +32892,10 @@ oilsand
 oilsands
 oilskin
 oilskins
+oilstone
+oilstones
 oily
+oilyish
 oink
 oinked
 oinking
@@ -32918,6 +32969,7 @@ oleoresins
 oleos
 oleous
 oleoyl
+oleoyls
 oleum
 oleyl
 oliban
@@ -32945,6 +32997,8 @@ oliva
 olivas
 olivaster
 olive
+olivenite
+olivenites
 olives
 olivet
 olivets
@@ -33654,6 +33708,8 @@ orthostichy
 orthotic
 orthotist
 orthotists
+orthotone
+orthotones
 orthotonic
 orthotopic
 orthotropic
@@ -33826,6 +33882,7 @@ othertimes
 otherwhat
 otherwhere
 othyl
+othyls
 otic
 otiose
 otiosity
@@ -44945,6 +45002,7 @@ rheme
 rhemes
 rhenate
 rhenite
+rhenites
 rheocline
 rheometer
 rheometers
@@ -44975,12 +45033,15 @@ rhinal
 rhinarial
 rhinarium
 rhinencephalic
+rhinestone
+rhinestones
 rhinion
 rhinions
 rhinitis
 rhino
 rhinodon
 rhinolith
+rhinoliths
 rhinology
 rhinos
 rhizina
@@ -45031,6 +45092,8 @@ rhymic
 rhymist
 rhymists
 rhymy
+rhyolite
+rhyolites
 rhyparograph
 rhyparographs
 rhyparography
@@ -46006,6 +46069,7 @@ rote
 rotenone
 rotgut
 rotheln
+rothelns
 roti
 rotifer
 rotifers
@@ -46166,6 +46230,7 @@ roweite
 roweites
 rowel
 roweled
+rowels
 rowen
 rowens
 rower
@@ -46183,6 +46248,7 @@ rowns
 rows
 rowth
 rowthie
+rowths
 rowthy
 royal
 royalist
@@ -47935,10 +48001,12 @@ sensitiser
 sensitisers
 sensitises
 sensitive
+sensitively
 sensitives
 sensitivist
 sensitivists
 sensitivities
+sensitory
 sensive
 sensor
 sensoria
@@ -48390,6 +48458,8 @@ shelterer
 shelterers
 shelters
 sheltie
+shelve
+shelves
 shen
 sherd
 shero
@@ -48435,6 +48505,7 @@ shiners
 shines
 shinier
 shiniest
+shinily
 shining
 shins
 shinty
@@ -48473,6 +48544,7 @@ shiver
 shiverer
 shiverers
 shivers
+shives
 shivs
 shlemiel
 shlep
@@ -48556,6 +48628,7 @@ shorties
 shortish
 shortlist
 shortlists
+shortly
 shorts
 shortstop
 shortstops
@@ -48588,6 +48661,7 @@ showgirl
 showie
 showies
 showiest
+showily
 showing
 showings
 showish
@@ -48596,6 +48670,7 @@ shown
 shows
 showtime
 showtimes
+showy
 shoyu
 shrank
 shrew
@@ -48657,6 +48732,8 @@ shuts
 shy
 shyer
 shyers
+shyest
+shyly
 shyster
 shysters
 sial
@@ -48836,6 +48913,8 @@ silted
 siltier
 siltiest
 silts
+siltstone
+siltstones
 silty
 siluroid
 siluroids
@@ -48904,6 +48983,7 @@ sinew
 sinewave
 sinewaves
 sinews
+sinewy
 sinfonia
 sinfonias
 sinful
@@ -49294,6 +49374,7 @@ sloven
 slovens
 slow
 slowest
+slowish
 slows
 slub
 slubs
@@ -49552,6 +49633,7 @@ snowcats
 snowcock
 snowcocks
 snowiest
+snowily
 snowing
 snowman
 snowmen
@@ -49566,6 +49648,7 @@ snowshoe
 snowshoes
 snowsuit
 snowsuits
+snowy
 snub
 snubs
 snuck
@@ -50994,6 +51077,8 @@ stonehatches
 stoner
 stoners
 stones
+stonewort
+stoneworts
 stonier
 stoniest
 stonily
@@ -51031,6 +51116,8 @@ stormy
 story
 storyboard
 storyboards
+storyline
+storylines
 stot
 stotin
 stotinki
@@ -51200,6 +51287,7 @@ strops
 stroud
 strove
 strow
+strown
 strows
 struck
 struct
@@ -51923,6 +52011,7 @@ swing
 swinging
 swingman
 swings
+swinish
 swipe
 swipes
 swirl
@@ -51936,6 +52025,7 @@ swishes
 swishest
 swishier
 swishiest
+swishy
 switch
 switches
 swither
@@ -51974,8 +52064,13 @@ sycons
 sycosis
 syed
 syeds
+syenite
+syenites
 sylph
 sylphs
+sylvine
+sylvinite
+sylvite
 symbioses
 symbiosis
 sympathy
@@ -52062,6 +52157,8 @@ systemises
 systemist
 systemists
 systems
+systole
+systoles
 systolic
 systyle
 systylious
@@ -52899,6 +52996,7 @@ teletheatre
 teletherapy
 telethermometer
 telethon
+telethons
 teletype
 teletyper
 televersities
@@ -52908,6 +53006,10 @@ televise
 televiser
 televises
 televisible
+television
+televisionist
+televisionists
+televisions
 telework
 telewrite
 telewriter
@@ -53014,6 +53116,7 @@ tenons
 tenor
 tenorini
 tenorino
+tenors
 tenotomies
 tenpin
 tenpins
@@ -53021,6 +53124,7 @@ tenrec
 tenrecs
 tens
 tense
+tensely
 tenser
 tenses
 tensest
@@ -53449,6 +53553,9 @@ thirties
 thirtieth
 thirty
 this
+thistle
+thistles
+thistly
 thither
 thitherto
 thithi
@@ -53558,6 +53665,9 @@ thrombosis
 thronal
 throne
 thronelet
+thronelets
+thronely
+thrones
 throng
 throning
 through
@@ -53575,6 +53685,7 @@ throw
 throwdown
 thrower
 throwin
+throwins
 thrown
 throws
 thru
@@ -54073,6 +54184,7 @@ toilet
 toileted
 toiletic
 toiletry
+toilets
 toilful
 toiling
 toilingly
@@ -54443,6 +54555,7 @@ toward
 towed
 towel
 toweled
+towels
 tower
 towered
 towie
@@ -54457,6 +54570,7 @@ townie
 townies
 townify
 townifying
+townish
 townlet
 townlets
 townling
@@ -55133,6 +55247,7 @@ trover
 troves
 trow
 trowel
+trowels
 trows
 troy
 troys
@@ -55503,6 +55618,7 @@ tweakers
 tweaks
 twelfth
 twelve
+twelves
 twenties
 twentieth
 twerk
@@ -55516,6 +55632,7 @@ twin
 twine
 twiner
 twines
+twiney
 twinging
 twining
 twink
@@ -57521,7 +57638,10 @@ violator
 violators
 violent
 violet
+violets
 violin
+violinist
+violinists
 violins
 violist
 violists
@@ -58218,6 +58338,9 @@ werwolf
 west
 westie
 westies
+westlin
+westlins
+westly
 wet
 weta
 wetas
@@ -58466,6 +58589,8 @@ winebar
 wined
 winedot
 winegrower
+winelist
+winelists
 winemaker
 winemakers
 winery
@@ -58579,6 +58704,7 @@ withes
 withies
 within
 without
+withy
 wits
 wive
 wived
@@ -58609,6 +58735,7 @@ woks
 wold
 wolf
 wolfs
+wolves
 woma
 woman
 womanise
@@ -58707,6 +58834,7 @@ worth
 worthful
 worthies
 worthiest
+worthily
 worthy
 wortle
 wortles
