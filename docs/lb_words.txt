@@ -5178,6 +5178,7 @@ ben
 bench
 benched
 bencher
+benching
 benchlet
 benchmen
 benchrest
@@ -5372,6 +5373,7 @@ bichir
 bichirs
 bichon
 bickies
+bicolor
 bicycle
 bicyclic
 bid
@@ -5407,6 +5409,7 @@ bigarades
 bigbone
 bigbreasted
 bigener
+bigeneric
 bigeye
 bigha
 bighas
@@ -5426,6 +5429,7 @@ bigram
 bigrams
 bigs
 bigtime
+bigwig
 bihon
 bikable
 bike
@@ -5523,6 +5527,7 @@ bioagent
 bioagents
 biobank
 biochar
+biochronologic
 biocompatible
 biodata
 biodome
@@ -5536,6 +5541,8 @@ biofuel
 biog
 biogas
 biogen
+biogeneric
+biogenic
 biogeny
 biograph
 biographist
@@ -5547,6 +5554,7 @@ bioherm
 bioimaging
 biolith
 bioliths
+biologic
 biologism
 biolytic
 biome
@@ -5563,6 +5571,7 @@ biopirate
 biopoesis
 biopsies
 bioreactor
+bioregion
 bios
 biose
 biosensor
@@ -5863,6 +5872,7 @@ blowie
 blowier
 blowies
 blowin
+blowing
 blowlamp
 blowlamps
 blown
@@ -6342,6 +6352,7 @@ bovines
 bow
 bowel
 bower
+bowering
 bowfin
 bowie
 bowies
@@ -6583,6 +6594,7 @@ brewer
 breweries
 brewers
 brewery
+brewing
 brews
 brewski
 brewskies
@@ -8343,6 +8355,7 @@ cereal
 cereals
 cerebra
 cerebral
+cerebri
 cerecloth
 ceremonies
 ceres
@@ -8713,6 +8726,7 @@ chewie
 chewier
 chewies
 chewiest
+chewing
 chews
 chewy
 chez
@@ -8761,6 +8775,7 @@ chided
 chider
 chief
 chiefs
+chignon
 chigoe
 chihuahua
 chihuahuas
@@ -8995,6 +9010,7 @@ chronicity
 chronicle
 chronicled
 chronograph
+chronologer
 chronology
 chronon
 chronons
@@ -10027,6 +10043,7 @@ conception
 conceptions
 concepts
 concern
+concerning
 concert
 concertante
 concerter
@@ -10116,6 +10133,7 @@ conga
 congaing
 conge
 congener
+congeneric
 congenial
 conger
 coni
@@ -10280,6 +10298,10 @@ conundrum
 conure
 conus
 convect
+convene
+convener
+convening
+convenor
 convert
 converter
 convict
@@ -10287,6 +10309,7 @@ convince
 convincer
 convincers
 convinces
+convincing
 convivial
 convo
 cony
@@ -10392,6 +10415,7 @@ corneitises
 cornel
 cornels
 corner
+cornering
 cornermen
 corners
 cornerstone
@@ -10408,6 +10432,7 @@ cornice
 cornices
 corniche
 cornichon
+cornicing
 cornier
 corniest
 cornily
@@ -10634,7 +10659,9 @@ cowbane
 cowed
 cower
 cowered
+cowering
 cowgirl
+cowing
 cowl
 cowlick
 cowls
@@ -13997,6 +14024,7 @@ ecology
 ecomuseum
 ecomuseums
 econ
+econiche
 economic
 economics
 economise
@@ -14009,6 +14037,7 @@ ecorat
 ecorats
 ecorche
 ecorches
+ecoregion
 ecoresort
 ecoresorts
 ecospace
@@ -14545,6 +14574,7 @@ encomium
 encore
 encored
 encores
+encoring
 encounter
 encroach
 encroacher
@@ -14635,6 +14665,7 @@ engird
 engirded
 englacial
 englobe
+englobing
 engorge
 engorgement
 engorging
@@ -15430,6 +15461,7 @@ evertors
 everts
 everwhen
 everwhere
+everwhich
 everwho
 everwhut
 every
@@ -15455,6 +15487,7 @@ evils
 evince
 evinced
 evincible
+evincing
 evirate
 evirates
 evite
@@ -18084,6 +18117,7 @@ ginger
 gingerale
 gingering
 gingerline
+gingerol
 ginges
 gingham
 ginghams
@@ -18232,6 +18266,9 @@ gloats
 glob
 global
 globe
+globigerine
+globin
+globing
 globular
 globule
 glocal
@@ -18259,7 +18296,9 @@ gloves
 gloving
 glow
 glower
+glowering
 glowier
+glowing
 glows
 glowy
 gloze
@@ -20114,8 +20153,10 @@ hies
 hifi
 hifis
 high
+highborn
 highboy
 highboys
+highbrow
 highchair
 highchairs
 higher
@@ -22334,6 +22375,7 @@ ionize
 ionizes
 ionizing
 ionogen
+ionogenic
 ionomer
 ionomers
 ionone
@@ -25301,6 +25343,7 @@ longdog
 longe
 longeing
 longer
+longeron
 longeval
 longfin
 longful
@@ -25309,6 +25352,7 @@ longhand
 longhorn
 longhorns
 longicone
+longicorn
 longie
 longifolene
 longing
@@ -25319,6 +25363,7 @@ longlining
 longly
 longneck
 longue
+longwing
 lonicera
 lop
 lope
@@ -25463,11 +25508,13 @@ lower
 lowerable
 lowerer
 lowerers
+lowering
 lowers
 lowery
 lowes
 lowest
 lowies
+lowing
 lowish
 lowkey
 lowland
@@ -32547,6 +32594,7 @@ obliteration
 obliterator
 oblivion
 oblivious
+oblong
 obloquial
 obnubilate
 obnubilation
@@ -32618,6 +32666,7 @@ ocelots
 och
 oche
 ocher
+ochering
 ocherous
 ochery
 oches
@@ -33629,6 +33678,7 @@ orocline
 oroclines
 orocratic
 orogen
+orogenic
 orogenital
 orographic
 orography
@@ -42597,6 +42647,7 @@ rebecome
 rebecomes
 rebecs
 rebeget
+rebegin
 rebegot
 rebel
 rebeldom
@@ -42651,6 +42702,7 @@ rebreather
 rebreathes
 rebred
 rebrew
+rebrewing
 rebrews
 rebribe
 rebribed
@@ -42762,6 +42814,7 @@ recheck
 recherche
 rechew
 rechewed
+rechewing
 rechose
 rechosen
 recidive
@@ -42833,10 +42886,12 @@ recoils
 recoin
 recoiner
 recoiners
+recoining
 recoins
 recolonise
 recolonises
 recolor
+recoloring
 recolors
 recolour
 recolte
@@ -42870,6 +42925,8 @@ reconfigure
 reconfine
 reconfining
 recons
+reconvene
+reconvening
 reconvert
 reconvict
 recopies
@@ -43269,6 +43326,8 @@ reglaze
 reglazes
 regle
 reglet
+reglow
+reglowing
 regma
 regmas
 regnal
@@ -44785,6 +44844,9 @@ reverdie
 reverdies
 revere
 revered
+reverence
+reverencer
+reverencing
 reverend
 reverendize
 reverends
@@ -44942,6 +45004,7 @@ rewaters
 reweave
 rewed
 rewend
+rewhirl
 rewild
 rewind
 rewirable
@@ -45039,6 +45102,7 @@ rhinion
 rhinions
 rhinitis
 rhino
+rhinocerine
 rhinodon
 rhinolith
 rhinoliths
@@ -57645,6 +57709,7 @@ violinists
 violins
 violist
 violists
+viologen
 violone
 violones
 viols
@@ -58273,6 +58338,7 @@ weber
 webers
 webinar
 webinars
+weblog
 webmail
 webring
 webrings
@@ -58318,6 +58384,7 @@ welts
 wen
 wench
 wencher
+wenching
 wend
 wended
 wendigo
@@ -58407,6 +58474,7 @@ whew
 whey
 which
 whichaway
+whichever
 whidah
 whies
 whift
@@ -58560,6 +58628,8 @@ wince
 wincer
 winch
 wincher
+winching
+wincing
 wind
 windage
 windbag
@@ -58723,6 +58793,7 @@ woady
 woah
 wodge
 woe
+woebegone
 woeful
 woes
 wogs
@@ -58735,6 +58806,7 @@ woks
 wold
 wolf
 wolfs
+wolverine
 wolves
 woma
 woman
@@ -58885,6 +58957,7 @@ wreck
 wrecker
 wren
 wrench
+wrenching
 wrens
 wrentit
 wrentits
