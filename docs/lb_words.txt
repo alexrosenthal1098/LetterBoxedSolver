@@ -693,6 +693,7 @@ acronymania
 acronymic
 acrophonetic
 acrophony
+acropolis
 acroscopic
 acrosin
 acrosomal
@@ -744,6 +745,7 @@ actinote
 actinozoan
 actinula
 action
+actional
 actioner
 actions
 actious
@@ -775,6 +777,8 @@ actors
 actory
 acts
 actual
+actualisation
+actualisations
 actualist
 actualistic
 actualists
@@ -785,6 +789,7 @@ actuate
 actuated
 actuates
 actuation
+actuations
 actuator
 actuators
 actus
@@ -2822,6 +2827,7 @@ antacid
 antagonal
 antalgic
 antalkali
+antanaclasis
 antanagoge
 antas
 antasthmatic
@@ -3627,6 +3633,8 @@ ascot
 ascots
 ascribe
 ascribes
+ascription
+ascriptions
 ascus
 asdic
 aseismic
@@ -3708,6 +3716,7 @@ aspire
 aspires
 aspirin
 aspirins
+asportation
 asprawl
 asps
 astable
@@ -3745,6 +3754,8 @@ astroids
 astroite
 astroites
 astrolatry
+astronaut
+astronauts
 astronomic
 astronomical
 astronomist
@@ -4053,6 +4064,7 @@ autolithographing
 autoload
 autolocate
 autolocator
+autolocators
 automaker
 automakers
 automat
@@ -4076,10 +4088,14 @@ autophony
 autophotograph
 autopiano
 autopilot
+autopilots
+autopista
+autopistas
 autorad
 autorads
 autorotate
 autorotation
+autorotations
 autoroute
 autos
 autosite
@@ -7333,6 +7349,7 @@ calculation
 calculations
 calculative
 calculator
+calculators
 calculi
 calculus
 calculuses
@@ -9519,6 +9536,7 @@ clonking
 clonky
 clonus
 clop
+clops
 close
 closer
 closers
@@ -9550,6 +9568,7 @@ clover
 clovers
 cloves
 clown
+clowns
 cloy
 cloys
 cloze
@@ -10173,6 +10192,10 @@ conscient
 conscientise
 conscients
 conscious
+conscript
+conscription
+conscriptional
+conscripts
 consent
 consentient
 consents
@@ -10211,6 +10234,7 @@ constitution
 constitutional
 constitutionalist
 constitutionalists
+constitutionals
 constitutions
 constrain
 constrains
@@ -10219,6 +10243,15 @@ constraints
 constrict
 constrictor
 constricts
+construal
+construals
+construct
+construction
+constructional
+constructions
+constructor
+constructors
+constructs
 consul
 consular
 consult
@@ -10227,6 +10260,7 @@ consultations
 consults
 contact
 contactor
+contactors
 contacts
 contadini
 contadino
@@ -10348,7 +10382,9 @@ copse
 copses
 copula
 copular
+copulas
 copulation
+copulations
 copy
 copycat
 coq
@@ -10437,12 +10473,16 @@ cornier
 corniest
 cornily
 cornrow
+cornrows
 corns
 cornstone
 cornstones
 cornu
 cornua
+cornual
 cornucopia
+cornucopian
+cornucopias
 cornus
 corny
 corona
@@ -10667,10 +10707,13 @@ cowlick
 cowls
 cowp
 cowpat
+cowps
 cowrie
 cowries
 cowrote
 cows
+cowslip
+cowslips
 cowtown
 cowtowns
 cox
@@ -11088,9 +11131,11 @@ crowler
 crowls
 crown
 crownal
+crownals
 crowner
 crownet
 crownlet
+crowns
 crows
 cru
 cruces
@@ -11341,6 +11386,7 @@ cupcake
 cupel
 cupid
 cupola
+cupolas
 cupric
 cupro
 cuprous
@@ -11423,6 +11469,7 @@ curtail
 curtails
 curtain
 curtal
+curtals
 curtana
 curtanas
 curtesies
@@ -23781,6 +23828,7 @@ lactate
 lactated
 lactates
 lactation
+lactational
 lacteal
 lacteals
 lactic
@@ -25197,6 +25245,7 @@ location
 locational
 locations
 locator
+locators
 locavore
 loch
 lochagos
@@ -25260,6 +25309,7 @@ locusts
 locution
 locutions
 locutor
+locutors
 locutory
 lode
 loden
@@ -25499,6 +25549,7 @@ lowboy
 lowbred
 lowbrow
 lowchen
+lowcut
 lowdown
 lowe
 lowed
@@ -30716,6 +30767,7 @@ nationalist
 nationalistic
 nationalists
 nationality
+nationals
 nationalty
 nationist
 nationists
@@ -31677,9 +31729,12 @@ noctilucal
 noctovision
 noctovisions
 noctua
+noctuas
 noctuid
 nocturia
 nocturn
+nocturnal
+nocturns
 nocuous
 nod
 nodal
@@ -31918,8 +31973,10 @@ nonsense
 nonsenses
 nonsensible
 nonsensities
+nonslip
 nonspecie
 nonspecific
+nonspiritual
 nonstick
 nonstop
 nonstruck
@@ -32201,6 +32258,8 @@ now
 nowaday
 noway
 noways
+nowcast
+nowcasts
 nowd
 nowder
 nowds
@@ -32349,6 +32408,7 @@ nunus
 nuoc
 nupa
 nuptial
+nuptials
 nuque
 nuques
 nuragh
@@ -33421,6 +33481,7 @@ optophone
 optronic
 opts
 opuntia
+opuntias
 opuntioid
 opus
 opuses
@@ -37342,6 +37403,9 @@ pianistics
 pianists
 piano
 pianola
+pianolas
+pianolist
+pianolists
 pianos
 pians
 piapiac
@@ -37511,7 +37575,9 @@ pilau
 pilaus
 pilch
 pilcorn
+pilcorns
 pilcrow
+pilcrows
 pile
 pilea
 piled
@@ -37541,11 +37607,13 @@ pilk
 piloerector
 pilomotor
 pilon
+pilons
 pilot
 pilotari
 piloted
 piloti
 piloting
+pilotis
 pilots
 pilous
 pilpul
@@ -37855,6 +37923,8 @@ piscation
 piscations
 piscator
 piscatorial
+piscatorian
+piscatorians
 piscators
 pisciculturist
 pisciculturists
@@ -37994,6 +38064,7 @@ placard
 placate
 placated
 placation
+placations
 place
 placeable
 placed
@@ -38093,6 +38164,7 @@ planographing
 planography
 planometer
 planont
+planonts
 plans
 planster
 plansters
@@ -38101,6 +38173,8 @@ plantable
 plantad
 plantain
 plantar
+plantation
+plantations
 planted
 planter
 planters
@@ -38119,6 +38193,7 @@ planulae
 planular
 planulate
 planulation
+planulations
 planus
 plap
 plaps
@@ -38142,6 +38217,8 @@ plastics
 plastin
 plastins
 plastral
+plastron
+plastrons
 plat
 platan
 platano
@@ -38316,6 +38393,7 @@ plinking
 plinth
 pliofilm
 pliotron
+pliotrons
 plip
 plips
 ploat
@@ -38472,6 +38550,7 @@ plutogog
 plutogogue
 pluton
 plutonium
+plutons
 plutonyl
 pluty
 pluvius
@@ -38706,6 +38785,8 @@ political
 politico
 politicos
 politics
+politist
+politists
 politizing
 polity
 polka
@@ -38918,6 +38999,7 @@ pontage
 pontal
 pontes
 pontil
+pontils
 pontine
 ponto
 pontonier
@@ -38974,7 +39056,9 @@ poptastic
 popular
 population
 populational
+populations
 populator
+populators
 populi
 populin
 populist
@@ -39046,6 +39130,7 @@ porno
 pornomania
 pornos
 pornotopia
+pornotopias
 porny
 porogamy
 poromeric
@@ -39134,6 +39219,7 @@ portmen
 portmote
 portolan
 portolano
+portolans
 portpiece
 portrait
 portraiting
@@ -39150,6 +39236,8 @@ ports
 portuis
 portulac
 portulaca
+portulacas
+portulacs
 portunid
 porty
 porus
@@ -39313,6 +39401,7 @@ potometer
 potpie
 potpies
 potplant
+potplants
 potrack
 potrero
 potro
@@ -40815,12 +40904,17 @@ pulsate
 pulsates
 pulsatile
 pulsatilities
+pulsation
+pulsational
+pulsations
 pulsator
 pulsators
 pulse
 pulsejet
 pulser
 pulses
+pulsion
+pulsions
 pulsive
 pult
 pultan
@@ -40961,6 +41055,7 @@ pups
 pupsie
 pupsies
 pupton
+puptons
 pupu
 pupuna
 pupunah
@@ -41008,6 +41103,7 @@ puristic
 purists
 puritan
 puritanic
+puritans
 purl
 purled
 purler
@@ -45602,6 +45698,11 @@ ritodrine
 ritornel
 ritual
 ritualia
+ritualias
+ritualisation
+ritualisations
+ritualist
+ritualists
 rituality
 ritualize
 rituals
@@ -46288,6 +46389,8 @@ rowable
 rowan
 rowans
 rowboat
+rowcast
+rowcasts
 rowdy
 rowed
 roweite
@@ -46402,6 +46505,7 @@ ruckus
 ruckuses
 rucola
 ructation
+ructations
 ruction
 ructions
 rud
@@ -46608,6 +46712,7 @@ rupias
 rupicapra
 ruptic
 ruption
+ruptions
 ruptive
 rupture
 ruptures
@@ -46988,6 +47093,8 @@ salut
 salutation
 salutational
 salutations
+salutatorian
+salutatorians
 salute
 salutes
 salvable
@@ -47248,6 +47355,8 @@ sates
 sati
 satiate
 satiates
+satiation
+satiations
 satiety
 satin
 satinet
@@ -47283,6 +47392,9 @@ saturate
 saturates
 saturation
 saturations
+saturnalia
+saturnalian
+saturnalias
 saturnic
 satyr
 satyriasis
@@ -47367,6 +47479,8 @@ sawlog
 sawlogs
 sawm
 sawn
+sawpit
+sawpits
 saws
 sax
 saxe
@@ -47622,6 +47736,7 @@ scopae
 scope
 scopes
 scops
+scopula
 scorch
 scorcher
 scorches
@@ -47755,6 +47870,10 @@ scuds
 sculp
 sculpin
 sculps
+sculpt
+sculptor
+sculptors
+sculpts
 scum
 scums
 scup
@@ -49138,6 +49257,9 @@ situ
 situate
 situated
 situates
+situation
+situational
+situations
 situs
 situses
 sitz
@@ -49710,6 +49832,8 @@ snowscape
 snowscapes
 snowshoe
 snowshoes
+snowslip
+snowslips
 snowsuit
 snowsuits
 snowy
@@ -50337,6 +50461,11 @@ spiritists
 spirito
 spiritous
 spirits
+spiritual
+spiritualisation
+spiritualist
+spiritualists
+spirituals
 spiritus
 spirometer
 spirometers
@@ -50394,6 +50523,7 @@ spoilsports
 spoilt
 spoke
 spokes
+spoliation
 spoliator
 spoliators
 sponge
@@ -50403,6 +50533,8 @@ spongiest
 spongin
 sponging
 spongins
+sponsalia
+sponsalias
 sponson
 sponsons
 sponsor
@@ -50420,7 +50552,11 @@ sportscar
 sportscars
 sportscast
 sportscasts
+sportula
+sportulas
 sporty
+sporulation
+sporulations
 sposa
 sposas
 sposh
@@ -51062,6 +51198,10 @@ stints
 stipe
 stipes
 stipites
+stipulation
+stipulations
+stipulator
+stipulators
 stir
 stirfries
 stirfry
@@ -51168,6 +51308,8 @@ store
 storer
 storers
 stores
+storiation
+storiations
 storier
 storiers
 stories
@@ -51291,6 +51433,8 @@ striata
 striatal
 striate
 striates
+striation
+striations
 stricken
 strict
 stricter
@@ -51360,6 +51504,7 @@ structure
 structurer
 structurers
 structures
+structurisation
 structurist
 structurists
 strum
@@ -52593,6 +52738,7 @@ tansu
 tansy
 tant
 tantalic
+tantalisation
 tantalise
 tantalises
 tantalite
@@ -54381,6 +54527,8 @@ tonking
 tonkotsu
 tonks
 tonometer
+tonoplast
+tonoplasts
 tons
 tonsil
 tonsils
@@ -54487,6 +54635,7 @@ torsels
 torses
 torsi
 torsion
+torsional
 torsk
 torsks
 torso
@@ -55203,6 +55352,7 @@ tritheist
 tritheists
 tritiated
 tritiation
+tritiations
 triticale
 tritium
 triton
@@ -55660,6 +55810,7 @@ tutorage
 tutorages
 tutored
 tutorial
+tutorials
 tutoring
 tutors
 tutorship
@@ -56308,6 +56459,7 @@ unlaunched
 unlaw
 unlawed
 unlawful
+unlaws
 unlay
 unlaying
 unleached
@@ -56512,11 +56664,14 @@ unpins
 unplacid
 unplain
 unplait
+unplaits
 unplan
 unplans
 unplant
 unplantable
+unplants
 unplat
+unplats
 unplausible
 unpleasable
 unpleasant
@@ -56689,6 +56844,7 @@ unsolvable
 unsound
 unsown
 unspent
+unspiritual
 unsprung
 unstep
 unsteps
@@ -56709,6 +56865,7 @@ unsuitable
 unsung
 unsure
 unsuspicious
+unsworn
 unt
 untack
 untag
@@ -56778,6 +56935,7 @@ upcast
 upcasts
 upchuck
 upchucks
+upcoast
 updation
 updo
 upend
@@ -56823,6 +56981,8 @@ upset
 upsets
 upshot
 upshots
+upsilon
+upsilons
 upsize
 upsizes
 upsizing
@@ -56843,6 +57003,7 @@ upthrown
 uptime
 upto
 uptown
+uptowns
 uptrend
 upturn
 upturning
@@ -57022,6 +57183,8 @@ utmost
 utopia
 utopian
 utopianizing
+utopians
+utopias
 utopic
 utricular
 utriculi
@@ -58043,6 +58206,7 @@ waiting
 waitlist
 waitlists
 waitron
+waitrons
 waits
 waive
 waived
@@ -58080,6 +58244,7 @@ walklets
 walkout
 walkway
 walnut
+walnuts
 wan
 wananchi
 wand
