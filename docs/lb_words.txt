@@ -217,6 +217,7 @@ abortive
 abortorium
 abortoriums
 aborts
+abortuary
 abortus
 aboulia
 aboulic
@@ -2715,10 +2716,12 @@ anglicizing
 angling
 angora
 angoras
+angostura
 angrez
 angrier
 angrily
 angry
+angst
 anguine
 angular
 angulate
@@ -2836,6 +2839,7 @@ ant
 anta
 antacid
 antagonal
+antagony
 antalgic
 antalkali
 antanaclasis
@@ -3388,6 +3392,7 @@ arginine
 argol
 argon
 argonaut
+argonauts
 argosies
 argosy
 argot
@@ -3733,6 +3738,7 @@ asportation
 asprawl
 asps
 astable
+astanga
 astarboard
 astasia
 astatic
@@ -3755,10 +3761,12 @@ astral
 astrantia
 astrantias
 astray
+astrobotany
 astrocyte
 astrocytes
 astrocytic
 astrogator
+astrognosy
 astrograph
 astrographs
 astrography
@@ -3790,6 +3798,7 @@ atap
 ataractic
 ataraxia
 ataraxic
+ataraxy
 atas
 atavism
 atavisms
@@ -3948,6 +3957,7 @@ augurism
 augurisms
 augurist
 augurists
+augurous
 augurs
 augury
 august
@@ -4063,6 +4073,7 @@ autodidact
 autodidactic
 autodidacts
 autoflare
+autogas
 autogeny
 autogony
 autograph
@@ -4121,6 +4132,7 @@ autotests
 autotomise
 autotomy
 autotray
+autotrays
 autotune
 autotypy
 autowind
@@ -4270,6 +4282,7 @@ axis
 axle
 axmen
 axon
+axons
 ayah
 ayahs
 aye
@@ -4600,6 +4613,7 @@ bane
 banes
 bang
 bangarang
+bangarangs
 banger
 banging
 bangle
@@ -4638,6 +4652,7 @@ banterer
 bants
 bantz
 banyan
+banyans
 banzai
 bao
 baobab
@@ -4663,6 +4678,7 @@ bar
 bara
 baraita
 barangay
+barangays
 barathea
 baraza
 barazas
@@ -4810,6 +4826,7 @@ bartsia
 bartsias
 barware
 baryon
+baryons
 baryta
 baryte
 barytes
@@ -6090,6 +6107,7 @@ bogman
 bogong
 bogongs
 bogs
+bogus
 bogy
 bohaun
 bohea
@@ -6425,6 +6443,7 @@ boy
 boyar
 boyars
 boyau
+boyaus
 boyband
 boybands
 boydom
@@ -7096,6 +7115,7 @@ bursts
 bursty
 burthen
 burton
+burtons
 bury
 burying
 bus
@@ -7179,6 +7199,8 @@ buy
 buyable
 buyer
 buyin
+buyout
+buyouts
 buys
 bwana
 bwanas
@@ -17725,6 +17747,7 @@ gang
 gangbang
 gangbanger
 gangbanging
+gangbangs
 ganger
 gangeril
 ganging
@@ -17750,6 +17773,8 @@ gangrening
 gangril
 gangs
 gangsman
+gangsta
+gangstas
 gangue
 ganja
 gank
@@ -17760,6 +17785,7 @@ ganoids
 gantlet
 gantline
 gantries
+gantry
 gaokao
 gaol
 gaoler
@@ -17804,6 +17830,7 @@ gardie
 garganey
 gargantua
 gargantuan
+gargantuas
 garget
 gargle
 gargled
@@ -18458,6 +18485,7 @@ gnash
 gnashing
 gnat
 gnathic
+gnats
 gnaw
 gnawing
 gnaws
@@ -18667,6 +18695,7 @@ gourde
 gourdful
 gourmet
 gout
+gouts
 gouty
 gove
 goved
@@ -18960,6 +18989,7 @@ groceteria
 grody
 grog
 grogan
+grogans
 grogram
 grogs
 groin
@@ -19057,11 +19087,15 @@ guan
 guanaco
 guanine
 guano
+guanos
+guans
 guanxi
 guar
 guarache
 guarana
+guaranas
 guarani
+guarantor
 guard
 guars
 guava
@@ -19184,6 +19218,7 @@ gushers
 gushier
 gushy
 gust
+gustatory
 gustier
 gusto
 gustoes
@@ -19203,6 +19238,8 @@ gutzers
 guv
 guy
 guying
+guyot
+guyots
 guys
 gweilo
 gweilos
@@ -31430,6 +31467,7 @@ ngaka
 ngakas
 ngapi
 ngarara
+ngararas
 ngawha
 ngawhas
 ngege
@@ -32280,6 +32318,7 @@ nougat
 nougatine
 nought
 noughth
+nougs
 nouja
 noumeite
 noumena
@@ -32364,6 +32403,7 @@ nowy
 nox
 noxa
 noxal
+noxas
 noy
 noyade
 noyau
@@ -33389,6 +33429,7 @@ ontic
 ontical
 onto
 ontogonies
+ontogony
 ontologizing
 ontonomies
 ontonomy
@@ -33598,6 +33639,10 @@ orang
 orange
 orangite
 orangs
+orangutan
+orangutang
+orangutangs
+orangutans
 orangy
 orans
 oranses
@@ -33727,6 +33772,7 @@ organoid
 organological
 organology
 organon
+organons
 organry
 organs
 organy
@@ -34186,6 +34232,8 @@ outbuild
 outbuilt
 outburst
 outbursts
+outbuy
+outbuys
 outcamp
 outcast
 outcasts
@@ -34319,9 +34367,11 @@ outrang
 outranging
 outrant
 outranting
+outrants
 outrate
 outrating
 outray
+outrays
 outre
 outreach
 outread
@@ -34347,6 +34397,7 @@ outrush
 outs
 outsail
 outsails
+outsang
 outsat
 outscore
 outscores
@@ -34391,6 +34442,8 @@ outstart
 outstarts
 outstation
 outstations
+outstay
+outstays
 outstep
 outsteps
 outstink
@@ -34782,6 +34835,8 @@ oxer
 oxers
 oxeye
 oxeyes
+oxgang
+oxgangs
 oxheal
 oxhide
 oxhouse
@@ -34806,6 +34861,7 @@ oxter
 oxters
 oxy
 oxys
+oxyurous
 oyabun
 oyakata
 oyama
@@ -41474,6 +41530,7 @@ quaere
 quaeres
 quag
 quagma
+quags
 quahaug
 quai
 quaich
@@ -41499,13 +41556,17 @@ qualm
 qualmy
 qualtagh
 qualy
+quango
+quangos
 quank
 quanks
 quant
+quanta
 quantic
 quantifier
 quanton
 quantons
+quants
 quantum
 quare
 quark
@@ -41958,6 +42019,7 @@ raglet
 raglin
 raglore
 ragout
+ragouts
 rags
 ragtag
 ragtail
@@ -42227,6 +42289,7 @@ rang
 ranga
 rangale
 rangant
+rangas
 range
 ranged
 rangeful
@@ -46655,6 +46718,7 @@ rugosas
 rugose
 rugous
 rugrat
+rugrats
 rugs
 rugulate
 rugulose
@@ -46896,6 +46960,7 @@ rusts
 rusty
 rut
 rutabaga
+rutabagas
 ruth
 ruthenate
 ruthenite
@@ -46942,6 +47007,8 @@ ryugi
 ryugis
 ryus
 sab
+sabayon
+sabayons
 saber
 sabering
 sabers
@@ -47046,6 +47113,8 @@ sages
 sago
 sagos
 sags
+saguaro
+saguaros
 sahab
 sahabs
 sahib
@@ -47307,6 +47376,7 @@ sang
 sanga
 sangam
 sangams
+sangar
 sangas
 sangh
 sangha
@@ -47488,6 +47558,8 @@ satrap
 satrapies
 satraps
 satrapy
+satsang
+satsangs
 satsuma
 satsumas
 saturant
@@ -47591,6 +47663,7 @@ saxe
 saxes
 saxist
 saxists
+saxony
 say
 saya
 sayas
@@ -50850,6 +50923,7 @@ stagers
 stages
 stagier
 stagiest
+stagnant
 stags
 stagy
 staid
@@ -51080,6 +51154,7 @@ stats
 statu
 statuarist
 statuarists
+statuary
 statue
 statued
 statues
@@ -51466,6 +51541,7 @@ strakes
 stramash
 strand
 strands
+strangury
 strap
 strapon
 straps
@@ -51589,6 +51665,7 @@ stromatic
 stromboli
 strombolis
 strong
+strongbox
 strongest
 strongpoint
 strongpoints
@@ -51809,6 +51886,8 @@ subminister
 submit
 submits
 submucous
+subnatant
+subnatants
 subnet
 subnets
 subnivean
@@ -51955,6 +52034,7 @@ sugan
 sugans
 sugar
 sugars
+sugary
 sugo
 sugos
 sugs
@@ -52416,6 +52496,7 @@ syncs
 syne
 synesthete
 synesthetes
+syngas
 synod
 synods
 synonym
@@ -52425,6 +52506,8 @@ synopsis
 synostosis
 synsacra
 synsacral
+syntax
+syntaxy
 synteny
 synth
 synthase
@@ -53047,6 +53130,7 @@ tautit
 tautliner
 tautly
 tautog
+tautogs
 tautoklin
 tautology
 tautomer
@@ -53088,6 +53172,7 @@ taximeters
 taxing
 taxis
 taxol
+taxon
 tayra
 tayras
 tbs
@@ -59343,6 +59428,7 @@ xvi
 xylan
 xylans
 xylem
+xystus
 yacht
 yachtie
 yachties
@@ -59354,6 +59440,7 @@ yada
 yag
 yage
 yagna
+yagnas
 yags
 yah
 yahs
@@ -59496,6 +59583,8 @@ yodeled
 yodeler
 yods
 yoga
+yogasana
+yogasanas
 yogh
 yoghourt
 yoghs
@@ -59506,6 +59595,7 @@ yogism
 yogist
 yogists
 yogurt
+yogurts
 yogurty
 yohah
 yohay
