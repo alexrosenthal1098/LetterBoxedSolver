@@ -788,13 +788,20 @@ acts
 actual
 actualisation
 actualisations
+actualise
+actualises
+actualism
+actualisms
 actualist
 actualistic
 actualists
 actualite
 actuality
+actualize
+actualizes
 actuarial
 actuarian
+actuaries
 actuate
 actuated
 actuates
@@ -1340,6 +1347,8 @@ afterbirth
 afterburn
 aftercabin
 aftercare
+aftercast
+aftercasts
 afterfeather
 afterheat
 afterlife
@@ -1822,6 +1831,7 @@ alabaster
 alaborate
 alack
 alacrative
+alacrifies
 alacritive
 alacritous
 alacrity
@@ -2168,6 +2178,7 @@ almoner
 almonry
 almost
 alms
+almsful
 almsman
 almucabala
 almug
@@ -2296,6 +2307,7 @@ altoists
 altos
 altostratus
 altricial
+altruism
 altruist
 altruistic
 altruists
@@ -2392,6 +2404,7 @@ amatriciana
 amaurosis
 amaurotic
 amaze
+amazes
 amazon
 amazons
 ambatch
@@ -3463,12 +3476,15 @@ armer
 armers
 armet
 armets
+armful
+armfuls
 armied
 armies
 armiger
 armigeral
 armigers
 armil
+armils
 arming
 armlet
 armlets
@@ -4039,6 +4055,8 @@ autarkist
 autarkists
 autecology
 auteur
+auteurism
+auteurist
 auteurs
 auth
 authentic
@@ -7290,6 +7308,7 @@ cacoethes
 cacology
 cacti
 cactus
+cactuses
 cacuminal
 cad
 cadence
@@ -7358,6 +7377,7 @@ calabazas
 caladium
 calamanco
 calamansi
+calamares
 calamari
 calamaro
 calami
@@ -7386,6 +7406,7 @@ calcific
 calcification
 calcifications
 calcified
+calcifies
 calcifuge
 calcify
 calcination
@@ -7443,6 +7464,8 @@ calker
 calks
 calm
 calmed
+calmer
+calmest
 calmly
 calmodulin
 calms
@@ -7489,6 +7512,11 @@ camels
 cameo
 cameos
 camera
+cameral
+cameralism
+cameralisms
+cameralist
+cameralists
 cameraman
 cameramen
 cameras
@@ -7496,6 +7524,7 @@ camerata
 cameratas
 camerate
 cameriere
+camerieres
 camerist
 camerists
 cames
@@ -7882,6 +7911,7 @@ careworkers
 careworn
 carex
 carfare
+carfares
 carful
 carfuls
 cargo
@@ -7992,6 +8022,7 @@ carter
 carters
 cartes
 cartful
+cartfuls
 cartilage
 cartload
 cartolina
@@ -8062,6 +8093,8 @@ cast
 castanet
 castanets
 caste
+casteism
+casteisms
 casteist
 caster
 casters
@@ -8085,6 +8118,8 @@ casts
 casual
 casualise
 casualises
+casualize
+casualizes
 casuals
 casualties
 casualty
@@ -8251,6 +8286,11 @@ causey
 caustic
 causticity
 caustics
+cauteries
+cauterise
+cauterises
+cauterize
+cauterizes
 cautery
 caution
 cautions
@@ -8354,6 +8394,7 @@ cels
 celsian
 celt
 celts
+cemeteries
 cenacle
 cenospecies
 cenospecieses
@@ -9406,10 +9447,12 @@ claqueur
 claqueurs
 clarence
 claret
+clarets
 claries
 clarification
 clarifications
 clarifier
+clarifies
 clarion
 clarions
 clarkia
@@ -9430,6 +9473,8 @@ claudication
 clausal
 clause
 clauses
+claustra
+claustral
 clausum
 clausus
 clavate
@@ -9516,6 +9561,9 @@ clifties
 clifty
 climacter
 climacteric
+climacterical
+climacterics
+climacteries
 climactic
 climatal
 climatic
@@ -9667,6 +9715,7 @@ clung
 clunge
 clunk
 clunking
+cluster
 clutch
 clutcher
 clype
@@ -10914,6 +10963,11 @@ crayons
 craypot
 craypots
 crays
+craze
+crazes
+crazier
+crazies
+craziest
 crazily
 crazing
 crazy
@@ -10927,7 +10981,9 @@ creamer
 creameries
 creamers
 creamier
+creamiest
 creamily
+creams
 creamware
 creamy
 creance
@@ -10958,6 +11014,7 @@ crein
 crema
 cremains
 cremaster
+cremasteric
 cremasters
 cremate
 cremates
@@ -11239,9 +11296,12 @@ cruet
 cruets
 cruft
 cruise
+cruiser
 cruises
 cruisie
+cruisier
 cruisies
+cruisiest
 cruisy
 crumb
 crumbies
@@ -11700,6 +11760,7 @@ cytophilic
 cytotrophy
 czar
 czarina
+czarism
 czarist
 czarists
 czars
@@ -14000,6 +14061,7 @@ eardrop
 eardrum
 eared
 earful
+earfuls
 earhole
 earing
 earl
@@ -14205,6 +14267,7 @@ ecu
 ecumene
 ecumenical
 ecus
+eczema
 edacity
 edamame
 edema
@@ -15298,6 +15361,7 @@ erythrocytes
 erythrocytic
 escalate
 escalates
+escalier
 escape
 escaper
 escapes
@@ -15342,6 +15406,7 @@ estate
 estates
 ester
 esterase
+esterifies
 esters
 esthesia
 esthesic
@@ -15376,6 +15441,9 @@ estrous
 estrual
 estrum
 estrus
+estuaries
+estufa
+estufas
 esurient
 eta
 etagere
@@ -15914,6 +15982,8 @@ facelift
 facer
 facers
 faces
+facet
+facets
 facework
 faceworker
 faceworkers
@@ -15943,7 +16013,12 @@ factive
 facto
 factoid
 factor
+factrices
+facts
 factual
+factualism
+factualist
+factualists
 facture
 facula
 faculae
@@ -16025,6 +16100,7 @@ fale
 fales
 false
 falsely
+falser
 falsest
 falsies
 falsifier
@@ -16051,6 +16127,9 @@ familic
 families
 familism
 familist
+familistere
+familisteres
+familisteries
 famine
 famish
 famous
@@ -16097,6 +16176,7 @@ farang
 faraway
 farce
 farces
+farceur
 farcical
 farcy
 fard
@@ -16117,6 +16197,7 @@ farmans
 farmed
 farmer
 farmers
+farms
 faro
 farofa
 farolito
@@ -16148,6 +16229,7 @@ fascines
 fascio
 fascios
 fascis
+fascism
 fascist
 fascista
 fascistas
@@ -16165,6 +16247,7 @@ fastener
 fasteners
 fastens
 faster
+fastest
 fastie
 fasts
 fat
@@ -16241,6 +16324,7 @@ fays
 faze
 fazed
 fazenda
+fazes
 fazing
 fear
 feard
@@ -16453,8 +16537,10 @@ fieldguide
 fieldtrip
 fierce
 fiercer
+fiercest
 fieri
 fierier
+fieriest
 fierily
 fiery
 fiesta
@@ -16516,6 +16602,15 @@ filmed
 filmer
 filmgoer
 filmi
+filmic
+filmier
+filmiest
+filmise
+filmize
+filmizes
+films
+filmset
+filmsets
 filmy
 filo
 filon
@@ -16615,9 +16710,12 @@ fire
 fireable
 firearm
 firearmed
+firearms
 firebed
 firebird
 firebug
+firecrest
+firecrests
 fired
 firedamp
 firedog
@@ -16628,6 +16726,7 @@ firelight
 fireline
 firelit
 fireman
+firemaster
 firemen
 firenado
 firepit
@@ -16645,7 +16744,9 @@ firman
 firmans
 firmed
 firmer
+firmest
 firmly
+firms
 firmware
 firn
 firni
@@ -16656,6 +16757,7 @@ firth
 firths
 fisc
 fiscal
+fiscals
 fiscs
 fish
 fisher
@@ -16679,6 +16781,7 @@ fistfuls
 fistic
 fists
 fistula
+fistulae
 fistular
 fistulas
 fistulous
@@ -17222,6 +17325,7 @@ fracks
 fractal
 fracture
 fractured
+fractures
 frae
 frag
 fragile
@@ -17241,6 +17345,8 @@ frameas
 framed
 framer
 frames
+frameset
+framesets
 frameup
 framis
 frampold
@@ -17301,6 +17407,7 @@ fried
 frier
 fries
 frieze
+friezes
 frig
 fright
 frightful
@@ -17427,9 +17534,11 @@ fuglier
 fugu
 fugue
 fuhrer
+fuilzie
 fulcra
 fulcral
 fulcre
+fulcres
 fulfil
 fulfils
 fulgor
@@ -17590,6 +17699,10 @@ futurism
 futurist
 futuristic
 futurists
+futz
+futzes
+fuze
+fuzes
 fyke
 fykes
 fylfot
@@ -21211,6 +21324,7 @@ ice
 icecap
 icecaps
 icecream
+icecreams
 icecrete
 iced
 iceman
@@ -23885,6 +23999,7 @@ lacerable
 lacerant
 lacerate
 lacerative
+laceries
 lacers
 lacertian
 lacertid
@@ -24054,6 +24169,8 @@ lament
 lamentable
 lamer
 lames
+lamest
+lamestream
 lamia
 lamiae
 lamias
@@ -24377,11 +24494,13 @@ lays
 layup
 lazar
 lazaret
+lazarets
 lazars
 laze
 lazed
 lazes
 lazier
+laziest
 lazily
 lazing
 lazuli
@@ -25896,6 +26015,7 @@ lutist
 lutists
 lutung
 lutz
+lutzes
 luv
 luvs
 lux
@@ -25964,6 +26084,8 @@ macaque
 macarise
 macarism
 macarisms
+macarize
+macarizes
 macaron
 macaroni
 macaronic
@@ -25974,6 +26096,8 @@ macaws
 mace
 maced
 macer
+maceral
+macerals
 macerate
 macers
 maces
@@ -26105,6 +26229,7 @@ maenol
 maenor
 maenors
 maerl
+maerls
 maeshie
 maeshies
 maestri
@@ -26491,6 +26616,7 @@ mamparas
 mampelon
 mampoer
 mams
+mamzer
 man
 mana
 manable
@@ -26916,6 +27042,8 @@ marmaladed
 marmalise
 marmalised
 marmalises
+marmalize
+marmalizes
 marmas
 marmatite
 marmatites
@@ -27052,6 +27180,7 @@ masterates
 mastered
 masterer
 masterers
+masterful
 masters
 mastic
 mastica
@@ -27295,8 +27424,12 @@ mazars
 mazas
 maze
 mazel
+mazer
+mazes
 mazet
 mazets
+mazier
+maziest
 mazily
 mazout
 mazula
@@ -27334,7 +27467,9 @@ meaks
 meal
 mealie
 mealiepap
+mealier
 mealies
+mealiest
 mealing
 mealman
 mealmen
@@ -27354,7 +27489,12 @@ meantone
 meany
 measle
 measles
+measlier
+measliest
 measly
+measure
+measurer
+measures
 meat
 meatal
 meateater
@@ -27698,9 +27838,14 @@ merc
 mercenaries
 mercer
 merceries
+mercerise
+mercerises
+mercerize
+mercerizes
 mercers
 merch
 mercies
+merciful
 mercs
 mercurate
 mercurates
@@ -27715,6 +27860,7 @@ meres
 merese
 mereses
 merest
+meretrices
 meretrix
 merge
 merged
@@ -27780,6 +27926,10 @@ mesarch
 mesas
 mesc
 mesca
+mescal
+mescalism
+mescalisms
+mescals
 mese
 mesem
 mesemb
@@ -27801,6 +27951,17 @@ mesitite
 mesitites
 mesitoate
 mesitoates
+mesmeric
+mesmerical
+mesmerise
+mesmeriser
+mesmerises
+mesmerism
+mesmerist
+mesmerists
+mesmerize
+mesmerizer
+mesmerizes
 mesne
 mesochil
 mesocolic
@@ -28008,14 +28169,21 @@ metres
 metrete
 metretes
 metric
+metrical
 metricate
 metricist
 metricists
+metricize
+metricizes
 metrics
+metricses
+metrifies
 metrise
 metrist
 metrists
 metritis
+metrize
+metrizes
 metro
 metron
 metronome
@@ -28034,6 +28202,7 @@ meum
 meums
 meuniere
 meurtriere
+meurtrieres
 meus
 mew
 mewed
@@ -28043,8 +28212,11 @@ mewled
 mewling
 mewls
 mews
+mezcal
+mezcals
 meze
 mezereum
+mezes
 mezuza
 mezuzas
 mgal
@@ -28368,6 +28540,7 @@ milters
 milts
 milty
 miltz
+miltzes
 milver
 milvers
 mim
@@ -28638,6 +28811,7 @@ mires
 mirex
 mirid
 mirids
+mirific
 mirin
 miring
 miriti
@@ -28753,6 +28927,10 @@ misery
 misestimate
 misestimated
 misestimates
+misfare
+misfares
+misfire
+misfires
 misform
 misgauge
 mish
@@ -28804,7 +28982,10 @@ mismayed
 mismays
 mismean
 mismeans
+mismeasure
+mismeasures
 mismetre
+mismetres
 mismove
 mismoves
 misname
@@ -28872,6 +29053,7 @@ mister
 misterm
 misterms
 misters
+mistful
 mistier
 mistiest
 mistime
@@ -28892,6 +29074,7 @@ mistries
 mistrust
 mistruster
 mistrusters
+mistrustful
 mistrusts
 mistry
 mists
@@ -28978,6 +29161,9 @@ miya
 miyas
 miz
 mizen
+mizes
+mizmaze
+mizmazes
 mkay
 mlungu
 mneme
@@ -41836,6 +42022,8 @@ racemise
 racemises
 racemism
 racemisms
+racemize
+racemizes
 racer
 racers
 races
@@ -42444,6 +42632,9 @@ rasamalas
 rasant
 rasas
 rascal
+rascalism
+rascalisms
+rascalries
 rascalry
 rascals
 rase
@@ -42472,6 +42663,9 @@ rasterised
 rasteriser
 rasterisers
 rasterises
+rasterize
+rasterizer
+rasterizes
 rasters
 raston
 rastons
@@ -42781,6 +42975,7 @@ realists
 realities
 realize
 realizer
+realizes
 realm
 realms
 realo
@@ -42824,6 +43019,7 @@ rearises
 rearling
 rearm
 rearmed
+rearmice
 rearmouse
 rearms
 rearose
@@ -43108,6 +43304,8 @@ reck
 reckon
 reckoner
 recks
+reclame
+reclames
 reclang
 reclanging
 reclear
@@ -43124,6 +43322,7 @@ reclose
 recloses
 reclothe
 recluse
+recluseries
 recluses
 reco
 recoal
@@ -43249,6 +43448,7 @@ rectory
 rectos
 rectrices
 rectrix
+rectus
 recue
 recueil
 recueils
@@ -44009,6 +44209,8 @@ rembetic
 rembetis
 remble
 remeant
+remeasure
+remeasures
 remede
 remedial
 remedied
@@ -44483,10 +44685,15 @@ rerouted
 rerun
 reruns
 res
+resacralise
+resacralize
+resacralizes
 resalable
 resaladar
 resale
 resaleable
+resalute
+resalutes
 resam
 resams
 resang
@@ -44503,6 +44710,7 @@ rescinds
 rescore
 rescores
 rescream
+rescreams
 rescript
 rescripts
 rescue
@@ -44535,6 +44743,10 @@ resedas
 resegregate
 resegregated
 resegregates
+reseize
+reseizes
+reseizure
+reseizures
 reselect
 reselection
 reselections
@@ -44778,12 +44990,17 @@ resuck
 resucks
 resue
 resues
+result
+resultful
+results
 resume
 resumer
 resumers
 resumes
 resunk
 resupine
+resurface
+resurfaces
 resurge
 resurges
 reswarm
@@ -45020,6 +45237,7 @@ retune
 retuned
 retunes
 returf
+returfs
 return
 returnable
 returnal
@@ -45545,6 +45763,7 @@ ricordo
 ricrac
 rictal
 rictus
+rictuses
 rid
 ridable
 ride
@@ -46895,6 +47114,8 @@ ruralist
 ruralists
 ruralite
 rurality
+ruralize
+ruralizes
 ruralizing
 rurban
 rurbanism
@@ -47056,9 +47277,13 @@ sacral
 sacralisation
 sacralise
 sacralises
+sacralize
+sacralizes
 sacraria
 sacrarium
 sacre
+sacrifice
+sacrifices
 sacrist
 sacristan
 sacristans
@@ -47269,6 +47494,7 @@ salutations
 salutatorian
 salutatorians
 salute
+saluter
 salutes
 salvable
 salve
@@ -47759,6 +47985,7 @@ scarier
 scariest
 scarification
 scarifications
+scarifier
 scarifies
 scarily
 scarp
@@ -47993,6 +48220,7 @@ scrawls
 scream
 screamer
 screamers
+screams
 screw
 screwcap
 screwcaps
@@ -48091,6 +48319,8 @@ sealcoats
 sealed
 sealer
 sealers
+sealift
+sealifts
 sealion
 sealions
 seals
@@ -48228,12 +48458,16 @@ seismal
 seismic
 seismical
 seitan
+seiza
 seize
+seizer
 seizes
 seizin
 seizing
 seizings
 seizins
+seizure
+seizures
 sejant
 sekach
 sekaches
@@ -49247,6 +49481,7 @@ silicic
 siliciclastic
 silicification
 silicifications
+silicifies
 silicify
 silicious
 silicon
@@ -49786,6 +50021,7 @@ smart
 smartarse
 smartarses
 smarter
+smartest
 smarties
 smartism
 smartisms
@@ -49796,6 +50032,10 @@ smashing
 smashup
 smashups
 smaze
+smear
+smearer
+smearier
+smeariest
 smeg
 smegma
 smeik
@@ -49848,6 +50088,7 @@ smiths
 smithum
 smithy
 smize
+smizes
 smock
 smocks
 smog
@@ -51272,6 +51513,9 @@ sterilised
 steriliser
 sterilisers
 sterilises
+sterilize
+sterilizer
+sterilizes
 sterlet
 sterlets
 stern
@@ -51592,6 +51836,7 @@ streakier
 streakiest
 streaks
 stream
+streamer
 streams
 strep
 streps
@@ -51621,6 +51866,8 @@ stricter
 strictest
 strictly
 stricto
+stricture
+strictures
 stridor
 stridulous
 strife
@@ -52088,6 +52335,7 @@ sultanas
 sultanate
 sultanates
 sultans
+sultrier
 sultriest
 sultrily
 sultry
@@ -52239,9 +52487,14 @@ surest
 sureties
 surety
 surf
+surface
+surfacer
+surfaces
 surfari
 surfaris
+surfcaster
 surfie
+surfies
 surfs
 surfusion
 surfusions
@@ -55259,6 +55512,7 @@ treacheries
 treachery
 treacle
 treaclier
+treacliest
 treacly
 tread
 treaded
@@ -55267,6 +55521,8 @@ treadle
 treasure
 treasurer
 treasurers
+treasures
+treasuries
 treat
 treatable
 treated
@@ -55380,6 +55636,7 @@ tributarily
 tributary
 tribute
 tributes
+tricameral
 tricar
 tricars
 tricast
@@ -55474,9 +55731,12 @@ trimarans
 trimer
 trimeric
 trimers
+trimester
+trimestral
 trimeter
 trimeters
 trimetric
+trimetrical
 trimix
 trimly
 trimpot
@@ -55833,6 +56093,8 @@ tuitions
 tuktuk
 tuktuks
 tukutuku
+tularaemic
+tularemic
 tule
 tules
 tulip
@@ -55942,6 +56204,7 @@ turista
 turkey
 turkeys
 turlough
+turmeric
 turmoil
 turn
 turnabout
@@ -56127,6 +56390,7 @@ tyros
 tystie
 tysties
 tzar
+tzarism
 tzarist
 tzarists
 tzars
@@ -56198,15 +56462,20 @@ ultracareful
 ultracritical
 ultradian
 ultrafast
+ultrafaster
+ultrafastest
+ultrafilter
 ultrafiltration
 ultraist
 ultraists
+ultramafic
 ultramarathon
 ultranationalist
 ultranationalistic
 ultranationalists
 ultras
 ultrasaurus
+ultrasauruses
 ultrashort
 ultrasonic
 ultrasonics
@@ -57228,6 +57497,7 @@ upwind
 uracil
 uraei
 uraemia
+uraemic
 uraeus
 uramil
 uranage
@@ -59750,6 +60020,7 @@ zeros
 zes
 zest
 zester
+zestful
 zestier
 zestiest
 zests
