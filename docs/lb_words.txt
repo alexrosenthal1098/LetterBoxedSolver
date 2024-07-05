@@ -68,6 +68,7 @@ abatons
 abator
 abators
 abature
+abatures
 abaxile
 abaya
 abayas
@@ -324,6 +325,7 @@ abthane
 abthanerie
 abud
 abuela
+abuelas
 abuelita
 abuelo
 abujad
@@ -334,13 +336,16 @@ abura
 aburas
 aburn
 aburst
+abusable
 abusage
 abusages
 abuse
 abused
 abuser
+abusers
 abuses
 abusive
+abustle
 abut
 abutilon
 abuts
@@ -1978,6 +1983,7 @@ alembicate
 alembicated
 aleph
 alerce
+alerces
 alerion
 alert
 alerter
@@ -2167,6 +2173,7 @@ almariole
 almariols
 almeh
 almemar
+almemars
 almemor
 almightily
 almighty
@@ -2423,6 +2430,8 @@ ambits
 ambivalence
 amble
 ambled
+ambler
+amblers
 ambles
 ambo
 ambones
@@ -2436,6 +2445,7 @@ ambulance
 ambulanced
 ambulate
 ambulated
+ambulates
 ambush
 amdram
 ameba
@@ -2452,6 +2462,7 @@ amens
 ament
 amentia
 amerce
+amerceable
 amerces
 amethyst
 amethysts
@@ -2526,6 +2537,7 @@ amphora
 amping
 ample
 ampler
+amplest
 amply
 amps
 ampul
@@ -4583,6 +4595,8 @@ balti
 baltis
 balun
 baluns
+baluster
+balusters
 balut
 baluts
 bam
@@ -4739,6 +4753,7 @@ barbola
 barbotine
 barbs
 barbule
+barbules
 barbwire
 barcarole
 barchan
@@ -4941,6 +4956,7 @@ bateau
 bateaux
 bated
 bateleur
+bateleurs
 bates
 batfish
 batgirl
@@ -5832,10 +5848,15 @@ blarney
 blase
 blast
 blasted
+blastema
+blastemal
+blastemas
+blastemata
 blaster
 blasters
 blasts
 blastula
+blastulae
 blastulas
 blat
 blatant
@@ -5979,6 +6000,8 @@ blues
 bluesiest
 bluesman
 bluest
+bluestem
+bluestems
 bluestone
 bluestones
 bluet
@@ -6008,6 +6031,9 @@ blush
 blushed
 bluster
 blusterer
+blusterers
+blusters
+blustery
 boa
 boab
 boabs
@@ -6642,6 +6668,8 @@ breast
 breasted
 breastpin
 breastpins
+breastplate
+breastplates
 breasts
 breath
 breathe
@@ -7004,6 +7032,9 @@ bum
 bumbag
 bumble
 bumbled
+bumbler
+bumblers
+bumbles
 bumbling
 bumboat
 bumboats
@@ -7014,7 +7045,11 @@ bumped
 bumper
 bumpier
 bumping
+bumps
+bumpy
 bums
+bumster
+bumsters
 bun
 bunce
 bunch
@@ -7056,6 +7091,7 @@ bur
 burb
 burble
 burbler
+burblers
 burbles
 burbling
 burbot
@@ -7097,6 +7133,7 @@ burkes
 burks
 burl
 burlap
+burlaps
 burley
 burlier
 burls
@@ -7129,6 +7166,8 @@ burse
 burses
 bursitis
 burst
+burster
+bursters
 bursts
 bursty
 burthen
@@ -7177,10 +7216,13 @@ bustard
 bustards
 busted
 buster
+busters
 bustian
 bustians
 bustiest
 bustle
+bustler
+bustlers
 bustles
 busts
 busty
@@ -7200,6 +7242,7 @@ buteos
 butle
 butled
 butler
+butlers
 butlery
 butles
 butling
@@ -7212,10 +7255,12 @@ butylate
 butylation
 butylene
 butyrate
+butyrates
 butyrin
 buy
 buyable
 buyer
+buyers
 buyin
 buyout
 buyouts
@@ -7233,6 +7278,7 @@ byline
 byname
 bypath
 bypaths
+byplay
 byre
 byres
 byrnie
@@ -8395,6 +8441,7 @@ celsian
 celt
 celts
 cemeteries
+cemetery
 cenacle
 cenospecies
 cenospecieses
@@ -9426,6 +9473,7 @@ clam
 clamor
 clamour
 clamp
+clamps
 clams
 clan
 clang
@@ -9505,12 +9553,15 @@ clearcole
 clearcut
 cleared
 clearer
+clearers
+clearest
 clearheaded
 clearing
 clearly
 clears
 cleat
 cleated
+cleats
 cleave
 cleaver
 clef
@@ -9696,6 +9747,7 @@ clubfaces
 clubland
 clubman
 clubmate
+clubmates
 clubmen
 clubrush
 clubs
@@ -9710,12 +9762,15 @@ cluey
 cluier
 cluiest
 clump
+clumps
+clumpy
 clunch
 clung
 clunge
 clunk
 clunking
 cluster
+clusters
 clutch
 clutcher
 clype
@@ -10857,6 +10912,7 @@ cozes
 cozy
 crab
 crabeater
+crabmeat
 crabs
 crack
 crackajack
@@ -10980,6 +11036,7 @@ cream
 creamer
 creameries
 creamers
+creamery
 creamier
 creamiest
 creamily
@@ -10990,6 +11047,7 @@ creance
 creances
 crease
 creases
+creatable
 creatal
 create
 created
@@ -11309,6 +11367,7 @@ crumble
 crumbles
 crumblies
 crumbs
+crumby
 crumhorn
 crump
 crumple
@@ -11373,6 +11432,7 @@ crypsis
 crypsises
 crypt
 crypta
+cryptal
 cryptarch
 cryptarches
 cryptarchies
@@ -11708,10 +11768,13 @@ cybrary
 cybrid
 cycad
 cycads
+cyclamate
+cyclamates
 cyclase
 cycle
 cycled
 cycler
+cyclers
 cyclery
 cycles
 cycleway
@@ -11731,6 +11794,7 @@ cylindroid
 cyma
 cymae
 cymas
+cymbal
 cyme
 cymes
 cynanthropy
@@ -11741,6 +11805,8 @@ cynodont
 cynodonts
 cyphel
 cypher
+cypsela
+cypselae
 cyst
 cystic
 cystitis
@@ -14093,6 +14159,7 @@ earphone
 earpiece
 earpieces
 ears
+earsay
 earth
 earthboard
 earthen
@@ -14554,6 +14621,9 @@ emanator
 emancipist
 emancipists
 embalm
+embalmer
+embalmers
+embalms
 embay
 embayed
 embays
@@ -14579,6 +14649,8 @@ embosomed
 embrace
 embraceable
 embracer
+embrasure
+embrasures
 embroil
 embrue
 embus
@@ -14664,6 +14736,8 @@ empirie
 empiries
 emplane
 emplanes
+emplaster
+emplasters
 emplume
 emplumed
 emplumes
@@ -14695,8 +14769,17 @@ emptor
 emptors
 empts
 empty
+empurple
+empurples
 empusa
 empusas
+empyema
+empyemas
+empyreal
+empyreum
+empyreuma
+empyreumas
+empyreums
 empyroses
 empyrosis
 ems
@@ -24153,8 +24236,11 @@ lam
 lama
 lamas
 lamaseries
+lamasery
 lamb
 lambast
+lambaste
+lambastes
 lambasts
 lambda
 lambed
@@ -24168,6 +24254,7 @@ lamed
 lament
 lamentable
 lamer
+lamers
 lames
 lamest
 lamestream
@@ -24189,6 +24276,7 @@ lamish
 lamium
 lamiums
 lamp
+lampas
 lampblack
 lamped
 lamper
@@ -24265,6 +24353,7 @@ lapis
 laps
 lapse
 lapses
+lapsus
 laptop
 laptops
 lapwing
@@ -24487,11 +24576,13 @@ layaway
 layaways
 layby
 layer
+layers
 laying
 layman
 layout
 lays
 layup
+layups
 lazar
 lazaret
 lazarets
@@ -24729,6 +24820,8 @@ lemon
 lemons
 lempira
 lemur
+lemures
+lemurs
 lend
 lends
 length
@@ -25974,6 +26067,7 @@ lush
 lushed
 lust
 luster
+lusters
 lustful
 lustiest
 lustily
@@ -27125,6 +27219,8 @@ mascaret
 mascarets
 mascaron
 mascarons
+mascle
+mascles
 mascon
 mascons
 mascot
@@ -27182,6 +27278,7 @@ masterer
 masterers
 masterful
 masters
+mastery
 mastic
 mastica
 masticha
@@ -27196,6 +27293,8 @@ mastoiditis
 mastoids
 mastopathy
 masts
+masturbate
+masturbates
 masty
 masu
 masula
@@ -27316,6 +27415,7 @@ matsus
 matsutake
 matuku
 matukus
+maturable
 maturase
 maturases
 maturate
@@ -27492,8 +27592,11 @@ measles
 measlier
 measliest
 measly
+measurable
+measurables
 measure
 measurer
+measurers
 measures
 meat
 meatal
@@ -27714,6 +27817,7 @@ meltable
 melted
 meltemi
 melter
+melters
 meltier
 meltiest
 melton
@@ -27725,6 +27829,7 @@ member
 membered
 members
 membra
+membral
 membrum
 meme
 memento
@@ -27843,12 +27948,14 @@ mercerises
 mercerize
 mercerizes
 mercers
+mercery
 merch
 mercies
 merciful
 mercs
 mercurate
 mercurates
+mercy
 merd
 merde
 merdle
@@ -27890,6 +27997,7 @@ merkin
 merkins
 merl
 merle
+merles
 merlet
 merlin
 merlins
@@ -28056,6 +28164,14 @@ metantimonate
 metaparapteron
 metapelet
 metaphone
+metaplasm
+metaplasms
+metapleur
+metapleural
+metapleure
+metapleures
+metarule
+metarules
 metas
 metasoma
 metasomas
@@ -28066,6 +28182,7 @@ metasomatoses
 metasomatosis
 metasome
 metasomes
+metastable
 metastases
 metastasis
 metastasise
@@ -28076,6 +28193,7 @@ metastoma
 metastomas
 metastome
 metastomium
+metatarsal
 metatarsi
 metatarsus
 metataxis
@@ -28093,6 +28211,7 @@ metaxite
 metaxylem
 metaxylems
 metayer
+metayers
 metazoa
 metazoan
 mete
@@ -28198,6 +28317,7 @@ metump
 metumps
 meu
 meuble
+meubles
 meum
 meums
 meuniere
@@ -30220,7 +30340,9 @@ mulais
 mulata
 mulch
 mulct
+mulctable
 mulcted
+mulcts
 mule
 muled
 mules
@@ -30306,6 +30428,8 @@ mum
 mumble
 mumbled
 mumblement
+mumbler
+mumblers
 mumbles
 mumblier
 mumbling
@@ -30401,6 +30525,7 @@ mure
 mured
 murein
 murena
+mures
 murex
 murgh
 murghi
@@ -30463,6 +30588,8 @@ muscicolous
 muscid
 muscids
 muscimol
+muscle
+muscles
 muscoid
 muscoids
 muscular
@@ -30472,6 +30599,7 @@ musculuses
 muse
 museau
 mused
+muselaer
 muselar
 muselars
 muser
@@ -30610,6 +30738,9 @@ myalist
 myalists
 myals
 myasis
+mycete
+mycetes
+myceteses
 mycosis
 mycota
 mycotas
@@ -35075,6 +35206,9 @@ ozonizer
 ozonizes
 ozonizing
 ozonous
+pablum
+pabular
+pabulum
 paca
 pacai
 pacamac
@@ -35271,6 +35405,8 @@ pakua
 pakul
 pal
 pala
+palabra
+palabras
 palace
 palacinka
 palacinkas
@@ -35296,6 +35432,7 @@ palapa
 palapas
 palar
 palas
+palases
 palash
 palatable
 palatal
@@ -35303,6 +35440,7 @@ palatality
 palatalize
 palatals
 palate
+palates
 palatial
 palatian
 palatinal
@@ -35324,8 +35462,10 @@ paleopole
 paleopoles
 paler
 pales
+palest
 palet
 paleta
+paletas
 paletot
 palets
 pali
@@ -35345,12 +35485,17 @@ palki
 palkis
 palm
 palmar
+palmary
 palmate
 palmation
 palmatipartite
 palmed
 palmer
 palmered
+palmers
+palmery
+palmetum
+palmetums
 palmful
 palmier
 palmierite
@@ -35361,7 +35506,11 @@ palmipede
 palmitate
 palmitic
 palmitin
+palms
 palmtop
+palmy
+palmyra
+palmyras
 palolo
 palomino
 palone
@@ -35370,6 +35519,7 @@ palp
 palpable
 palpal
 palpate
+palpates
 palpating
 palpation
 palpatory
@@ -35385,6 +35535,7 @@ palpitation
 palpon
 palpons
 palps
+palpus
 pals
 palsa
 palsas
@@ -35401,6 +35552,8 @@ paludial
 paludian
 paludic
 paludinal
+palus
+paluses
 palwar
 paly
 pamby
@@ -35416,6 +35569,7 @@ pampering
 pampero
 pampers
 pampre
+pampres
 pan
 panabase
 panacea
@@ -35724,6 +35878,8 @@ papulae
 papular
 papulation
 papule
+papules
+papyral
 papyri
 papyrology
 papyrosa
@@ -35732,6 +35888,7 @@ papyruses
 par
 para
 parabanate
+parabasal
 parabases
 parabasis
 parabema
@@ -35739,7 +35896,10 @@ paraben
 parabens
 parabiont
 parabiosis
+parablast
+parablasts
 parable
+parables
 parabrake
 parabrakes
 parachor
@@ -35803,9 +35963,14 @@ paralogy
 paralytic
 paralytical
 paramalic
+paramble
 paramenia
 paramere
+parameres
+paramese
+parameses
 parameter
+parameters
 parametral
 parametrial
 parametron
@@ -35865,6 +36030,8 @@ paraphs
 paraphyly
 paraphysis
 paraplane
+paraplasm
+paraplasms
 paraplegia
 parapluie
 parapod
@@ -35879,8 +36046,10 @@ parapsis
 parapsises
 parapsoriasis
 parapteron
+parapterum
 paraptosis
 paraptotic
+pararectal
 pararenal
 paras
 parasail
@@ -35894,6 +36063,8 @@ parasitism
 parastas
 parastases
 parastatal
+parastate
+parastates
 paratactic
 paratartaric
 paratha
@@ -35913,6 +36084,7 @@ paravane
 parawai
 parawais
 parawing
+parbleu
 parbreak
 parc
 parcel
@@ -36025,6 +36197,7 @@ parlatory
 parlay
 parle
 parled
+parles
 parley
 parling
 parloir
@@ -36075,7 +36248,10 @@ parpen
 parping
 parps
 pars
+parsable
 parse
+parsec
+parsecs
 parser
 parsers
 parses
@@ -36151,6 +36327,7 @@ party
 partyist
 partyists
 parula
+parulas
 parure
 parures
 parve
@@ -36184,6 +36361,7 @@ paskha
 pasmo
 pasmos
 paso
+paspalum
 pasque
 past
 pasta
@@ -36223,6 +36401,12 @@ pastrami
 pastries
 pastry
 pasts
+pasturable
+pastural
+pasture
+pasturer
+pasturers
+pastures
 pasty
 paswak
 pat
@@ -36257,7 +36441,10 @@ pater
 patera
 paterae
 paternal
+paters
+pates
 patete
+patetes
 path
 pathetic
 pathetical
@@ -36417,6 +36604,8 @@ pawpaws
 paws
 pax
 pay
+payable
+payables
 payasam
 paybob
 paybobs
@@ -36428,6 +36617,8 @@ payers
 paying
 payline
 payload
+paymaster
+paymasters
 payola
 payor
 payors
@@ -38533,6 +38724,8 @@ plasaj
 plash
 plasm
 plasma
+plasmablast
+plasmablasts
 plasmal
 plasmic
 plasmin
@@ -38540,6 +38733,7 @@ plaster
 plasterer
 plasterers
 plasters
+plastery
 plastic
 plastician
 plasticians
@@ -38564,12 +38758,16 @@ plateas
 plateau
 plateaus
 plated
+platelayer
+platelayers
 platelet
+platelets
 plateman
 platemen
 platen
 platens
 plater
+platers
 plates
 plateway
 platic
@@ -38591,9 +38789,15 @@ platy
 platycephalic
 platycephaly
 platycranial
+platymery
 platypod
+platypus
+platypusary
+platypuses
 platyrhinian
 platyrhiny
+platytera
+platyteras
 plaud
 plauded
 plauding
@@ -38606,11 +38810,16 @@ plav
 plavs
 play
 playa
+playable
 playact
 playacted
+playas
+playbus
+playbuses
 playdate
 played
 player
+players
 playgirl
 playground
 playgroup
@@ -38618,7 +38827,13 @@ playland
 playlet
 playmake
 playmaker
+playmat
+playmate
+playmates
+playmats
 playpen
+playtest
+playtests
 plaything
 playway
 plea
@@ -38635,10 +38850,19 @@ pleasancies
 pleasant
 pleasanter
 please
+pleaser
+pleasers
 pleases
 pleasurable
+pleasure
+pleasurer
+pleasurers
+pleasures
 pleat
+pleater
+pleaters
 pleating
+pleats
 pleb
 plebe
 plebes
@@ -38679,6 +38903,7 @@ pleons
 pleopod
 pleoptic
 plereme
+pleremes
 pleroma
 plerome
 plet
@@ -38809,6 +39034,9 @@ plumeau
 plumed
 plumelet
 plumelets
+plumer
+plumers
+plumery
 plumes
 plumet
 plumete
@@ -38876,6 +39104,7 @@ pluteal
 plutei
 plutes
 pluteus
+plutey
 plutie
 plutogog
 plutogogue
@@ -39854,6 +40083,7 @@ praenomen
 praenomens
 praeses
 praeseses
+praetarsus
 praeterist
 praetexta
 praetor
@@ -39871,6 +40101,7 @@ prairion
 prajna
 pralay
 pralaya
+pralayas
 praline
 pralines
 pram
@@ -39920,7 +40151,9 @@ prawns
 prawny
 praxis
 pray
+prayable
 prayer
+prayers
 praying
 prays
 pre
@@ -39938,6 +40171,10 @@ preactivate
 preactivates
 preadapt
 preak
+preamble
+preambles
+preambular
+preambulary
 preamp
 preamps
 preantepenult
@@ -39971,6 +40208,7 @@ precis
 precisian
 precisians
 preclear
+preclears
 precocene
 precocenes
 precoma
@@ -40016,10 +40254,15 @@ preimage
 preke
 prekes
 prelabial
+prelabrum
+prelabrums
 prelacteal
 prelacteals
+prelate
+prelates
 prelatial
 prelature
+prelatures
 prelect
 prelector
 prelects
@@ -40032,6 +40275,7 @@ prelude
 preluded
 preludial
 preludium
+prelumbar
 prem
 premade
 premaster
@@ -40061,6 +40305,7 @@ premorbid
 premorse
 premortem
 premotor
+prems
 prenarial
 prenasal
 prenasals
@@ -40119,19 +40364,26 @@ prepupal
 prequel
 prereaction
 prerecord
+prerectal
+prerelease
+prereleases
 prerenal
 preretina
 preretinal
 preretinas
 presa
+presale
+presales
 presas
 presaw
 presbyter
+presbyteral
 presbyterate
 presbyterates
 presbytere
 presbyteres
 presbyteries
+presbyters
 presbytery
 prescience
 presciences
@@ -40143,6 +40395,8 @@ prescript
 prescripts
 preseason
 preseasons
+preselect
+preselects
 presence
 presences
 presensitise
@@ -40167,14 +40421,24 @@ presets
 presoak
 presort
 prest
+prestable
 prestant
 prestants
 prestretch
 prestretches
 prests
+presumable
+presume
+presumer
+presumers
+presumes
 pret
 preta
+pretarsus
 pretas
+pretectal
+pretectum
+pretectums
 pretence
 pretend
 pretendant
@@ -40227,6 +40491,7 @@ prexes
 prexy
 prey
 preyer
+preyers
 preying
 preys
 prez
@@ -41046,6 +41311,7 @@ prutahs
 pry
 pryan
 pryer
+pryers
 prytan
 prytane
 prytany
@@ -41056,6 +41322,7 @@ psalter
 psalterer
 psalterers
 psalters
+psaltery
 psc
 pschent
 pschents
@@ -41203,6 +41470,7 @@ pulas
 pule
 puled
 puler
+pulers
 pules
 puli
 pulicat
@@ -41274,6 +41542,7 @@ pumas
 pumice
 pumices
 pump
+pumpable
 pumpage
 pumped
 pumper
@@ -41284,6 +41553,7 @@ pumpman
 pumpmen
 pumps
 pumpset
+pumpsets
 pumpsman
 pumpy
 pun
@@ -41373,6 +41643,7 @@ pupariating
 pupariation
 puparium
 pupate
+pupates
 pupating
 pupation
 pupelo
@@ -41438,6 +41709,7 @@ puritans
 purl
 purled
 purler
+purlers
 purlicue
 purlicues
 purlieu
@@ -41456,6 +41728,8 @@ purple
 purpled
 purpler
 purples
+purplest
+purpley
 purply
 purport
 purports
@@ -41481,6 +41755,8 @@ purpurite
 purpuroid
 purpy
 purse
+purselet
+purselets
 purser
 pursers
 purses
@@ -41491,6 +41767,8 @@ pursuance
 pursuant
 pursuantly
 pursue
+pursuer
+pursuers
 pursues
 pursuit
 pursuits
@@ -41514,6 +41792,9 @@ pushpits
 pushtin
 pushup
 pushups
+pustular
+pustulate
+pustulates
 pustule
 pustulent
 pustules
@@ -41584,6 +41865,7 @@ pycnospore
 pycnotic
 pye
 pyet
+pyets
 pygal
 pygarg
 pygargs
@@ -41608,6 +41890,7 @@ pyosis
 pyot
 pyots
 pypgras
+pyral
 pyramid
 pyramided
 pyran
@@ -42355,6 +42638,8 @@ rambais
 rambla
 ramblas
 ramble
+rambler
+ramblers
 rambles
 rambly
 rambour
@@ -42422,6 +42707,8 @@ ramshag
 ramsons
 ramstam
 ramtil
+ramulet
+ramulets
 ramulus
 ramuluses
 ramus
@@ -42577,6 +42864,8 @@ rapists
 raplach
 raps
 rapso
+rapster
+rapsters
 rapt
 raptatorial
 raptatory
@@ -42585,7 +42874,10 @@ raptor
 raptorial
 raptors
 rapture
+raptures
 rapturing
+raptus
+raptuses
 rara
 rare
 rarebit
@@ -42637,6 +42929,7 @@ rascalisms
 rascalries
 rascalry
 rascals
+rasceta
 rase
 rased
 rases
@@ -42983,6 +43276,7 @@ realos
 reals
 realtor
 realtors
+realty
 ream
 reamed
 reamer
@@ -43308,8 +43602,11 @@ reclame
 reclames
 reclang
 reclanging
+reclasp
+reclasps
 reclear
 reclearing
+reclears
 reclimb
 reclimbs
 reclinable
@@ -43323,6 +43620,7 @@ recloses
 reclothe
 recluse
 recluseries
+reclusery
 recluses
 reco
 recoal
@@ -43416,6 +43714,7 @@ recreant
 recreants
 recreate
 recreated
+recreates
 recreative
 recreator
 recreatory
@@ -43448,6 +43747,8 @@ rectory
 rectos
 rectrices
 rectrix
+rectum
+rectums
 rectus
 recue
 recueil
@@ -43466,8 +43767,12 @@ recuse
 recuses
 recut
 recuts
+recyclable
+recyclables
 recycle
 recycler
+recyclers
+recycles
 recypher
 red
 redan
@@ -44023,8 +44328,14 @@ relaid
 relais
 relamp
 relamped
+relamps
 relance
 reland
+relapsable
+relapse
+relapser
+relapsers
+relapses
 relatabilities
 relatable
 relate
@@ -44038,11 +44349,14 @@ relationary
 relatival
 relative
 relator
+relatum
+relatums
 relaunch
 relaunched
 relaunching
 relay
 relayer
+relayers
 relearn
 relearned
 relearns
@@ -44166,6 +44480,7 @@ reluctant
 relucts
 relume
 relumed
+relumes
 rely
 rem
 remade
@@ -44192,6 +44507,7 @@ remans
 remanure
 remanures
 remap
+remaps
 remargin
 remargining
 remark
@@ -44208,6 +44524,7 @@ rematch
 rembetic
 rembetis
 remble
+rembles
 remeant
 remeasure
 remeasures
@@ -44218,6 +44535,7 @@ remedy
 remeid
 remelt
 remelted
+remelts
 remember
 rememberable
 remembered
@@ -44233,6 +44551,7 @@ remen
 remend
 remens
 remercies
+remercy
 remerge
 remerged
 remerging
@@ -44695,6 +45014,8 @@ resaleable
 resalute
 resalutes
 resam
+resample
+resamples
 resams
 resang
 resank
@@ -44733,6 +45054,7 @@ reseau
 resecrete
 resecretes
 resect
+resectable
 resection
 resectionist
 resectionists
@@ -44753,6 +45075,10 @@ reselections
 reselects
 reself
 reselfs
+resemble
+resembler
+resemblers
+resembles
 resend
 resends
 resensitise
@@ -44860,6 +45186,8 @@ resizers
 resizes
 reskin
 reskins
+resmelt
+resmelts
 resmile
 resmiled
 resmiles
@@ -44993,6 +45321,7 @@ resues
 result
 resultful
 results
+resumable
 resume
 resumer
 resumers
@@ -45011,6 +45340,8 @@ ret
 retable
 retables
 retablo
+retabulum
+retabulums
 retack
 retacks
 retag
@@ -45233,6 +45564,8 @@ retsinas
 retube
 retubed
 retubes
+retumble
+retumbles
 retune
 retuned
 retunes
@@ -45253,6 +45586,7 @@ retwists
 retype
 retypes
 reulcerate
+reulcerates
 reune
 reuned
 reunes
@@ -45266,6 +45600,8 @@ reunition
 reup
 reups
 reus
+reusable
+reusables
 reusage
 reusages
 reuse
@@ -46872,6 +47208,7 @@ rubrics
 rubriform
 rubs
 rubster
+rubsters
 rubus
 rubuses
 ruby
@@ -46980,6 +47317,8 @@ rumba
 rumbaed
 rumbas
 rumble
+rumbler
+rumblers
 rumbles
 rumbling
 rumbly
@@ -47101,6 +47440,7 @@ ruptic
 ruption
 ruptions
 ruptive
+rupturable
 rupture
 ruptures
 rupturing
@@ -47259,6 +47599,7 @@ sabres
 sabretache
 sabretaches
 sabreur
+sabreurs
 sabring
 sabs
 sac
@@ -47410,6 +47751,7 @@ salat
 sale
 saleable
 salep
+saleratus
 sales
 salesladies
 saleslady
@@ -47488,6 +47830,7 @@ salukis
 salume
 salumi
 salut
+salutary
 salutation
 salutational
 salutations
@@ -47495,6 +47838,7 @@ salutatorian
 salutatorians
 salute
 saluter
+saluters
 salutes
 salvable
 salve
@@ -47553,6 +47897,8 @@ samp
 sampan
 sampans
 sample
+sampler
+samplers
 samples
 samsara
 samsaric
@@ -47788,6 +48134,7 @@ satsang
 satsangs
 satsuma
 satsumas
+saturable
 saturant
 saturants
 saturate
@@ -47892,8 +48239,10 @@ saxists
 saxony
 say
 saya
+sayable
 sayas
 sayer
+sayers
 sayid
 sayids
 sayon
@@ -48115,6 +48464,10 @@ sciurid
 sciurids
 sciuromorph
 sciuromorphs
+sclera
+sclerae
+scleral
+scleras
 scleroid
 scleroses
 sclerosis
@@ -48192,6 +48545,10 @@ scows
 scrab
 scrabs
 scram
+scramble
+scrambler
+scramblers
+scrambles
 scramjet
 scramjets
 scrams
@@ -48258,9 +48615,14 @@ scrub
 scrubs
 scrum
 scrump
+scrumple
+scrumples
 scrumps
+scrumpy
 scrums
 scrunch
+scruple
+scruples
 scrutator
 scrutators
 scrutinisation
@@ -48333,6 +48695,7 @@ seamers
 seamier
 seamiest
 seams
+seamy
 seance
 seances
 seaplane
@@ -48381,6 +48744,7 @@ secondo
 seconds
 secrecy
 secret
+secretary
 secrete
 secretes
 secretin
@@ -48474,6 +48838,9 @@ sekaches
 sel
 selah
 select
+selecta
+selectable
+selectas
 selection
 selections
 selective
@@ -48758,6 +49125,8 @@ serpent
 serpents
 sertao
 sertaos
+serum
+serums
 serve
 served
 server
@@ -50034,12 +50403,18 @@ smashups
 smaze
 smear
 smearer
+smearers
 smearier
 smeariest
+smears
+smeary
 smeg
 smegma
 smeik
 smelt
+smelter
+smelters
+smeltery
 smelts
 smew
 smews
@@ -50715,6 +51090,8 @@ spans
 spanspek
 spanspeks
 spar
+sparable
+sparables
 spare
 sparer
 sparerib
@@ -50746,10 +51123,15 @@ spastics
 spat
 spatchcock
 spatchcocks
+spate
+spates
 spathe
 spathes
 spathic
 spats
+spatula
+spatulas
+spatulate
 spawn
 spawner
 spawners
@@ -50906,6 +51288,7 @@ splashpad
 splashpads
 splat
 splats
+splay
 splenetic
 splenia
 splenial
@@ -51002,7 +51385,9 @@ sprats
 sprawl
 sprawls
 spray
+sprayable
 sprayer
+sprayers
 sprays
 spreite
 spreiten
@@ -51050,6 +51435,7 @@ spruits
 sprung
 spry
 spryer
+spryest
 spud
 spuds
 spue
@@ -51061,6 +51447,7 @@ spumante
 spumantes
 spume
 spumes
+spumy
 spun
 spunk
 spunks
@@ -51080,6 +51467,8 @@ spurt
 spurts
 sputum
 spy
+spymaster
+spymasters
 squab
 squabs
 squad
@@ -51142,6 +51531,8 @@ stabilisers
 stabilises
 stable
 stabled
+stablemate
+stablemates
 stabler
 stables
 stablest
@@ -51192,6 +51583,8 @@ stalagmites
 stale
 staled
 stalely
+stalemate
+stalemates
 staler
 stales
 stalest
@@ -51233,6 +51626,10 @@ stans
 stapes
 staph
 staphs
+staple
+stapler
+staplers
+staples
 star
 starbase
 starbases
@@ -51258,6 +51655,7 @@ starers
 stares
 starets
 staretses
+starey
 starfish
 starfishes
 starful
@@ -51403,10 +51801,13 @@ statufy
 statural
 stature
 status
+statusbar
+statusbars
 statuses
 statusful
 statusquo
 statusy
+statutable
 statute
 statuted
 statutes
@@ -51417,6 +51818,8 @@ stavesacre
 stavesacres
 stay
 stayed
+stayer
+stayers
 stays
 staysail
 staysails
@@ -51972,11 +52375,16 @@ stultifier
 stultifiers
 stultifies
 stum
+stumble
+stumbler
+stumblers
+stumbles
 stumer
 stumers
 stump
 stumpiest
 stumps
+stumpy
 stums
 stun
 stung
@@ -52118,6 +52526,11 @@ subjunct
 subjunctive
 subjunctives
 subjuncts
+sublate
+sublateral
+sublates
+sublease
+subleases
 sublet
 sublets
 sublevel
@@ -52126,6 +52539,13 @@ sublime
 sublimed
 sublimise
 sublimish
+submaster
+submasters
+submature
+submerse
+submerses
+submeter
+submeters
 submicro
 submicron
 submicrons
@@ -52148,7 +52568,13 @@ subrisive
 subrotund
 subround
 subs
+subsalt
+subsalts
+subsample
+subsamples
 subsea
+subsect
+subsects
 subsense
 subsenses
 subsensible
@@ -52188,10 +52614,14 @@ substituted
 substitutes
 substorm
 substorms
+subsumable
 subsume
 subsumed
 subsumes
 subsystem
+subtabulate
+subtabulates
+subtectal
 subtenant
 subtenants
 subtend
@@ -52210,8 +52640,10 @@ subtitled
 subtitles
 subtle
 subtleise
+subtler
 subtlest
 subtleties
+subtlety
 subtone
 subtones
 subtribe
@@ -52219,6 +52651,7 @@ subtribes
 subtriple
 subucula
 subuculas
+subulate
 subunist
 subunists
 subunit
@@ -52353,6 +52786,8 @@ sump
 sumph
 sumphs
 sumps
+sumpter
+sumpters
 sumptuous
 sums
 sun
@@ -52455,15 +52890,24 @@ supines
 supinity
 supra
 suprafoliar
+supralapsary
 supraliminal
 supralineal
 supramarine
+suprameatal
+suprasaturate
+suprasaturates
 suprasensible
 suprasensibles
 suprasensual
 supraspecies
 supraspecieses
 supraspinatus
+suprasubtle
+supreme
+supremes
+supremum
+supremums
 sups
 suq
 suqs
@@ -52870,6 +53314,7 @@ tabuing
 tabula
 tabular
 tabulate
+tabulates
 tabulator
 tabun
 tabus
@@ -53111,6 +53556,7 @@ tambour
 tamboura
 tambours
 tambura
+tamburas
 tame
 tameable
 tamed
@@ -53221,6 +53667,8 @@ tapiroid
 tapirs
 tapis
 taps
+tapster
+tapsters
 tapu
 taqueria
 tar
@@ -53591,6 +54039,7 @@ telekinetic
 telekineticist
 telekineticists
 telelecture
+telelectures
 telelens
 telelenses
 telemanometer
@@ -53599,6 +54048,7 @@ telematic
 telemedicine
 telemeter
 telemetered
+telemeters
 telemotor
 telencephalic
 teleodont
@@ -53638,6 +54088,8 @@ teleseism
 teleseisms
 teleseme
 telesemes
+teleserye
+teleseryes
 telesis
 telesm
 telesma
@@ -56054,6 +56506,7 @@ tubful
 tubing
 tubs
 tubular
+tubulars
 tubule
 tubules
 tubulin
@@ -56106,6 +56559,8 @@ tulwar
 tum
 tumble
 tumbled
+tumbler
+tumblers
 tumbles
 tumbling
 tumbrel
@@ -56278,6 +56733,7 @@ tutu
 tutus
 tux
 tuyere
+tuyeres
 twain
 twaite
 twang
@@ -56435,6 +56891,7 @@ ulama
 ulamas
 ulcer
 ulcerate
+ulcerates
 ulcerative
 ulcers
 ulema
@@ -57418,6 +57875,8 @@ upcasts
 upchuck
 upchucks
 upcoast
+upcycle
+upcycles
 updation
 updo
 upend
@@ -57543,6 +58002,8 @@ urchin
 urchins
 urea
 ureal
+ureaplasma
+ureaplasmas
 urease
 ureases
 ureid
@@ -57621,6 +58082,7 @@ users
 uses
 useta
 useter
+useters
 usher
 ushers
 usnic
@@ -59797,12 +60259,17 @@ yearning
 years
 yeas
 yeasayer
+yeasayers
+yeast
+yeasts
+yeasty
 yebo
 yech
 yechy
 yeh
 yelp
 yelper
+yelps
 yen
 yens
 yenta
@@ -59819,6 +60286,8 @@ yerked
 yerks
 yes
 yeses
+yesteryear
+yesteryears
 yet
 yeti
 yetis
