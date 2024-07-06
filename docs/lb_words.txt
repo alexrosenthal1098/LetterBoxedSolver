@@ -1201,6 +1201,7 @@ aerarian
 aerate
 aerated
 aerates
+aerating
 aeration
 aerator
 aerators
@@ -1238,6 +1239,7 @@ aerodyne
 aerofoil
 aerofoiled
 aerogel
+aerogenerator
 aerogram
 aerolite
 aerolith
@@ -1738,6 +1740,7 @@ airport
 airports
 airpot
 airpots
+airpower
 airquake
 airquakes
 airs
@@ -1987,6 +1990,7 @@ alerces
 alerion
 alert
 alerter
+alerting
 alertly
 alerts
 ales
@@ -2072,6 +2076,7 @@ alienisms
 alienist
 alienists
 alienize
+alienizing
 alienor
 aliens
 alif
@@ -2228,6 +2233,7 @@ alow
 alp
 alpaca
 alpacas
+alpargata
 alpha
 alpharion
 alphatron
@@ -3597,6 +3603,7 @@ arthrozoic
 artiad
 artiads
 artialise
+artialize
 artializing
 artic
 article
@@ -3901,6 +3908,7 @@ atop
 atopic
 atopy
 atraumatic
+atrazine
 atremble
 atresia
 atria
@@ -14581,6 +14589,7 @@ elope
 eloped
 eloper
 elopes
+eloping
 eloquence
 els
 else
@@ -15131,6 +15140,7 @@ entraps
 entre
 entreat
 entreaties
+entreating
 entreatment
 entreats
 entrechat
@@ -18122,6 +18132,7 @@ gawk
 gawkish
 gawp
 gawped
+gawping
 gawps
 gay
 gayal
@@ -18175,6 +18186,8 @@ gelateria
 gelati
 gelatin
 gelatine
+gelatinize
+gelatinizing
 gelation
 gelato
 gelcoat
@@ -18200,11 +18213,16 @@ general
 generalate
 generalia
 generality
+generalize
+generalizer
+generalizing
 generalty
 generant
 generate
+generating
 generation
 generational
+generator
 generic
 generical
 genericities
@@ -18224,6 +18242,8 @@ geneva
 genever
 genial
 geniality
+genialize
+genializing
 genian
 genic
 genicula
@@ -18581,6 +18601,7 @@ gleaner
 gleaning
 glebe
 glen
+glengore
 gley
 glia
 glial
@@ -18598,6 +18619,7 @@ glister
 glisters
 glitz
 glitzier
+glitzing
 gloat
 gloater
 gloaters
@@ -19020,6 +19042,7 @@ graphitizing
 graphology
 graphs
 grapier
+grapnel
 grapy
 gras
 grata
@@ -22187,6 +22210,7 @@ initialese
 initialing
 initialise
 initialises
+initialize
 initializing
 initials
 initiand
@@ -22930,6 +22954,7 @@ itinerants
 itineraries
 itinerary
 itinerate
+itinerating
 itineration
 its
 ivied
@@ -24748,6 +24773,8 @@ legalists
 legalitarian
 legalities
 legality
+legalize
+legalizing
 legataries
 legatary
 legate
@@ -24758,6 +24785,7 @@ legationary
 legative
 legato
 legator
+legatorial
 legatory
 legature
 leger
@@ -25238,6 +25266,9 @@ lineament
 linear
 linearise
 linearises
+linearize
+linearizer
+linearizing
 lined
 linein
 lineman
@@ -25257,6 +25288,7 @@ ling
 linga
 linger
 lingerer
+lingerie
 lingering
 lingo
 lingot
@@ -25326,6 +25358,7 @@ lipemia
 lipid
 lipids
 lipline
+lipliner
 lipogram
 lipoid
 lipoidal
@@ -25672,6 +25705,7 @@ logier
 login
 logins
 logion
+logline
 logo
 logoed
 logogram
@@ -25872,6 +25906,7 @@ loveware
 loving
 lovingly
 low
+lowage
 lowan
 lowance
 lowans
@@ -25921,6 +25956,7 @@ loyal
 loyalist
 loyalists
 loyalty
+lozenge
 lsd
 ltr
 luau
@@ -31399,6 +31435,7 @@ negativa
 negative
 negatived
 negativing
+negator
 negatron
 negeri
 negeris
@@ -32088,6 +32125,8 @@ nitroform
 nitrogen
 nitrogenate
 nitrogenating
+nitrogenize
+nitrogenizing
 nitrolim
 nitrolime
 nitrometer
@@ -33767,6 +33806,7 @@ opahs
 opakapaka
 opakapakas
 opal
+opaline
 opalinid
 opalise
 opalize
@@ -34119,6 +34159,8 @@ orieled
 orient
 oriental
 orientalia
+orientalize
+orientalizing
 orientate
 orientated
 orientating
@@ -35438,6 +35480,7 @@ palatable
 palatal
 palatality
 palatalize
+palatalizing
 palatals
 palate
 palates
@@ -35953,6 +35996,7 @@ paragraphize
 paragraphizing
 paragraphs
 parakinesis
+paralegal
 paraleipomena
 paralic
 paralipsis
@@ -36115,11 +36159,16 @@ paren
 pareneses
 parenesis
 parenetic
+parengo
 parens
 parent
+parentage
+parental
+parentalia
 parentela
 parentele
 parenteral
+parenting
 parentis
 parents
 pareo
@@ -36229,6 +36278,8 @@ paroemiac
 parol
 parole
 paroled
+parolein
+paroleine
 paroli
 paroling
 parophite
@@ -36276,6 +36327,7 @@ parthenin
 parti
 partial
 partiality
+partialize
 partializing
 partiary
 partible
@@ -36312,6 +36364,7 @@ partitivity
 partlet
 partly
 partner
+partnering
 partners
 partocracy
 partocrat
@@ -36505,6 +36558,9 @@ patrico
 patrie
 patries
 patriline
+patrilineage
+patrilineal
+patrilinear
 patriliny
 patrimonial
 patrin
@@ -38046,6 +38102,7 @@ pieties
 pietra
 piets
 piety
+piezo
 pig
 pigboat
 pigdog
@@ -38113,6 +38170,7 @@ pilfer
 pilfered
 pilferer
 pilger
+pilgering
 pilgrim
 pilgrimed
 pilgrimer
@@ -38131,6 +38189,7 @@ pilomotor
 pilon
 pilons
 pilot
+pilotage
 pilotari
 piloted
 piloti
@@ -38235,6 +38294,7 @@ pinger
 pingil
 pinging
 pingle
+pingler
 pingling
 pingo
 pingpong
@@ -38307,6 +38367,7 @@ pintos
 pints
 pinup
 pinups
+pinwale
 pinworm
 piny
 pinyon
@@ -38411,6 +38472,7 @@ piratise
 piratism
 piratisms
 piratize
+piratizing
 piratries
 piratry
 piriform
@@ -38781,6 +38843,8 @@ platinise
 platinises
 platinite
 platinites
+platinize
+platinizing
 platinoid
 platinum
 plats
@@ -38836,6 +38900,7 @@ playtest
 playtests
 plaything
 playway
+plaza
 plea
 pleach
 pleacher
@@ -38980,6 +39045,8 @@ plotful
 plothole
 plotline
 plots
+plotz
+plotzing
 plough
 ploughed
 plougher
@@ -38992,6 +39059,7 @@ plouts
 plow
 plowable
 plowed
+plower
 plowman
 plowmen
 plows
@@ -39310,6 +39378,9 @@ polaric
 polarilocular
 polariton
 polarity
+polarize
+polarizer
+polarizing
 polarly
 polarogram
 polarograph
@@ -39324,6 +39395,7 @@ poleman
 polemen
 polemies
 polemise
+polenta
 poler
 poles
 poley
@@ -39347,8 +39419,11 @@ politicos
 politics
 politist
 politists
+politize
 politizing
 polity
+politzerize
+politzerizing
 polka
 polkaing
 polo
@@ -39902,6 +39977,7 @@ potable
 potae
 potaes
 potage
+potager
 potai
 potail
 potamic
@@ -40043,6 +40119,7 @@ power
 powering
 powerpop
 powers
+powertrain
 powhiri
 powie
 powis
@@ -40056,6 +40133,7 @@ poxiest
 poxy
 poya
 poyas
+pozole
 practic
 practicant
 practice
@@ -40147,6 +40225,7 @@ pravity
 prawn
 prawner
 prawners
+prawning
 prawns
 prawny
 praxis
@@ -40241,6 +40320,7 @@ pregame
 pregamed
 pregaming
 pregave
+pregenital
 pregive
 pregiven
 pregiving
@@ -40502,6 +40582,8 @@ prian
 priapic
 priapist
 priapists
+priapize
+priapizing
 priapulid
 price
 priceable
@@ -40661,6 +40743,7 @@ priorites
 prioritise
 prioritises
 prioritize
+prioritizing
 priority
 priorly
 priors
@@ -40813,6 +40896,8 @@ proforma
 proformas
 profs
 prog
+progenerating
+progenerator
 progenial
 progenital
 progenitor
@@ -40916,6 +41001,7 @@ propachlor
 propaedia
 propagand
 propaganda
+propagating
 propagator
 propagatory
 propage
@@ -40935,6 +41021,7 @@ propanoic
 propanol
 propanone
 propargyl
+propazine
 proped
 propel
 propenal
@@ -40981,6 +41068,8 @@ propodus
 propofol
 propofols
 propolis
+propolize
+propolizing
 propone
 proponent
 propones
@@ -41053,6 +41142,7 @@ prorationing
 prorean
 prorex
 prorexes
+prorogating
 prorogator
 prorogue
 prorogued
@@ -41266,12 +41356,14 @@ prow
 prowk
 prowl
 prowler
+prowling
 prows
 proxime
 proximity
 proximo
 proxy
 proxyship
+prozine
 prude
 prudist
 prudists
@@ -42469,6 +42561,7 @@ rag
 raga
 ragabash
 ragas
+ragazine
 ragbag
 ragbags
 rage
@@ -43269,6 +43362,7 @@ realities
 realize
 realizer
 realizes
+realizing
 realm
 realms
 realo
@@ -44006,6 +44100,7 @@ regalists
 regalities
 regality
 regalize
+regalizing
 regals
 regalties
 regalty
@@ -44022,12 +44117,15 @@ regave
 regelate
 regelated
 regelates
+regelating
 regelation
 regencies
 regenerable
 regenerant
 regenerate
+regenerating
 regeneration
+regenerator
 regenesis
 regenesises
 regent
@@ -44085,6 +44183,7 @@ regiven
 regiving
 reglaze
 reglazes
+reglazing
 regle
 reglet
 reglow
@@ -44114,6 +44213,7 @@ regrater
 regraters
 regrates
 regratified
+regrating
 regrator
 regrators
 regrave
@@ -44133,6 +44233,7 @@ regrouted
 regrouts
 regrow
 regrowing
+regrown
 regs
 regtech
 reguide
@@ -44239,8 +44340,10 @@ reinflict
 reinflicted
 reinform
 reing
+reingratiating
 reining
 reinitiate
+reinitiating
 reins
 reinsert
 reinsertion
@@ -44343,6 +44446,7 @@ related
 relater
 relaters
 relates
+relating
 relation
 relational
 relationary
@@ -44359,6 +44463,7 @@ relayer
 relayers
 relearn
 relearned
+relearning
 relearns
 relearnt
 releasable
@@ -44373,6 +44478,7 @@ relegable
 relegate
 relegated
 relegates
+relegating
 relegation
 relegitimise
 relend
@@ -44380,6 +44486,7 @@ relends
 relent
 relented
 relentful
+relenting
 relentment
 relents
 relet
@@ -44653,6 +44760,7 @@ reneger
 reneges
 reneging
 renegotiate
+renegotiating
 renegotiation
 renegue
 reneguing
@@ -44733,6 +44841,9 @@ reorg
 reorged
 reorging
 reorgs
+reorient
+reorientating
+reorienting
 rep
 repace
 repacing
@@ -44988,6 +45099,7 @@ reran
 rerate
 rerated
 rerates
+rerating
 reread
 rereadable
 rereads
@@ -45841,6 +45953,7 @@ rewraps
 rewrite
 rewriter
 rewriters
+rewriting
 rewrote
 rews
 reyoke
@@ -45848,6 +45961,7 @@ reyoked
 reyokes
 rez
 rezero
+rezeroing
 rezeros
 rezone
 rhabd
@@ -46666,6 +46780,8 @@ roemers
 roentgen
 roentgenise
 roentgenite
+roentgenize
+roentgenizing
 roentgens
 roer
 roers
@@ -46722,6 +46838,7 @@ role
 roleo
 roles
 roloway
+rolwagen
 rolypoly
 romaine
 romaines
@@ -47119,6 +47236,7 @@ roweite
 roweites
 rowel
 roweled
+roweling
 rowels
 rowen
 rowens
@@ -53757,6 +53875,7 @@ tartlet
 tartly
 tartrate
 tartrates
+tartrazine
 tarts
 tartufo
 tarty
@@ -53851,6 +53970,7 @@ tawed
 tawer
 tawers
 tawing
+tawnier
 taws
 tawse
 tawses
@@ -55042,6 +55162,7 @@ tinged
 tingeing
 tinging
 tingle
+tinglier
 tingling
 tingly
 tinhorn
@@ -55327,6 +55448,7 @@ tolerance
 tolerant
 tolerate
 tolerated
+tolerating
 tolerator
 toleware
 tolu
@@ -55588,8 +55710,10 @@ totalisator
 totalisators
 totalitarian
 totality
+totalizator
 totalize
 totalizer
+totalizing
 totals
 totara
 totaras
@@ -55665,9 +55789,11 @@ toward
 towed
 towel
 toweled
+toweling
 towels
 tower
 towered
+towering
 towie
 towier
 towies
@@ -55814,6 +55940,7 @@ trail
 trailed
 trailer
 trailered
+trailering
 trailers
 trailersailer
 trailersailers
@@ -55954,6 +56081,7 @@ travesty
 travois
 trawl
 trawler
+trawling
 trawls
 tray
 trayf
@@ -55980,6 +56108,7 @@ treatable
 treated
 treater
 treaties
+treating
 treatise
 treatises
 treatment
@@ -56066,6 +56195,8 @@ triathletes
 triathlon
 triatomic
 triaxial
+triazine
+triazole
 tribadism
 tribal
 tribals
@@ -56225,6 +56356,7 @@ triplets
 triplicate
 triplication
 triplicity
+tripling
 triploid
 triploids
 triply
@@ -56301,6 +56433,8 @@ trona
 tronc
 troncs
 trop
+tropaeolin
+tropaeoline
 tropal
 tropan
 tropane
@@ -56366,6 +56500,7 @@ trover
 troves
 trow
 trowel
+troweling
 trowels
 trows
 troy
@@ -59121,6 +59256,7 @@ waging
 wagon
 wagons
 wags
+wagtail
 wah
 wahay
 wahey
@@ -59191,6 +59327,9 @@ walkout
 walkway
 walnut
 walnuts
+waltz
+waltzer
+waltzing
 wan
 wananchi
 wand
@@ -59428,6 +59567,7 @@ wearier
 wearies
 weariest
 wearily
+wearing
 wearisome
 wears
 weary
@@ -59491,6 +59631,7 @@ welt
 welted
 welter
 welters
+welting
 welts
 wen
 wench
@@ -60470,6 +60611,7 @@ zax
 zayin
 zazen
 zeal
+zealot
 zealous
 zebra
 zebras
@@ -60485,6 +60627,7 @@ zenana
 zenith
 zero
 zeroes
+zeroing
 zeros
 zes
 zest
@@ -60520,12 +60663,14 @@ zine
 zineb
 zing
 zinged
+zinger
 zingiest
 zinging
 zings
 zino
 zins
 zip
+zipline
 zircon
 zirconia
 zit
