@@ -26,6 +26,7 @@ abajour
 abalone
 abalones
 aband
+abanded
 abanding
 abandon
 abandoner
@@ -111,6 +112,7 @@ abhesive
 abhesives
 abhinaya
 abhor
+abhorable
 abhorment
 abhors
 abidable
@@ -396,6 +398,8 @@ acarian
 acarians
 acariases
 acariasis
+acaricidal
+acaricide
 acarid
 acaridan
 acaridian
@@ -543,6 +547,7 @@ aciculum
 aciculus
 acid
 acidemia
+acidhead
 acidic
 acidific
 acidified
@@ -616,6 +621,7 @@ acosmists
 acouchi
 acouchis
 acouri
+acourie
 acousma
 acousmas
 acoustic
@@ -1833,6 +1839,7 @@ akses
 aksing
 akvavit
 alabamine
+alabandine
 alabandite
 alabarch
 alabaster
@@ -2757,6 +2764,7 @@ anguine
 angular
 angulate
 anhedonia
+anhedral
 anhinga
 anhydrite
 ani
@@ -4399,6 +4407,7 @@ babyship
 babysit
 babysits
 babytalk
+bacalao
 bach
 bachata
 bachatas
@@ -4549,6 +4558,7 @@ balance
 balancer
 balances
 balancing
+balanda
 balanitis
 balas
 balata
@@ -4625,8 +4635,12 @@ banco
 band
 bandana
 bandanas
+bandeau
+banded
 bandh
 bandhs
+bandido
+bandied
 bandier
 banding
 bandit
@@ -4634,6 +4648,7 @@ bandito
 banditos
 bandmate
 bandoneon
+bandora
 bandore
 bands
 bandsaw
@@ -4834,6 +4849,7 @@ barmiest
 barmy
 barn
 barnacle
+barnacled
 barnburner
 barnet
 barnets
@@ -5078,6 +5094,7 @@ beamy
 bean
 beanbag
 beanbags
+beancurd
 beaned
 beaneries
 beaners
@@ -5151,6 +5168,7 @@ bedlinen
 bedload
 bedmate
 bedmates
+bedourie
 bedplate
 bedrail
 beds
@@ -5280,6 +5298,7 @@ benchmen
 benchrest
 benchrests
 bend
+bendable
 bendier
 bendiest
 bending
@@ -5471,6 +5490,7 @@ bichirs
 bichon
 bickies
 bicolor
+bicolour
 bicycle
 bicyclic
 bid
@@ -5625,6 +5645,8 @@ bioagents
 biobank
 biochar
 biochronologic
+biocidal
+biocide
 biocompatible
 biodata
 biodome
@@ -5667,6 +5689,7 @@ bions
 biopirate
 biopoesis
 biopsies
+biordinal
 bioreactor
 bioregion
 bios
@@ -5837,8 +5860,10 @@ blames
 blanc
 blanch
 blanche
+blanched
 blanching
 blanco
+blancoed
 bland
 blank
 blanket
@@ -5880,6 +5905,8 @@ blazer
 blazes
 blazon
 blazonry
+bleach
+bleached
 bleah
 bleak
 bleaker
@@ -5906,8 +5933,11 @@ bled
 blemish
 blemished
 blench
+blenched
 blenching
 blend
+blende
+blended
 blends
 blent
 blest
@@ -6522,6 +6552,7 @@ brachial
 brachiate
 brachium
 brachiums
+braciola
 brack
 bracks
 braconid
@@ -6729,6 +6760,7 @@ bribes
 bribing
 brick
 bricks
+bricoleur
 bridal
 bride
 brides
@@ -6796,6 +6828,7 @@ brith
 britzka
 bro
 broach
+broached
 broad
 broadax
 broadaxe
@@ -7061,9 +7094,11 @@ bumsters
 bun
 bunce
 bunch
+bunched
 bunchier
 bunching
 bunco
+buncoed
 bund
 bundle
 bundler
@@ -7098,6 +7133,7 @@ buoys
 bur
 burb
 burble
+burbled
 burbler
 burblers
 burbles
@@ -7105,6 +7141,8 @@ burbling
 burbot
 burbots
 burbs
+burden
+burdened
 bureau
 bureaux
 buret
@@ -7130,6 +7168,7 @@ burgraves
 burgs
 burial
 burials
+buried
 buries
 burin
 burins
@@ -7148,6 +7187,7 @@ burls
 burly
 burn
 burnable
+burned
 burner
 burnet
 burnets
@@ -7334,6 +7374,7 @@ cachacas
 cachalot
 cachalots
 cache
+cacheable
 cachectic
 cached
 cachepot
@@ -7648,12 +7689,15 @@ cancerine
 cancers
 cancerwort
 cancroid
+candela
+candelabra
 candid
 candida
 candidacy
 candidas
 candidiasis
 candidly
+candied
 candiru
 candirus
 candle
@@ -7895,6 +7939,7 @@ carbro
 carbros
 carbs
 carbuncle
+carbuncled
 carby
 carbyl
 carbyls
@@ -9059,6 +9104,7 @@ chivy
 chloracne
 chloral
 chlorate
+chlordane
 chloric
 chloride
 chlorine
@@ -9125,6 +9171,7 @@ chops
 chopstick
 chopsticks
 choral
+chorale
 chord
 chordal
 chorded
@@ -9138,7 +9185,9 @@ choriambi
 choriambic
 choriambus
 choric
+chorine
 chorioid
+chorioidal
 chorion
 chorions
 chorister
@@ -9146,6 +9195,7 @@ chorizo
 chorographic
 chorography
 choroid
+choroidal
 choroids
 chorten
 chortens
@@ -9242,6 +9292,7 @@ churl
 churlish
 churls
 churn
+churned
 churns
 chute
 chutes
@@ -9999,6 +10050,8 @@ coiled
 coiling
 coils
 coin
+coincide
+coincided
 coined
 coiner
 coiners
@@ -10081,6 +10134,7 @@ coloration
 colorations
 coloratura
 coloraturas
+colorblind
 colorectal
 colored
 colorfast
@@ -10102,8 +10156,10 @@ colostrous
 colostrum
 colotomy
 colour
+colourable
 colouration
 colourations
+colourblind
 colourcast
 colourcasts
 coloured
@@ -10648,6 +10704,8 @@ cornetist
 cornetists
 cornets
 cornflour
+cornhole
+cornholed
 cornice
 cornices
 corniche
@@ -11485,6 +11543,7 @@ cubature
 cube
 cubeb
 cubebs
+cubed
 cubes
 cubic
 cubical
@@ -12869,6 +12928,7 @@ dices
 dicey
 dichasia
 dichasial
+dichloride
 dichoptic
 dichord
 dichords
@@ -13613,6 +13673,7 @@ dots
 douane
 double
 doubled
+doubleheaded
 doubler
 doubles
 doublet
@@ -13710,6 +13771,7 @@ dozy
 drab
 drably
 drabs
+dracaena
 drachm
 drachma
 drachy
@@ -14802,6 +14864,7 @@ emulative
 emulous
 emus
 enable
+enabled
 enablement
 enabler
 enables
@@ -14858,6 +14921,7 @@ enclave
 enclitic
 enclose
 encloses
+encodable
 encode
 encoded
 encoder
@@ -15680,14 +15744,17 @@ eucy
 eugenist
 eugenists
 euglena
+euhedral
 eulogy
 eunuch
+eunuchoid
 euploid
 eureka
 eurekas
 euretic
 euribor
 euro
+euroland
 europium
 euros
 eusol
@@ -20237,6 +20304,8 @@ heliacal
 helianthus
 helical
 helicity
+helicoid
+helicoidal
 helicon
 heliconia
 helictite
@@ -20706,6 +20775,7 @@ hoagie
 hoagy
 hoar
 hoard
+hoarded
 hoarhound
 hoarier
 hoariest
@@ -20812,6 +20882,7 @@ holo
 holograph
 holographic
 holography
+holohedral
 holophyletic
 holophytic
 holos
@@ -21104,6 +21175,7 @@ houghed
 houghs
 houmous
 hound
+hounded
 houngan
 hour
 houri
@@ -21857,6 +21929,8 @@ incapacitant
 incapacitate
 incapacitation
 incapacity
+incarnadine
+incarnadined
 incarnate
 incarnation
 incas
@@ -21944,6 +22018,7 @@ indaba
 indebt
 indebted
 indebting
+indelible
 indene
 indent
 indented
@@ -24851,6 +24926,7 @@ lemur
 lemures
 lemurs
 lend
+lendable
 lends
 length
 lengthily
@@ -31695,6 +31771,7 @@ neurine
 neurines
 neurite
 neuritic
+neurochord
 neurocoel
 neurocoele
 neurocranial
@@ -33545,6 +33622,8 @@ oldline
 oldly
 oldman
 ole
+oleandrin
+oleandrine
 oleate
 olecranal
 olecranon
@@ -34032,6 +34111,7 @@ orb
 orbat
 orbed
 orbic
+orbicle
 orbing
 orbit
 orbital
@@ -34518,6 +34598,7 @@ otryad
 ouabain
 ouabaio
 ouabaios
+ouananiche
 ouboet
 ouch
 ouche
@@ -42489,6 +42570,7 @@ radical
 radicand
 radication
 radicidation
+radicle
 radif
 radio
 radiobe
@@ -46042,12 +46124,15 @@ rhizina
 rhizobia
 rhizomic
 rho
+rhodanide
 rhodate
 rhodeoretin
 rhodic
 rhodinal
 rhodonite
 rhodora
+rhoeadin
+rhoeadine
 rhomb
 rhombed
 rhombi
@@ -46132,6 +46217,7 @@ ribaldest
 ribaldies
 ribaldo
 riband
+ribanded
 ribands
 ribaudred
 ribavirin
@@ -47160,6 +47246,8 @@ rouncy
 round
 roundabout
 roundabouts
+rounded
+roundel
 roundlet
 roundly
 roundman
@@ -47300,6 +47388,7 @@ rubiate
 rubican
 rubicon
 rubicons
+rubicund
 rubies
 rubigo
 rubine
@@ -47501,6 +47590,7 @@ runce
 runch
 runchick
 runchicks
+runcible
 runcle
 rund
 rundale
@@ -57117,6 +57207,7 @@ umrahs
 umu
 umus
 unable
+unadorned
 unagi
 unaided
 unaired
@@ -57212,6 +57303,7 @@ unclenched
 unclenching
 unclerical
 uncles
+uncliched
 unclick
 unclinch
 unclinched
@@ -57236,6 +57328,7 @@ uncolored
 uncoloured
 unconcern
 uncord
+uncorded
 uncork
 uncorking
 uncouth
@@ -57267,8 +57360,10 @@ undiluted
 undinal
 undine
 undo
+undoable
 undone
 undrawn
+undried
 undrunk
 undue
 undulance
@@ -57291,6 +57386,7 @@ unending
 unenergetic
 unengaged
 unenlightening
+unenriched
 unenviable
 unenvied
 unequal
@@ -57518,6 +57614,7 @@ unlading
 unlaid
 unlamed
 unlanced
+unlanded
 unlap
 unlarded
 unlash
@@ -57540,6 +57637,7 @@ unleafs
 unleakable
 unlean
 unlearn
+unlearnable
 unlearned
 unlearnt
 unleave
@@ -57557,6 +57655,7 @@ unlevied
 unliable
 unliberal
 unliberated
+unlichened
 unlid
 unlids
 unlifted
@@ -57588,11 +57687,14 @@ unlive
 unlively
 unliving
 unload
+unloaded
+unloaden
 unloads
 unloath
 unlock
 unlogic
 unlogical
+unlorded
 unlordly
 unlost
 unlove
@@ -57860,10 +57962,13 @@ unrevengeful
 unreverent
 unrevolving
 unrich
+unridable
+unrideable
 unrife
 unrig
 unright
 unrigs
+unrinded
 unring
 unringing
 unrip
@@ -57882,10 +57987,13 @@ unrobust
 unroping
 unrough
 unround
+unrounded
 unrounds
 unrove
 unroyal
+unrubrical
 unrude
+unruinable
 unruined
 unrule
 unrules
