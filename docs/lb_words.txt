@@ -8998,6 +8998,7 @@ chid
 chide
 chided
 chider
+chiding
 chief
 chiefs
 chignon
@@ -9014,7 +9015,9 @@ childcare
 childcarer
 childed
 childhead
+childing
 childlike
+childling
 childmind
 chile
 chili
@@ -9040,6 +9043,7 @@ chimerism
 chimerisms
 chimers
 chimes
+chiming
 chimp
 chimps
 chin
@@ -9293,6 +9297,7 @@ churlish
 churls
 churn
 churned
+churning
 churns
 chute
 chutes
@@ -9364,6 +9369,7 @@ cinephilia
 cineraria
 cinerarias
 cingula
+cingulum
 cinq
 cinqs
 cinquain
@@ -9832,6 +9838,7 @@ cluster
 clusters
 clutch
 clutcher
+clutching
 clype
 clypei
 cnemial
@@ -11238,6 +11245,7 @@ criminalist
 criminalists
 criminals
 criminatory
+criming
 criminous
 criminy
 crimp
@@ -13921,6 +13929,7 @@ drubs
 drudge
 drudged
 drudgery
+drudging
 drug
 drugs
 drugster
@@ -13929,6 +13938,7 @@ drum
 drumhead
 drumin
 drumler
+drumlin
 drums
 drumster
 drumsters
@@ -14103,8 +14113,10 @@ durian
 durians
 duricrust
 duricrusts
+during
 durn
 durned
+durning
 durns
 durst
 durum
@@ -17679,6 +17691,7 @@ fuci
 fucus
 fudge
 fudged
+fudging
 fuehrer
 fuel
 fueled
@@ -17699,6 +17712,7 @@ fulcra
 fulcral
 fulcre
 fulcres
+fulcrum
 fulfil
 fulfils
 fulgor
@@ -17712,6 +17726,7 @@ fulk
 fulmar
 fulmars
 fulmen
+fulminic
 fulth
 fulvic
 fulvid
@@ -17728,6 +17743,7 @@ fumet
 fumets
 fumier
 fumiest
+fuming
 fun
 funana
 fund
@@ -21334,6 +21350,7 @@ hunyak
 hup
 hurdle
 hurdler
+hurdling
 hurds
 hurdses
 hurl
@@ -22035,6 +22052,7 @@ indication
 indicator
 indices
 indicia
+indicium
 indict
 indiction
 indictions
@@ -22178,6 +22196,7 @@ inflexible
 inflict
 inflicted
 inflicter
+inflight
 inflow
 influence
 influx
@@ -22274,6 +22293,7 @@ inhibition
 inhibitive
 inhibitor
 inhumation
+inhuming
 inimical
 inimitable
 inion
@@ -22709,6 +22729,7 @@ introvert
 introverted
 introvertive
 introverts
+intruding
 intrusive
 intrust
 intrusts
@@ -26153,6 +26174,7 @@ lupus
 lur
 lurch
 lurcher
+lurching
 lurdan
 lurdane
 lure
@@ -28843,6 +28865,7 @@ mindae
 mindbending
 minded
 minder
+mindful
 mindi
 mindic
 minding
@@ -29068,6 +29091,7 @@ miros
 miroton
 mirotons
 mirth
+mirthful
 mirthsome
 miry
 mirza
@@ -30433,6 +30457,7 @@ muguets
 mugwump
 muhimbi
 muhimbis
+muhindi
 muhr
 mui
 muid
@@ -30451,6 +30476,7 @@ mulai
 mulais
 mulata
 mulch
+mulching
 mulct
 mulctable
 mulcted
@@ -30536,6 +30562,7 @@ multivalved
 multry
 multum
 multure
+multuring
 mum
 mumble
 mumbled
@@ -31909,6 +31936,7 @@ ngoni
 ngonis
 ngram
 ngs
+ngultrum
 niacin
 niaiserie
 niaiseries
@@ -54841,6 +54869,7 @@ thingly
 thingo
 thingos
 things
+thingum
 thingy
 think
 thinkable
@@ -55017,6 +55046,7 @@ thrusts
 thrutch
 thrutched
 thrutches
+thrutching
 thruway
 thud
 thuds
@@ -56339,6 +56369,7 @@ triclad
 triclads
 triclinia
 triclinic
+triclinium
 tricolate
 tricolates
 tricolor
@@ -56609,6 +56640,7 @@ truculent
 trudge
 trudged
 trudger
+trudging
 true
 trued
 trueful
