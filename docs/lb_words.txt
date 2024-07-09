@@ -559,6 +559,7 @@ acidly
 acidophil
 acidophilia
 acidophilic
+acidosis
 acidotic
 acids
 acidulant
@@ -3231,6 +3232,7 @@ apsaras
 apsarases
 apse
 apses
+apsides
 apsis
 apso
 apt
@@ -7805,6 +7807,7 @@ caparison
 caparisons
 capax
 cape
+caped
 capelin
 capelins
 caper
@@ -9985,10 +9988,13 @@ cod
 coda
 code
 codec
+codecs
 coded
 codeine
 coder
+codes
 codex
+codexes
 codices
 codicil
 codomain
@@ -12341,10 +12347,12 @@ declaws
 deco
 decoct
 decocted
+decocts
 decocture
 decode
 decoded
 decoder
+decodes
 decoke
 decoked
 decor
@@ -12610,12 +12618,17 @@ deoch
 deodar
 deodorant
 deontic
+deoxidise
+deoxidised
+deoxidises
 dep
 depend
 dependant
 depended
 dependent
 depending
+depict
+depicts
 depilate
 depilated
 depilator
@@ -12631,6 +12644,7 @@ deprave
 depraved
 deprogram
 deprogramed
+deps
 der
 deracine
 derail
@@ -12681,6 +12695,9 @@ desegregates
 deserve
 deserved
 deserves
+desex
+desexed
+desexes
 desi
 desiderata
 desiderate
@@ -12699,6 +12716,9 @@ desk
 desks
 desmid
 desmids
+despise
+despised
+despises
 destabilise
 destabilised
 destabilises
@@ -12789,6 +12809,7 @@ devises
 devo
 devoice
 devoiced
+devoices
 devoid
 devoir
 devolve
@@ -12819,6 +12840,7 @@ dewlap
 dews
 dewy
 dex
+dexes
 dextral
 dextran
 dextrin
@@ -12897,6 +12919,7 @@ dianas
 dianthus
 diapason
 diapasons
+diapedesis
 diaper
 diapered
 diapir
@@ -13184,6 +13207,7 @@ dioramic
 dioritic
 diotic
 dioxide
+dioxides
 dip
 diphtheroid
 diploid
@@ -13269,6 +13293,7 @@ discerners
 discerns
 discision
 disco
+discoed
 discoes
 discoid
 discoids
@@ -13278,6 +13303,7 @@ disconsent
 disconsents
 discord
 discords
+discos
 discover
 discoverer
 discoverers
@@ -13485,6 +13511,7 @@ dockers
 docket
 docketed
 doco
+docos
 doctor
 doctorate
 doctored
@@ -13766,6 +13793,7 @@ dowted
 dowts
 dox
 doxed
+doxes
 doyley
 doze
 dozed
@@ -14356,6 +14384,7 @@ eclose
 ecloses
 eco
 ecochic
+ecocide
 ecocline
 ecoclines
 ecocritic
@@ -14394,6 +14423,8 @@ ecosphere
 ecospheres
 ecostate
 ecotage
+ecotax
+ecotaxes
 ecoteur
 ecotone
 ecotones
@@ -14404,6 +14435,7 @@ ecotoured
 ecotours
 ecotown
 ecotowns
+ecotoxic
 ecphrases
 ecru
 ecstasy
@@ -14437,6 +14469,7 @@ edible
 edibles
 edict
 edictal
+edicts
 edified
 edility
 edit
@@ -15333,10 +15366,15 @@ epical
 epicanthic
 epicarp
 epicatechin
+epicede
+epicedes
+epicedia
 epicene
 epicenes
 epicerie
 epiceries
+epicism
+epicisms
 epicist
 epicists
 epicrisis
@@ -15344,6 +15382,8 @@ epicrisises
 epicritic
 epics
 epicyte
+epidemic
+epidemics
 epidural
 epigeal
 epigene
@@ -15383,11 +15423,15 @@ epiphytic
 episcope
 episcopes
 episiotomy
+episode
+episodes
+episodic
 episome
 episomes
 epistases
 epistasis
 epistatic
+epistaxis
 episteme
 epistemes
 epistemic
@@ -15532,8 +15576,10 @@ escalate
 escalates
 escalier
 escape
+escaped
 escaper
 escapes
+escapism
 escapist
 escapists
 escarp
@@ -15995,6 +16041,9 @@ exosolar
 exostoses
 exostosis
 expat
+expats
+expect
+expects
 expedient
 expedite
 expedited
@@ -22827,6 +22876,7 @@ iodine
 iodise
 iodised
 iodises
+iodism
 iodize
 iodized
 iodizing
@@ -26460,6 +26510,8 @@ maerl
 maerls
 maeshie
 maeshies
+maestoso
+maestosos
 maestri
 mafia
 mafias
@@ -27611,11 +27663,16 @@ mawps
 maws
 max
 maxed
+maxes
 maxi
+maxicoat
 maxim
 maxima
 maximal
 maximate
+maximise
+maximised
+maximises
 maximist
 maximists
 maximite
@@ -27627,6 +27684,7 @@ maximums
 maxis
 maxite
 maxixe
+maxixes
 may
 maya
 maybe
@@ -27740,6 +27798,7 @@ meathead
 meatier
 meatpie
 meats
+meatspace
 meatus
 meatuses
 meaty
@@ -27769,6 +27828,7 @@ medaling
 medals
 medano
 medevac
+medevacs
 media
 mediacy
 mediad
@@ -27788,6 +27848,9 @@ medicated
 medicative
 medicinal
 medicine
+medico
+medicos
+medics
 medieval
 medigap
 medin
@@ -27800,6 +27863,7 @@ medium
 medius
 mediuses
 medivac
+medivacs
 medlar
 medley
 medleyed
@@ -28209,6 +28273,8 @@ mesochil
 mesocolic
 mesoconch
 mesoconchic
+mesocosm
+mesocosms
 mesode
 mesodes
 mesoform
@@ -29131,6 +29197,9 @@ miscite
 miscites
 misclaim
 misclaims
+miscode
+miscoded
+miscodes
 misconcept
 misconception
 misconceptions
@@ -29407,6 +29476,8 @@ mixises
 mixite
 mixites
 mixt
+mixtape
+mixtapes
 mixte
 mixtes
 mixtil
@@ -33374,6 +33445,7 @@ octatomic
 octatonic
 octaval
 octave
+octaves
 octavic
 octavics
 octavo
@@ -33395,6 +33467,7 @@ octochord
 octocoral
 octocorals
 octode
+octodes
 octodont
 octodonts
 octonal
@@ -33482,6 +33555,7 @@ oecium
 oecumene
 oecumenical
 oedema
+oedemic
 oedometer
 oeil
 oekist
@@ -34620,6 +34694,7 @@ otosclerosis
 otoscopic
 otoses
 otosis
+ototoxic
 otriad
 otriads
 otryad
@@ -35213,6 +35288,8 @@ overzeals
 oviaries
 ovibovine
 ovibovines
+ovicide
+ovicides
 ovicular
 oviform
 ovigenesis
@@ -35296,6 +35373,7 @@ oxaloacetate
 oxaloacetates
 oxalosis
 oxamide
+oxamides
 oxea
 oxeas
 oxen
@@ -35311,6 +35389,10 @@ oxhouse
 oxhouses
 oxic
 oxide
+oxides
+oxidise
+oxidised
+oxidises
 oxies
 oxim
 oxime
@@ -35319,6 +35401,7 @@ oximeter
 oximeters
 oximetry
 oximide
+oximides
 oxisol
 oxisols
 oxlip
@@ -35370,6 +35453,7 @@ pacas
 pacay
 pacays
 pace
+paced
 paceman
 pacer
 pacers
@@ -35438,6 +35522,7 @@ paeanize
 paeanizing
 paeans
 paedo
+paedos
 paenula
 paeon
 paeonin
@@ -36727,6 +36812,7 @@ pave
 paved
 paver
 paves
+pavid
 pavie
 pavies
 pavilion
@@ -36800,6 +36886,7 @@ pcus
 pea
 peace
 peaceable
+peaced
 peacenik
 peaces
 peacetime
@@ -36817,6 +36904,7 @@ peachlet
 peachy
 peacing
 peacoat
+peacoats
 peacock
 peacockish
 peacocks
@@ -36929,6 +37017,9 @@ pectinate
 pectinately
 pectineal
 pectins
+pectose
+pectoses
+pectosic
 pects
 peculiar
 peculium
@@ -36948,6 +37039,8 @@ pedalo
 pedanda
 pedant
 pedate
+pedes
+pedesis
 pedial
 pediment
 pedimented
@@ -38619,6 +38712,8 @@ piscatorial
 piscatorian
 piscatorians
 piscators
+piscicide
+piscicides
 pisciculturist
 pisciculturists
 piscina
@@ -38738,6 +38833,8 @@ piupius
 piva
 pivo
 pivos
+pivot
+pivots
 piwari
 piwaris
 pix
@@ -38746,6 +38843,8 @@ pixie
 pixies
 pixilate
 pixilated
+pixmap
+pixmaps
 pixsome
 pixy
 piyut
@@ -48925,6 +49024,7 @@ seals
 seam
 seaman
 seamark
+seamed
 seamen
 seamer
 seamers
@@ -49101,6 +49201,8 @@ selvedge
 selvedges
 selves
 sema
+semacode
+semacodes
 semanteme
 semantemes
 semantemic
@@ -49453,12 +49555,14 @@ sewins
 sewn
 sews
 sex
+sexed
 sexer
 sexers
 sexes
 sexful
 sexier
 sexiest
+sexism
 sexist
 sexists
 sexlife
@@ -49990,6 +50094,7 @@ sided
 sidegrade
 sidegraded
 sidegrades
+sidemeat
 sider
 sideral
 siderate
@@ -50885,6 +50990,7 @@ soaks
 soap
 soapbox
 soapboxes
+soaped
 soaps
 soapy
 soar
@@ -50947,6 +51053,7 @@ socs
 sod
 soda
 sodas
+sodic
 sodium
 sodomise
 sodomised
@@ -51276,6 +51383,7 @@ soys
 soz
 spa
 space
+spaced
 spacefarer
 spacefarers
 spaceman
@@ -51305,6 +51413,7 @@ spacy
 spad
 spads
 spae
+spaed
 spaeman
 spaemen
 spaes
@@ -51414,6 +51523,7 @@ specters
 specula
 specular
 speculum
+sped
 spelk
 spelt
 spelter
@@ -51437,11 +51547,14 @@ sphericity
 spica
 spicas
 spice
+spiced
 spices
 spicier
 spiciest
 spick
 spicy
+spide
+spides
 spiel
 spies
 spigot
@@ -52049,6 +52162,7 @@ statuted
 statutes
 statutory
 stave
+staved
 staves
 stavesacre
 stavesacres
@@ -52312,6 +52426,7 @@ stogs
 stogy
 stoic
 stoical
+stoicism
 stoics
 stoke
 stoker
@@ -52401,6 +52516,10 @@ stoutest
 stoutish
 stouts
 stove
+stoved
+stovepipe
+stovepiped
+stovepipes
 stoves
 stovies
 stow
@@ -53889,6 +54008,7 @@ tap
 tapa
 tapas
 tape
+taped
 taper
 taperer
 taperers
@@ -55949,10 +56069,17 @@ towropes
 tows
 towy
 tox
+toxaemia
+toxaemic
+toxemia
+toxemic
+toxic
+toxics
 toxifies
 toxocara
 toxocaras
 toxocariasis
+toxoid
 toy
 toyboy
 toyboys
@@ -58635,6 +58762,8 @@ vavasories
 vavasour
 vavasours
 vavs
+vax
+vaxes
 veal
 vealer
 vealers
@@ -58899,6 +59028,7 @@ vesicates
 vesicle
 vesicles
 vesper
+vespid
 vest
 vesta
 vestal
@@ -58943,7 +59073,9 @@ veves
 vew
 vews
 vex
+vexed
 vexer
+vexes
 vexil
 vey
 via
@@ -58994,8 +59126,16 @@ vicus
 vid
 vide
 video
+videocam
+videocams
+videodisc
+videodiscs
 videoed
 videoing
+videos
+videotape
+videotaped
+videotapes
 vidicon
 vidicons
 vidiot
@@ -59146,6 +59286,7 @@ visas
 viscacha
 viscachas
 viscid
+viscose
 viscus
 vise
 vises
@@ -59166,6 +59307,7 @@ visna
 visor
 visors
 vista
+vistaed
 vistas
 visual
 visualisable
@@ -59206,6 +59348,7 @@ vivers
 viveur
 vivianite
 vivid
+vividest
 vividly
 vivifies
 vivify
@@ -59261,7 +59404,9 @@ voiles
 voir
 voivod
 voivode
+voivodes
 voivods
+voix
 volant
 volar
 volcan
@@ -59328,6 +59473,8 @@ vowed
 vowel
 vowing
 vows
+vox
+voxes
 vrou
 vrous
 vrouw
