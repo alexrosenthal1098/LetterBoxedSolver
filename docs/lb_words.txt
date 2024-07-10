@@ -2010,7 +2010,10 @@ aleurone
 alevin
 alewife
 alewives
+alexeteric
 alexia
+alexic
+alexin
 aley
 alfaki
 alfalfa
@@ -2267,6 +2270,7 @@ altarages
 altared
 altarist
 altarists
+altarpiece
 altars
 altarstead
 altarsteads
@@ -3223,6 +3227,8 @@ apothem
 apotropaic
 apotropaism
 apotropaisms
+apraxia
+apraxic
 apricot
 apriori
 apron
@@ -8527,6 +8533,7 @@ centeniers
 center
 centerline
 centerpiece
+centerpin
 centers
 centibar
 centile
@@ -8545,7 +8552,9 @@ centra
 central
 centrale
 centre
+centreline
 centres
+centrex
 centric
 centrical
 centroid
@@ -9569,6 +9578,7 @@ clarification
 clarifications
 clarifier
 clarifies
+clarinet
 clarion
 clarions
 clarkia
@@ -11137,6 +11147,7 @@ creative
 creatives
 creativity
 creator
+creatrix
 creatural
 creature
 creaturely
@@ -15953,16 +15964,22 @@ excel
 excels
 excelsior
 excelsiors
+excentric
 except
 excepting
+excerpt
 exchange
 exchanging
 excimer
 excimers
+excipient
 excite
 exciting
 exclaim
 exclaimed
+excreta
+excrete
+excreter
 excursus
 exeat
 exeats
@@ -15987,6 +16004,7 @@ exempt
 exempted
 exempting
 exempts
+exenterate
 exequy
 exequys
 exert
@@ -16040,7 +16058,9 @@ exorcists
 exosolar
 exostoses
 exostosis
+exparte
 expat
+expatriate
 expats
 expect
 expects
@@ -16063,12 +16083,14 @@ expires
 expiry
 explain
 explained
+explainer
 explaining
 explananda
 explanate
 explanator
 explant
 explanted
+explete
 explode
 exploded
 explodent
@@ -16096,6 +16118,7 @@ exteriorise
 exteriorises
 exteriority
 exteriors
+extern
 extol
 extort
 extorted
@@ -22714,6 +22737,7 @@ intervenient
 interview
 interviewer
 intervocalic
+interwar
 intestate
 intestates
 intestinal
@@ -23141,6 +23165,7 @@ jag
 jai
 jail
 jailbait
+jailer
 jailing
 jails
 jalap
@@ -23185,6 +23210,8 @@ javelin
 javelina
 jaw
 jawed
+jawline
+jawn
 jaws
 jay
 jean
@@ -23242,6 +23269,7 @@ jing
 jingal
 jink
 jinks
+jinx
 jip
 jips
 jird
@@ -24739,6 +24767,7 @@ lawsies
 lawsy
 lawyer
 lax
+laxer
 laxest
 laxly
 lay
@@ -35603,6 +35632,7 @@ paintier
 painting
 paintpot
 paintpots
+paintrix
 paints
 paintstick
 painty
@@ -36192,6 +36222,8 @@ paragraphs
 parakinesis
 paralegal
 paraleipomena
+paralexia
+paralexic
 paralic
 paralipsis
 paralog
@@ -36279,6 +36311,7 @@ parapodium
 parapolar
 parapolitical
 parapophysis
+parapraxia
 paraprotein
 parapsis
 parapsises
@@ -36305,6 +36338,7 @@ parastate
 parastates
 paratactic
 paratartaric
+parataxic
 paratha
 parathion
 parathyroid
@@ -36322,6 +36356,7 @@ paravane
 parawai
 parawais
 parawing
+paraxial
 parbleu
 parbreak
 parc
@@ -36361,6 +36396,7 @@ parental
 parentalia
 parentela
 parentele
+parentelic
 parenteral
 parenting
 parentis
@@ -36683,6 +36719,7 @@ patel
 paten
 patency
 patent
+patenter
 patenting
 pater
 patera
@@ -36740,6 +36777,7 @@ patrias
 patriate
 patriating
 patriation
+patricentric
 patrician
 patricianate
 patricianly
@@ -36751,6 +36789,7 @@ patricidal
 patrico
 patrie
 patries
+patrilateral
 patriline
 patrilineage
 patrilineal
@@ -36768,6 +36807,7 @@ patrist
 patristic
 patristics
 patrists
+patrix
 patrol
 patrolatry
 patron
@@ -36854,6 +36894,7 @@ pawpaw
 pawpaws
 paws
 pax
+paxwax
 pay
 payable
 payables
@@ -38239,6 +38280,7 @@ picot
 picotah
 picots
 picral
+picrate
 picric
 picrite
 picritic
@@ -38247,6 +38289,8 @@ picrotins
 picryl
 pics
 pictar
+pictarne
+pictarnie
 pictograph
 pictographic
 pictography
@@ -38361,6 +38405,7 @@ pilcrow
 pilcrows
 pile
 pilea
+pileate
 piled
 pilei
 piler
@@ -38839,6 +38884,7 @@ piwari
 piwaris
 pix
 pixel
+pixelate
 pixie
 pixies
 pixilate
@@ -39189,6 +39235,7 @@ pleurum
 pleurums
 plew
 plews
+plexal
 plexi
 plexure
 pliable
@@ -40466,6 +40513,7 @@ preamp
 preamps
 preantepenult
 prearticle
+preaxial
 prebait
 preboard
 preboarded
@@ -40478,6 +40526,8 @@ precasts
 precent
 precentor
 precentory
+precentral
+precentrix
 precents
 precept
 preceptial
@@ -40598,6 +40648,7 @@ prenarial
 prenasal
 prenasals
 preneural
+prenex
 prenotion
 prenotional
 prenoun
@@ -40724,6 +40775,7 @@ pret
 preta
 pretarsus
 pretas
+pretax
 pretectal
 pretectum
 pretectums
@@ -40746,6 +40798,7 @@ pretermit
 pretest
 pretests
 pretext
+pretexta
 pretone
 pretor
 pretorial
@@ -42872,6 +42925,7 @@ rainmaker
 rainmakers
 rainout
 rains
+rainwater
 rainwear
 rainworm
 rainy
@@ -44662,11 +44716,16 @@ relationary
 relatival
 relative
 relator
+relatrix
 relatum
 relatums
 relaunch
 relaunched
 relaunching
+relax
+relaxate
+relaxer
+relaxin
 relay
 relayer
 relayers
@@ -53807,6 +53866,7 @@ tails
 tailspin
 tailspun
 tailstock
+tailwater
 tailwind
 tailwinds
 taimen
@@ -54026,6 +54086,7 @@ taps
 tapster
 tapsters
 tapu
+tapwater
 taqueria
 tar
 tara
@@ -56601,6 +56662,7 @@ tripled
 triples
 triplet
 triplets
+triplex
 triplicate
 triplication
 triplicity
@@ -59804,7 +59866,9 @@ wawas
 wax
 waxed
 waxen
+waxer
 waxes
+waxier
 waxiest
 waxing
 way
