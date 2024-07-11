@@ -413,6 +413,7 @@ acarus
 acaruses
 acatalasia
 acatalectic
+acategorical
 acater
 acaters
 acatery
@@ -471,6 +472,7 @@ acetaniline
 acetate
 acetated
 acetates
+acetation
 acetenyl
 acetic
 acetin
@@ -690,6 +692,7 @@ acroasis
 acroatic
 acrobat
 acrobats
+acrocentric
 acrochord
 acroclinium
 acrocyanosis
@@ -759,6 +762,7 @@ actinin
 actinins
 actinium
 actinoid
+actinology
 actinon
 actinons
 actinopod
@@ -844,10 +848,13 @@ acutely
 acutes
 acutest
 acutish
+acyanogenic
 acyclic
+acyclovir
 acyl
 acylate
 acylates
+acylation
 acyloin
 acyloins
 acyrology
@@ -1247,6 +1254,7 @@ aerofoil
 aerofoiled
 aerogel
 aerogenerator
+aerogenic
 aerogram
 aerolite
 aerolith
@@ -1313,9 +1321,13 @@ aetherin
 aetheromania
 aethionema
 aethiops
+aetiologic
+aetiological
+aetiology
 aetite
 aetites
 aetiteses
+aeviternal
 aevum
 afaint
 afanc
@@ -1466,6 +1478,7 @@ agential
 agenting
 agentive
 agentries
+agentry
 agents
 agentship
 agentships
@@ -1503,6 +1516,7 @@ agistors
 agists
 agita
 agitable
+agitant
 agitate
 agitated
 agitates
@@ -1527,6 +1541,8 @@ aglu
 aglucone
 aglus
 aglutition
+aglycon
+aglycone
 aglyph
 aglyphous
 aglyphs
@@ -1584,10 +1600,13 @@ agrievance
 agrimi
 agrimis
 agrin
+agriological
 agrion
 agriscientist
 agriscientists
 agroecological
+agroecology
+agrogeology
 agrogorod
 agrology
 agrostography
@@ -1852,6 +1871,7 @@ alacritive
 alacritous
 alacrity
 alai
+alainerly
 alairies
 alairy
 alakazam
@@ -2291,11 +2311,14 @@ alterator
 alterators
 altercate
 altercated
+altercation
+altercative
 altered
 alterer
 alterers
 alterity
 altern
+alternacy
 alternal
 alternance
 alternant
@@ -2306,6 +2329,7 @@ alternate
 alternately
 alternatim
 alternation
+alternative
 alternator
 alterne
 alterned
@@ -2324,6 +2348,7 @@ altiport
 altitude
 altitudinal
 altitudo
+altivolant
 alto
 altogether
 altograph
@@ -2924,6 +2949,7 @@ anteposition
 antepositions
 anteriad
 anterior
+anteriorly
 anterne
 antes
 antetheme
@@ -2994,10 +3020,15 @@ anticipator
 anticlerical
 anticlinal
 antics
+anticyclone
+anticyclonic
 antidotal
 antidote
+antigay
 antigen
+antigenic
 antigens
+antigorite
 antigun
 antihero
 antiheroine
@@ -3006,6 +3037,7 @@ antilife
 antilog
 antilucan
 antimony
+antinational
 anting
 antinomian
 antinomy
@@ -8251,6 +8283,7 @@ catadioptric
 catalase
 catalectic
 catalog
+cataloger
 catalpa
 catalpas
 catalufa
@@ -8307,6 +8340,9 @@ catechize
 catechizing
 catechol
 catechu
+categorial
+categoric
+categorical
 category
 catena
 catenae
@@ -8314,10 +8350,12 @@ catenane
 catenanes
 catenas
 catenated
+catenation
 catenative
 cater
 cateran
 caterans
+catercorner
 catered
 caterer
 caterers
@@ -8519,6 +8557,7 @@ censurable
 census
 censuses
 cent
+centage
 cental
 centas
 centaur
@@ -8591,6 +8630,7 @@ cerebrate
 cerebri
 cerecloth
 ceremonies
+cereology
 ceres
 ceresin
 cereus
@@ -8605,6 +8645,7 @@ ceros
 cerous
 cert
 certain
+certainly
 certes
 certifier
 certifiers
@@ -9501,6 +9542,7 @@ citrometers
 citron
 citronise
 citrons
+citronyl
 citrous
 citrovorum
 citrus
@@ -10039,7 +10081,10 @@ cofound
 cog
 cogeneration
 cogent
+cogently
 cogitate
+cogitation
+cogitative
 cogito
 cognac
 cogon
@@ -10073,6 +10118,7 @@ coiled
 coiling
 coils
 coin
+coinage
 coincide
 coincided
 coined
@@ -10312,6 +10358,7 @@ con
 conacre
 conation
 conations
+conative
 concatenate
 concave
 conceal
@@ -10389,6 +10436,8 @@ coned
 conehead
 cones
 conex
+coney
+coneyry
 confer
 confidant
 configure
@@ -10528,7 +10577,9 @@ contacts
 contadini
 contadino
 contagia
+contagion
 contain
+container
 contains
 contaminant
 contaminants
@@ -10539,10 +10590,13 @@ contemns
 contempt
 contempts
 content
+contention
 contes
 contest
 contests
 continent
+continental
+continently
 continents
 continua
 continual
@@ -10571,6 +10625,7 @@ contrarily
 contrary
 contrast
 contrasts
+contrite
 contrition
 contrivance
 contrive
@@ -10595,13 +10650,24 @@ conundrum
 conure
 conus
 convect
+convection
+convectional
+convective
 convene
 convener
 convening
 convenor
+convent
+convention
+conventional
+converge
+convergent
 convert
 converter
+convey
+conveyer
 convict
+conviction
 convince
 convincer
 convincers
@@ -10609,6 +10675,9 @@ convinces
 convincing
 convivial
 convo
+convocation
+convocational
+convolve
 cony
 cop
 copacetic
@@ -10723,6 +10792,7 @@ cornerstore
 cornerstores
 cornet
 cornetcies
+cornetcy
 cornetist
 cornetists
 cornets
@@ -10808,7 +10878,9 @@ cortile
 cortiles
 cortili
 cortina
+cortinae
 cortinas
+cortinate
 cortisol
 corundum
 coruscation
@@ -10941,6 +11013,8 @@ couvade
 cove
 coved
 coven
+covenant
+covenantal
 covens
 cover
 coverage
@@ -10950,11 +11024,13 @@ coverlet
 coverline
 covers
 covert
+covertly
 coverts
 coves
 covet
 coveted
 covets
+covey
 covin
 covine
 coving
@@ -11141,6 +11217,8 @@ creatal
 create
 created
 creates
+creatine
+creatinine
 creation
 creational
 creative
@@ -11324,6 +11402,7 @@ cristate
 crit
 criteria
 criterial
+criterion
 critic
 critical
 criticality
@@ -11852,6 +11931,9 @@ cyanic
 cyanine
 cyanite
 cyanitic
+cyanoacrylate
+cyanogen
+cyanogenic
 cyanosis
 cyathia
 cybrarian
@@ -11881,6 +11963,7 @@ cyclists
 cyclizing
 cycloid
 cycloidal
+cyclone
 cyclonic
 cylindroid
 cyma
@@ -14226,6 +14309,7 @@ each
 eachother
 eachwhere
 eager
+eagerly
 eagle
 eagled
 eaglet
@@ -14389,11 +14473,13 @@ eclairs
 eclat
 eclectic
 eclectics
+eclogite
 eclogue
 eclogues
 eclose
 ecloses
 eco
+ecocentric
 ecochic
 ecocide
 ecocline
@@ -14508,7 +14594,9 @@ egesta
 egested
 egests
 egirine
+eglantine
 ego
+egocentric
 egoism
 egoist
 egoists
@@ -15129,6 +15217,7 @@ enmities
 enoki
 enokis
 enological
+enology
 enormous
 enosis
 enough
@@ -15320,6 +15409,7 @@ envies
 envious
 enviro
 environ
+environal
 environing
 environs
 enviros
@@ -15514,6 +15604,7 @@ erected
 erectile
 erection
 erections
+erectly
 erector
 erectors
 erects
@@ -15786,6 +15877,10 @@ etic
 etics
 etiolate
 etiolated
+etiolation
+etiologic
+etiological
+etiology
 etoile
 etoiles
 etourdi
@@ -15852,6 +15947,7 @@ evasive
 eve
 evected
 evection
+evectional
 eveg
 evegs
 evel
@@ -15928,8 +16024,11 @@ evirate
 evirates
 evite
 evited
+eviternal
 evites
 eviting
+evocation
+evocative
 evoke
 evoked
 evoker
@@ -18015,6 +18114,8 @@ gal
 gala
 galactan
 galactic
+galactico
+galactin
 galago
 galagos
 galah
@@ -18025,6 +18126,7 @@ galangin
 galanin
 galant
 galanterie
+galantine
 galas
 galax
 galaxy
@@ -18362,6 +18464,9 @@ gena
 genae
 genal
 gene
+genealogical
+genealogy
+genecology
 genera
 generable
 general
@@ -18444,6 +18549,7 @@ gentling
 gently
 gentrified
 gentrifier
+gentry
 gents
 genu
 genua
@@ -18454,10 +18560,15 @@ geo
 geobotany
 geocache
 geocached
+geocentric
+geocentrical
 geoclinal
 geocode
 geocoded
+geocorona
+geocoronal
 geocratic
+geocronite
 geodata
 geode
 geodete
@@ -18471,10 +18582,14 @@ geogony
 geoid
 geoisotherm
 geokronite
+geolatry
+geolocate
+geolocation
 geologer
 geologers
 geologic
 geological
+geology
 geometer
 geometers
 geometrer
@@ -18488,6 +18603,8 @@ geoponies
 geoponist
 geoponists
 georama
+georgic
+georgical
 georgina
 georginas
 geos
@@ -18518,6 +18635,7 @@ germing
 germon
 germs
 germy
+gerontic
 gestae
 gestalt
 gestaltism
@@ -18715,6 +18833,8 @@ glaces
 glacial
 glaciation
 glacier
+glaciological
+glaciology
 glad
 glade
 gladhand
@@ -18840,8 +18960,15 @@ glute
 gluteal
 glutei
 gluten
+glycan
+glycation
+glycerin
+glycerine
 glycerol
 glyceryl
+glycine
+glycogen
+glycogenic
 glycol
 glycols
 glyph
@@ -19075,6 +19202,7 @@ goved
 govern
 governance
 governante
+governation
 governatrice
 governing
 governor
@@ -19260,6 +19388,7 @@ greasies
 greasiest
 great
 greatcoat
+greaten
 greater
 greatest
 greatish
@@ -19627,7 +19756,15 @@ gymp
 gymps
 gyms
 gynaecea
+gynaecologic
+gynaecological
+gynaecology
 gynarchy
+gynecologic
+gynecological
+gynecology
+gynocentric
+gynoecia
 gype
 gypes
 gypsy
@@ -21580,6 +21717,7 @@ iambs
 iambus
 iambuses
 iatric
+iatrogenic
 iberis
 ibex
 ibexes
@@ -21644,6 +21782,7 @@ iconoclastic
 iconoclasts
 iconolatry
 iconological
+iconology
 iconostasis
 icons
 ictal
@@ -22635,6 +22774,7 @@ interbed
 interbred
 intercalate
 intercalated
+intercalation
 intercede
 interceded
 interceder
@@ -22642,6 +22782,7 @@ intercensal
 intercept
 intercepts
 intercolonial
+intercontinental
 interconvert
 intercrural
 intercut
@@ -22661,6 +22802,8 @@ interferometer
 interferon
 interfile
 interfiled
+intergalactic
+intergeneric
 interglacial
 intergrew
 intergrow
@@ -22668,6 +22811,7 @@ intergrown
 interim
 interims
 interior
+interiorly
 interknit
 interknits
 interlace
@@ -22676,6 +22820,8 @@ interlap
 interlaps
 interlard
 interlarded
+interlay
+interlayer
 interleaf
 interleave
 interleukin
@@ -22697,12 +22843,16 @@ internals
 internasal
 internasals
 internation
+international
 internaut
 internauts
 interne
 internecinal
 internecine
+internecion
+internecive
 interned
+internegative
 internes
 interneural
 interneurals
@@ -22851,6 +23001,7 @@ inveigle
 invent
 invented
 inventing
+invention
 inventive
 inventor
 inventors
@@ -22868,8 +23019,12 @@ inviable
 invigilate
 invincible
 inviolable
+inviolacy
+inviolate
 invisible
 invisibles
+invitation
+invitational
 invite
 invited
 inviter
@@ -22877,12 +23032,14 @@ invites
 inviting
 invitingly
 invitro
+invocation
 invoice
 invoiced
 invoke
 invoker
 invokes
 invoking
+involve
 inwale
 inward
 inwards
@@ -24286,6 +24443,8 @@ lacers
 lacertian
 lacertid
 lacertilian
+lacertine
+lacery
 laces
 lacet
 lacets
@@ -25784,6 +25943,7 @@ locates
 location
 locational
 locations
+locative
 locator
 locators
 locavore
@@ -25883,6 +26043,7 @@ logins
 logion
 logline
 logo
+logocentric
 logoed
 logogram
 logograph
@@ -26075,10 +26236,12 @@ lovelock
 lovelorn
 lover
 lovered
+loverly
 lovers
 loves
 lovesick
 loveware
+lovey
 loving
 lovingly
 low
@@ -31293,6 +31456,7 @@ nants
 nanty
 nao
 naoi
+naology
 naos
 naow
 nap
@@ -31600,8 +31764,14 @@ necks
 necktie
 neckties
 neckwear
+necrogenic
+necrolatry
+necrologic
+necrological
+necrology
 necromancer
 necromancers
+necronite
 necropsy
 necroscopic
 necroscopies
@@ -31713,7 +31883,10 @@ neoantigens
 neocolonial
 neocon
 neocons
+neocortical
 neocortices
+neocyanine
+neocyanite
 neogenetic
 neoglacial
 neoglaciation
@@ -31728,6 +31901,7 @@ neolocal
 neologian
 neologic
 neological
+neology
 neomenia
 neomort
 neomorts
@@ -32326,12 +32500,18 @@ nitroamine
 nitroaniline
 nitroanisol
 nitrobarite
+nitrocalcite
 nitroform
 nitrogen
 nitrogenate
 nitrogenating
+nitrogenation
+nitrogenic
 nitrogenize
 nitrogenizing
+nitroglycerin
+nitroglycerine
+nitroglycol
 nitrolim
 nitrolime
 nitrometer
@@ -32403,6 +32583,7 @@ nobs
 nocake
 nocebo
 nocent
+nocerite
 nociception
 nocifensor
 nocive
@@ -32456,6 +32637,7 @@ noes
 noesis
 noesises
 noetic
+noetical
 nog
 nogaika
 nogaku
@@ -32537,6 +32719,7 @@ non
 nonabrasive
 nonactin
 nonactins
+nonactive
 nonage
 nonagenarian
 nonagon
@@ -32679,6 +32862,7 @@ nonunion
 nonurban
 nonveg
 nonviable
+nonvintage
 nonvoter
 nonvoting
 nonwhite
@@ -32934,6 +33118,7 @@ noviciate
 novies
 novio
 novios
+novitial
 novitiate
 novities
 novity
@@ -33409,7 +33594,9 @@ ocean
 oceanaria
 oceanful
 oceanic
+oceanite
 oceanological
+oceanology
 oceans
 ocelot
 ocelots
@@ -33450,6 +33637,7 @@ ocrea
 ocreae
 ocreas
 ocreate
+octactinal
 octactinian
 octad
 octadic
@@ -33592,6 +33780,7 @@ oenanthate
 oenochoe
 oenochoes
 oenological
+oenology
 oenomania
 oenomel
 oenomels
@@ -34335,6 +34524,10 @@ organises
 organist
 organists
 organizing
+organoclay
+organogenetic
+organogenic
+organogeny
 organography
 organoid
 organological
@@ -34384,6 +34577,7 @@ orifice
 orifices
 origami
 origan
+origany
 origin
 original
 originality
@@ -34392,6 +34586,7 @@ originary
 originate
 originating
 origination
+originative
 originator
 originist
 originists
@@ -34422,6 +34617,7 @@ ornamentation
 ornamenter
 ornate
 ornated
+ornative
 ornatrix
 ornature
 orne
@@ -34444,8 +34640,10 @@ orocline
 oroclines
 orocratic
 orogen
+orogenetic
 orogenic
 orogenital
+orogeny
 orographic
 orography
 orohydrographic
@@ -35130,6 +35328,7 @@ overcomers
 overcover
 overcovered
 overcovers
+overcritical
 overcrow
 overcrowd
 overcrowded
@@ -35148,7 +35347,9 @@ overdots
 overdrove
 overdub
 overeager
+overeagerly
 overeat
+overeaten
 overeater
 overeaters
 overeats
@@ -35217,6 +35418,8 @@ overlate
 overlavish
 overlaw
 overlaws
+overlay
+overlayer
 overleaf
 overlean
 overleant
@@ -35231,6 +35434,7 @@ overloud
 overlove
 overloves
 overlow
+overly
 overman
 overmark
 overmarks
@@ -35273,6 +35477,8 @@ overt
 overtake
 overtaker
 overtakers
+overtire
+overtly
 overtold
 overtone
 overtones
@@ -35334,6 +35540,7 @@ ovist
 ovists
 ovivorous
 ovo
+ovogenetic
 ovogonial
 ovoid
 ovoids
@@ -43562,6 +43769,7 @@ reactance
 reactant
 reacted
 reaction
+reactional
 reactionary
 reactivate
 reactivates
@@ -43839,12 +44047,14 @@ rebuy
 rebuys
 rec
 recado
+recalcination
 recalcine
 recalcining
 recalcitrance
 recalcitrant
 recalcitrate
 recant
+recantation
 recanter
 recanters
 recants
@@ -43887,6 +44097,7 @@ recensions
 recensor
 recensors
 recent
+recently
 recentre
 recentres
 recents
@@ -43944,7 +44155,9 @@ recital
 recitant
 recitate
 recitates
+recitation
 recitative
+recitativo
 recite
 recited
 reciter
@@ -43989,11 +44202,14 @@ recock
 recocks
 recode
 recoded
+recogitate
+recogitation
 recoil
 recoiler
 recoilers
 recoils
 recoin
+recoinage
 recoiner
 recoiners
 recoining
@@ -44037,8 +44253,13 @@ reconfining
 recons
 reconvene
 reconvening
+reconvent
+reconvention
+reconverge
 reconvert
+reconvey
 reconvict
+reconviction
 recopies
 record
 recordable
@@ -44064,14 +44285,18 @@ recoverers
 recoveror
 recoverors
 recovers
+recovery
 recreance
 recreances
 recreancies
 recreant
+recreantly
 recreants
 recreate
 recreated
 recreates
+recreation
+recreational
 recreative
 recreator
 recreatory
@@ -45775,6 +46000,7 @@ retenes
 retentate
 retention
 retentional
+retentive
 retenue
 retenues
 retest
@@ -45798,6 +46024,7 @@ reticence
 reticences
 reticencies
 reticent
+reticently
 reticle
 reticula
 reticular
@@ -45830,6 +46057,7 @@ retinker
 retinkers
 retinoate
 retinoic
+retinol
 retinomotor
 retins
 retinue
@@ -45921,6 +46149,7 @@ retrims
 retro
 retroact
 retroaction
+retroactive
 retroacts
 retrobulbar
 retrochoir
@@ -46005,6 +46234,7 @@ reveals
 revegetate
 revegetated
 revegetates
+revegetation
 revehent
 revel
 revelabilities
@@ -46046,6 +46276,8 @@ reverend
 reverendize
 reverends
 reverent
+reverential
+reverently
 reverer
 reverers
 reveres
@@ -46131,12 +46363,15 @@ revives
 revivescent
 revivicate
 revivicates
+revivication
 revivifier
 reviving
 reviviscent
 revivor
 revivors
 revocate
+revocation
+revocative
 revoice
 revoiced
 revoices
@@ -47054,6 +47289,8 @@ roentgenise
 roentgenite
 roentgenize
 roentgenizing
+roentgenologic
+roentgenology
 roentgens
 roer
 roers
@@ -56486,6 +56723,7 @@ triable
 triac
 triacetate
 triacs
+triacylglycerol
 triad
 triadic
 triads
@@ -56565,6 +56803,7 @@ tricolors
 tricolour
 tricolours
 tricorn
+tricorne
 tricorns
 tricot
 triculate
@@ -58829,6 +59068,7 @@ vaxes
 veal
 vealer
 vealers
+vealy
 vector
 vectored
 vectors
@@ -58851,6 +59091,8 @@ vegetate
 vegetated
 vegetates
 vegetating
+vegetation
+vegetational
 vegetative
 vegetivorous
 vegie
@@ -58916,6 +59158,7 @@ vena
 venal
 venas
 venation
+venational
 venator
 vend
 vended
@@ -58929,7 +59172,9 @@ vendues
 venerable
 venerate
 venerator
+venereal
 venereological
+venereology
 venerer
 venerers
 venery
@@ -59037,6 +59282,7 @@ vermis
 vermouth
 vernacular
 vernal
+vernation
 vernicle
 vernicles
 vernier
@@ -59076,6 +59322,7 @@ vertebrate
 vertebrates
 vertical
 vertices
+vertigo
 verts
 vertu
 vervain
@@ -59168,6 +59415,7 @@ vicarial
 vicariance
 vicariate
 vice
+vicegerent
 viceregal
 vicereine
 vicereines
@@ -59254,6 +59502,7 @@ vine
 vinegar
 vinegars
 vineries
+vinery
 vines
 vinewed
 vinho
@@ -59269,6 +59518,7 @@ vinous
 vins
 vint
 vintage
+vintager
 vinted
 vinting
 vintner
@@ -59283,6 +59533,7 @@ violas
 violate
 violater
 violaters
+violation
 violative
 violator
 violators
@@ -59390,6 +59641,7 @@ vitiates
 vitiating
 vitiation
 vitrescent
+vitrine
 vitriol
 vitriolic
 vitro
@@ -59437,6 +59689,9 @@ vlogs
 vobla
 vocal
 vocalic
+vocation
+vocational
+vocative
 voce
 vocoder
 vodun
@@ -59472,12 +59727,14 @@ voix
 volant
 volar
 volcan
+volcanean
 volcanian
 volcanic
 volcano
 volcanogenic
 volcanologic
 volcanological
+volcanology
 vole
 volens
 volente
@@ -59490,6 +59747,7 @@ volke
 volplane
 volplanes
 volt
+voltage
 voltaic
 volte
 volted
@@ -59516,6 +59774,7 @@ voms
 von
 vongole
 vortal
+vortical
 vortices
 vostro
 votarist
