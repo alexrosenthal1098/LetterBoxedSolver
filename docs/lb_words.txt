@@ -601,6 +601,7 @@ acnode
 acoast
 acock
 acoel
+acoels
 acolastic
 acolyte
 acone
@@ -911,6 +912,7 @@ adenoid
 adenoidal
 adenoidy
 adept
+adequal
 aderation
 adevism
 adhan
@@ -1038,6 +1040,9 @@ adobes
 adobo
 adobos
 adoing
+adolesce
+adolesced
+adolesces
 adonic
 adonite
 adonitol
@@ -1994,8 +1999,11 @@ alder
 alderelde
 aldereldes
 alders
+aldesko
 aldicarb
 aldol
+aldolase
+aldolases
 aldordom
 aldoxim
 aldoxime
@@ -2006,6 +2014,7 @@ alebench
 alec
 alecithal
 aleck
+alecks
 alecs
 alegar
 aleing
@@ -2364,6 +2373,7 @@ altruists
 altumal
 alu
 aludel
+aludels
 alula
 alulae
 alum
@@ -3280,6 +3290,8 @@ aptly
 apts
 aqsaqal
 aqua
+aquacade
+aquacades
 aquaculture
 aqualung
 aquanaut
@@ -7618,6 +7630,8 @@ calorie
 calories
 calorific
 calque
+calqued
+calques
 caltrap
 caltraps
 caltrop
@@ -8201,6 +8215,9 @@ casbah
 casbahs
 cascabel
 cascabels
+cascade
+cascaded
+cascades
 cascara
 cascaras
 case
@@ -8213,6 +8230,8 @@ cased
 caseiform
 casein
 caselaw
+caseload
+caseloads
 casemate
 casemates
 caseous
@@ -8544,6 +8563,7 @@ celiacs
 celibate
 celom
 celomic
+celoms
 cels
 celsian
 celt
@@ -9590,6 +9610,7 @@ cladism
 cladistic
 cladistics
 cladode
+cladodes
 clads
 clag
 claim
@@ -9600,6 +9621,7 @@ clairaudience
 clairaudient
 clam
 clamor
+clamors
 clamour
 clamp
 clamps
@@ -9704,6 +9726,7 @@ clench
 clenched
 clenching
 cleome
+cleomes
 clepe
 clept
 clercs
@@ -9799,10 +9822,12 @@ cloaca
 cloacae
 cloacal
 cloak
+cloaked
 cloaking
 cloaks
 cloche
 clock
+clocked
 clocker
 clockers
 clocking
@@ -9837,6 +9862,7 @@ clonky
 clonus
 clop
 clops
+cloque
 close
 closer
 closers
@@ -9883,6 +9909,7 @@ clubmen
 clubrush
 clubs
 cluck
+clucked
 clucking
 clucks
 clue
@@ -9926,6 +9953,9 @@ coagula
 coal
 coaled
 coaler
+coalesce
+coalesced
+coalesces
 coalface
 coalification
 coalifications
@@ -10001,7 +10031,9 @@ cochoas
 cock
 cockade
 cockaded
+cockades
 cockalorum
+cockalorums
 cockcrow
 cocked
 cocker
@@ -10050,6 +10082,7 @@ cocultures
 cocus
 cod
 coda
+codas
 code
 codec
 codecs
@@ -10068,11 +10101,14 @@ codpiece
 cods
 coecilian
 coed
+coeds
 coeliac
 coelom
 coelomic
+coeloms
 coenobia
 coequal
+coequals
 coerce
 coercer
 coercers
@@ -10152,6 +10188,7 @@ cokies
 col
 cola
 colada
+coladas
 colas
 colchicine
 colchicum
@@ -10290,6 +10327,7 @@ combos
 combs
 come
 comeatable
+comedo
 comelier
 comer
 comers
@@ -10779,8 +10817,10 @@ corkies
 corkiest
 corking
 corklike
+corks
 corm
 cormel
+cormels
 corms
 corn
 corncob
@@ -11429,6 +11469,7 @@ critique
 critiques
 crits
 croak
+croaked
 croaker
 croakers
 croaking
@@ -11440,10 +11481,12 @@ crocheted
 crocheter
 croci
 crock
+crocked
 crockery
 crocket
 crockets
 crocking
+crocks
 crocodile
 crocodilian
 crocoite
@@ -11677,6 +11720,9 @@ cubits
 cubitus
 cubs
 cuck
+cuckold
+cuckolded
+cuckolds
 cucks
 cud
 cue
@@ -11797,6 +11843,7 @@ curd
 curdle
 curdled
 curdler
+curdles
 curds
 curdy
 cure
@@ -11833,6 +11880,7 @@ curls
 curly
 curs
 curse
+cursed
 curser
 cursers
 curses
@@ -12082,6 +12130,7 @@ dalasi
 dalasis
 dale
 dalek
+daleks
 dales
 dalmatic
 dalton
@@ -12091,6 +12140,9 @@ damage
 damaged
 damages
 damar
+damask
+damasked
+damasks
 dame
 dames
 damiana
@@ -12444,6 +12496,7 @@ decisive
 deck
 decked
 deckle
+decks
 declaim
 declaimed
 declaims
@@ -12461,10 +12514,16 @@ decoder
 decodes
 decoke
 decoked
+decokes
+decolor
+decolors
 decor
 decorate
 decorated
 decorator
+decors
+decorum
+decorums
 decried
 decries
 decry
@@ -12472,6 +12531,9 @@ dedendum
 dedicate
 dedicated
 dedicatedly
+deduce
+deduced
+deduces
 deduct
 deducted
 def
@@ -12626,6 +12688,7 @@ delts
 delude
 deluded
 deluder
+deludes
 deluge
 deluged
 delve
@@ -12686,6 +12749,7 @@ demoware
 demur
 demure
 demurer
+demurs
 demy
 den
 denar
@@ -12751,6 +12815,9 @@ depraved
 deprogram
 deprogramed
 deps
+dequeue
+dequeued
+dequeues
 der
 deracine
 derail
@@ -12883,6 +12950,9 @@ detrusors
 detune
 detuned
 detuning
+deuce
+deuced
+deuces
 deus
 deuterated
 deux
@@ -13616,6 +13686,7 @@ docker
 dockers
 docket
 docketed
+docks
 doco
 docos
 doctor
@@ -13682,6 +13753,8 @@ doited
 dojo
 dojos
 dolce
+doldrum
+doldrums
 dole
 doled
 doleful
@@ -13774,16 +13847,19 @@ dorjes
 dork
 dorkier
 dorkiest
+dorks
 dorky
 dorm
 dormant
 dormer
 dormice
+dorms
 dormy
 dorp
 dorps
 dors
 dorsa
+dorsal
 dory
 doryman
 dorymen
@@ -14029,6 +14105,7 @@ droit
 droits
 drome
 dromedary
+dromes
 dromoi
 dromond
 drone
@@ -14120,7 +14197,11 @@ dubnium
 dubs
 ducal
 ducat
+duces
 duchy
+duck
+ducked
+ducks
 duco
 duct
 ductal
@@ -14164,9 +14245,14 @@ dugs
 duh
 duiker
 dujour
+duke
+dukedom
+dukedoms
+dukes
 dukun
 dulcamara
 dulce
+dulces
 dulcet
 dulcian
 dulciana
@@ -14591,6 +14677,9 @@ edits
 edtech
 educate
 educated
+educe
+educed
+educes
 educrat
 educt
 educted
@@ -14658,6 +14747,7 @@ ejective
 ejector
 ejectors
 ejects
+ekdam
 eke
 eked
 ekes
@@ -14816,6 +14906,7 @@ eluate
 eluates
 elude
 eluded
+eludes
 eluent
 elusion
 elusions
@@ -15572,6 +15663,7 @@ epsilon
 epsilons
 equable
 equal
+equaled
 equalities
 equality
 equalize
@@ -15686,6 +15778,8 @@ erythrism
 erythrocyte
 erythrocytes
 erythrocytic
+escalade
+escalades
 escalate
 escalates
 escalier
@@ -15710,6 +15804,7 @@ escort
 escorts
 escrow
 escrows
+escudo
 ese
 esecurity
 eserine
@@ -24217,6 +24312,7 @@ kobo
 kochia
 kochias
 koel
+koels
 kofta
 koftas
 koha
@@ -25288,9 +25384,11 @@ leucite
 leucitic
 leucocyte
 leucoma
+leucomas
 leucon
 leuconoid
 leucosis
+leukoma
 lev
 leva
 levade
@@ -25941,6 +26039,7 @@ lobulate
 lobule
 local
 locale
+locales
 localisation
 localisations
 localise
@@ -26013,6 +26112,7 @@ locular
 loculation
 loculations
 locule
+locules
 loculi
 loculous
 loculus
@@ -26032,6 +26132,7 @@ locutors
 locutory
 lode
 loden
+lodes
 lodge
 lodged
 lodger
@@ -26088,6 +26189,7 @@ loke
 lokes
 lokey
 lokum
+lokums
 lol
 lola
 lolas
@@ -26161,6 +26263,7 @@ lordly
 lordosis
 lordotic
 lords
+lordsake
 lore
 lores
 lorica
@@ -26339,6 +26442,7 @@ lucifer
 lucine
 lucines
 luck
+lucked
 lucking
 lucks
 lucrative
@@ -26571,6 +26675,7 @@ macadamises
 macana
 macanas
 macaque
+macaques
 macarise
 macarism
 macarisms
@@ -26634,15 +26739,22 @@ macro
 macrocarpa
 macroclimatic
 macrocolum
+macrocolums
 macrocosm
 macrocosmic
 macrocosmos
 macrocosms
 macrocyst
 macrocysts
+macrodome
+macrodomes
 macrodont
 macrodontia
 macroform
+macromodel
+macromodels
+macromolecule
+macromolecules
 macron
 macrons
 macropod
@@ -26694,6 +26806,8 @@ madman
 madmen
 mado
 madombe
+madoqua
+madoquas
 mados
 madrepore
 madrich
@@ -26916,6 +27030,8 @@ makaras
 makarism
 makars
 makaton
+makdom
+makdoms
 make
 makemono
 makeover
@@ -26991,6 +27107,8 @@ malathion
 malcoha
 malconduct
 malcriado
+malduck
+malducks
 male
 maleate
 maleates
@@ -27035,6 +27153,7 @@ malnutrition
 maloca
 malocas
 malodor
+malodors
 malombo
 malonic
 malonyl
@@ -27649,6 +27768,7 @@ mashups
 mashwa
 mashy
 mask
+masked
 masks
 maslin
 maslins
@@ -27839,6 +27959,7 @@ maud
 maudit
 maudle
 maudled
+maudles
 maudlin
 mauds
 mauger
@@ -28036,6 +28157,8 @@ meconopsis
 mecoprop
 mecum
 med
+medaka
+medakas
 medal
 medaled
 medalet
@@ -28163,6 +28286,7 @@ melado
 melaena
 melaenas
 melaleuca
+melaleucas
 melam
 melambo
 melamed
@@ -29723,6 +29847,7 @@ moai
 moais
 moaky
 moal
+moals
 moan
 moana
 moaned
@@ -29779,7 +29904,9 @@ mochi
 mochila
 mochis
 mock
+mockado
 mockamock
+mocked
 mocker
 mockers
 mocks
@@ -29794,12 +29921,15 @@ mocucks
 mocus
 mod
 modal
+modals
 mode
 model
 modeled
 modeler
+models
 modem
 modemed
+modems
 moderant
 moderation
 moderato
@@ -29821,11 +29951,15 @@ modists
 modius
 modiuses
 modoc
+modock
+modocs
 modom
+modoms
 mods
 modular
 modulation
 module
+modules
 moduli
 modulo
 modus
@@ -29841,6 +29975,7 @@ moepel
 moepels
 moeriki
 moeritheria
+moeurs
 moey
 mofo
 mofongo
@@ -29926,6 +30061,7 @@ mokihis
 mokimoki
 mokis
 moko
+mokoed
 mokomokai
 mokoro
 mokoros
@@ -29949,7 +30085,9 @@ moldier
 molds
 mole
 molecula
+moleculas
 molecule
+molecules
 moler
 moles
 molie
@@ -30310,6 +30448,7 @@ mopsies
 moptop
 mopy
 moqueca
+moquecas
 mor
 mora
 morabaraba
@@ -30370,6 +30509,7 @@ morions
 morita
 mormaer
 mormal
+mormals
 mormaor
 mormaors
 mormaorship
@@ -30417,6 +30557,8 @@ morphophonic
 morphs
 morpion
 morpions
+morsel
+morsels
 mort
 mortal
 mortalist
@@ -30673,6 +30815,7 @@ mucins
 muck
 muckamuck
 muckamucks
+mucked
 mucker
 muckers
 mucket
@@ -30684,6 +30827,7 @@ muckraker
 muckrakers
 mucks
 mucocele
+mucoceles
 mucocoele
 mucoid
 mucolipid
@@ -30772,6 +30916,7 @@ mulcts
 mule
 muled
 mules
+mulesed
 muleta
 muletas
 muley
@@ -33790,6 +33935,7 @@ odourful
 odours
 ods
 odum
+odums
 odyle
 odylic
 oecist
@@ -42569,6 +42715,7 @@ qua
 quab
 quabs
 quack
+quacked
 quacker
 quackers
 quacking
@@ -42597,6 +42744,7 @@ quailing
 quails
 quaite
 quake
+quaked
 quakes
 quaking
 quaky
@@ -42673,6 +42821,7 @@ quean
 queans
 queasy
 queck
+quecked
 quecks
 quek
 quel
@@ -42696,6 +42845,7 @@ quests
 quete
 quetes
 queue
+queued
 queueing
 queuer
 queuers
@@ -47282,9 +47432,11 @@ rocklike
 rockling
 rockrose
 rockroses
+rocks
 rockwork
 rocky
 rococo
+rococoesque
 rocs
 rod
 rode
@@ -47398,6 +47550,7 @@ romans
 romanso
 romaunt
 romcom
+romcoms
 romeite
 romeites
 romeney
@@ -47473,6 +47626,7 @@ roquets
 rorie
 roritorious
 rorqual
+rorquals
 rort
 rorted
 rorter
@@ -47878,8 +48032,10 @@ ruches
 ruching
 ruchy
 ruck
+rucked
 rucks
 rucksack
+rucksacked
 rucksackful
 rucksackfuls
 rucksacks
@@ -47958,6 +48114,7 @@ rule
 ruleable
 ruled
 ruledom
+ruledoms
 ruleful
 ruler
 rulered
@@ -48810,6 +48967,7 @@ satyriasis
 satyric
 satyrs
 sauce
+sauced
 saucer
 sauces
 saucier
@@ -49139,6 +49297,7 @@ sclerotitises
 scobe
 scobes
 scold
+scolded
 scolds
 scoleces
 scolices
@@ -49293,6 +49452,7 @@ scuba
 scubas
 scud
 scudi
+scudo
 scuds
 sculp
 sculpin
@@ -49399,6 +49559,9 @@ secateurs
 secede
 seceded
 secedes
+seclude
+secluded
+secludes
 second
 secondi
 secondo
@@ -49441,7 +49604,11 @@ sedates
 sedge
 sedges
 sedile
+seduce
+seduced
+seduces
 sedum
+sedums
 sega
 segas
 segno
@@ -49498,6 +49665,7 @@ sekach
 sekaches
 sel
 selah
+seldom
 select
 selecta
 selectable
@@ -50895,6 +51063,7 @@ slake
 slaked
 slakes
 slalom
+slalomed
 slaloms
 slam
 slams
@@ -51038,6 +51207,7 @@ sly
 slyest
 slyly
 smack
+smacked
 smacker
 smackers
 smacks
@@ -51131,10 +51301,12 @@ smithy
 smize
 smizes
 smock
+smocked
 smocks
 smog
 smogs
 smoke
+smoked
 smoker
 smokers
 smokes
@@ -52152,10 +52324,12 @@ squads
 squalid
 squalidity
 squalidly
+squalor
 squamate
 squamose
 squamous
 squamule
+squamules
 square
 squarer
 squarers
@@ -57601,6 +57775,7 @@ ukelele
 ukeleles
 ukes
 ukulele
+ukuleles
 ulama
 ulamas
 ulcer
@@ -58779,6 +58954,7 @@ uroboros
 uroboroses
 urochord
 urodele
+urodeles
 urogram
 urography
 urology
