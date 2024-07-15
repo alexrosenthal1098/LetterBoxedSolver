@@ -1335,6 +1335,8 @@ aetiteses
 aeviternal
 aevum
 afaint
+afakasi
+afakasis
 afanc
 afancs
 afar
@@ -2004,6 +2006,7 @@ aldicarb
 aldol
 aldolase
 aldolases
+aldolisation
 aldordom
 aldoxim
 aldoxime
@@ -2156,6 +2159,8 @@ alismas
 aliter
 aliterate
 aliterates
+alitrunk
+alitrunks
 aliturgical
 aliunde
 alive
@@ -2171,6 +2176,8 @@ alkaline
 alkalinity
 alkalinizing
 alkalis
+alkalisation
+alkalisations
 alkalizing
 alkaloid
 alkaloidal
@@ -2180,6 +2187,7 @@ alkane
 alkanet
 alkanets
 alkanol
+alkarsin
 alkathene
 alkekeng
 alkekenge
@@ -2740,6 +2748,7 @@ andantinos
 andic
 andiron
 andirons
+andosol
 andragogy
 andrew
 andro
@@ -2921,6 +2930,7 @@ antagonal
 antagony
 antalgic
 antalkali
+antalkalis
 antanaclasis
 antanagoge
 antas
@@ -4178,9 +4188,11 @@ autograph
 autographing
 autogyro
 autoharp
+autoionisation
 autoist
 autoists
 autoland
+autolands
 autolith
 autolithograph
 autolithographing
@@ -4229,6 +4241,8 @@ autotest
 autotests
 autotomise
 autotomy
+autotransfusion
+autotransfusions
 autotray
 autotrays
 autotune
@@ -13771,6 +13785,7 @@ dolma
 dolmus
 dolomitic
 dolor
+dolorosa
 dolorous
 dolorously
 dolour
@@ -13808,8 +13823,10 @@ donate
 donating
 donatio
 donation
+donations
 donative
 donator
+donators
 done
 doner
 dong
@@ -13860,6 +13877,7 @@ dorps
 dors
 dorsa
 dorsal
+dorsalis
 dory
 doryman
 dorymen
@@ -13876,6 +13894,7 @@ dost
 dot
 dotage
 dotard
+dotards
 dotbomb
 dotcom
 dote
@@ -14088,6 +14107,7 @@ driftier
 drily
 drink
 drinking
+drinks
 drip
 drips
 drive
@@ -14183,6 +14203,7 @@ duads
 dual
 dualed
 dualing
+dualisation
 dualist
 dualistic
 dualists
@@ -14292,6 +14313,7 @@ dunks
 dunktank
 dunktanks
 dunlin
+dunlins
 duns
 dunt
 dunted
@@ -14323,6 +14345,8 @@ durably
 dural
 duras
 duration
+durational
+durations
 durative
 durbar
 durbars
@@ -16622,6 +16646,7 @@ fansites
 fantail
 fantails
 fantod
+fantods
 fap
 faps
 faqir
@@ -16637,6 +16662,7 @@ farcical
 farcy
 fard
 fardel
+fards
 fare
 fared
 fares
@@ -16747,6 +16773,7 @@ faun
 fauna
 faunae
 faunal
+faunas
 fauns
 faut
 faute
@@ -17133,6 +17160,7 @@ finca
 finch
 find
 findal
+finds
 fine
 fineable
 fined
@@ -17217,6 +17245,8 @@ firewatch
 firie
 firies
 firing
+firkin
+firkins
 firm
 firma
 firman
@@ -17511,6 +17541,7 @@ flows
 flowy
 flu
 fluatation
+fluatations
 fluate
 flub
 flubs
@@ -17673,6 +17704,7 @@ fons
 font
 fontal
 fontanel
+fontina
 fonts
 fop
 fops
@@ -17754,6 +17786,7 @@ forgot
 fori
 forint
 fork
+forkful
 forklift
 forklifts
 forks
@@ -17779,6 +17812,7 @@ forth
 forthwith
 fortifier
 fortiori
+fortis
 fortlet
 forts
 forum
@@ -18103,7 +18137,12 @@ fundi
 fundido
 fundie
 fundiet
+fundlord
+fundlords
 fundo
+fundos
+funds
+fundus
 funebral
 funeral
 funereal
@@ -22098,6 +22137,7 @@ idyls
 iechyd
 ifs
 iftar
+iftars
 ignis
 ignitable
 ignite
@@ -22512,6 +22552,7 @@ indorse
 indorser
 indorsers
 indorses
+indraft
 indrawn
 indri
 indris
@@ -22530,6 +22571,7 @@ indumentum
 induna
 indunas
 induration
+indurations
 indusia
 industrious
 industriously
@@ -22845,6 +22887,10 @@ insignias
 insincere
 insinuate
 insinuates
+insinuation
+insinuations
+insinuator
+insinuators
 insipid
 insipidity
 insist
@@ -22920,6 +22966,7 @@ insulates
 insulation
 insulations
 insulator
+insulators
 insulin
 insulitis
 insult
@@ -23122,6 +23169,8 @@ intitule
 intitules
 intituling
 into
+intonation
+intonational
 intone
 intoner
 intoners
@@ -23164,6 +23213,8 @@ introverted
 introvertive
 introverts
 intruding
+intrusion
+intrusions
 intrusive
 intrust
 intrusts
@@ -23174,6 +23225,8 @@ intuit
 intuitable
 intuiting
 intuition
+intuitional
+intuitions
 intuits
 intwine
 intwining
@@ -23802,6 +23855,9 @@ kadais
 kadi
 kadis
 kafir
+kafirs
+kaftan
+kaftans
 kagoul
 kagouls
 kagu
@@ -24174,6 +24230,7 @@ kilim
 kilims
 kiln
 kilned
+kilns
 kilo
 kilobit
 kilocalorie
@@ -24183,6 +24240,7 @@ kilolitre
 kilombo
 kilos
 kiloton
+kilotons
 kilt
 kilted
 kilter
@@ -24207,6 +24265,9 @@ kindler
 kindlers
 kindles
 kinds
+kindsa
+kindsfolk
+kindsfolks
 kindy
 kine
 kineses
@@ -24248,6 +24309,7 @@ kinrik
 kinriks
 kinryk
 kins
+kinsfolk
 kinsman
 kinsmen
 kinswoman
@@ -24878,6 +24940,7 @@ landlady
 landler
 landline
 landlord
+landlords
 landman
 landnam
 landpirate
@@ -24941,6 +25004,7 @@ larder
 lardier
 larding
 lardon
+lardons
 lards
 lardy
 lares
@@ -31645,8 +31709,10 @@ nakerer
 nakerers
 nakers
 nakfa
+nakfas
 nakhlite
 nakodo
+naksatra
 nala
 nalas
 naled
@@ -31933,6 +31999,7 @@ nauseate
 nauseates
 nauseous
 nautanki
+nautankis
 nautch
 nautic
 nautical
@@ -32785,6 +32852,9 @@ nitroanisol
 nitrobarite
 nitrocalcite
 nitroform
+nitrofuran
+nitrofurans
+nitrofurantoin
 nitrogen
 nitrogenate
 nitrogenating
@@ -32897,12 +32967,15 @@ nodhead
 nodheads
 nodi
 nodical
+nodosaur
+nodosaurs
 nodose
 nodosity
 nodous
 nods
 nodular
 nodulation
+nodulations
 nodule
 nodules
 nodulus
@@ -33186,6 +33259,7 @@ noritic
 nork
 norks
 norland
+norlands
 norm
 normal
 normcore
@@ -33488,6 +33562,8 @@ nudism
 nudist
 nudists
 nudity
+nudnik
+nudniks
 nuevo
 nug
 nugs
@@ -34022,6 +34098,7 @@ odometer
 odometry
 odonata
 odonatan
+odonatans
 odonate
 odontic
 odontist
@@ -34253,6 +34330,7 @@ oleyl
 oliban
 olibane
 olid
+olifant
 oligo
 oligoclonal
 oligogene
@@ -43607,6 +43685,7 @@ randier
 randily
 randing
 randir
+randkluft
 rando
 randori
 randos
@@ -47334,6 +47413,7 @@ risings
 risk
 risker
 riskers
+riskful
 riskier
 riskiest
 risking
@@ -47957,6 +48037,7 @@ rotunda
 rotundal
 rotundas
 rotundo
+rotundos
 roture
 rotures
 roturier
@@ -48250,6 +48331,7 @@ ruin
 ruinable
 ruination
 ruinator
+ruinators
 ruined
 ruiner
 ruiners
@@ -49034,6 +49116,7 @@ sarsenet
 sarsenets
 sarsens
 sartorial
+sartorius
 sarus
 sarvo
 sasanqua
@@ -50786,6 +50869,8 @@ sievert
 sieverts
 sieves
 sieving
+sifaka
+sifakas
 sift
 sifter
 sifters
@@ -51743,6 +51828,8 @@ sofas
 soft
 softa
 softas
+softdrink
+softdrinks
 sogo
 soh
 soie
@@ -53780,6 +53867,8 @@ sulfa
 sulfamic
 sulfite
 sulfites
+sulfonation
+sulfonations
 sulfur
 sulfuration
 sulfurations
@@ -53853,6 +53942,8 @@ sunk
 sunken
 sunker
 sunkers
+sunland
+sunlands
 sunlet
 sunlets
 sunlit
@@ -54513,6 +54604,7 @@ tajine
 tajines
 taka
 takable
+takaful
 takahe
 takahes
 take
@@ -54525,6 +54617,7 @@ takeovers
 taker
 takers
 takes
+takfir
 takht
 takhts
 takin
@@ -54659,6 +54752,7 @@ tankards
 tankas
 tanker
 tankers
+tankful
 tanking
 tankini
 tankinis
@@ -54726,6 +54820,7 @@ tarama
 taramasalata
 tarantism
 tarantula
+tarantulas
 tarata
 taratas
 tarboy
@@ -54808,6 +54903,7 @@ tartrates
 tartrazine
 tarts
 tartufo
+tartufos
 tarty
 tarzy
 tarzys
@@ -55985,6 +56081,7 @@ tiers
 tiersman
 ties
 tifo
+tifos
 tig
 tiger
 tigerfish
@@ -56202,6 +56299,8 @@ titanium
 titanoaugite
 titanohematite
 titanos
+titanosaur
+titanosaurs
 titanous
 titans
 titar
@@ -57356,6 +57455,7 @@ triturating
 trituration
 triturations
 triturator
+triturators
 triumph
 triune
 trivet
@@ -57379,6 +57479,7 @@ trogon
 trogons
 trogs
 troika
+troikas
 trois
 tromp
 trompe
@@ -57507,6 +57608,7 @@ truncation
 trundle
 trundler
 trunk
+trunkful
 trunks
 trust
 trustbuster
@@ -58237,6 +58339,7 @@ undine
 undo
 undoable
 undone
+undos
 undrawn
 undried
 undrunk
@@ -58245,6 +58348,7 @@ undulance
 undulant
 undulate
 undulation
+undulations
 unduly
 undutiful
 undy
@@ -58413,6 +58517,7 @@ unironic
 unis
 unison
 unisonal
+unisonant
 unisonous
 unisons
 unit
@@ -58459,6 +58564,7 @@ unket
 unketh
 unkey
 unkeys
+unkind
 unking
 unkink
 unkinking
@@ -58551,6 +58657,7 @@ unlined
 unlingering
 unlining
 unlink
+unlinks
 unlist
 unlists
 unlit
@@ -58895,6 +59002,7 @@ unship
 unships
 unshod
 unshorn
+unskilful
 unsnarl
 unsold
 unsolvable
