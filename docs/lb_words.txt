@@ -5262,6 +5262,8 @@ begob
 begone
 begonia
 begot
+begrime
+begrimes
 begs
 beguile
 beguiled
@@ -5352,6 +5354,7 @@ bemas
 bemata
 bemire
 bemired
+bemires
 bemoan
 bemuse
 bemused
@@ -5432,7 +5435,13 @@ beset
 besets
 beside
 besides
+besiege
+besieger
+besieges
+besmite
+besmites
 besom
+besoms
 bespeak
 best
 bested
@@ -6284,6 +6293,7 @@ boings
 boink
 boinks
 bois
+boiserie
 boite
 boites
 boke
@@ -6589,9 +6599,13 @@ bowyer
 box
 boxcar
 boxcars
+boxer
+boxercise
 boxes
+boxier
 boxout
 boxouts
+boxset
 boxy
 boy
 boyar
@@ -6920,6 +6934,7 @@ brochure
 brochures
 brock
 brogue
+brogues
 broider
 broidered
 broiges
@@ -6983,8 +6998,10 @@ brubrus
 bruchid
 brucine
 brucines
+brucite
 bruck
 brucks
+brueries
 bruery
 bruh
 bruhs
@@ -11477,6 +11494,8 @@ criticasters
 criticise
 criticiser
 criticises
+criticism
+criticisms
 critics
 criticus
 critique
@@ -11544,6 +11563,7 @@ croup
 croups
 croupy
 croute
+croutes
 crouton
 croutons
 crow
@@ -11878,6 +11898,7 @@ curiosities
 curiosity
 curiosum
 curious
+curiouser
 curium
 curl
 curled
@@ -11966,6 +11987,7 @@ cutch
 cute
 cutely
 cuter
+cutesier
 cutesiest
 cutest
 cutey
@@ -14989,6 +15011,7 @@ embolism
 embolisms
 embosom
 embosomed
+embosoms
 embrace
 embraceable
 embracer
@@ -15008,6 +15031,7 @@ emerg
 emerge
 emerged
 emergent
+emerges
 emerging
 emergs
 emerita
@@ -15752,6 +15776,7 @@ ergometer
 ergometrine
 ergosterol
 ergot
+ergotism
 ergots
 ergs
 erhu
@@ -15775,6 +15800,8 @@ erotic
 erotica
 eroticise
 eroticises
+eroticism
+erotism
 erotology
 erotomania
 erst
@@ -15827,6 +15854,8 @@ escolar
 escolars
 escort
 escorts
+escritoire
+escritoires
 escrow
 escrows
 escudo
@@ -15838,6 +15867,8 @@ esker
 eskers
 eskies
 esky
+esoteric
+esotericism
 espies
 esport
 esports
@@ -16037,6 +16068,7 @@ euchres
 euchring
 eucies
 eucrite
+eucrites
 eucy
 eugenist
 eugenists
@@ -16205,14 +16237,21 @@ exchanging
 excimer
 excimers
 excipient
+excise
+excises
 excite
+exciter
+excites
 exciting
 exclaim
 exclaimed
 excreta
 excrete
 excreter
+excretes
 excursus
+excuse
+excuses
 exeat
 exeats
 exec
@@ -16228,6 +16267,7 @@ exegesis
 exegete
 exegetes
 exegetic
+exegetics
 exegeting
 exempla
 exemplied
@@ -16239,6 +16279,11 @@ exempts
 exenterate
 exequy
 exequys
+exercise
+exerciser
+exercises
+exergue
+exergues
 exert
 exerts
 exes
@@ -16285,11 +16330,19 @@ exon
 exonic
 exorcise
 exorcises
+exorcism
+exorcisms
 exorcist
 exorcists
 exosolar
 exostoses
 exostosis
+exoteric
+exotic
+exoticise
+exoticises
+exoticism
+exotics
 exparte
 expat
 expatriate
@@ -19677,10 +19730,12 @@ grikes
 grim
 grime
 grimed
+grimes
 grimier
 grimiest
 griming
 grimoire
+grimoires
 grimy
 grin
 grinch
@@ -19785,11 +19840,13 @@ grown
 growth
 grozing
 grub
+grubs
 grudge
 grudger
 grudgers
 gruel
 grueling
+gruesome
 gruftier
 grumbling
 grumblingly
@@ -23487,8 +23544,10 @@ isolines
 isomer
 isomerase
 isomerases
+isomeric
 isomerise
 isomerises
+isomerism
 isomerous
 isomers
 isometries
@@ -23502,6 +23561,8 @@ isopachs
 isopod
 isosbestic
 isosceles
+isoseismic
+isosmotic
 isospin
 isospins
 isostasy
@@ -28441,6 +28502,7 @@ meinies
 meionite
 meioses
 meiosis
+meiotic
 meiping
 meishi
 meishis
@@ -28565,6 +28627,7 @@ memorial
 memoriam
 memoried
 memories
+memorious
 memorise
 memoriser
 memorisers
@@ -28669,6 +28732,9 @@ merciful
 mercs
 mercurate
 mercurates
+mercuric
+mercuries
+mercurous
 mercy
 merd
 merde
@@ -28687,6 +28753,7 @@ merge
 merged
 merger
 mergers
+merges
 merging
 meringue
 merino
@@ -28706,6 +28773,7 @@ meriters
 meriting
 meritist
 meritists
+meritorious
 merits
 merkin
 merkins
@@ -28781,6 +28849,8 @@ mesmerises
 mesmerism
 mesmerist
 mesmerists
+mesmerite
+mesmerites
 mesmerize
 mesmerizer
 mesmerizes
@@ -28804,6 +28874,7 @@ mesolites
 mesomere
 mesomeres
 mesomeric
+mesomerism
 mesometrium
 mesometriums
 meson
@@ -29106,6 +29177,7 @@ microbores
 microburin
 microburins
 microbus
+microbuses
 microcanonical
 microcar
 microcard
@@ -29142,6 +29214,9 @@ microlitres
 micromania
 micromere
 micromeres
+micromeric
+micromeritic
+micromeritics
 micromesh
 micrometeor
 micrometeors
@@ -29166,6 +29241,10 @@ microsaurs
 microscopic
 microscopist
 microscopists
+microseism
+microseismic
+microseismometer
+microseisms
 microsite
 microsites
 microsmatic
@@ -29176,7 +29255,10 @@ microsomes
 microsomia
 microtiter
 microtitre
+microtome
+microtomes
 microtomic
+microtomies
 microtomist
 microtomists
 microtomy
@@ -29395,6 +29477,8 @@ mimesis
 mimetene
 mimetesite
 mimetic
+mimeticism
+mimeticisms
 mimetism
 mimetisms
 mimetite
@@ -29998,6 +30082,8 @@ mixte
 mixtes
 mixtil
 mixtry
+mixture
+mixtures
 mixup
 mixy
 miya
@@ -30173,6 +30259,7 @@ mogras
 mogs
 mogue
 mogued
+mogues
 moguing
 mogul
 moguled
@@ -30651,7 +30738,9 @@ morats
 moray
 morays
 morbid
+morbose
 morbus
+morbuses
 morcha
 morchas
 mordant
@@ -30671,6 +30760,7 @@ mores
 morg
 morgen
 morgue
+morgues
 morgy
 moria
 moribana
@@ -30853,6 +30943,7 @@ motoneuron
 motons
 motor
 motorable
+motorbus
 motorcamp
 motorcar
 motordom
@@ -30920,13 +31011,18 @@ mous
 mousaka
 mousakas
 mouse
+mouseburger
 mousekin
 mousekins
 mouser
+mouseries
 mousers
 mouses
 mouseweb
 mousewebs
+mousier
+mousme
+mousmes
 mouth
 mouthed
 mouther
@@ -30963,6 +31059,7 @@ mown
 mowra
 mowras
 mows
+moxie
 moxy
 moy
 moya
@@ -33911,6 +34008,12 @@ oboval
 oboy
 obround
 obscura
+obscure
+obscurer
+obscures
+obscurism
+obscurisms
+obscurities
 obsidian
 obstat
 obstinacy
@@ -34190,6 +34293,8 @@ ogos
 ography
 ogre
 ogreish
+ogreism
+ogreisms
 ogres
 ogrish
 ohelo
@@ -35357,6 +35462,7 @@ outbounds
 outbow
 outbows
 outbox
+outboxes
 outbrave
 outbreak
 outbreaks
@@ -35373,6 +35479,8 @@ outcast
 outcasts
 outcharm
 outcharms
+outcrier
+outcries
 outcrop
 outcrops
 outcry
@@ -35988,6 +36096,7 @@ oxhide
 oxhouse
 oxhouses
 oxic
+oxicities
 oxide
 oxides
 oxidise
@@ -45075,6 +45184,7 @@ regoliths
 regorge
 regorged
 regorgement
+regorges
 regos
 regosol
 regosols
@@ -45189,6 +45299,8 @@ reiki
 reimbibe
 reimbibed
 reimbibes
+reimbue
+reimbues
 reimpart
 reimparts
 reimpel
@@ -45530,6 +45642,7 @@ rememberable
 remembered
 rememberer
 rememberers
+rememberies
 remembers
 remembery
 rememorable
@@ -45543,6 +45656,7 @@ remercies
 remercy
 remerge
 remerged
+remerges
 remerging
 remet
 remex
@@ -45563,6 +45677,8 @@ remix
 remixer
 remixers
 remixes
+remixture
+remixtures
 remnant
 remock
 remocks
@@ -45995,6 +46111,7 @@ rerig
 rerigs
 reroute
 rerouted
+reroutes
 rerun
 reruns
 res
@@ -46316,6 +46433,7 @@ restructure
 restructures
 rests
 resty
+resubmit
 resuck
 resucks
 resue
@@ -46403,6 +46521,9 @@ retenues
 retest
 retested
 retests
+retexture
+retextures
+retexturise
 retgersite
 retgersites
 rethank
@@ -46481,6 +46602,7 @@ retold
 retomb
 retombed
 retombing
+retombs
 retort
 retortable
 retorted
@@ -47618,6 +47740,8 @@ roborants
 roborating
 robot
 robotian
+robotic
+robotics
 robotise
 robotises
 robotism
@@ -47724,6 +47848,7 @@ rogue
 rogued
 roguedom
 roguer
+rogueries
 roguery
 rogues
 roguey
@@ -48042,11 +48167,14 @@ roture
 rotures
 roturier
 roturiere
+roturieres
 rouble
 roucou
 roucous
 roud
 roue
+roueism
+roueisms
 roues
 rouet
 rouf
@@ -48247,6 +48375,8 @@ rubrenes
 rubric
 rubrical
 rubrician
+rubricism
+rubricisms
 rubricist
 rubricists
 rubrics
@@ -49885,6 +50015,7 @@ seisins
 seismal
 seismic
 seismical
+seismometer
 seitan
 seiza
 seize
@@ -49946,6 +50077,8 @@ semas
 semblable
 semblables
 seme
+semeiotic
+semeiotics
 sememe
 sememes
 semen
@@ -49967,6 +50100,8 @@ seminarian
 seminarians
 seminars
 semiosis
+semiotic
+semiotics
 semipro
 semipros
 semiquinone
@@ -50284,8 +50419,12 @@ sewins
 sewn
 sews
 sex
+sexbomb
+sexbombs
 sexed
 sexer
+sexercise
+sexercises
 sexers
 sexes
 sexful
@@ -50307,6 +50446,8 @@ sexter
 sexters
 sextet
 sextets
+sextic
+sextics
 sextile
 sexto
 sextries
@@ -51581,6 +51722,8 @@ smokos
 smoky
 smolt
 smolts
+smore
+smores
 smote
 smriti
 smritis
@@ -51917,6 +52060,9 @@ somatise
 somatised
 somatises
 somber
+sombre
+sombrero
+sombreros
 some
 somebody
 someday
@@ -52119,6 +52265,7 @@ soutar
 soutars
 souteneur
 souteneurs
+souter
 south
 southed
 souths
@@ -53587,6 +53734,7 @@ subchaser
 subchron
 subchronic
 subchrons
+subcircuit
 subcritical
 subcruraeus
 subcrureus
@@ -53611,6 +53759,7 @@ subedits
 subentries
 suber
 subereous
+suberic
 suberin
 suberise
 suberises
@@ -53661,6 +53810,8 @@ sublimish
 submaster
 submasters
 submature
+submerge
+submerges
 submerse
 submerses
 submeter
@@ -53679,6 +53830,7 @@ subnets
 subnivean
 subnucleus
 subnucleuses
+subobscure
 suborn
 suborns
 subpar
@@ -53751,6 +53903,7 @@ subtenure
 subtenures
 subtest
 subtests
+subtext
 subtiaba
 subtil
 subtile
@@ -53765,6 +53918,8 @@ subtleties
 subtlety
 subtone
 subtones
+subtotem
+subtotems
 subtribe
 subtribes
 subtriple
@@ -53802,6 +53957,9 @@ suckups
 sucky
 sucrase
 sucre
+sucres
+sucrier
+sucrose
 suction
 suctions
 suctorian
@@ -54079,6 +54237,7 @@ surfusion
 surfusions
 surfy
 surge
+surgeries
 surgery
 surges
 suricate
@@ -55587,6 +55746,10 @@ texter
 texters
 texting
 texts
+texture
+textures
+texturise
+texturises
 thai
 thakur
 thalami
@@ -56161,6 +56324,7 @@ timeout
 timeouts
 timepiece
 timer
+timerities
 timerity
 timers
 times
@@ -56184,6 +56348,7 @@ timite
 timites
 timocratic
 timolol
+timorous
 timothy
 timpani
 timpanist
@@ -56359,6 +56524,7 @@ titling
 titlist
 titlists
 titmice
+titmouse
 titratable
 titrate
 titrated
@@ -56667,6 +56833,8 @@ toreador
 torero
 toreros
 tores
+toreutic
+toreutics
 torgoch
 tori
 toric
@@ -56763,6 +56931,7 @@ totaras
 tote
 toted
 totem
+totemic
 totemism
 totemist
 totemists
@@ -56877,6 +57046,7 @@ toxaemic
 toxemia
 toxemic
 toxic
+toxicities
 toxics
 toxifies
 toxocara
@@ -59222,6 +59392,8 @@ urbanity
 urbanize
 urbarial
 urbe
+urbex
+urbexer
 urbicide
 urbs
 urchin
