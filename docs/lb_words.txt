@@ -1264,11 +1264,14 @@ aerogram
 aerolite
 aerolith
 aeroliths
+aerolitic
 aerologic
 aerological
 aerology
 aeromancer
 aeromancers
+aeromantic
+aeromechanic
 aerometer
 aerometry
 aeromotor
@@ -1678,6 +1681,7 @@ ailed
 aileron
 aililiu
 ailing
+ailment
 ailpin
 ails
 ailuroid
@@ -2455,6 +2459,7 @@ amapakati
 amapakatis
 amaqueta
 amaranth
+amaranthine
 amaranths
 amari
 amaro
@@ -2524,7 +2529,9 @@ ament
 amentia
 amerce
 amerceable
+amercement
 amerces
+amerciament
 amethyst
 amethysts
 amiable
@@ -3039,6 +3046,7 @@ antichoice
 anticipator
 anticlerical
 anticlinal
+anticline
 antics
 anticyclone
 anticyclonic
@@ -3609,6 +3617,7 @@ aroid
 aroids
 arolium
 aroma
+aromantic
 aromas
 aromatic
 aronia
@@ -3926,6 +3935,7 @@ atheism
 atheist
 atheistic
 atheists
+athematic
 atheroma
 atheteses
 athetesis
@@ -8599,6 +8609,7 @@ cels
 celsian
 celt
 celts
+cement
 cemeteries
 cemetery
 cenacle
@@ -8651,12 +8662,17 @@ central
 centrale
 centre
 centreline
+centreman
+centremen
+centrement
 centres
 centrex
 centric
 centrical
+centroclinal
 centroid
 centroids
+centromere
 cents
 centurial
 centuriate
@@ -8688,6 +8704,7 @@ cerebral
 cerebrate
 cerebri
 cerecloth
+cerement
 ceremonies
 cereology
 ceres
@@ -8783,6 +8800,7 @@ chalcids
 chalcone
 chalet
 chalice
+chalicothere
 chalk
 chalked
 chalkie
@@ -8843,6 +8861,7 @@ chantant
 chanter
 chanteur
 chanties
+chantment
 chantries
 chantry
 chants
@@ -8889,6 +8908,7 @@ charactery
 charade
 charango
 charas
+charcoal
 charcuterie
 chard
 charge
@@ -8936,6 +8956,8 @@ charts
 charva
 charver
 charvered
+charwoman
+charwomen
 chary
 chase
 chaser
@@ -9021,10 +9043,13 @@ chemist
 chemistic
 chemists
 chemo
+chemocline
 chemoses
 chemosis
+chemotic
 chempaka
 chempakas
+chemtrail
 chenar
 chenars
 cheque
@@ -9343,6 +9368,7 @@ chrism
 chroma
 chromatic
 chromaticism
+chromatin
 chrome
 chromic
 chromite
@@ -9651,6 +9677,7 @@ clair
 clairaudience
 clairaudient
 clam
+clamant
 clamor
 clamors
 clamour
@@ -9907,6 +9934,7 @@ closures
 clot
 cloth
 clothe
+clothier
 clots
 cloture
 clou
@@ -10000,6 +10028,8 @@ coalitioner
 coalitionist
 coalitionists
 coalitions
+coalman
+coalmen
 coals
 coaly
 coaptation
@@ -10890,6 +10920,7 @@ cornicing
 cornier
 corniest
 cornily
+cornmeal
 cornrow
 cornrows
 corns
@@ -11129,6 +11160,8 @@ cowing
 cowl
 cowlick
 cowls
+cowman
+cowmen
 cowp
 cowpat
 cowps
@@ -11322,11 +11355,13 @@ credo
 crein
 crema
 cremains
+cremant
 cremaster
 cremasteric
 cremasters
 cremate
 cremates
+cremator
 creme
 cremes
 cremini
@@ -11382,6 +11417,8 @@ crewed
 crewel
 crewels
 crewelwork
+crewman
+crewmen
 crewneck
 crews
 cri
@@ -14521,6 +14558,7 @@ earthlier
 earthliest
 earthlike
 earthly
+earthman
 earthmen
 earthnut
 earthrise
@@ -14529,6 +14567,8 @@ earths
 earthstar
 earthstars
 earthware
+earthwoman
+earthwomen
 earthy
 earwax
 earwig
@@ -15201,9 +15241,12 @@ encephalin
 encephalitic
 enchain
 enchained
+enchainement
 enchaining
+enchainment
 enchant
 enchanter
+enchantment
 enchants
 enchase
 enchases
@@ -15442,6 +15485,7 @@ entablement
 entail
 entailed
 entailing
+entailment
 entameba
 entamebae
 entamoeba
@@ -15461,12 +15505,14 @@ enters
 entertain
 entertainer
 enthral
+enthralment
 enthrone
 enthronement
 enthusiast
 enthusiasts
 enthymeme
 entice
+enticement
 enticer
 enticers
 entices
@@ -15484,6 +15530,7 @@ entomb
 entombing
 entombment
 entoptic
+entorhinal
 entourage
 entourages
 entracte
@@ -15492,8 +15539,10 @@ entrails
 entrain
 entrained
 entraining
+entrainment
 entrains
 entrance
+entrancement
 entrant
 entrants
 entrap
@@ -15507,6 +15556,7 @@ entreats
 entrechat
 entrench
 entrenches
+entrenchment
 entrepot
 entrepreneur
 entrepreneurial
@@ -15527,6 +15577,7 @@ entryphone
 entryway
 ents
 entwine
+entwinement
 enucleate
 enucleated
 enumerate
@@ -15575,6 +15626,7 @@ envoy
 envy
 enwrap
 enwraps
+enwreathe
 eolian
 eolianly
 eolid
@@ -20158,6 +20210,10 @@ hadst
 hae
 haem
 haemal
+haematic
+haematin
+haematoma
+haematomata
 haere
 haet
 haets
@@ -20266,6 +20322,7 @@ halieutic
 haling
 halite
 halitosis
+halitotic
 halma
 halo
 haloed
@@ -20276,6 +20333,7 @@ halon
 halons
 halophyte
 halos
+halothane
 halse
 halses
 halsh
@@ -20495,6 +20553,7 @@ hart
 hartal
 hartals
 harts
+hartwort
 harvest
 harvester
 harvests
@@ -20543,6 +20602,9 @@ hatchet
 hatchetite
 hatchets
 hatchety
+hatchman
+hatchmen
+hatchment
 hatchway
 hate
 hateable
@@ -20788,6 +20850,7 @@ hectare
 hectares
 hectic
 hectics
+hectolitre
 hector
 hectored
 hectors
@@ -20858,7 +20921,9 @@ helves
 hem
 hemal
 hematemesis
+hematic
 hematin
+hematinic
 hematite
 hematites
 hematoma
@@ -20872,6 +20937,7 @@ hemianopsia
 hemic
 hemiola
 hemistich
+hemline
 hemostasis
 hemostat
 hemostats
@@ -21113,6 +21179,7 @@ hie
 hied
 hieing
 hielaman
+hiemal
 hierarch
 hierarchic
 hierarchical
@@ -21122,6 +21189,7 @@ hierarchises
 hierarchy
 hieratic
 hieratical
+hierocratic
 hies
 hifi
 hifis
@@ -22476,17 +22544,21 @@ incaution
 incense
 incenses
 incensories
+incent
+incentre
 incept
 incest
 inch
 incharge
 inched
 inching
+inchmeal
 incidence
 incident
 incidental
 incinerate
 incinerated
+incinerator
 incipience
 incipiences
 incipiencies
@@ -22532,6 +22604,8 @@ incorporator
 increase
 increases
 increate
+increment
+incremental
 incrust
 incrusts
 incubi
@@ -23247,6 +23321,8 @@ intrapreneurial
 intrathoracic
 intray
 intrays
+intrench
+intrenchment
 intricacy
 intricate
 intrigant
@@ -25140,6 +25216,7 @@ lat
 latch
 latched
 latchet
+latchico
 late
 latebra
 lated
@@ -26437,6 +26514,7 @@ lolos
 lols
 lolz
 loment
+lomenta
 lone
 lonelier
 lonely
@@ -27195,6 +27273,7 @@ mailed
 mailer
 mailes
 mailman
+mailmen
 mailo
 mailos
 mails
@@ -27211,6 +27290,7 @@ maincrop
 maineporte
 mainland
 mainline
+mainliner
 mainman
 mainmast
 mainmasts
@@ -27229,6 +27309,7 @@ mainstays
 maintain
 maintainer
 maintaining
+maintainment
 maintainor
 maintains
 maintop
@@ -27593,6 +27674,7 @@ mankinis
 manks
 manlier
 manlock
+manlot
 manmade
 manoa
 manoao
@@ -27633,6 +27715,7 @@ mantel
 mantelet
 mantels
 mantic
+manticore
 mantid
 mantids
 mantie
@@ -27675,6 +27758,7 @@ manures
 manurey
 manurial
 manus
+manworth
 many
 manzo
 maomao
@@ -27778,6 +27862,7 @@ mardier
 mards
 mardy
 mare
+marechal
 marena
 marenga
 mareogram
@@ -28110,6 +28195,8 @@ mates
 matey
 math
 mathe
+mathematic
+mathematician
 mathematise
 mathematised
 mathematises
@@ -28381,6 +28468,8 @@ mebutamate
 mecate
 mech
 mecha
+mechanic
+mechanician
 mechant
 mechante
 mechas
@@ -28487,6 +28576,7 @@ meharis
 mehendi
 mehndi
 mehtar
+mehtarani
 mehtars
 mehter
 meibomian
@@ -28643,7 +28733,9 @@ menage
 menald
 menaphthone
 menarche
+menarcheal
 menarches
+menarchial
 menazon
 mence
 mend
@@ -28727,6 +28819,9 @@ mercerizes
 mercers
 mercery
 merch
+merchant
+merchantman
+merchantmen
 mercies
 merciful
 mercs
@@ -30388,6 +30483,7 @@ mombin
 mome
 moment
 momenta
+momental
 momentary
 momento
 momentos
@@ -30834,12 +30930,14 @@ mortals
 mortar
 mortaria
 mortary
+mortcloth
 mortgagor
 mortice
 morticed
 morticer
 morticers
 mortices
+mortician
 mortido
 mortier
 mortiers
@@ -30919,7 +31017,9 @@ motherlode
 mothers
 mothership
 motherships
+motherwort
 mothery
+mothier
 mothing
 mothings
 moths
@@ -31057,6 +31157,7 @@ mowlow
 mowlter
 mown
 mowra
+mowrah
 mowras
 mows
 moxie
@@ -31954,6 +32055,7 @@ narcos
 narcosis
 narcotic
 narcotics
+narcotine
 narcotisation
 narcotist
 narcotists
@@ -32218,6 +32320,8 @@ necrological
 necrology
 necromancer
 necromancers
+necromant
+necromantic
 necronite
 necropsy
 necroscopic
@@ -32300,9 +32404,11 @@ nemaline
 nemalite
 nemas
 nematacidal
+nemathecial
 nematic
 nematicidal
 nematicide
+nematoceran
 nembie
 nembies
 nemertean
@@ -32946,6 +33052,7 @@ nitro
 nitroamine
 nitroaniline
 nitroanisol
+nitroaromatic
 nitrobarite
 nitrocalcite
 nitroform
@@ -33909,6 +34016,7 @@ oaths
 oatier
 oatiest
 oatland
+oatmeal
 oats
 oaty
 oba
@@ -34107,6 +34215,7 @@ octadic
 octagon
 octagonal
 octal
+octamer
 octane
 octanoate
 octanol
@@ -34150,6 +34259,7 @@ octode
 octodes
 octodont
 octodonts
+octomeral
 octonal
 octonarian
 octonary
@@ -34497,6 +34607,7 @@ omen
 omened
 omens
 omenta
+omental
 omentum
 omer
 omers
@@ -34519,6 +34630,7 @@ omnes
 omneses
 omniana
 omnianas
+omniarch
 omnibus
 omnific
 omnificence
@@ -35082,8 +35194,10 @@ ormering
 ormers
 ormolu
 ornament
+ornamental
 ornamentation
 ornamenter
+ornamentor
 ornate
 ornated
 ornative
@@ -35353,6 +35467,7 @@ otarioid
 otarioids
 otary
 otavite
+othaematoma
 othematoma
 other
 othered
@@ -35364,6 +35479,7 @@ othertime
 othertimes
 otherwhat
 otherwhere
+otherwhither
 othyl
 othyls
 otic
@@ -43576,6 +43692,7 @@ railhead
 railing
 railingly
 railman
+railmen
 railmotor
 railodoc
 railodock
@@ -43772,6 +43889,7 @@ ranchero
 ranching
 ranchito
 ranchman
+ranchmen
 ranchy
 rancid
 rancidity
@@ -44038,6 +44156,7 @@ ratchet
 ratcheted
 ratchets
 ratchety
+ratchment
 rate
 rateability
 rateable
@@ -44567,6 +44686,7 @@ receivers
 receives
 receiving
 recelebrate
+recement
 recency
 recense
 recenses
@@ -44638,6 +44758,7 @@ recitates
 recitation
 recitative
 recitativo
+recitator
 recite
 recited
 reciter
@@ -44780,6 +44901,8 @@ recreational
 recreative
 recreator
 recreatory
+recrement
+recremental
 recrew
 recrewed
 recrews
@@ -44798,11 +44921,13 @@ rectifiers
 rectifies
 rectiline
 rectilineal
+rectilinear
 rectius
 recto
 rectocele
 rectoceles
 rector
+rectoral
 rectorate
 rectors
 rectory
@@ -45604,6 +45729,7 @@ remanent
 remanet
 remanets
 remanie
+remaniement
 remans
 remanure
 remanures
@@ -45680,6 +45806,7 @@ remixes
 remixture
 remixtures
 remnant
+remnantal
 remock
 remocks
 remodel
@@ -45775,6 +45902,7 @@ renewance
 renewer
 renewers
 renewing
+renewment
 renews
 reng
 renga
@@ -47001,7 +47129,9 @@ rhachidian
 rhachis
 rhagon
 rhamnin
+rhamnine
 rhamnins
+rhamnitol
 rhamnus
 rhandir
 rhandirs
@@ -47019,6 +47149,7 @@ rhebok
 rhegosol
 rheid
 rheidity
+rhematic
 rheme
 rhemes
 rhenate
@@ -47904,6 +48035,7 @@ romanite
 romanium
 romans
 romanso
+romantic
 romaunt
 romcom
 romcoms
@@ -55064,6 +55196,7 @@ tarts
 tartufo
 tartufos
 tarty
+tarwhine
 tarzy
 tarzys
 tasca
@@ -55820,6 +55953,7 @@ theist
 theistic
 theists
 them
+thematic
 thematise
 thematised
 thematises
@@ -55830,12 +55964,15 @@ then
 thenar
 thence
 theobromine
+theocrat
+theocratic
 theor
 theorbist
 theorbists
 theorbo
 theorbos
 theorem
+theorematic
 theoretic
 theoreticist
 theoria
@@ -55863,6 +56000,7 @@ thereat
 thereby
 therein
 thereinafter
+thereinto
 theremin
 thereof
 thereon
@@ -56075,6 +56213,7 @@ throatily
 throatlash
 throatlet
 throats
+throatwort
 throaty
 throb
 throbs
@@ -57195,6 +57334,7 @@ traits
 tram
 tramcar
 tramcars
+tramline
 tramontana
 tramontanas
 tramp
@@ -57369,8 +57509,10 @@ trenail
 trenails
 trench
 trenchant
+trenchcoat
 trencher
 trenches
+trenchman
 trenchmen
 trend
 trendier
@@ -57639,6 +57781,7 @@ trixies
 trocar
 trocars
 trochaic
+trochal
 trochlea
 trochleae
 trochoid
@@ -61028,6 +61171,7 @@ wheat
 wheatear
 wheatears
 wheatish
+wheatmeal
 wheats
 whelm
 whelmed
@@ -61037,10 +61181,12 @@ whence
 whenever
 where
 whereat
+wherein
 whereon
 whereto
 wherever
 wherewith
+wherewithal
 whet
 whether
 whets
@@ -61055,6 +61201,7 @@ whift
 whifty
 while
 whiling
+whilom
 whilst
 whim
 whimper
@@ -61062,12 +61209,14 @@ whimperer
 whimpering
 whims
 whin
+whinchat
 whine
 whiner
 whinge
 whinger
 whinging
 whingy
+whinier
 whining
 whiningly
 whinings
@@ -61104,6 +61253,7 @@ whiter
 whites
 whitest
 whitework
+whither
 whiting
 whitish
 whitling
@@ -61491,6 +61641,7 @@ worsts
 wort
 worth
 worthful
+worthier
 worthies
 worthiest
 worthily
