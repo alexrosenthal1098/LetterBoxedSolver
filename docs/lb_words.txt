@@ -638,6 +638,7 @@ acquests
 acquiesce
 acquiesces
 acquihire
+acquirable
 acquire
 acquirer
 acquiries
@@ -2637,6 +2638,7 @@ anabases
 anabasis
 anabatic
 anabiosis
+anabolic
 anabolism
 anabranch
 anachronic
@@ -4837,6 +4839,7 @@ barbecues
 barbed
 barbel
 barbels
+barbeque
 barber
 barbered
 barbering
@@ -4950,6 +4953,7 @@ baroreceptor
 barotitis
 barotrauma
 barouche
+barque
 bars
 bartend
 barter
@@ -5325,6 +5329,7 @@ belie
 belied
 belier
 belies
+believable
 believe
 belike
 belimb
@@ -5389,6 +5394,7 @@ bends
 bendy
 bene
 beneath
+benevolence
 benevolent
 benga
 benign
@@ -5578,6 +5584,7 @@ bichon
 bickies
 bicolor
 bicolour
+biconcave
 bicycle
 bicyclic
 bid
@@ -6324,6 +6331,7 @@ boles
 bolet
 bolete
 bolide
+bolivar
 boliviano
 bolivianos
 bolk
@@ -6546,6 +6554,7 @@ boules
 boult
 boulted
 boults
+bounce
 bound
 boundary
 bounds
@@ -8029,6 +8038,7 @@ carbie
 carbies
 carbine
 carbines
+carbolic
 carbon
 carbona
 carbonade
@@ -8613,6 +8623,7 @@ cement
 cemeteries
 cemetery
 cenacle
+cenobia
 cenospecies
 cenospecieses
 cenote
@@ -9773,6 +9784,7 @@ clears
 cleat
 cleated
 cleats
+cleavable
 cleave
 cleaver
 clef
@@ -9904,8 +9916,10 @@ cloistral
 clomb
 clomp
 clompier
+clonable
 clonal
 clone
+cloneable
 cloned
 cloner
 cloners
@@ -10474,6 +10488,7 @@ concatenate
 concave
 conceal
 concealer
+conceivable
 conceive
 conceiver
 concent
@@ -10764,6 +10779,7 @@ convect
 convection
 convectional
 convective
+convenance
 convene
 convener
 convening
@@ -11124,6 +11140,7 @@ coutas
 couth
 couture
 couvade
+covariance
 cove
 coved
 coven
@@ -11973,9 +11990,11 @@ curtly
 curtsies
 curtsy
 curule
+curvable
 curval
 curvative
 curve
+curveable
 curves
 curvier
 curving
@@ -15779,6 +15798,7 @@ equative
 equator
 equatorial
 eques
+equilibria
 equine
 equines
 equip
@@ -15786,6 +15806,7 @@ equips
 equites
 equities
 equity
+equivoque
 equoreal
 era
 eras
@@ -16253,6 +16274,7 @@ evokers
 evokes
 evoking
 evolute
+evolvable
 evolve
 evolved
 evolvement
@@ -33420,9 +33442,11 @@ nontronite
 nonuniform
 nonunion
 nonurban
+nonvariable
 nonveg
 nonviable
 nonvintage
+nonviolence
 nonvoter
 nonvoting
 nonwhite
@@ -47309,6 +47333,7 @@ ribityl
 riblet
 riblets
 riblike
+ribonucleic
 ribose
 ribs
 ribston
@@ -58525,9 +58550,11 @@ unban
 unbans
 unbar
 unbars
+unbearable
 unbeatable
 unbeatably
 unbeaten
+unbelievable
 unbelt
 unbelted
 unbelts
@@ -58549,6 +58576,7 @@ unbuckles
 unbuilt
 unbundle
 unbundler
+unburnable
 unburnt
 unbury
 unburying
@@ -58578,6 +58606,7 @@ unchurching
 uncial
 uncinariasis
 uncinate
+uncivil
 unclad
 unclamp
 unclap
@@ -58588,6 +58617,7 @@ uncleanable
 uncleaned
 unclear
 uncleared
+uncleavable
 unclench
 unclenched
 unclenching
@@ -58607,6 +58637,7 @@ unclog
 uncloud
 unclouded
 uncloudy
+uncloven
 unclued
 unclung
 unclutch
@@ -58978,7 +59009,9 @@ unliteral
 unliterary
 unliterate
 unliturgical
+unlivable
 unlive
+unliveable
 unlively
 unliving
 unload
@@ -58992,7 +59025,9 @@ unlogical
 unlorded
 unlordly
 unlost
+unlovable
 unlove
+unloveable
 unloving
 unloyal
 unloyalty
@@ -59828,6 +59863,7 @@ varas
 varda
 vardo
 varec
+variable
 variance
 variances
 variate
@@ -60377,6 +60413,7 @@ violation
 violative
 violator
 violators
+violence
 violent
 violet
 violets
@@ -60527,6 +60564,7 @@ vleis
 vlog
 vlogs
 vobla
+vocable
 vocal
 vocalic
 vocation
