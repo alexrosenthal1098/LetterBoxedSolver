@@ -386,6 +386,7 @@ acalypha
 acanonical
 acanth
 acanthite
+acanthocyte
 acanthodian
 acanthodians
 acanthoses
@@ -489,6 +490,7 @@ acetophenone
 acetum
 acetums
 acetyl
+acetylacetone
 acetylate
 acetylated
 acetylates
@@ -1976,6 +1978,7 @@ alcaics
 alcaide
 alcalde
 alcaldes
+alcapton
 alcaraza
 alcatote
 alcatras
@@ -2217,6 +2220,7 @@ alky
 alkyd
 alkyl
 alkylation
+alkylene
 alkyne
 alma
 almacabala
@@ -2286,6 +2290,7 @@ along
 alonsoa
 alonsoas
 alop
+alopecy
 alose
 aloses
 alouate
@@ -2965,12 +2970,14 @@ anteal
 anteater
 antebrachial
 antecaecal
+antechapel
 antecubital
 anted
 antedate
 antedated
 antefact
 anteing
+antelope
 antelucan
 antemortem
 antenatal
@@ -2981,6 +2988,7 @@ antepenult
 antepenultima
 antepenultimas
 antepenultimate
+antepone
 anteport
 anteposition
 antepositions
@@ -2991,9 +2999,11 @@ anterne
 antes
 antetheme
 antethemes
+antetype
 antevert
 anthelia
 anthelic
+anthelion
 anthem
 anthemia
 anthemic
@@ -3015,13 +3025,17 @@ anthocodia
 anthocodial
 anthocorid
 anthocyan
+anthocyane
 anthocyanidin
 anthocyanin
 anthoid
 anthoinite
+anthokyane
+antholite
 anthologizing
 anthomania
 anthonyite
+anthotype
 anthozoan
 anthracic
 anthracitic
@@ -3072,6 +3086,7 @@ antihero
 antiheroine
 antiknock
 antilife
+antilock
 antilog
 antilucan
 antimony
@@ -3117,6 +3132,7 @@ antithesis
 antithetic
 antithetical
 antitrust
+antitype
 antitypical
 antivenene
 antivenenes
@@ -3202,6 +3218,7 @@ apathy
 apatite
 ape
 aped
+apelike
 apeman
 apemen
 apercu
@@ -7717,6 +7734,7 @@ caloric
 calorie
 calories
 calorific
+calotype
 calque
 calqued
 calques
@@ -8855,6 +8873,8 @@ chalked
 chalkie
 chalkone
 chalks
+chalky
+chalone
 chalot
 chaloth
 chals
@@ -8910,6 +8930,7 @@ chantant
 chanter
 chanteur
 chanties
+chantlike
 chantment
 chantries
 chantry
@@ -9304,6 +9325,7 @@ chloritic
 chloritoid
 chlorocarbon
 chlorotic
+choanocyte
 choc
 chocaholic
 chocho
@@ -9798,6 +9820,7 @@ clawlike
 claws
 clay
 clayey
+claylike
 claypan
 clays
 clean
@@ -9806,6 +9829,7 @@ cleaned
 cleaner
 cleaning
 cleanlier
+cleanly
 clear
 clearable
 clearance
@@ -9956,6 +9980,7 @@ clomp
 clompier
 clonable
 clonal
+clonality
 clone
 cloneable
 cloned
@@ -10044,6 +10069,7 @@ clutch
 clutcher
 clutching
 clype
+clypeal
 clypei
 cnemial
 cnidarian
@@ -10159,6 +10185,7 @@ cockie
 cockier
 cockies
 cockiest
+cockily
 cocking
 cockle
 cockled
@@ -10332,10 +10359,12 @@ coloboma
 colobus
 colocate
 colocates
+colocynth
 cologne
 colon
 colonel
 colonelcies
+colonelcy
 colonels
 colones
 colonial
@@ -10844,6 +10873,7 @@ convocation
 convocational
 convolve
 cony
+conylene
 cop
 copacetic
 copal
@@ -12125,6 +12155,7 @@ cyanoacrylate
 cyanogen
 cyanogenic
 cyanosis
+cyanotype
 cyathia
 cybrarian
 cybrarians
@@ -12155,6 +12186,8 @@ cycloid
 cycloidal
 cyclone
 cyclonic
+cyclopean
+cyclopian
 cylindroid
 cyma
 cymae
@@ -14718,6 +14751,7 @@ echoers
 echoes
 echoey
 echoic
+echolalia
 echt
 ecig
 ecigs
@@ -14776,6 +14810,7 @@ ecotage
 ecotax
 ecotaxes
 ecoteur
+ecotonal
 ecotone
 ecotones
 ecotopia
@@ -14786,6 +14821,7 @@ ecotours
 ecotown
 ecotowns
 ecotoxic
+ecotype
 ecphrases
 ecru
 ecstasy
@@ -15566,6 +15602,7 @@ entamoeba
 entamoebae
 entases
 entasis
+entelechy
 entendre
 entente
 ententes
@@ -15829,6 +15866,7 @@ epitomises
 epitope
 epitopes
 epoch
+epochal
 epochs
 epode
 epoque
@@ -16150,6 +16188,7 @@ ethnoses
 ethnostate
 ethnostates
 ethology
+ethopeia
 ethopoetic
 ethos
 ethrog
@@ -20544,6 +20583,7 @@ haole
 haoma
 hap
 hapa
+hapalote
 hapas
 hapax
 haplite
@@ -20854,6 +20894,8 @@ health
 healthcare
 healthful
 healthier
+healthily
+healthy
 heap
 heaping
 heaps
@@ -20937,6 +20979,7 @@ hectare
 hectares
 hectic
 hectics
+hectocotyli
 hectolitre
 hector
 hectored
@@ -20981,6 +21024,7 @@ helicoidal
 helicon
 heliconia
 helictite
+heliotype
 heliport
 heliski
 heliskier
@@ -21569,6 +21613,7 @@ holohedral
 holophyletic
 holophytic
 holos
+holotype
 hols
 holster
 holsters
@@ -22157,6 +22202,7 @@ hyporheic
 hypos
 hypostasis
 hypotactic
+hypothec
 hypotonia
 hypotrophy
 hypoxia
@@ -24466,6 +24512,7 @@ kilo
 kilobit
 kilocalorie
 kilocalories
+kilocycle
 kiloliter
 kilolitre
 kilombo
@@ -24586,6 +24633,7 @@ kit
 kitab
 kitabs
 kitchen
+kitchenalia
 kitchener
 kitchens
 kitchenware
@@ -25012,6 +25060,7 @@ lactational
 lacteal
 lacteals
 lactic
+lactone
 lacuna
 lacunae
 lacunal
@@ -26338,6 +26387,7 @@ lithograph
 lithographing
 lithoing
 lithophytic
+lithopone
 lithos
 lithosol
 lithosols
@@ -26456,6 +26506,7 @@ localist
 localistic
 localists
 localitis
+locality
 locals
 locanda
 locant
@@ -26483,6 +26534,7 @@ lochoses
 lochs
 lochter
 lochus
+lochy
 loci
 locie
 locies
@@ -26504,6 +26556,7 @@ lockstitch
 lockup
 lockups
 lockwork
+locky
 loco
 locoed
 locofocoism
@@ -27033,6 +27086,7 @@ lyases
 lycanthropic
 lycanthropy
 lychgate
+lycopene
 lycopod
 lye
 lying
@@ -31940,6 +31994,7 @@ nagyagite
 nah
 nahal
 nahals
+nahcolite
 nahual
 nai
 naiad
@@ -32092,6 +32147,7 @@ nantens
 nantes
 nanti
 nanto
+nantokite
 nantos
 nants
 nanty
@@ -32397,6 +32453,7 @@ neche
 necher
 necial
 neck
+neckcloth
 necker
 neckers
 necklace
@@ -32483,6 +32540,7 @@ neignted
 neinei
 neither
 nek
+nekoite
 neks
 nekton
 nektonic
@@ -34368,6 +34426,7 @@ octopic
 octoploid
 octoploids
 octopoid
+octopole
 octose
 octoses
 octostichous
@@ -34375,6 +34434,9 @@ octrain
 octrains
 octroi
 octrois
+octyl
+octylene
+octyne
 ocular
 ocularist
 ocularists
@@ -34537,6 +34599,7 @@ oilbird
 oilcan
 oilcans
 oilcloth
+oilclothy
 oildom
 oiled
 oiler
@@ -34873,6 +34936,8 @@ onus
 onward
 onya
 onycha
+onychia
+onychite
 onyongnyong
 onyx
 opa
@@ -34888,6 +34953,7 @@ opal
 opaline
 opalinid
 opalise
+opalite
 opalize
 opalizing
 opals
@@ -34908,6 +34974,7 @@ opened
 opener
 openers
 opening
+openly
 opens
 opepe
 opepes
@@ -35044,6 +35111,7 @@ optograms
 optometer
 optomotor
 optophone
+optotype
 optronic
 opts
 opuntia
@@ -36389,6 +36457,7 @@ pacha
 pachanga
 pachas
 pachisi
+pachnolite
 pachuco
 pachucos
 pachyntic
@@ -36401,6 +36470,7 @@ pack
 package
 packager
 packages
+packcloth
 packer
 packeries
 packet
@@ -36413,10 +36483,12 @@ packrats
 packs
 packsack
 packsacks
+packy
 paco
 pacos
 pact
 paction
+pactional
 pactions
 pacts
 pacu
@@ -36873,6 +36945,7 @@ panoramical
 panorpid
 panorpoid
 panostitis
+panotype
 panpipes
 panplain
 panplains
@@ -36916,6 +36989,7 @@ pantheic
 pantheist
 pantheistic
 pantheists
+panthenol
 pantheon
 pantheons
 panther
@@ -36937,8 +37011,10 @@ pantocratic
 pantograph
 pantographing
 pantonal
+pantonality
 pantopod
 pantos
+pantothenol
 pantoyl
 pantries
 pantropic
@@ -37855,6 +37931,7 @@ peacoats
 peacock
 peacockish
 peacocks
+peacocky
 peacow
 peaeater
 peaeaters
@@ -37875,6 +37952,7 @@ peaks
 peaky
 peal
 pealed
+pealike
 pealing
 pealite
 pealites
@@ -37950,6 +38028,7 @@ peckish
 peckle
 pecks
 peckthank
+pecky
 pecorino
 pecorinos
 pecs
@@ -37964,6 +38043,7 @@ pectinate
 pectinately
 pectineal
 pectins
+pectolite
 pectose
 pectoses
 pectosic
@@ -38053,6 +38133,7 @@ pelicanry
 pelicans
 pelicat
 pelikai
+pelike
 pelite
 pelites
 pelitic
@@ -38067,6 +38148,7 @@ pelon
 pelons
 peloria
 pelota
+peloton
 pelouse
 pelouses
 pelt
@@ -38218,12 +38300,17 @@ pentiles
 pentimenti
 pentine
 pentito
+pentitol
 pentode
 penton
 pentons
 pentop
 pentops
 pentrow
+pentyl
+pentylene
+pentyne
+pentynyl
 penuche
 penult
 penultima
@@ -38675,8 +38762,10 @@ petate
 petates
 petcharies
 petchary
+petcock
 petechia
 petechiae
+petechial
 petenlair
 peter
 petering
@@ -39348,8 +39437,10 @@ piling
 pilis
 pilk
 piloerector
+pilolite
 pilomotor
 pilon
+pilone
 pilons
 pilot
 pilotage
@@ -39558,6 +39649,7 @@ pipcorn
 pipe
 pipeage
 pipebomb
+pipeclay
 piped
 pipeful
 pipegun
@@ -39566,6 +39658,7 @@ pipelay
 pipelayer
 pipelet
 pipelets
+pipelike
 pipeline
 pipeliner
 pipeman
@@ -40389,10 +40482,14 @@ pochoir
 pochoirs
 pochos
 pock
+pocket
+pockety
 pocking
 pockish
+pockle
 pockling
 pocks
+pocky
 poco
 poculum
 poculums
@@ -40501,6 +40598,7 @@ poi
 poiesis
 poiesises
 poietic
+poikilocyte
 poilu
 poilus
 poinciana
@@ -40543,6 +40641,7 @@ pokie
 pokier
 pokies
 pokiest
+pokily
 poking
 pokit
 poky
@@ -40587,6 +40686,8 @@ poliphant
 polis
 polisman
 polismen
+polite
+politely
 politic
 political
 politico
@@ -40602,12 +40703,14 @@ politzerizing
 polka
 polkaing
 polo
+polocyte
 poloidal
 poloist
 poloists
 polology
 polonaise
 polonaises
+poloneck
 polonga
 polonium
 polony
@@ -40622,20 +40725,29 @@ polts
 polugar
 poly
 polyacetal
+polyacetylene
 polyacid
 polyad
 polyadic
 polyadicity
 polyads
+polyalcohol
 polyanion
+polyanth
+polyantha
+polyanthea
 polyarch
 polyarchal
 polyarchic
 polyarchy
+polychaete
+polychete
 polychoral
 polychord
 polyclad
 polyclonal
+polyclonality
+polyclone
 polydactyl
 polydactyly
 polydigital
@@ -40654,6 +40766,7 @@ polygraphing
 polygraphy
 polygynia
 polygyny
+polyhalite
 polyhaploid
 polyhydric
 polyion
@@ -40688,6 +40801,7 @@ polypiety
 polypite
 polyploid
 polyploidy
+polypnea
 polypod
 polypody
 polypoid
@@ -40699,19 +40813,30 @@ polypro
 polyprotic
 polyps
 polyptote
+polyptoton
+polyptych
 polypus
 polyrod
 polys
 polysporous
 polystylist
 polystylists
+polytene
+polyteny
+polythelia
+polythene
+polytocy
+polytoky
 polytonal
 polytonality
+polytone
 polytopal
+polytope
 polytopian
 polytopic
 polytopical
 polytrophy
+polytype
 polytypic
 polytypical
 polytypy
@@ -40809,6 +40934,7 @@ pontage
 pontal
 pontes
 pontil
+pontile
 pontils
 pontine
 ponto
@@ -40825,6 +40951,8 @@ pope
 popedom
 popeing
 popeism
+popelike
+popely
 popery
 popes
 popeship
@@ -41178,9 +41306,13 @@ potent
 potentate
 potented
 potentia
+potential
+potentiality
 potentiary
 potentiometer
+potentional
 potentite
+potently
 potes
 potful
 pother
@@ -42682,6 +42814,7 @@ pterygote
 pterygotes
 ptilinal
 ptilinum
+ptilolite
 ptish
 ptomaine
 ptomainic
@@ -55458,6 +55591,7 @@ tbs
 tbsp
 tch
 tchagra
+tchotchke
 tea
 teabag
 teabags
@@ -55839,6 +55973,7 @@ tenting
 tentlike
 tentoria
 tentorium
+tentpole
 tents
 tenuity
 tenuous
@@ -56777,6 +56912,7 @@ tithis
 tithonic
 tithonicity
 tithonometer
+tithonotype
 tithymal
 titi
 titihoya
@@ -61985,6 +62121,8 @@ yanks
 yantra
 yantras
 yap
+yapock
+yapok
 yaps
 yapunyah
 yarak
