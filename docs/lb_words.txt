@@ -921,6 +921,8 @@ adenoidy
 adept
 adequal
 aderation
+adermin
+adermine
 adevism
 adhan
 adhere
@@ -1008,6 +1010,8 @@ adlected
 adlib
 adlibs
 adman
+admarginate
+admarginated
 admedian
 admen
 admin
@@ -1097,6 +1101,8 @@ adoze
 adprep
 adradial
 adradius
+adragant
+adraganth
 adraw
 adream
 adrenal
@@ -1361,6 +1367,7 @@ afeared
 afearing
 afears
 afghan
+afghani
 aficionada
 afield
 afion
@@ -1504,6 +1511,7 @@ agents
 agentship
 agentships
 ager
+ageratum
 ages
 ageusia
 ageusias
@@ -1569,6 +1577,10 @@ aglyphous
 aglyphs
 agma
 agmas
+agmatin
+agmatine
+agminate
+agminated
 agnail
 agname
 agnaming
@@ -1611,6 +1623,7 @@ agraphic
 agraphy
 agrarian
 agrarianizing
+agrement
 agrestal
 agrestic
 agribiz
@@ -2856,6 +2869,7 @@ animals
 animas
 animastic
 animate
+animated
 animater
 animates
 animati
@@ -2976,6 +2990,7 @@ anted
 antedate
 antedated
 antefact
+antegrade
 anteing
 antelope
 antelucan
@@ -3014,6 +3029,7 @@ anthemises
 anthemize
 anther
 antheral
+antheridium
 antherine
 anthers
 anthesis
@@ -3076,6 +3092,7 @@ anticyclone
 anticyclonic
 antidotal
 antidote
+antifraud
 antigay
 antigen
 antigenic
@@ -3540,6 +3557,7 @@ arguer
 arguers
 argues
 arguing
+argument
 argus
 arguses
 argute
@@ -3584,6 +3602,8 @@ arks
 arm
 armada
 armadas
+armament
+armamentarium
 armarian
 armarians
 armature
@@ -3595,12 +3615,14 @@ armbars
 armchair
 armchairs
 armed
+armenite
 armer
 armers
 armet
 armets
 armful
 armfuls
+armguard
 armied
 armies
 armiger
@@ -4079,6 +4101,7 @@ augen
 augend
 augens
 auger
+augered
 augers
 auges
 augh
@@ -4087,6 +4110,9 @@ aughts
 augite
 augitic
 augitite
+augment
+augmented
+augmenter
 augur
 augural
 augurate
@@ -12451,6 +12477,7 @@ dauds
 daughter
 daughterboard
 daunt
+daunted
 daunts
 daven
 davened
@@ -12712,9 +12739,12 @@ defamer
 defang
 defanged
 defat
+defatigated
 default
 defaulted
 defaulter
+defaunate
+defaunated
 defeat
 defeated
 defeater
@@ -12731,16 +12761,28 @@ defiladed
 defile
 defiled
 defiler
+define
+defined
+definer
+definite
 deflate
 deflated
 defog
 defrag
+defragment
+defragmented
+defragmenter
+defraud
+defrauded
+defrauder
 deft
 defter
 degage
 degages
 degas
 degases
+degenerate
+degenerated
 degeneration
 degradable
 degradation
@@ -12871,6 +12913,7 @@ deme
 demean
 demeaned
 dement
+dementated
 dementation
 demented
 dementi
@@ -12887,6 +12930,7 @@ demigods
 demilune
 demine
 demined
+deminer
 demining
 demirep
 demise
@@ -12928,6 +12972,8 @@ deni
 denial
 denied
 denier
+denigrate
+denigrated
 denim
 denizen
 denotation
@@ -13098,7 +13144,13 @@ detenue
 deter
 deterge
 deterged
+detergent
 deterges
+determinant
+determinate
+determine
+determined
+determiner
 deters
 detest
 detestable
@@ -13114,6 +13166,7 @@ detracted
 detractive
 detrain
 detrained
+detriment
 detrital
 detrusor
 detrusors
@@ -13125,6 +13178,7 @@ deuced
 deuces
 deus
 deuterated
+deuterium
 deux
 dev
 deva
@@ -13418,6 +13472,7 @@ digesters
 digestible
 digests
 dight
+dighted
 dighting
 dights
 digit
@@ -13583,6 +13638,7 @@ dirigible
 dirigibles
 dirigisme
 dirigiste
+diriment
 dirk
 dirks
 dirndl
@@ -14213,6 +14269,7 @@ drastic
 drat
 draught
 draughtboard
+draughted
 draw
 drawcard
 drawcards
@@ -14415,6 +14472,7 @@ dues
 duet
 duets
 dufadar
+dufrenite
 duftar
 dufter
 duftur
@@ -15192,6 +15250,8 @@ emetophobes
 emic
 emics
 emigrant
+emigrate
+emigrated
 emigration
 emigre
 eminence
@@ -15485,6 +15545,8 @@ engraving
 engravings
 enhance
 enhancer
+enigma
+enigmatite
 enisle
 enisles
 enjoin
@@ -15541,6 +15603,8 @@ enquirer
 enquirers
 enquires
 enrage
+enraged
+enragement
 enrages
 enraging
 enrapt
@@ -15692,6 +15756,7 @@ entwinement
 enucleate
 enucleated
 enumerate
+enumerated
 enumerative
 enumerator
 enunciate
@@ -15955,6 +16020,7 @@ eristics
 erk
 erks
 ermine
+ermined
 ermines
 erne
 ernes
@@ -16121,6 +16187,7 @@ eternize
 eth
 ethacrynic
 ethanal
+ethanamide
 ethane
 ethanoate
 ethanoic
@@ -16907,6 +16974,7 @@ farolito
 farolitos
 farse
 fart
+farted
 farter
 farters
 farther
@@ -16969,6 +17037,8 @@ fateful
 fates
 father
 fathered
+fatigue
+fatigued
 fating
 fatist
 fatists
@@ -17054,6 +17124,8 @@ feces
 fed
 fedai
 federal
+federate
+federated
 federation
 fedora
 feh
@@ -17090,6 +17162,8 @@ felworts
 fem
 female
 feme
+femina
+feminate
 feminie
 feminies
 feminine
@@ -17099,6 +17173,7 @@ femininism
 femininisms
 femininist
 femininists
+femininitude
 feminise
 feminises
 feminism
@@ -17134,6 +17209,7 @@ ferity
 fermata
 ferment
 fermentation
+fermented
 fermenter
 fermenting
 fermentor
@@ -17277,6 +17353,7 @@ fighter
 fighters
 fights
 figleaf
+figment
 figs
 figura
 figurae
@@ -17416,6 +17493,7 @@ finitely
 finitist
 finitists
 finito
+finitude
 fink
 finks
 fino
@@ -17449,6 +17527,7 @@ firefinch
 firefish
 fireflies
 firefly
+fireguard
 firehole
 firelight
 fireline
@@ -17470,6 +17549,7 @@ firkin
 firkins
 firm
 firma
+firmament
 firman
 firmans
 firmed
@@ -18084,7 +18164,10 @@ fractures
 frae
 frag
 fragile
+fragment
+fragmented
 fragrance
+fragrant
 fraiche
 frail
 frailer
@@ -18172,10 +18255,16 @@ fries
 frieze
 friezes
 frig
+frigate
 fright
+frighted
+frighten
+frightened
+frightener
 frightful
 frights
 frigid
+frigidarium
 frigs
 fringe
 fringing
@@ -18335,6 +18424,7 @@ fulvid
 fulwa
 fulwara
 fulyie
+fumarate
 fumaric
 fumarole
 fumble
@@ -18345,6 +18435,9 @@ fumet
 fumets
 fumier
 fumiest
+fumigant
+fumigate
+fumigated
 fuming
 fun
 funana
@@ -18625,6 +18718,7 @@ gameful
 gamene
 gamepad
 gamer
+gamergate
 gamers
 gamete
 gamic
@@ -18733,13 +18827,16 @@ garbs
 garcon
 garde
 garden
+gardenage
 gardened
+gardener
 gardening
 gardenize
 gardenized
 gardenizing
 garderobe
 gardie
+gardinage
 garganey
 gargantua
 gargantuan
@@ -18755,8 +18852,10 @@ garish
 garland
 garlic
 garlicky
+garment
 garms
 garner
+garnered
 garnering
 garnet
 garnets
@@ -18765,6 +18864,7 @@ garnierite
 garniture
 gars
 garter
+gartered
 garters
 garth
 garths
@@ -18798,6 +18898,7 @@ gateman
 gatemen
 gates
 gather
+gathered
 gatherer
 gatherers
 gathers
@@ -18908,6 +19009,8 @@ gels
 gelt
 gem
 gematria
+geminate
+geminated
 gems
 gen
 gena
@@ -18929,6 +19032,7 @@ generalizing
 generalty
 generant
 generate
+generated
 generating
 generation
 generational
@@ -19067,6 +19171,7 @@ geothermometers
 geothermometry
 geotic
 geranial
+geranium
 gerbera
 gerbil
 geriatric
@@ -19076,11 +19181,16 @@ geriatrics
 germ
 german
 germane
+germanium
+germarium
 germen
 germier
 germiest
 germigen
 germigene
+germinant
+germinate
+germinated
 germing
 germon
 germs
@@ -19707,10 +19817,13 @@ grader
 graders
 grades
 gradin
+gradine
 grading
 grads
 gradual
 graduand
+graduate
+graduated
 graegle
 graft
 graftage
@@ -19759,6 +19872,8 @@ grano
 granola
 grans
 grant
+granted
+granter
 granting
 grantor
 grantors
@@ -19805,6 +19920,7 @@ gratine
 grating
 gratingly
 gratis
+gratitude
 grats
 graunch
 graunching
@@ -19866,6 +19982,7 @@ greige
 greigite
 greisen
 grenade
+grenadine
 grep
 greps
 grew
@@ -20054,6 +20171,7 @@ guaiacum
 guaiacums
 guan
 guanaco
+guanidine
 guanine
 guano
 guanos
@@ -20066,6 +20184,8 @@ guaranas
 guarani
 guarantor
 guard
+guardant
+guarded
 guars
 guava
 guayule
@@ -20147,6 +20267,7 @@ gundi
 gundog
 gundy
 gunfight
+gunfighter
 gunfire
 gunflint
 gunge
@@ -20343,6 +20464,7 @@ haematomata
 haere
 haet
 haets
+hafnium
 haft
 hafta
 haftaed
@@ -20626,6 +20748,8 @@ hardcode
 hardcoded
 harden
 hardened
+hardener
+harder
 hardfought
 hardhack
 hardhat
@@ -20636,6 +20760,7 @@ hardier
 hardihead
 hardline
 hardly
+hardman
 hardmen
 hardnut
 hardon
@@ -20662,6 +20787,7 @@ harlot
 harlotry
 harlots
 harm
+harmed
 harming
 harms
 harp
@@ -20775,6 +20901,7 @@ hauls
 haum
 haunch
 haunt
+haunted
 haunter
 haunting
 haurient
@@ -20984,6 +21111,7 @@ hectolitre
 hector
 hectored
 hectors
+hedarim
 heder
 hedge
 hedged
@@ -21137,6 +21265,7 @@ hereafter
 hereat
 hereby
 heredital
+hereditament
 herein
 hereinafter
 hereof
@@ -21161,6 +21290,7 @@ herm
 hermeneut
 hermeneute
 hermit
+hermitage
 hermitic
 hermitism
 hermits
@@ -22414,6 +22544,7 @@ ignores
 ignoring
 ignotum
 iguana
+iguanid
 ijtihad
 ijtihads
 ikat
@@ -22452,7 +22583,10 @@ imagery
 images
 imagic
 imaginant
+imaginate
+imaginated
 imagine
+imagined
 imaginer
 imaging
 imagining
@@ -22901,6 +23035,7 @@ infests
 infidel
 infield
 infielder
+infighter
 infiltration
 infiltrations
 infiltrator
@@ -22909,8 +23044,11 @@ infimums
 infinite
 infinitely
 infinities
+infinitude
+infinitum
 infinity
 infirm
+infirmarer
 infirmly
 infix
 infixing
@@ -23014,6 +23152,7 @@ inherent
 inhering
 inherit
 inheritance
+inherited
 inhesion
 inhesions
 inhibin
@@ -23259,6 +23398,7 @@ integer
 integrant
 integrants
 integrate
+integrated
 integrating
 integration
 integrin
@@ -23314,12 +23454,15 @@ interdealer
 interdental
 interdict
 interdicted
+interdigitate
+interdigitated
 interdominion
 interest
 interests
 interfacial
 interfaith
 interfere
+interfered
 interferer
 interfering
 interferometer
@@ -23329,6 +23472,8 @@ interfiled
 intergalactic
 intergeneric
 interglacial
+intergrade
+intergraded
 intergrew
 intergrow
 intergrown
@@ -23357,6 +23502,8 @@ interlineated
 interlined
 interlink
 interlinks
+intermedin
+intermedium
 interment
 intermit
 intern
@@ -23382,6 +23529,7 @@ interneural
 interneurals
 internist
 internists
+internment
 internode
 internonce
 interns
@@ -23418,13 +23566,17 @@ intestinal
 intestine
 intestines
 inti
+intifada
 intima
 intimacy
 intimae
 intimal
 intimate
+intimated
 intimates
 intimation
+intimidate
+intimidated
 intimidator
 intimism
 intimist
@@ -23454,6 +23606,7 @@ intransitives
 intrapreneur
 intrapreneurial
 intrathoracic
+intrauterine
 intray
 intrays
 intrench
@@ -23461,7 +23614,10 @@ intrenchment
 intricacy
 intricate
 intrigant
+intriguant
 intrigue
+intrigued
+intriguer
 intrigues
 intriguing
 intrinsic
@@ -23491,6 +23647,7 @@ intubating
 intubation
 intuit
 intuitable
+intuited
 intuiting
 intuition
 intuitional
@@ -23817,6 +23974,7 @@ itinerants
 itineraries
 itinerary
 itinerate
+itinerated
 itinerating
 itineration
 its
@@ -27256,6 +27414,7 @@ madams
 madapolam
 madar
 madarin
+madarine
 madarosis
 madcap
 made
@@ -27273,6 +27432,7 @@ madombe
 madoqua
 madoquas
 mados
+madrague
 madrepore
 madrich
 madrigal
@@ -27327,7 +27487,9 @@ magatama
 magatamas
 magcon
 mage
+magenta
 mages
+maghemite
 magi
 magian
 magic
@@ -27706,6 +27868,8 @@ manacle
 manacled
 manada
 manage
+managed
+management
 manager
 managing
 manaia
@@ -27759,9 +27923,11 @@ manege
 maneh
 manehs
 manent
+manented
 manents
 manerial
 manes
+manfare
 manflu
 manful
 mang
@@ -27783,6 +27949,7 @@ mango
 mangos
 mangrove
 mangs
+manhater
 manhour
 manhwa
 mani
@@ -27837,7 +28004,9 @@ manors
 manostat
 manostats
 manque
+manred
 manrent
+manrider
 manrope
 mans
 manscape
@@ -27859,6 +28028,7 @@ mantay
 mante
 manteau
 manteaus
+manted
 mantel
 mantelet
 mantels
@@ -27906,6 +28076,7 @@ manures
 manurey
 manurial
 manus
+manutergium
 manworth
 many
 manzo
@@ -27968,6 +28139,8 @@ marasmic
 marasmus
 marathon
 maraud
+marauded
+marauder
 marauds
 maravedi
 maray
@@ -28020,6 +28193,7 @@ marga
 margarate
 margarates
 margarine
+margarined
 margarita
 margaritas
 margarite
@@ -28030,8 +28204,13 @@ margates
 margay
 margays
 marge
+margent
 marges
+margherita
 margin
+marginate
+marginated
+margined
 margining
 margo
 margos
@@ -28040,6 +28219,7 @@ margosas
 margrave
 margravine
 margs
+marguerite
 maria
 mariachi
 mariachis
@@ -28063,9 +28243,12 @@ marimbulas
 marime
 marimonda
 marina
+marinade
+marinaded
 marinara
 marinas
 marinate
+marinated
 marine
 mariner
 marinera
@@ -28436,6 +28619,8 @@ maudles
 maudlin
 mauds
 mauger
+maugre
+maugred
 mauka
 maul
 maula
@@ -28665,6 +28850,7 @@ medico
 medicos
 medics
 medieval
+medifraud
 medigap
 medin
 medina
@@ -28695,7 +28881,9 @@ mefiances
 meg
 mega
 megadairy
+megafauna
 megagamete
+megahit
 megamedia
 megaphone
 megaphoning
@@ -28704,10 +28892,12 @@ megapode
 megaron
 megathere
 megatheria
+megatherium
 megatherm
 megathermic
 megatherms
 megaton
+megaunit
 megaureter
 megaureters
 megimide
@@ -28891,6 +29081,8 @@ mended
 mending
 mendon
 mendung
+meneghinite
+menhaden
 menhir
 menhirs
 menial
@@ -28914,6 +29106,7 @@ menses
 mensh
 menshes
 menswear
+mentagra
 mental
 mentalese
 mentalise
@@ -29011,6 +29204,7 @@ merismus
 meristem
 meristems
 merit
+merited
 meriter
 meriters
 meriting
@@ -29167,6 +29361,7 @@ metacone
 metadata
 metadyne
 metage
+metagram
 metake
 metal
 metalate
@@ -29269,8 +29464,10 @@ metestrus
 meth
 methai
 methanate
+methanated
 methane
 methanoic
+methedrine
 metheg
 methegh
 methegs
@@ -29755,6 +29952,8 @@ minacity
 minakari
 minar
 minaret
+minareted
+minargent
 minars
 minas
 minatorily
@@ -29908,6 +30107,7 @@ minsters
 minstrel
 minstrels
 mint
+mintage
 minted
 minter
 mintier
@@ -29923,6 +30123,7 @@ minueting
 minuets
 minus
 minuses
+minutage
 minute
 minuted
 minuteman
@@ -30276,6 +30477,7 @@ mithril
 miticidal
 mitie
 mitigable
+mitigant
 mitigate
 mitigated
 mitigates
@@ -31369,6 +31571,7 @@ mud
 mudalali
 mudar
 mudarin
+mudarine
 mudars
 mudbath
 mudbug
@@ -31381,10 +31584,12 @@ mudged
 mudging
 mudguts
 mudhead
+mudhif
 mudif
 mudim
 mudims
 mudir
+mudirate
 mudirieh
 mudiriehs
 mudirs
@@ -32317,6 +32522,7 @@ natively
 nativity
 nativize
 natkhat
+natrium
 natron
 natrum
 naturae
@@ -32528,6 +32734,7 @@ negotiating
 negotiation
 negotiator
 negri
+negritude
 negroni
 negs
 negus
@@ -32684,6 +32891,7 @@ nerdy
 nereid
 nereids
 nerf
+nerfed
 nerfing
 nerfs
 nerine
@@ -33004,6 +33212,7 @@ nidi
 nidicole
 nidicoles
 nidified
+nidifuge
 nidiot
 nidiots
 nido
@@ -33035,6 +33244,7 @@ nigerite
 nigh
 nighly
 night
+nighted
 nightgown
 nightgowns
 nighthawk
@@ -33042,6 +33252,7 @@ nightie
 nightlight
 nightly
 nightman
+nightrider
 nighty
 nigiri
 nignay
@@ -33053,6 +33264,7 @@ nigricant
 nigrine
 nigrines
 nigrite
+nigritude
 nigrosin
 nigrosine
 nigrosines
@@ -33165,6 +33377,7 @@ niterie
 nitery
 nites
 nither
+nithered
 nithers
 nithing
 nitid
@@ -33176,6 +33389,7 @@ nitramine
 nitramines
 nitraniline
 nitrate
+nitrated
 nitrates
 nitratine
 nitratines
@@ -33189,6 +33403,8 @@ nitrenes
 nitrenium
 nitric
 nitridation
+nitride
+nitrided
 nitriding
 nitrification
 nitrifications
@@ -33948,6 +34164,7 @@ numdah
 numen
 numerary
 numerate
+numerated
 numerative
 numerator
 numero
@@ -43912,11 +44129,15 @@ ragler
 raglet
 raglin
 raglore
+ragman
+ragmen
 ragout
 ragouts
 rags
 ragtag
 ragtail
+ragtime
+ragtimer
 ragtop
 ragu
 raguly
@@ -44076,6 +44297,7 @@ ramekins
 ramen
 ramenas
 ramenases
+ramentum
 rames
 rameses
 ramet
@@ -44214,6 +44436,7 @@ ranis
 ranish
 ranite
 ranites
+ranitidine
 ranivorous
 ranjau
 rank
@@ -45232,6 +45455,7 @@ redan
 redargue
 redargued
 redart
+redarted
 redate
 redated
 redates
@@ -45257,6 +45481,8 @@ redecorated
 reded
 rededicate
 rededicated
+redefine
+redefined
 redeified
 redeliberate
 redeliberated
@@ -45265,6 +45491,8 @@ redes
 redesire
 redesired
 redesires
+redetermine
+redetermined
 redevote
 redevoted
 redeye
@@ -45287,6 +45515,8 @@ redig
 redigest
 redigested
 redigests
+redintegrate
+redintegrated
 redip
 redistil
 redlight
@@ -45366,6 +45596,7 @@ refinanceable
 refinances
 refinancing
 refine
+refined
 refinement
 refiner
 refineries
@@ -45427,6 +45658,10 @@ refresh
 refreshful
 refried
 refries
+refrigerant
+refrigerate
+refrigerated
+refrigerium
 refringence
 refringent
 refront
@@ -45444,6 +45679,7 @@ refuged
 refuges
 refugia
 refugial
+refugium
 refurb
 refurbed
 refuse
@@ -45452,6 +45688,7 @@ refusers
 refuses
 refutal
 refute
+refuted
 refuter
 refuters
 refutes
@@ -45480,12 +45717,15 @@ regalties
 regalty
 regar
 regard
+regardant
 regarded
 regarder
 regardful
 regather
+regathered
 regathers
 regauge
+regauged
 regauges
 regave
 regelate
@@ -45497,6 +45737,7 @@ regencies
 regenerable
 regenerant
 regenerate
+regenerated
 regenerating
 regeneration
 regenerator
@@ -45509,6 +45750,8 @@ regents
 regentship
 regentships
 regerater
+regerminate
+regerminated
 regest
 regests
 reget
@@ -45536,6 +45779,7 @@ regime
 regimen
 regiment
 regimentation
+regimented
 regimes
 reginal
 region
@@ -45585,6 +45829,7 @@ regraded
 regrades
 regraft
 regrant
+regranted
 regrate
 regrated
 regrater
@@ -45646,6 +45891,8 @@ rehairs
 rehandle
 rehang
 rehanging
+reharden
+rehardened
 rehash
 rehashes
 rehaul
@@ -46002,6 +46249,7 @@ remanures
 remap
 remaps
 remargin
+remargined
 remargining
 remark
 remarker
@@ -46024,6 +46272,8 @@ remeasures
 remede
 remedial
 remedied
+remeditate
+remeditated
 remedy
 remeid
 remelt
@@ -46054,15 +46304,21 @@ remet
 remex
 remf
 remiges
+remigium
 remigrant
+remigrate
+remigrated
 remigration
 remind
 remint
+reminted
 remiped
 remipede
 remise
 remises
 remit
+remitigate
+remitigated
 remitment
 remits
 remix
@@ -46106,6 +46362,7 @@ remuda
 remueur
 remueurs
 remunerate
+remunerated
 remunerative
 remunerator
 remuneratory
@@ -46120,8 +46377,10 @@ renable
 renably
 renal
 rename
+renamed
 renames
 renaming
+renardine
 renardite
 renascence
 renascences
@@ -46143,6 +46402,9 @@ rendleses
 rendrock
 rends
 rendu
+renegade
+renegaded
+renegader
 renegate
 renegation
 renege
@@ -46154,6 +46416,7 @@ renegotiate
 renegotiating
 renegotiation
 renegue
+renegued
 reneguing
 renerve
 renerves
@@ -46211,6 +46474,7 @@ rentiers
 renting
 rents
 renumerate
+renumerated
 renumerative
 renunciance
 renunciant
@@ -46880,10 +47144,12 @@ retam
 retama
 retamas
 retard
+retardant
 retardate
 retarded
 retardent
 retarder
+retardment
 retaste
 retasted
 retastes
@@ -46903,6 +47169,7 @@ retemper
 retempering
 retempers
 retenant
+retenanted
 retenants
 retene
 retenes
@@ -46946,6 +47213,8 @@ retie
 retied
 reties
 retiform
+retighten
+retightened
 retile
 retiled
 retiles
@@ -46953,6 +47222,7 @@ retimber
 retimbered
 retimbers
 retime
+retimed
 retimes
 retin
 retina
@@ -47117,6 +47387,7 @@ reuning
 reunion
 reunitable
 reunite
+reunited
 reuniting
 reunition
 reup
@@ -47648,6 +47919,7 @@ rid
 ridable
 ride
 rideable
+rident
 rideout
 rider
 ridered
@@ -47707,6 +47979,9 @@ rigbone
 rigbones
 right
 rightdoing
+righted
+righten
+rightened
 righter
 righters
 rightest
@@ -55391,6 +55666,7 @@ tarboy
 tarboys
 tard
 tardier
+tardigrade
 tardily
 tardive
 tardon
@@ -55693,6 +55969,10 @@ ted
 tedium
 teds
 teg
+tegmen
+tegmenta
+tegmentum
+tegmina
 tegs
 tegu
 tegula
@@ -56025,12 +56305,14 @@ tergum
 terindam
 teriyaki
 term
+termagant
 termed
 termer
 termers
 termes
 termeses
 terminate
+terminated
 termination
 terminer
 termini
@@ -56041,6 +56323,7 @@ terminists
 terminus
 terminuses
 termitaries
+termitarium
 termite
 termites
 termitic
@@ -56125,6 +56408,9 @@ tetracyclic
 tetrad
 tetraethyl
 tetragonal
+tetragram
+tetrahedra
+tetrahedrite
 tetramer
 tetrameric
 tetramers
@@ -56237,6 +56523,7 @@ themed
 themes
 then
 thenar
+thenardite
 thence
 theobromine
 theocrat
@@ -56343,6 +56630,7 @@ thieves
 thieving
 thievish
 thigh
+thighed
 thighs
 thin
 thine
@@ -56666,9 +56954,11 @@ tigerish
 tigers
 tight
 tighten
+tightened
 tightening
 tighter
 tightest
+tightined
 tightknit
 tightly
 tights
@@ -56727,6 +57017,7 @@ timebomb
 timebombs
 timecard
 timed
+timeframe
 timeish
 timeist
 timelier
@@ -57533,11 +57824,13 @@ tradal
 trade
 traded
 tradefair
+tradename
 tradent
 trader
 tradie
 trading
 tradit
+tradited
 traditing
 tradition
 traditional
@@ -57561,6 +57854,7 @@ trageremic
 tragi
 tragic
 tragics
+tragium
 tragopan
 trags
 tragu
@@ -57905,6 +58199,7 @@ tricycle
 tricycles
 tricyclic
 tricyclics
+trident
 tried
 triene
 trienes
@@ -57927,6 +58222,7 @@ trig
 trigamist
 trigamists
 trigamy
+trigemini
 trigon
 trigonal
 trigone
@@ -57936,6 +58232,7 @@ trigrams
 trigraph
 trigraphs
 trigs
+trihedra
 trijet
 trike
 trikes
@@ -58266,6 +58563,7 @@ tuans
 tuatara
 tuataras
 tuataria
+tuatarium
 tub
 tuba
 tubal
@@ -58668,6 +58966,7 @@ uhlan
 uhlans
 uhuh
 uintaite
+uintathere
 ukase
 ukases
 uke
@@ -58784,9 +59083,11 @@ unambitious
 unamenable
 unanalyzable
 unaneled
+unanimated
 unapt
 unarguably
 unarm
+unarmed
 unarms
 unartistic
 unary
@@ -58972,11 +59273,16 @@ unexplained
 unfailing
 unfair
 unfairer
+unfarmed
+unfathered
+unfed
 unfelt
 unfeminine
+unfermented
 unfertile
 unfilial
 unfiltered
+unfired
 unfirm
 unfit
 unfits
@@ -58985,6 +59291,7 @@ unfixing
 unflinching
 unfold
 unfolds
+unframed
 unfurl
 unfurled
 unfurling
@@ -59014,6 +59321,7 @@ unhand
 unhandy
 unhang
 unhanging
+unharmed
 unhasp
 unhasps
 unhealed
@@ -59060,6 +59368,7 @@ unilateral
 unilinear
 unilingual
 unilocular
+unimagined
 unimpeded
 uninhabitable
 uninitiated
@@ -59305,9 +59614,11 @@ unmalted
 unman
 unmanacle
 unmanacled
+unmanaged
 unmans
 unmantle
 unmantles
+unmaritime
 unmast
 unmaster
 unmasters
@@ -59327,10 +59638,14 @@ unmelted
 unmember
 unmenaced
 unmended
+unmerged
 unmerit
+unmerited
 unmeriting
 unmet
 unmeted
+unmetered
+unmight
 unmild
 unmind
 unminded
@@ -59339,8 +59654,11 @@ unmined
 unminister
 unminted
 unminuted
+unmired
 unmist
 unmists
+unmitigated
+unmitred
 unmix
 unmixed
 unmixing
@@ -59500,11 +59818,19 @@ unreclining
 unred
 unrede
 unrefine
+unrefined
+unrefinement
 unrefining
+unrefuted
 unregal
+unregard
+unregardant
+unregarded
 unregenerate
+unregenerated
 unregenerately
 unregeneration
+unregimented
 unregular
 unreigning
 unrein
@@ -59521,6 +59847,7 @@ unreliable
 unreluctant
 unremember
 unremote
+unremunerated
 unrent
 unrentable
 unrented
@@ -59536,6 +59863,8 @@ unretained
 unretaliated
 unretarded
 unretire
+unretired
+unretirement
 unretractable
 unreturnable
 unreturned
@@ -59548,6 +59877,7 @@ unrideable
 unrife
 unrig
 unright
+unrighted
 unrigs
 unrinded
 unring
@@ -59638,11 +59968,14 @@ untaken
 untalented
 untamable
 untameable
+untamed
 untaught
 untenable
+untenanted
 untended
 untenured
 untether
+untethered
 unthaw
 unthinkability
 unthinkable
