@@ -12886,6 +12886,9 @@ delish
 delist
 delisted
 delists
+delouse
+deloused
+delouses
 delph
 dels
 delt
@@ -12897,6 +12900,7 @@ delts
 delude
 deluded
 deluder
+deluders
 deludes
 deluge
 deluged
@@ -13060,6 +13064,9 @@ derider
 deriders
 derides
 derisible
+derive
+derived
+derives
 derm
 derma
 dermal
@@ -13105,6 +13112,9 @@ desk
 desks
 desmid
 desmids
+desolder
+desoldered
+desolders
 despise
 despised
 despises
@@ -13202,6 +13212,7 @@ devices
 devil
 deviled
 devilet
+devious
 devis
 devise
 devised
@@ -13212,9 +13223,12 @@ devoiced
 devoices
 devoid
 devoir
+devoirs
 devolve
 devolved
+devolves
 devore
+devores
 devote
 devoted
 devoting
@@ -13222,6 +13236,8 @@ devotion
 devour
 devoured
 devourer
+devourers
+devours
 devout
 dew
 dewan
@@ -13540,6 +13556,7 @@ dim
 dime
 dimebag
 dimer
+dimerous
 dimers
 dimes
 dimeter
@@ -13855,6 +13872,8 @@ divi
 divide
 divided
 dividend
+divider
+dividers
 divides
 dividing
 divier
@@ -14331,7 +14350,11 @@ drips
 drive
 drivel
 driveled
+driveler
+drivelers
 drivels
+driver
+drivers
 drives
 driveway
 driveways
@@ -14365,6 +14388,7 @@ drouth
 drouthier
 drouths
 drove
+droved
 drover
 drovers
 droves
@@ -14452,6 +14476,7 @@ dud
 dude
 duded
 dudedom
+duderies
 dudes
 dudine
 dudines
@@ -15240,6 +15265,7 @@ emergs
 emerita
 emeritus
 emerse
+emersed
 emery
 emesis
 emetic
@@ -15956,6 +15982,8 @@ equative
 equator
 equatorial
 eques
+equid
+equids
 equilibria
 equine
 equines
@@ -23980,6 +24008,7 @@ itineration
 its
 ivied
 ivies
+ivoried
 ivories
 ivorine
 ivory
@@ -26031,6 +26060,7 @@ levitation
 levities
 levity
 levs
+levulose
 levy
 lewd
 lewdly
@@ -26755,6 +26785,7 @@ lodged
 lodger
 lodging
 loerie
+loeries
 loeweite
 loft
 lofted
@@ -26891,6 +26922,7 @@ loricate
 lories
 lorilet
 lorimer
+lorimers
 loriner
 loris
 lorises
@@ -26940,10 +26972,12 @@ loups
 lour
 loured
 lourie
+louries
 louring
 lours
 loury
 louse
+loused
 louser
 lousers
 louses
@@ -26955,6 +26989,7 @@ louts
 louvar
 louver
 louvered
+louvers
 louvre
 louvred
 lovable
@@ -27023,12 +27058,15 @@ lown
 lowning
 lowns
 lowres
+lowrider
+lowriders
 lowrie
 lowries
 lows
 lowt
 lowth
 lowths
+lowveld
 lowy
 lox
 loyal
@@ -28859,6 +28897,7 @@ meditated
 meditates
 meditative
 medium
+mediums
 medius
 mediuses
 medivac
@@ -28868,6 +28907,8 @@ medley
 medleyed
 medleys
 medlied
+medrese
+medreses
 medric
 meds
 medusa
@@ -28979,6 +29020,7 @@ melched
 meld
 melded
 melder
+melders
 melds
 mele
 melena
@@ -29003,6 +29045,7 @@ melodium
 meloe
 meloes
 meloid
+meloids
 melologue
 melomane
 melomanes
@@ -29174,7 +29217,9 @@ mercurous
 mercy
 merd
 merde
+merdivorous
 merdle
+merds
 mere
 mereing
 merenda
@@ -29261,6 +29306,7 @@ mese
 mesem
 mesemb
 mesems
+meserole
 meses
 meseta
 mesetas
@@ -29745,6 +29791,8 @@ midrib
 midribs
 midside
 midsides
+midsole
+midsoles
 midst
 midsts
 midterm
@@ -29752,6 +29800,7 @@ midterms
 midtime
 midtown
 midtowns
+midwives
 midwoman
 mie
 mielie
@@ -31597,6 +31646,8 @@ mudmap
 mudpout
 mudra
 mudrun
+mudworm
+mudworms
 muesli
 mueslis
 mufti
@@ -31820,6 +31871,9 @@ murchana
 murder
 murdered
 murderer
+murderers
+murderous
+murders
 murdrum
 mure
 mured
@@ -31845,6 +31899,7 @@ murids
 muriform
 murine
 muring
+muriqui
 muriti
 murk
 murkiest
@@ -31860,6 +31915,7 @@ murmurer
 murmurers
 murmuring
 murmuringly
+murmurous
 murmurs
 muromontite
 murphy
@@ -35443,7 +35499,9 @@ order
 orderable
 ordered
 orderer
+orderers
 orderly
+orders
 ordie
 ordies
 ordinal
@@ -35562,6 +35620,7 @@ orihon
 orihons
 orinasal
 oriole
+orioles
 orison
 orisons
 oristic
@@ -35616,6 +35675,7 @@ orography
 orohydrographic
 orohydrography
 oroide
+oroides
 orological
 orology
 orometry
@@ -35925,6 +35985,7 @@ ouroboros
 ouroboroses
 ours
 ourself
+ourselves
 oursin
 oursins
 ous
@@ -36316,6 +36377,10 @@ overdoes
 overdone
 overdot
 overdots
+overdried
+overdries
+overdrive
+overdrives
 overdrove
 overdub
 overeager
@@ -36402,6 +36467,8 @@ overling
 overlining
 overlit
 overlong
+overlord
+overlords
 overloud
 overlove
 overloves
@@ -36432,6 +36499,7 @@ oversea
 overseas
 overselves
 oversensitive
+overserious
 overshare
 oversharer
 oversharers
@@ -36440,11 +36508,16 @@ overskate
 oversmoke
 oversoar
 oversoars
+oversold
 oversoul
+oversow
+oversows
 oversquare
 overstate
 overstock
 overstocks
+overswim
+overswims
 overt
 overtake
 overtaker
@@ -36459,6 +36532,7 @@ overtreat
 overtrod
 overture
 overuse
+overused
 overuses
 overvaluing
 overview
@@ -36483,6 +36557,10 @@ overwhelmed
 overwhelmer
 overwin
 overwing
+overword
+overwords
+overworld
+overworlds
 overworn
 overwove
 overwoven
@@ -36528,6 +36606,7 @@ ovule
 ovules
 ovuline
 ovulum
+ovulums
 ovum
 oware
 owares
@@ -36545,6 +36624,7 @@ owies
 owing
 owl
 owler
+owleries
 owlers
 owlet
 owlets
@@ -43844,12 +43924,14 @@ quip
 quips
 quipu
 quire
+quired
 quires
 quiring
 quirings
 quirk
 quirking
 quirl
+quirled
 quirley
 quirlie
 quirlies
@@ -43866,6 +43948,9 @@ quit
 quitch
 quite
 quits
+quiver
+quivered
+quivers
 quiz
 quo
 quoad
@@ -43886,6 +43971,8 @@ quop
 quops
 quork
 quorl
+quorum
+quorums
 quos
 quota
 quotable
@@ -45487,6 +45574,9 @@ redeified
 redeliberate
 redeliberated
 redented
+rederive
+rederived
+rederives
 redes
 redesire
 redesired
@@ -45519,6 +45609,14 @@ redintegrate
 redintegrated
 redip
 redistil
+redive
+redived
+redives
+redivide
+redivided
+redivides
+redivived
+redivivus
 redlight
 redline
 redlined
@@ -45538,6 +45636,9 @@ redraft
 redrafted
 redraw
 redrawn
+redrive
+redrives
+redrove
 reds
 redside
 redsides
@@ -45548,9 +45649,13 @@ reduct
 reducted
 redug
 reduit
+reduvioid
+reduvioids
 redward
 redware
 redwater
+redworm
+redworms
 redye
 redyed
 ref
@@ -46008,6 +46113,7 @@ reinvited
 reionise
 reird
 reirded
+reirds
 reis
 reises
 reishi
@@ -46129,6 +46235,7 @@ releve
 relevel
 relevels
 releves
+relevied
 relevies
 relexifies
 reliability
@@ -46272,10 +46379,12 @@ remeasures
 remede
 remedial
 remedied
+remedies
 remeditate
 remeditated
 remedy
 remeid
+remeids
 remelt
 remelted
 remelts
@@ -46493,6 +46602,7 @@ reopens
 reordain
 reorder
 reordered
+reorders
 reorg
 reorged
 reorging
@@ -46500,6 +46610,8 @@ reorgs
 reorient
 reorientating
 reorienting
+reovirus
+reoviruses
 rep
 repace
 repacing
@@ -46744,7 +46856,10 @@ reputes
 reputs
 requete
 requicken
+requiem
+requiems
 require
+required
 requirer
 requirers
 requires
@@ -46969,12 +47084,18 @@ resmiles
 resoil
 resoils
 resol
+resold
+resolder
+resoldered
+resolders
 resole
+resoled
 resoles
 resolicit
 resolicits
 resols
 resolve
+resolved
 resolver
 resolvers
 resolves
@@ -47101,6 +47222,7 @@ resultful
 results
 resumable
 resume
+resumed
 resumer
 resumers
 resumes
@@ -47428,7 +47550,9 @@ reveler
 revelers
 reveling
 revelment
+revelous
 revelries
+revelrous
 revels
 revenant
 revend
@@ -47590,6 +47714,7 @@ revote
 revow
 revowed
 revowing
+revows
 revs
 revue
 revulse
@@ -48285,6 +48410,7 @@ riverain
 riverains
 riverbank
 rivercraft
+rivered
 riverine
 rivering
 riverings
@@ -48315,6 +48441,7 @@ rivose
 rivotite
 rivulet
 rivulets
+rivulose
 rivulus
 rivuluses
 riyal
@@ -48561,6 +48688,7 @@ roky
 rolag
 role
 roleo
+roleos
 roles
 roloway
 rolwagen
@@ -48711,6 +48839,7 @@ roseine
 roseines
 roseola
 roseolar
+roseolous
 roseous
 roseries
 rosery
@@ -48916,6 +49045,7 @@ rouping
 roups
 roupy
 rouse
+roused
 rouser
 rousers
 rouses
@@ -48964,6 +49094,8 @@ rowans
 rowboat
 rowcast
 rowcasts
+rowdier
+rowdies
 rowdy
 rowed
 roweite
@@ -49096,8 +49228,11 @@ rudenture
 ruder
 rudera
 ruderal
+ruderies
+ruderous
 rudest
 rudie
+rudies
 rudiment
 rudish
 rudist
@@ -50653,6 +50788,7 @@ sedile
 seduce
 seduced
 seduces
+sedulous
 sedum
 sedums
 sega
@@ -52683,7 +52819,16 @@ solars
 solas
 solatia
 sold
+solder
+soldered
+solderer
+solderers
+solders
 soldi
+soldier
+soldiered
+soldieries
+soldiers
 soldo
 sole
 soled
@@ -52727,6 +52872,7 @@ solutions
 solvable
 solvate
 solve
+solved
 solver
 solvers
 solves
@@ -52930,6 +53076,7 @@ soupy
 sour
 source
 sources
+soured
 sourer
 sourest
 sourish
@@ -52938,6 +53085,7 @@ soursop
 soursops
 sous
 souse
+soused
 souses
 souslik
 sousliks
@@ -53441,13 +53589,16 @@ squids
 squint
 squints
 squire
+squired
 squires
 squiring
 squirl
 squirls
 squirm
+squirmed
 squirmer
 squirmers
+squirmier
 squirms
 squirt
 squirts
@@ -54652,6 +54803,8 @@ sudatoria
 sudron
 suds
 sudsed
+sudser
+sudsers
 sudses
 sudsiest
 sudsy
@@ -60168,6 +60321,8 @@ urease
 ureases
 ureid
 ureide
+ureides
+ureids
 uremia
 uremic
 ureter
@@ -60240,6 +60395,7 @@ useful
 usen
 usens
 user
+userid
 users
 uses
 useta
@@ -60605,6 +60761,7 @@ velitation
 velocities
 velogenic
 velour
+velours
 veloute
 velum
 velure
@@ -60706,12 +60863,14 @@ verbs
 verdant
 verde
 verderer
+verderers
 verdict
 verdicts
 verdin
 verdins
 verdure
 verdured
+verdurous
 verge
 verged
 verger
@@ -60736,6 +60895,7 @@ verity
 verlig
 verligte
 verligtes
+vermes
 vermian
 vermin
 vermis
@@ -61038,6 +61198,8 @@ virino
 virinos
 virion
 virions
+viroid
+viroids
 virological
 virology
 virtu
@@ -61123,6 +61285,7 @@ vivers
 viveur
 vivianite
 vivid
+vivider
 vividest
 vividly
 vivifies
@@ -61218,12 +61381,14 @@ voltmeter
 volts
 volume
 volumed
+volumes
 volute
 voluted
 volva
 volvas
 volvuli
 volvulus
+volvuluses
 vom
 vomer
 vomers
@@ -61915,6 +62080,7 @@ wide
 widen
 widened
 widening
+wider
 wides
 widow
 widowed
@@ -61924,6 +62090,9 @@ width
 widths
 wield
 wielded
+wielder
+wielders
+wieldier
 wieldiest
 wields
 wieldy
@@ -62163,6 +62332,7 @@ woker
 wokest
 woks
 wold
+wolds
 wolf
 wolfs
 wolverine
@@ -62199,6 +62369,9 @@ wops
 word
 worded
 wordie
+wordier
+wordies
+wordlore
 words
 wordy
 wore
@@ -62238,11 +62411,15 @@ worlde
 worlded
 worldlet
 worldline
+worlds
 worldward
 worldwide
 worm
+wormed
 wormer
+wormeries
 wormers
+wormier
 worming
 worms
 worn
@@ -62251,6 +62428,7 @@ worse
 worsen
 worsens
 worser
+worsered
 worserer
 worsers
 worsest
