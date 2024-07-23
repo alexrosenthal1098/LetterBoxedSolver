@@ -2511,6 +2511,7 @@ ambatch
 amber
 ambers
 ambiance
+ambiances
 ambience
 ambiences
 ambient
@@ -2544,6 +2545,7 @@ amdram
 ameba
 amebae
 amebas
+amebiasis
 amebic
 ameboid
 amen
@@ -2587,6 +2589,7 @@ amnesia
 amnesiac
 amnesiacs
 amnesic
+amnesics
 amnesties
 amnia
 amnio
@@ -2751,6 +2754,7 @@ anapsid
 anarch
 anarchic
 anarchical
+anarchism
 anarchs
 anarchy
 anastomosis
@@ -3449,6 +3453,10 @@ archaea
 archaeal
 archaean
 archaic
+archaise
+archaises
+archaism
+archaisms
 archangel
 archangelic
 archdeacon
@@ -3489,6 +3497,8 @@ archway
 arcing
 arco
 arcs
+arcsine
+arcsines
 arctic
 arctician
 arcticise
@@ -4455,6 +4465,7 @@ axils
 axing
 axis
 axle
+axman
 axmen
 axon
 axons
@@ -5288,8 +5299,10 @@ became
 becard
 because
 bechance
+bechances
 beck
 beckon
+becks
 become
 becomes
 bed
@@ -5441,8 +5454,12 @@ ben
 bench
 benched
 bencher
+benches
 benching
 benchlet
+benchman
+benchmark
+benchmarks
 benchmen
 benchrest
 benchrests
@@ -5517,6 +5534,8 @@ besides
 besiege
 besieger
 besieges
+besmear
+besmears
 besmite
 besmites
 besom
@@ -5786,6 +5805,7 @@ bingy
 bink
 binkie
 binkies
+binks
 binky
 binliner
 binman
@@ -6775,8 +6795,11 @@ braising
 brak
 brake
 braked
+brakeman
+brakemen
 brakes
 brakesman
+brakesmen
 braking
 bralet
 bralets
@@ -6786,6 +6809,7 @@ brambly
 bran
 branch
 branched
+branches
 branchia
 branchiae
 branchial
@@ -6987,6 +7011,7 @@ brinier
 briniest
 brining
 brink
+brinks
 briny
 brio
 brioche
@@ -8878,15 +8903,19 @@ chai
 chain
 chaine
 chained
+chaines
 chaining
 chainmail
 chains
 chair
 chairing
+chairman
+chairmen
 chairs
 chaise
 chaises
 chakra
+chakras
 chal
 chalcid
 chalcids
@@ -9026,7 +9055,9 @@ charity
 charivari
 charivaris
 charka
+charkas
 charkha
+charkhas
 charlady
 charlatan
 charley
@@ -9284,14 +9315,17 @@ chin
 china
 chinagraph
 chinar
+chinars
 chinas
 chinaware
 chinch
+chinches
 chine
 chined
 chines
 ching
 chining
+chinkara
 chino
 chinois
 chins
@@ -9590,6 +9624,7 @@ cimbalom
 cimbaloms
 cinch
 cinched
+cinches
 cinching
 cinchonic
 cincture
@@ -11585,6 +11620,7 @@ crin
 crinal
 crinch
 crinched
+crinches
 crinching
 crine
 crined
@@ -11605,6 +11641,7 @@ crinkle
 crinklier
 crinkling
 crinkly
+crinks
 crinoid
 crinoidal
 crinoline
@@ -14716,6 +14753,7 @@ earlock
 earls
 early
 earmark
+earmarks
 earn
 earned
 earner
@@ -15604,6 +15642,7 @@ enlivens
 enmanacle
 enmantle
 enmarble
+enmask
 enmesh
 enmeshes
 enmities
@@ -16105,6 +16144,7 @@ escapists
 escarp
 escarps
 eschar
+eschars
 eschaton
 escheat
 escheats
@@ -20567,6 +20607,7 @@ haka
 hakama
 hakamas
 hakari
+hakaris
 hakas
 hake
 hakes
@@ -20645,6 +20686,7 @@ hamlet
 hamper
 hampering
 hams
+hamsin
 hamster
 hamsters
 hamuli
@@ -22810,6 +22852,7 @@ inanity
 inapt
 inarch
 inarched
+inarches
 inarching
 inarguably
 inartful
@@ -22847,6 +22890,7 @@ incest
 inch
 incharge
 inched
+inches
 inching
 inchmeal
 incidence
@@ -24409,6 +24453,7 @@ kara
 karabiner
 karabiners
 karahi
+karahis
 karai
 karais
 karaka
@@ -24622,6 +24667,7 @@ khaki
 khakis
 khalasi
 khalasis
+khamsin
 khan
 khana
 khanas
@@ -24637,6 +24683,7 @@ khayal
 khazi
 kheda
 khichri
+khichris
 khimar
 khimars
 khir
@@ -27572,6 +27619,7 @@ mahaly
 mahant
 mahants
 maharani
+maharanis
 maharishi
 mahatma
 mahatmas
@@ -27707,6 +27755,7 @@ maker
 makers
 makes
 makework
+makhani
 makharka
 makhna
 makhorka
@@ -28258,6 +28307,8 @@ margrave
 margravine
 margs
 marguerite
+marhaenism
+marhaenisms
 maria
 mariachi
 mariachis
@@ -28324,6 +28375,8 @@ markhor
 markman
 markmen
 marks
+marksman
+marksmen
 markup
 marl
 marled
@@ -28713,6 +28766,7 @@ maxims
 maximum
 maximumly
 maximums
+maxina
 maxis
 maxite
 maxixe
@@ -28839,8 +28893,17 @@ mebutamate
 mecate
 mech
 mecha
+mechameck
+mechamecks
 mechanic
 mechanician
+mechanicism
+mechanicisms
+mechanics
+mechanise
+mechanises
+mechanism
+mechanisms
 mechant
 mechante
 mechas
@@ -29077,6 +29140,10 @@ membered
 members
 membra
 membral
+membrance
+membrances
+membrane
+membranes
 membrum
 meme
 memento
@@ -29106,6 +29173,8 @@ memorises
 memoriter
 memory
 memos
+memsahib
+memsahibs
 men
 menace
 menaced
@@ -29136,6 +29205,7 @@ menina
 meninas
 meningeal
 meninx
+menisci
 meno
 menorah
 mens
@@ -32328,11 +32398,15 @@ nam
 namad
 namads
 namak
+namaskar
+namaskars
 namaste
 namastes
 namaz
 name
 nameable
+namecheck
+namechecks
 named
 nameplate
 nameplates
@@ -33211,11 +33285,14 @@ niched
 nicher
 nichered
 nichering
+niches
 nichevo
 niching
 nichrome
 nicish
 nick
+nickase
+nickases
 nicked
 nickel
 nickeled
@@ -33233,6 +33310,8 @@ nickie
 nickies
 nicking
 nicknack
+nickname
+nicknames
 nicks
 nickum
 nicky
@@ -33529,6 +33608,7 @@ nix
 nixed
 nixer
 nixie
+nixies
 nixing
 nixtamal
 nizam
@@ -44283,6 +44363,8 @@ rain
 rainbird
 rainbow
 raincape
+raincheck
+rainchecks
 raincoat
 raindrop
 raindrops
@@ -44337,6 +44419,7 @@ rakers
 rakery
 rakes
 rakhi
+rakhis
 raki
 rakia
 rakias
@@ -44368,6 +44451,7 @@ ramarama
 ramaramas
 rambai
 rambais
+rambeh
 rambla
 ramblas
 ramble
@@ -44461,6 +44545,7 @@ rancher
 ranchera
 rancheria
 ranchero
+ranches
 ranching
 ranchito
 ranchman
@@ -44539,6 +44624,8 @@ rankles
 rankling
 rankly
 ranks
+ranksman
+ranksmen
 ranse
 ransel
 ranselman
@@ -49869,6 +49956,7 @@ sambar
 sambars
 sambas
 sambhar
+sambhars
 sambuca
 sambucas
 same
@@ -50545,6 +50633,7 @@ scows
 scrab
 scrabs
 scram
+scramasax
 scramble
 scrambler
 scramblers
@@ -50690,6 +50779,7 @@ seals
 seam
 seaman
 seamark
+seamarks
 seamed
 seamen
 seamer
@@ -52086,6 +52176,7 @@ situses
 sitz
 siwash
 six
+sixain
 sixer
 sixers
 sixes
