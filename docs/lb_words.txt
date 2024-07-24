@@ -1592,6 +1592,7 @@ agnize
 agnized
 agnizing
 agnogenic
+agnomen
 ago
 agog
 agogic
@@ -1643,6 +1644,8 @@ agroecology
 agrogeology
 agrogorod
 agrology
+agronom
+agronome
 agrostography
 aground
 agrum
@@ -2637,6 +2640,7 @@ ample
 ampler
 amplest
 amply
+ampoule
 amps
 ampul
 ampule
@@ -2645,6 +2649,7 @@ ampuls
 amputate
 amputates
 amputation
+amputator
 amrit
 amrita
 amscray
@@ -3984,6 +3989,7 @@ atelesite
 atelestite
 atelier
 ateliers
+atemporal
 atenolol
 ater
 ates
@@ -4286,6 +4292,7 @@ automatised
 automatises
 automatist
 automatists
+automaton
 automats
 automise
 automised
@@ -4299,8 +4306,10 @@ autopilot
 autopilots
 autopista
 autopistas
+autoplate
 autorad
 autorads
+autoregulate
 autorotate
 autorotation
 autorotations
@@ -15166,6 +15175,7 @@ elevate
 elevated
 elevates
 elevation
+elevator
 eleven
 elevens
 elevenses
@@ -15448,6 +15458,7 @@ enameler
 enamels
 enamor
 enamors
+enamour
 enanthate
 enanthema
 enanthol
@@ -15844,6 +15855,7 @@ envelope
 envelopes
 envelops
 envenom
+envenomate
 envenoms
 enviable
 envied
@@ -16407,6 +16419,7 @@ evaluate
 evaluated
 evaluates
 evaluative
+evaluator
 evangel
 evangelic
 evangelical
@@ -16427,6 +16440,7 @@ evening
 eveninger
 evenings
 evenly
+evenomate
 evens
 evensong
 evensongs
@@ -18758,6 +18772,7 @@ galore
 galpal
 gals
 galvanic
+galvanometer
 galvo
 gam
 gamahe
@@ -18783,11 +18798,13 @@ game
 gamebird
 gamed
 gameful
+gamelan
 gamene
 gamepad
 gamer
 gamergate
 gamers
+gametal
 gamete
 gamic
 gamier
@@ -18799,6 +18816,7 @@ gaming
 gamins
 gamomania
 gamomanias
+gamone
 gamont
 gamp
 gams
@@ -18833,9 +18851,11 @@ ganglionic
 ganglord
 gangly
 gangman
+gangmen
 gangrape
 gangraping
 gangrel
+gangrenate
 gangrene
 gangrening
 gangril
@@ -19218,6 +19238,7 @@ geometrer
 geometrers
 geometrise
 geometry
+geonoma
 geopark
 geophone
 geoplanarian
@@ -19950,6 +19971,7 @@ granular
 granularity
 granulate
 granulation
+granulator
 granule
 granulite
 granum
@@ -20174,6 +20196,7 @@ groupage
 grouper
 groupie
 grouping
+grouplet
 groupment
 groupy
 grouse
@@ -20349,6 +20372,7 @@ gunite
 gunk
 gunman
 gunmen
+gunmetal
 gunplay
 gunpoint
 guns
@@ -25473,6 +25497,7 @@ langar
 langer
 langra
 language
+languager
 langue
 languet
 languor
@@ -25949,6 +25974,8 @@ legitimities
 leglen
 leglet
 leglin
+legman
+legmen
 legno
 lego
 legong
@@ -26077,6 +26104,7 @@ levain
 levant
 levanter
 levas
+levator
 leve
 level
 leveled
@@ -27593,7 +27621,9 @@ magmatists
 magna
 magnate
 magnet
+magnetar
 magneto
+magnetometer
 magneton
 magnetophon
 magnetophone
@@ -27798,6 +27828,8 @@ malae
 malaes
 malafide
 malagas
+malaguena
+malagueta
 malahack
 malai
 malaise
@@ -27806,6 +27838,7 @@ malambo
 malambos
 malamute
 malamutes
+malanga
 malapert
 malaprop
 malapropian
@@ -28019,11 +28052,14 @@ manflu
 manful
 mang
 manga
+mangal
 manganate
 manganoan
+manganomelane
 mangas
 mange
 mangeao
+mangel
 mangemange
 mangeo
 manger
@@ -28303,6 +28339,7 @@ margo
 margos
 margosa
 margosas
+margravate
 margrave
 margravine
 margs
@@ -28718,6 +28755,7 @@ maula
 maulana
 maulanas
 mauled
+mauler
 mauls
 maulvi
 maum
@@ -29066,6 +29104,8 @@ melamine
 melampodium
 melanaemia
 melanemia
+melange
+melangeur
 melanian
 melanic
 melaniline
@@ -29480,10 +29520,12 @@ metage
 metagram
 metake
 metal
+metalanguage
 metalate
 metalated
 metalates
 metaled
+metalegal
 metalepsis
 metalepsises
 metalevel
@@ -29658,6 +29700,8 @@ metula
 metulas
 metump
 metumps
+meturgeman
+meturgemen
 meu
 meuble
 meubles
@@ -30971,6 +31015,7 @@ momparas
 mompe
 mompei
 mompes
+mompreneur
 moms
 momsey
 momseys
@@ -31021,6 +31066,7 @@ mongering
 monging
 mongo
 mongos
+mongrel
 mongs
 monial
 monials
@@ -31509,6 +31555,7 @@ motmots
 moto
 moton
 motoneuron
+motoneuronal
 motons
 motor
 motorable
@@ -31530,6 +31577,7 @@ motorisms
 motorist
 motorists
 motorium
+motorman
 motormen
 motormouth
 motors
@@ -31552,6 +31600,7 @@ moufs
 mougat
 mouket
 moul
+moulage
 mould
 moulds
 moule
@@ -33122,6 +33171,8 @@ neurocranial
 neurocrine
 neurohormone
 neuroid
+neuroma
+neuromata
 neuromere
 neurometer
 neuromotor
@@ -33130,6 +33181,9 @@ neuronal
 neurone
 neuropore
 neuropter
+neuroptera
+neuropteran
+neuroregulator
 neuroses
 neurosis
 neurotensin
@@ -33874,6 +33928,7 @@ nonliterary
 nonliterate
 nonliving
 nonlogical
+nonmanual
 nonmaterial
 nonmember
 nonmetal
@@ -33923,6 +33978,8 @@ nontrivial
 nontronite
 nonuniform
 nonunion
+nonuple
+nonuplet
 nonurban
 nonvariable
 nonveg
@@ -34121,6 +34178,7 @@ notorious
 notornis
 notornises
 notothere
+notoungulate
 notour
 nots
 notum
@@ -34158,6 +34216,7 @@ nova
 novae
 novas
 novate
+novateur
 novation
 novel
 novela
@@ -34276,6 +34335,7 @@ nudnik
 nudniks
 nuevo
 nug
+nugator
 nugs
 nuh
 nuit
@@ -35635,10 +35695,12 @@ organography
 organoid
 organological
 organology
+organometal
 organon
 organons
 organry
 organs
+organule
 organy
 organza
 orgasm
@@ -36157,6 +36219,8 @@ outgain
 outgaining
 outgang
 outgate
+outgave
+outgeneral
 outgo
 outgoer
 outgoing
@@ -36341,6 +36405,7 @@ outswim
 outswims
 outswore
 outswum
+outvalue
 outvote
 outvoted
 outwalk
@@ -36471,6 +36536,7 @@ overeater
 overeaters
 overeats
 overenter
+overerupt
 overest
 overface
 overfacing
@@ -36557,6 +36623,7 @@ overly
 overman
 overmark
 overmarks
+overmature
 overmen
 overmore
 overmount
@@ -36567,8 +36634,12 @@ overnet
 overnice
 overnote
 overornate
+overpopulate
+overpour
 overpower
 overpowering
+overpronate
+overpronator
 overs
 oversalt
 oversalts
@@ -36614,7 +36685,9 @@ overture
 overuse
 overused
 overuses
+overvalue
 overvaluing
+overvault
 overview
 overviewer
 overvote
@@ -40314,7 +40387,10 @@ placula
 placulas
 plaga
 plagal
+plagate
 plage
+plague
+plaguer
 plaguing
 plaguy
 plaice
@@ -40619,6 +40695,7 @@ pleura
 pleurae
 pleural
 pleuric
+pleuron
 pleurum
 pleurums
 plew
@@ -40782,6 +40859,9 @@ plumulose
 plumy
 plunch
 plung
+plunge
+plungeon
+plunger
 plunging
 plunk
 plunking
@@ -41230,6 +41310,7 @@ pomatum
 pomatums
 pombe
 pome
+pomegranate
 pomeis
 pomeises
 pomelo
@@ -41369,6 +41450,7 @@ popstars
 popsy
 poptastic
 popular
+populate
 population
 populational
 populations
@@ -41760,6 +41842,8 @@ poulp
 poulpe
 poulps
 poult
+poulter
+poulterer
 poults
 pounamu
 pound
@@ -41777,6 +41861,7 @@ pourer
 pourie
 pouring
 pouriture
+pourover
 pourpoint
 pourpoints
 pours
@@ -41786,6 +41871,7 @@ pousadas
 poustie
 pousy
 pout
+pouter
 poutful
 poutier
 poutiest
@@ -42012,6 +42098,7 @@ pregive
 pregiven
 pregiving
 pregnane
+pregnate
 prehalter
 preharvest
 preheat
@@ -42072,10 +42159,12 @@ premorbid
 premorse
 premortem
 premotor
+premoult
 prems
 prenarial
 prenasal
 prenasals
+prenatal
 preneural
 prenex
 prenotion
@@ -42208,6 +42297,7 @@ pretax
 pretectal
 pretectum
 pretectums
+pretemporal
 pretence
 pretend
 pretendant
@@ -42251,6 +42341,9 @@ prevert
 preverts
 previse
 previses
+prevot
+prevotal
+prevote
 prewar
 prewarn
 prewarning
@@ -42652,6 +42745,7 @@ promotes
 promotor
 promotors
 promotrix
+promover
 prompt
 prompter
 prompters
@@ -42756,6 +42850,8 @@ propitiation
 propitiative
 propitiator
 propitious
+propleura
+propleuron
 proplyd
 propodaeal
 propodaeum
@@ -42818,6 +42914,8 @@ proprium
 props
 proptotic
 propugn
+propugnator
+propugner
 propugning
 propugns
 propupa
@@ -42888,6 +42986,7 @@ prostatitis
 prosy
 protactic
 protan
+protanomal
 protanope
 protanopia
 protargol
@@ -42972,6 +43071,9 @@ proton
 protonate
 protonating
 protonation
+protonema
+protonemal
+protonematal
 protonic
 protonotarial
 protonotariat
@@ -43028,6 +43130,7 @@ protrusion
 protrusions
 protrypsin
 protrypsins
+proturan
 protype
 protypes
 proud
@@ -43039,6 +43142,7 @@ prove
 proven
 provene
 provening
+provenue
 prover
 proving
 proviso
@@ -43186,6 +43290,7 @@ pteris
 pterises
 pteroma
 pteropine
+pteropleuron
 pterotic
 pterygote
 pterygotes
@@ -43270,8 +43375,14 @@ pulicine
 puling
 pulk
 pulka
+pulmometer
+pulmonal
+pulmonale
+pulmonar
+pulmonate
 pulmonia
 pulmonic
+pulmotor
 pulp
 pulpal
 pulper
@@ -43317,6 +43428,7 @@ pulu
 pulut
 pulutan
 puluts
+pulverate
 pulverise
 pulveriser
 pulverises
@@ -44596,6 +44708,7 @@ ranging
 rangiora
 rangle
 rangoli
+rangpur
 rangy
 rani
 ranid
@@ -46061,6 +46174,7 @@ regulas
 regulate
 regulater
 regulation
+regulator
 reguli
 reguline
 regulo
@@ -46548,6 +46662,7 @@ remou
 remount
 remounting
 remous
+removal
 remove
 removed
 removement
@@ -46648,6 +46763,9 @@ renominate
 renomination
 renounce
 renouncer
+renovate
+renovater
+renovator
 renovise
 renown
 renowned
@@ -47612,6 +47730,8 @@ reutilise
 reutilises
 reutilize
 rev
+revaluate
+revalue
 revaluing
 revamp
 revamping
@@ -47632,6 +47752,7 @@ revehent
 revel
 revelabilities
 revelative
+revelator
 reveled
 reveler
 revelers
@@ -55818,6 +55939,7 @@ tango
 tangoed
 tangoing
 tangos
+tangram
 tangs
 tangy
 tania
@@ -55927,6 +56049,8 @@ target
 targetable
 targeted
 targeting
+targetman
+targetmen
 targets
 tariqa
 tariqas
@@ -56287,6 +56411,7 @@ telemetered
 telemeters
 telemotor
 telencephalic
+telenovela
 teleodont
 teleologic
 teleological
@@ -56400,6 +56525,7 @@ templates
 temple
 temples
 tempo
+temporal
 tempore
 tempos
 temps
@@ -60001,6 +60127,7 @@ unplumbed
 unplumbing
 unplumbs
 unplumed
+unplunge
 unplunging
 unply
 unpointing
@@ -60012,6 +60139,7 @@ unpope
 unpopes
 unpoping
 unpopular
+unpopulate
 unpopulous
 unporous
 unpot
@@ -60029,6 +60157,7 @@ unprop
 unproportion
 unprops
 unproud
+unproven
 unpumped
 unpunctual
 unpure
@@ -60351,6 +60480,7 @@ uptrend
 upturn
 upturning
 upturns
+upvote
 upward
 upwarp
 upwarps
@@ -60588,6 +60718,7 @@ vagrants
 vags
 vague
 vaguely
+vaguer
 vaguest
 vagus
 vaid
@@ -60612,6 +60743,7 @@ valanced
 vale
 valence
 valenced
+valerate
 valerian
 valeric
 vales
@@ -60633,6 +60765,7 @@ valonia
 valonias
 valor
 valour
+valproate
 valse
 valses
 valuable
@@ -60640,8 +60773,10 @@ valuate
 valuated
 valuates
 valuative
+valuator
 value
 valued
+valuer
 values
 valuing
 valuta
@@ -60657,6 +60792,7 @@ vamping
 vampire
 vampires
 vampiric
+vamplate
 vamps
 vampy
 van
@@ -60762,6 +60898,7 @@ vats
 vatu
 vault
 vaulted
+vaulter
 vaults
 vaunt
 vaunter
