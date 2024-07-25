@@ -480,6 +480,8 @@ acetates
 acetation
 acetenyl
 acetic
+acetifier
+acetify
 acetin
 acetins
 acetoacetate
@@ -1252,6 +1254,7 @@ aeries
 aerified
 aerifies
 aeriform
+aerify
 aero
 aerobat
 aerobated
@@ -2639,6 +2642,8 @@ amping
 ample
 ampler
 amplest
+amplifier
+amplify
 amply
 ampoule
 amps
@@ -3251,6 +3256,7 @@ apercu
 aperient
 aperients
 aperies
+aperitif
 aperture
 apery
 apes
@@ -7860,7 +7866,9 @@ camp
 campagne
 camper
 campers
+campery
 campest
+campfire
 campion
 campions
 campo
@@ -8489,6 +8497,7 @@ catalytic
 catamaran
 catamarans
 catamenia
+catamite
 catamount
 catamountain
 catananche
@@ -8500,6 +8509,7 @@ cataphoric
 cataphract
 cataphracts
 cataplectic
+cataplexy
 cataract
 cataracts
 catastases
@@ -8719,6 +8729,7 @@ celebret
 celebs
 celebutante
 celeriac
+celerity
 celery
 celesta
 celestas
@@ -9971,8 +9982,10 @@ climacteric
 climacterical
 climacterics
 climacteries
+climactery
 climactic
 climatal
+climate
 climatic
 climatical
 climax
@@ -12239,6 +12252,7 @@ cyclamate
 cyclamates
 cyclase
 cycle
+cyclecar
 cycled
 cycler
 cyclers
@@ -16533,6 +16547,7 @@ ewers
 ewes
 exact
 exacta
+exactly
 exacts
 exalt
 exalte
@@ -16540,6 +16555,7 @@ exalted
 exaltes
 exalts
 exam
+example
 exams
 excel
 excels
@@ -16599,6 +16615,7 @@ exequys
 exercise
 exerciser
 exercises
+exercycle
 exergue
 exergues
 exert
@@ -16623,6 +16640,7 @@ exilian
 exilic
 exiling
 exilities
+exility
 eximious
 exine
 exintine
@@ -16662,9 +16680,11 @@ exoticism
 exotics
 exparte
 expat
+expatiate
 expatriate
 expats
 expect
+expecter
 expects
 expedient
 expedite
@@ -17407,6 +17427,7 @@ fieldfare
 fieldguide
 fieldtrip
 fierce
+fiercely
 fiercer
 fiercest
 fieri
@@ -17482,9 +17503,11 @@ filmi
 filmic
 filmier
 filmiest
+filmily
 filmise
 filmize
 filmizes
+filmlet
 films
 filmset
 filmsets
@@ -17623,6 +17646,7 @@ firepot
 firer
 firers
 fires
+firetail
 firewatch
 firie
 firies
@@ -17700,6 +17724,7 @@ five
 fivefinger
 fiver
 fix
+fixate
 fixative
 fixe
 fixer
@@ -17710,6 +17735,7 @@ fixies
 fixing
 fixit
 fixits
+fixity
 fixture
 fixtures
 flab
@@ -18255,6 +18281,7 @@ frail
 frailer
 frailest
 frails
+frailty
 frais
 fraise
 fraises
@@ -18269,6 +18296,7 @@ frameset
 framesets
 frameup
 framis
+frampler
 frampold
 franc
 franca
@@ -22773,6 +22801,9 @@ impended
 impending
 impenitent
 imperator
+imperfect
+imperfecta
+imperfectly
 imperial
 imperil
 imperiled
@@ -22824,6 +22855,7 @@ impostor
 imposts
 impostume
 impostumes
+imprecate
 imprimatur
 imprint
 imprinting
@@ -26252,6 +26284,7 @@ lieu
 lieutenant
 lieutenants
 life
+lifecycle
 lifeful
 lifefuls
 lifehold
@@ -36934,6 +36967,7 @@ packs
 packsack
 packsacks
 packy
+paclitaxel
 paco
 pacos
 pact
@@ -37672,6 +37706,7 @@ parameters
 parametral
 parametrial
 parametron
+paramilitary
 paramo
 paramoeon
 paramorph
@@ -37764,6 +37799,7 @@ parastases
 parastatal
 parastate
 parastates
+paratacamite
 paratactic
 paratartaric
 parataxic
@@ -37778,6 +37814,7 @@ paratone
 paratonia
 paratonic
 paratrophic
+paratype
 paratyphoid
 paravail
 paravane
@@ -37868,6 +37905,7 @@ parid
 paries
 parieses
 parietal
+parietary
 parietin
 parigot
 parigots
@@ -38823,6 +38861,7 @@ pequi
 pequia
 pequis
 per
+peracetate
 peractor
 peracute
 perae
@@ -38880,6 +38919,10 @@ peres
 perester
 peresters
 perf
+perfect
+perfecta
+perfecter
+perfectly
 perfin
 perforin
 perform
@@ -39091,6 +39134,9 @@ perpetuana
 perpetuanas
 perpetuate
 perpetuates
+perplex
+perplexer
+perplexity
 perps
 perqueir
 persalt
@@ -42025,6 +42071,8 @@ preambles
 preambular
 preambulary
 preamp
+preamplifier
+preamplify
 preamps
 preantepenult
 prearticle
@@ -42036,6 +42084,8 @@ precancer
 precant
 precants
 precardiac
+precariat
+precarity
 precast
 precasts
 precent
@@ -42061,6 +42111,7 @@ precisian
 precisians
 preclear
 preclears
+preclimax
 precocene
 precocenes
 precoma
@@ -42073,17 +42124,21 @@ predy
 prefade
 prefaded
 prefader
+prefect
+prefectly
 prefer
 preference
 preferences
 preferencies
 preferer
 prefers
+prefet
 prefigure
 prefigured
 prefire
 prefired
 prefires
+prefix
 preflight
 preform
 preformer
@@ -42124,6 +42179,7 @@ prelife
 prelim
 prelimit
 preliteracy
+preliterate
 preload
 prelude
 preluded
@@ -42188,6 +42244,7 @@ prepackages
 prepaid
 prepalatal
 preparable
+preparate
 preparator
 prepare
 prepared
@@ -42208,6 +42265,7 @@ preponing
 prepose
 preposes
 prepreg
+preprimate
 preprint
 preprints
 preprogram
@@ -42291,6 +42349,7 @@ presumers
 presumes
 pret
 preta
+pretape
 pretarsus
 pretas
 pretax
@@ -42304,6 +42363,7 @@ pretendant
 pretense
 pretenses
 pretercanine
+preterimperfect
 preterist
 preterists
 preterit
@@ -42314,6 +42374,7 @@ preteritive
 preterits
 preterm
 pretermit
+preterperfect
 pretest
 pretests
 pretext
@@ -42576,6 +42637,7 @@ privities
 privity
 privy
 prix
+prixeam
 prize
 prizeable
 prized
@@ -43806,6 +43868,7 @@ pyrene
 pyreneite
 pyres
 pyretic
+pyrexia
 pyridic
 pyridyl
 pyrite
@@ -43862,6 +43925,7 @@ pyu
 pyuria
 pyx
 pyxes
+pyxie
 pyxis
 qadi
 qadis
@@ -44595,6 +44659,7 @@ ramiers
 ramies
 ramifies
 ramiform
+ramify
 ramin
 ramins
 ramish
@@ -45481,6 +45546,7 @@ recep
 recept
 receptable
 receptacle
+receptary
 receptible
 receptor
 recepts
@@ -45695,6 +45761,7 @@ rectificative
 rectifier
 rectifiers
 rectifies
+rectify
 rectiline
 rectilineal
 rectilinear
@@ -45950,7 +46017,9 @@ reformers
 refought
 refount
 refract
+refracter
 refractile
+refractility
 refractive
 refragable
 refraid
@@ -46439,6 +46508,7 @@ releves
 relevied
 relevies
 relexifies
+relexify
 reliability
 reliable
 reliably
@@ -47038,6 +47108,7 @@ reptant
 reptile
 reptilian
 reptilians
+reptiliary
 reptility
 reptiloid
 repugn
@@ -55910,6 +55981,7 @@ tames
 tamest
 taming
 tamp
+tampax
 tamper
 tamperer
 tamperers
@@ -56383,6 +56455,7 @@ telecontrol
 teleconverter
 teledu
 telefax
+telefilm
 telega
 telegas
 telegony
@@ -56641,6 +56714,7 @@ teosinte
 tepache
 tepal
 tepals
+tepary
 tephra
 tequila
 tequilas
@@ -56692,8 +56766,10 @@ terministic
 terminists
 terminus
 terminuses
+termitaria
 termitaries
 termitarium
+termitary
 termite
 termites
 termitic
