@@ -409,6 +409,7 @@ acarid
 acaridan
 acaridian
 acaridians
+acarids
 acarine
 acarines
 acaroid
@@ -904,6 +905,7 @@ adaptorial
 adaptors
 adapts
 adarce
+adarces
 adat
 adatom
 adats
@@ -1177,9 +1179,15 @@ advise
 advised
 advises
 advisive
+adviso
+advisor
+advisories
+advisors
+advisos
 advoke
 advoked
 advouter
+advowries
 advt
 advts
 adware
@@ -3815,6 +3823,7 @@ asbestos
 asbestosis
 ascariasis
 ascarid
+ascarids
 ascaris
 ascend
 ascends
@@ -4407,6 +4416,7 @@ avoid
 avoidant
 avoided
 avoiding
+avoids
 avoision
 avos
 avouch
@@ -8418,6 +8428,7 @@ cases
 casevac
 casevaced
 casevacs
+casework
 cash
 cashback
 cashes
@@ -11776,6 +11787,7 @@ croutons
 crow
 crowd
 crowded
+crowdie
 crowds
 croweater
 crowed
@@ -13756,6 +13768,7 @@ disastered
 disasters
 disastrous
 disastrously
+disavow
 disband
 disbands
 disbar
@@ -13766,6 +13779,8 @@ disbuds
 disc
 discal
 discard
+discase
+discases
 discern
 discerner
 discerners
@@ -13788,6 +13803,7 @@ discoverer
 discoverers
 discovers
 discovert
+discrieve
 discs
 disdain
 disease
@@ -13958,6 +13974,8 @@ divisible
 division
 divisions
 divisive
+divisor
+divisors
 divorce
 divorces
 divot
@@ -14153,6 +14171,7 @@ dorados
 dorcas
 dore
 dores
+dories
 doris
 dorje
 dorjes
@@ -14246,6 +14265,8 @@ dovekie
 dovekies
 doves
 dovetail
+dowak
+dowaks
 dowd
 dowds
 dowdy
@@ -14256,6 +14277,7 @@ dowered
 dowf
 dowfart
 dowfed
+dowfs
 down
 downed
 downer
@@ -14281,6 +14303,7 @@ downvoting
 downward
 downwarp
 downwind
+dowries
 dowse
 dowsed
 dowses
@@ -14699,6 +14722,9 @@ dux
 dwale
 dwam
 dwams
+dwarf
+dwarfs
+dwarves
 dwelt
 dwindle
 dwindled
@@ -17300,6 +17326,7 @@ fening
 feninga
 fens
 fentanyl
+feodaries
 fer
 feral
 ferberite
@@ -18035,6 +18062,7 @@ focus
 focuses
 fodgel
 fodient
+fodies
 foe
 foefie
 foehn
@@ -18213,6 +18241,8 @@ former
 formers
 formes
 fornent
+forsake
+forsakes
 forswore
 forsworn
 fort
@@ -24544,6 +24574,7 @@ kas
 kasbah
 kasbahs
 kasha
+kasida
 kata
 katabatic
 katakana
@@ -34931,6 +34962,8 @@ odorant
 odorants
 odorimeter
 odorimetry
+odorise
+odorises
 odorize
 odorized
 odorizing
@@ -44375,6 +44408,7 @@ radiatory
 radical
 radicand
 radication
+radices
 radicidation
 radicle
 radif
@@ -44384,6 +44418,7 @@ radiocarbon
 radioconductor
 radiodating
 radioed
+radioes
 radiogram
 radiograph
 radiographic
@@ -44393,6 +44428,7 @@ radioing
 radioiodinating
 radioiodination
 radioiodine
+radioise
 radioize
 radioized
 radioizing
@@ -44424,6 +44460,10 @@ radiotracer
 radioulna
 radioulnas
 radious
+radiovisor
+radiovisors
+radiowave
+radiowaves
 radium
 radius
 radman
@@ -48746,6 +48786,7 @@ roadhead
 roadhog
 roadie
 roadied
+roadies
 roading
 roadman
 roadmap
@@ -48757,6 +48798,7 @@ roadtrip
 roadtrips
 roadway
 roadwork
+roadworks
 roady
 roak
 roake
@@ -49082,6 +49124,7 @@ rorty
 rory
 rosa
 rosace
+rosacea
 rosaces
 rosado
 rosados
@@ -49100,6 +49143,7 @@ rosarium
 rosary
 rosasite
 rosasites
+roscid
 rosco
 roscoe
 roscoes
@@ -52494,6 +52538,7 @@ skive
 skiver
 skives
 skiving
+skiwear
 skoal
 skobe
 skobes
@@ -60779,6 +60824,7 @@ vada
 vadas
 vade
 vadge
+vadose
 vaelensi
 vag
 vagal
@@ -61338,6 +61384,7 @@ vicarage
 vicarial
 vicariance
 vicariate
+vicars
 vice
 vicegerent
 viceregal
@@ -61623,6 +61670,8 @@ vocational
 vocative
 voce
 vocoder
+vodka
+vodkas
 vodun
 voe
 voes
@@ -62124,6 +62173,7 @@ weave
 weaved
 weaver
 weavers
+weaves
 weaving
 web
 weber
@@ -62688,6 +62738,7 @@ worker
 workers
 workfare
 workforce
+workforces
 workhand
 workhorse
 workhorses
