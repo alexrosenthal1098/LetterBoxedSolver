@@ -140,6 +140,7 @@ abius
 abjad
 abjads
 abjud
+abjugate
 abjuror
 abkari
 ablate
@@ -1598,6 +1599,7 @@ agnaming
 agnate
 agnathan
 agnathans
+agnation
 agnition
 agnize
 agnized
@@ -1862,6 +1864,7 @@ aiyoh
 ajar
 aji
 ajiaco
+ajog
 ajuga
 akakia
 akakias
@@ -4255,6 +4258,7 @@ autistic
 autistics
 autists
 auto
+autobahn
 autobasidium
 autobio
 autobiog
@@ -4665,6 +4669,7 @@ bagpiper
 bags
 bagsy
 bagua
+bagwig
 bah
 bahada
 bahadas
@@ -4872,6 +4877,7 @@ bansuri
 bansuris
 bantam
 bantams
+banteng
 banter
 banterer
 bants
@@ -5635,6 +5641,7 @@ bfs
 bhadralog
 bhai
 bhais
+bhajan
 bhaji
 bhajia
 bhajias
@@ -5749,6 +5756,7 @@ bigs
 bigtime
 bigwig
 bihon
+bijou
 bikable
 bike
 bikeable
@@ -19907,6 +19915,7 @@ gougeres
 gougers
 gouges
 gouging
+goujon
 goura
 gouras
 gourd
@@ -20542,6 +20551,7 @@ habitability
 habitable
 habitant
 habitat
+habitation
 habitative
 habitats
 habited
@@ -20550,6 +20560,7 @@ habitual
 habituate
 habituated
 habituates
+habituation
 habitude
 habitudes
 habitue
@@ -21641,6 +21652,7 @@ highway
 highwire
 highwires
 hijab
+hijabi
 hijabs
 hijack
 hijacks
@@ -24298,6 +24310,7 @@ jives
 jivey
 jiving
 job
+jobation
 jobs
 jobsmith
 jock
@@ -24329,6 +24342,7 @@ jolie
 jolt
 jolted
 jolts
+jong
 jorts
 jorum
 josh
@@ -34276,6 +34290,7 @@ nous
 noust
 nousts
 nouther
+nouwja
 nova
 novae
 novas
@@ -36478,6 +36493,8 @@ outwalk
 outwatch
 outwatched
 outwear
+outweigh
+outwent
 outwept
 outwit
 outwith
@@ -57788,6 +57805,7 @@ toehold
 toeholds
 toeing
 toenail
+toenjang
 toerag
 toerags
 toes
@@ -59317,6 +59335,7 @@ tweaks
 twelfth
 twelve
 twelves
+twenjang
 twenties
 twentieth
 twerk
@@ -62311,6 +62330,7 @@ wheals
 wheat
 wheatear
 wheatears
+wheaten
 wheatish
 wheatmeal
 wheats
