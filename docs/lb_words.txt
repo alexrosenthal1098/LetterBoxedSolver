@@ -8108,6 +8108,7 @@ capri
 caprice
 caprine
 capris
+caprock
 caproic
 caprylate
 caprylic
@@ -8529,6 +8530,7 @@ cataphract
 cataphracts
 cataplectic
 cataplexy
+catapult
 cataract
 cataracts
 catastases
@@ -10869,6 +10871,7 @@ contact
 contactor
 contactors
 contacts
+contadina
 contadini
 contadino
 contagia
@@ -10895,6 +10898,7 @@ continently
 continents
 continua
 continual
+continuant
 continuation
 continuator
 continuo
@@ -10907,6 +10911,7 @@ contorts
 contour
 contra
 contract
+contraction
 contractor
 contracts
 contrail
@@ -10914,6 +10919,7 @@ contrails
 contralto
 contraltos
 contranym
+contraption
 contrarian
 contrarians
 contrarily
@@ -11143,6 +11149,7 @@ corpocratic
 corpora
 corporal
 corporality
+corporation
 corporatocracy
 corporatocrat
 corporatocratic
@@ -11286,6 +11293,7 @@ coupon
 coups
 cour
 courage
+courant
 coureur
 courol
 course
@@ -13614,6 +13622,7 @@ dike
 diked
 dikes
 diking
+diktat
 dilapidation
 dilatable
 dilatancy
@@ -14475,6 +14484,7 @@ dropwort
 drot
 drought
 droughtier
+droukit
 drouth
 drouthier
 drouths
@@ -22965,6 +22975,7 @@ inbred
 inbuilt
 inca
 incant
+incantation
 incants
 incapacitant
 incapacitate
@@ -23020,6 +23031,7 @@ inciter
 inciters
 incites
 inclinable
+inclination
 incline
 inclined
 incliner
@@ -23038,6 +23050,7 @@ incomers
 incomes
 inconsonance
 inconsonances
+incorporation
 incorporator
 increase
 increases
@@ -23049,6 +23062,7 @@ incrusts
 incubi
 incubus
 inculcation
+inculcator
 inculpation
 incumbencies
 incunable
@@ -24818,6 +24832,7 @@ kicks
 kicky
 kid
 kideo
+kidnap
 kidney
 kids
 kidult
@@ -33781,6 +33796,7 @@ nociception
 nocifensor
 nocive
 nock
+nockandro
 nocked
 nocking
 nocks
@@ -34917,6 +34933,8 @@ octopian
 octopic
 octoploid
 octoploids
+octopod
+octopodan
 octopoid
 octopole
 octose
@@ -35733,6 +35751,7 @@ ordinar
 ordinarily
 ordinars
 ordinary
+ordination
 ordinator
 ordo
 ordos
@@ -37032,11 +37051,13 @@ pada
 padam
 padanda
 padas
+padauk
 padayatra
 padi
 padis
 padloper
 padou
+padouk
 padre
 padri
 padrino
@@ -37378,6 +37399,7 @@ pancratian
 pancratiast
 pancratiasts
 pancratic
+pancration
 pancratist
 pancratists
 pancreatic
@@ -41460,6 +41482,7 @@ poncifs
 poncy
 pond
 ponding
+pondok
 pondy
 pone
 ponens
@@ -41492,6 +41515,7 @@ pontile
 pontils
 pontine
 ponto
+pontocain
 pontonier
 ponts
 pony
@@ -41667,6 +41691,7 @@ portainer
 portal
 portals
 portapack
+portapak
 portas
 portate
 portation
@@ -41892,6 +41917,7 @@ potitsa
 potlatch
 potlatched
 potline
+potluck
 potman
 potmen
 potomania
@@ -42744,12 +42770,14 @@ prochronic
 proclaim
 proclamation
 proclamator
+proclination
 proclitic
 procoracoid
 proctitis
 proctocele
 proctor
 proctotrupid
+proctotrupoid
 procural
 procuration
 procurator
@@ -43431,6 +43459,7 @@ pucan
 puce
 puck
 pucka
+puckaun
 pucks
 pud
 pudend
@@ -43484,6 +43513,7 @@ pules
 puli
 pulicat
 pulicine
+pulik
 puling
 pulk
 pulka
@@ -43590,6 +43620,7 @@ puncta
 punctae
 punctate
 punctation
+punctator
 punctilio
 punctual
 punctuate
@@ -48698,6 +48729,8 @@ ristra
 ristras
 rists
 ritard
+ritardandi
+ritardando
 ritards
 rite
 ritenuti
@@ -58313,6 +58346,8 @@ trackie
 trackies
 tracklist
 tracklists
+trackpad
+trackpant
 tracks
 trackwork
 tract
@@ -58498,6 +58533,7 @@ trapeses
 trapline
 trapo
 trapos
+traprock
 traps
 trapyard
 trash
@@ -59744,6 +59780,7 @@ undinal
 undine
 undo
 undoable
+undock
 undone
 undos
 undrawn
