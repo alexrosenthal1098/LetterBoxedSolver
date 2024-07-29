@@ -1270,6 +1270,8 @@ aerobated
 aerobe
 aerobes
 aerobian
+aerobic
+aerobicize
 aerobioses
 aerobiosis
 aerobot
@@ -1308,6 +1310,8 @@ aeronef
 aeronefs
 aeronomer
 aeronomers
+aeronomic
+aeronomical
 aeronomy
 aerophone
 aerophore
@@ -1972,6 +1976,7 @@ alazon
 alazony
 alb
 alba
+albacore
 albariza
 albas
 albedo
@@ -2029,6 +2034,7 @@ alcoholic
 alcoholism
 alcoholist
 alcoholists
+alcoholize
 alcopop
 alcopops
 alcornoco
@@ -2704,6 +2710,7 @@ anaemia
 anaemic
 anaerobe
 anaerobian
+anaerobic
 anaesthesia
 anaesthetic
 anaesthetics
@@ -2872,6 +2879,7 @@ angst
 anguine
 angular
 angulate
+anharmonic
 anhedonia
 anhedral
 anhinga
@@ -2885,11 +2893,13 @@ animal
 animalcula
 animalcular
 animalic
+animalier
 animalise
 animalises
 animalism
 animalist
 animalists
+animalize
 animals
 animas
 animastic
@@ -3682,6 +3692,7 @@ armory
 armour
 armourer
 armoury
+armozine
 armpit
 armpits
 armrest
@@ -4515,6 +4526,7 @@ azimuth
 azimuthal
 azine
 azo
+azobenzene
 azoic
 azonal
 azure
@@ -5523,6 +5535,10 @@ bents
 benumb
 benumbed
 benumbing
+benzene
+benzin
+benzine
+benzol
 berate
 berated
 berates
@@ -5844,6 +5860,7 @@ binliner
 binman
 binmen
 binocs
+binominal
 bins
 bint
 bints
@@ -6491,6 +6508,7 @@ bombarde
 bombarded
 bombardier
 bombast
+bombazine
 bombe
 bombed
 bomber
@@ -6508,6 +6526,7 @@ bomohs
 bomor
 bon
 bona
+bonanza
 bonbon
 bonbons
 bonce
@@ -6540,6 +6559,7 @@ bongs
 bonham
 bonhams
 bonheur
+bonhomie
 bonhomous
 boniato
 boniatos
@@ -6560,6 +6580,8 @@ bonum
 bonus
 bony
 bonza
+bonze
+bonzer
 bop
 bops
 bora
@@ -7596,6 +7618,7 @@ cabanas
 cabaret
 cabarets
 caber
+cabezon
 cabildo
 cabin
 cabined
@@ -7753,6 +7776,7 @@ calcified
 calcifies
 calcifuge
 calcify
+calcimine
 calcination
 calcinations
 calcine
@@ -7840,16 +7864,21 @@ calving
 calx
 calyces
 calyx
+calzone
+calzoni
 cam
 cama
 camail
 camails
 camas
 camases
+cambazola
+camber
 cambia
 cambial
 cambium
 cambiums
+cambozola
 cambric
 cambrics
 came
@@ -7916,6 +7945,7 @@ canaling
 canalisation
 canalise
 canalises
+canalize
 canals
 cananga
 canango
@@ -8145,6 +8175,7 @@ carabiner
 carabinero
 carabinier
 carabiniere
+carabinieri
 caracal
 caracals
 caracara
@@ -8315,6 +8346,7 @@ carmaker
 carmakers
 carman
 carmen
+carmine
 carn
 carnage
 carnal
@@ -8871,6 +8903,7 @@ ceresin
 cereus
 cereuses
 ceric
+ceriman
 cerise
 cermet
 cermets
@@ -9851,6 +9884,7 @@ clairaudience
 clairaudient
 clam
 clamant
+clamber
 clamor
 clamors
 clamour
@@ -10485,6 +10519,8 @@ coloniser
 colonises
 colonist
 colonists
+colonize
+colonizer
 colons
 colony
 colophon
@@ -10509,6 +10545,8 @@ coloring
 colorist
 coloristic
 colorists
+colorize
+colorizer
 colorology
 colorpoint
 colors
@@ -10567,6 +10605,7 @@ combers
 combes
 combi
 combine
+combiner
 combis
 combo
 combos
@@ -11384,7 +11423,9 @@ coypus
 coz
 cozen
 cozenage
+cozener
 cozes
+cozier
 cozy
 crab
 crabeater
@@ -11575,6 +11616,7 @@ creolise
 creolises
 creolist
 creolists
+creolize
 creosol
 creosols
 creosote
@@ -11653,6 +11695,7 @@ criminalism
 criminalisms
 criminalist
 criminalists
+criminalize
 criminals
 criminatory
 criming
@@ -11818,6 +11861,8 @@ crownet
 crownlet
 crowns
 crows
+croze
+crozier
 cru
 cruces
 crucial
@@ -14973,12 +15018,15 @@ ecomuseums
 econ
 econiche
 economic
+economical
 economics
 economise
 economises
 economist
 economistic
 economists
+economize
+economizer
 ecopoiesis
 ecorat
 ecorats
@@ -15010,6 +15058,7 @@ ecotown
 ecotowns
 ecotoxic
 ecotype
+ecozone
 ecphrases
 ecru
 ecstasy
@@ -15678,6 +15727,7 @@ engraving
 engravings
 enhance
 enhancer
+enharmonic
 enigma
 enigmatite
 enisle
@@ -20780,6 +20830,7 @@ hamartia
 hamartias
 hamate
 hamates
+hambone
 hamburg
 hame
 hamel
@@ -20962,6 +21013,10 @@ harlots
 harm
 harmed
 harming
+harmonic
+harmonica
+harmonize
+harmonizer
 harms
 harp
 harper
@@ -21931,6 +21986,7 @@ hom
 homa
 homaging
 homagings
+homarine
 hombre
 home
 homebase
@@ -21984,6 +22040,7 @@ hominoid
 hominoids
 hominy
 homo
+homocercal
 homoeodomain
 homoeoses
 homoeosis
@@ -23044,6 +23101,7 @@ include
 included
 includible
 incog
+incoherence
 income
 incomer
 incomers
@@ -23328,6 +23386,7 @@ inhaler
 inhalers
 inhales
 inhaling
+inharmonic
 inhaul
 inhere
 inhered
@@ -26863,6 +26922,8 @@ localistic
 localists
 localitis
 locality
+localize
+localizer
 locals
 locanda
 locant
@@ -27517,6 +27578,7 @@ macarons
 macaw
 macaws
 mace
+macebearer
 maced
 macer
 maceral
@@ -27578,7 +27640,9 @@ macrodome
 macrodomes
 macrodont
 macrodontia
+macroeconomic
 macroform
+macromineral
 macromodel
 macromodels
 macromolecule
@@ -28097,6 +28161,7 @@ manbags
 manbot
 manbun
 mancala
+mancalah
 mancalas
 manche
 manches
@@ -28104,6 +28169,7 @@ manchet
 manchets
 mancia
 mancias
+mancozeb
 mancus
 mancuses
 mand
@@ -28477,6 +28543,7 @@ marines
 mariniere
 marinise
 marinises
+marinize
 marinorama
 marinoramas
 mariposa
@@ -28540,6 +28607,8 @@ marmem
 marmems
 marmite
 marmites
+marmoreal
+marmorealize
 marmorean
 marmose
 marmoses
@@ -28929,6 +28998,7 @@ mazak
 mazama
 mazamas
 mazar
+mazarine
 mazars
 mazas
 maze
@@ -29862,7 +29932,11 @@ micks
 micrite
 micritic
 micro
+microbal
+microbalance
+microbarom
 microbe
+microbeam
 microbes
 microbic
 microbore
@@ -29894,6 +29968,7 @@ microdomain
 microdont
 microdontic
 microdot
+microeconomic
 microlite
 microliter
 microliters
@@ -29917,6 +29992,7 @@ micrometer
 micrometers
 micrometre
 micrometres
+micromineral
 micromolar
 micromorph
 micromorphic
@@ -29924,6 +30000,8 @@ micromorphs
 micromotion
 micromotor
 micron
+micronize
+micronizer
 microns
 micropolitical
 microray
@@ -30245,6 +30323,8 @@ miner
 minera
 mineragrapher
 mineral
+mineralize
+mineralizer
 mineras
 mineries
 miners
@@ -30307,6 +30387,7 @@ minimalism
 minimalist
 minimalists
 minimalities
+minimalize
 minimart
 minimarts
 minimeter
@@ -30315,6 +30396,8 @@ minimise
 minimiser
 minimisers
 minimises
+minimize
+minimizer
 minims
 minimum
 minimums
@@ -30355,6 +30438,7 @@ minoration
 minored
 minoring
 minoritarian
+minorize
 minors
 minotaur
 minse
@@ -30846,6 +30930,8 @@ mobilise
 mobilises
 mobilism
 mobilisms
+mobilize
+mobilizer
 mobism
 mobo
 mobola
@@ -31222,6 +31308,7 @@ monochronic
 monochronous
 monocistronic
 monoclinal
+monocline
 monoclinic
 monoclonal
 monocolor
@@ -31262,6 +31349,7 @@ monokinis
 monolatrist
 monolatrists
 monolatry
+monoline
 monolobular
 monolocular
 monomachia
@@ -31284,6 +31372,7 @@ monomial
 monomials
 monomictic
 monomineral
+monomineralic
 monomino
 monominos
 monomode
@@ -31327,6 +31416,7 @@ monorail
 monorails
 monorheme
 monorhinal
+monorhine
 monorhinic
 monorhinous
 monorime
@@ -31432,6 +31522,8 @@ morale
 moraled
 moralist
 moralists
+moralize
+moralizer
 morals
 moran
 moras
@@ -33909,6 +34001,8 @@ nomic
 nominal
 nominalist
 nominalists
+nominalize
+nominalizer
 nominate
 nominatim
 nomination
@@ -34090,6 +34184,7 @@ nonworkers
 nonyl
 nonylene
 nonylic
+nonzero
 nopa
 nopal
 nopales
@@ -34123,6 +34218,9 @@ norland
 norlands
 norm
 normal
+normalien
+normalize
+normalizer
 normcore
 normie
 normies
@@ -34684,6 +34782,7 @@ oaty
 oba
 obas
 obconic
+obconical
 obdurate
 obdurated
 obdurately
@@ -45581,6 +45680,7 @@ recalcining
 recalcitrance
 recalcitrant
 recalcitrate
+recanalize
 recant
 recantation
 recanter
@@ -45747,12 +45847,14 @@ recoining
 recoins
 recolonise
 recolonises
+recolonize
 recolor
 recoloring
 recolors
 recolour
 recolte
 recoltes
+recombine
 recomember
 recomembers
 recompact
@@ -46356,6 +46458,7 @@ rehang
 rehanging
 reharden
 rehardened
+reharmonize
 rehash
 rehashes
 rehaul
@@ -46919,6 +47022,7 @@ renks
 renminbi
 renominate
 renomination
+renormalize
 renounce
 renouncer
 renovate
@@ -48227,6 +48331,7 @@ rhinoliths
 rhinology
 rhinos
 rhizina
+rhizine
 rhizobia
 rhizomic
 rho
@@ -48243,6 +48348,7 @@ rhomb
 rhombed
 rhombi
 rhombic
+rhombical
 rhombochasm
 rhombochasms
 rhombomere
@@ -49075,14 +49181,19 @@ romance
 romancer
 romancers
 romances
+romancize
 romanise
 romanises
 romanita
 romanite
 romanium
+romanize
 romans
 romanso
 romantic
+romanza
+romanze
+romanzo
 romaunt
 romcom
 romcoms
@@ -63318,6 +63429,7 @@ zazen
 zeal
 zealot
 zealous
+zebec
 zebra
 zebras
 zebrine
@@ -63385,6 +63497,7 @@ ziti
 zito
 zits
 zizith
+zocalo
 zoea
 zoeae
 zoeas
@@ -63396,6 +63509,7 @@ zoisite
 zokor
 zol
 zols
+zombie
 zona
 zonal
 zone
