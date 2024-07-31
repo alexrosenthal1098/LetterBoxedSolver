@@ -4662,8 +4662,10 @@ badging
 badiaga
 badian
 badiane
+badigeon
 badman
 badmen
+badware
 bae
 baerse
 baes
@@ -5004,6 +5006,7 @@ bargainer
 bargaining
 bargains
 barge
+bargeboard
 barged
 barges
 barging
@@ -5231,6 +5234,7 @@ bavaroises
 bavian
 bavians
 bawd
+bawdier
 bawdry
 bawds
 bawian
@@ -5381,6 +5385,7 @@ bedtime
 befog
 befoul
 befouls
+befriend
 beg
 begad
 began
@@ -5553,6 +5558,7 @@ bereft
 beret
 berets
 berg
+bergen
 bergere
 bergeres
 bergie
@@ -5735,6 +5741,7 @@ bier
 biers
 bifacial
 bifid
+bifida
 bifilar
 bifold
 bifter
@@ -6531,6 +6538,8 @@ bonbon
 bonbons
 bonce
 bond
+bondage
+bondager
 bonding
 bondmaid
 bondmaids
@@ -6707,12 +6716,14 @@ bounteous
 bounty
 bourbon
 bourbons
+bourdon
 bourg
 bourgeois
 bourgeoise
 bourgeoises
 bourgie
 bourgs
+bourguignon
 bourn
 bourne
 bournes
@@ -14470,6 +14481,8 @@ draught
 draughtboard
 draughted
 draw
+drawbar
+drawbridge
 drawcard
 drawcards
 drawcord
@@ -15732,6 +15745,7 @@ engage
 engaged
 engages
 engaging
+engendrure
 engine
 engined
 engineman
@@ -17280,6 +17294,7 @@ fatso
 fatsos
 fatuous
 fatwa
+faubourg
 fauces
 fauch
 faucial
@@ -17333,6 +17348,7 @@ fazes
 fazing
 fear
 feard
+feardie
 feared
 fearful
 fearing
@@ -17350,6 +17366,7 @@ feathertail
 feats
 feature
 featuring
+febrifuge
 fecal
 feces
 fed
@@ -17449,6 +17466,7 @@ fermi
 fermion
 fermium
 fern
+fernbird
 fernery
 ferns
 ferox
@@ -17517,8 +17535,10 @@ fiat
 fiats
 fib
 fiber
+fiberboard
 fibered
 fibre
+fibreboard
 fibred
 fibril
 fibrin
@@ -17556,6 +17576,7 @@ fielder
 fieldfare
 fieldguide
 fieldtrip
+fiend
 fierce
 fiercely
 fiercer
@@ -17748,6 +17769,7 @@ firearmed
 firearms
 firebed
 firebird
+fireboard
 firebug
 firecrest
 firecrests
@@ -17777,6 +17799,7 @@ firer
 firers
 fires
 firetail
+fireward
 firewatch
 firie
 firies
@@ -18492,6 +18515,7 @@ fricots
 friction
 fridge
 fried
+friend
 frier
 friers
 fries
@@ -18684,6 +18708,7 @@ fumigated
 fuming
 fun
 funana
+funboard
 fund
 funda
 fundal
@@ -18715,6 +18740,7 @@ fungic
 fungin
 fungine
 fungo
+fungoid
 fungological
 fungos
 fungus
@@ -19446,6 +19472,7 @@ germon
 germs
 germy
 gerontic
+gerund
 gestae
 gestalt
 gestaltism
@@ -19846,6 +19873,7 @@ gob
 goban
 gobang
 gobar
+gobdaw
 gobi
 gobies
 gobioid
@@ -19931,6 +19959,7 @@ gonad
 gonadal
 gondola
 gone
+goneburger
 goner
 gonfalon
 gonfalonier
@@ -20543,6 +20572,7 @@ gunships
 gunter
 gunyah
 gur
+gurdwara
 gurgle
 gurgled
 gurgler
@@ -33522,6 +33552,7 @@ neweled
 newels
 newer
 newest
+newfound
 newie
 newies
 newing
@@ -34198,6 +34229,7 @@ nonfat
 nonfiction
 nonfinite
 nonfluent
+nonfriend
 nong
 nongs
 nonhormonal
@@ -34247,6 +34279,7 @@ nonracial
 nonrational
 nonreader
 nonrenewable
+nonreward
 nonrhotic
 nonrigid
 nonrural
@@ -45796,6 +45829,7 @@ rebecs
 rebeget
 rebegin
 rebegot
+rebegun
 rebel
 rebeldom
 rebelries
@@ -45836,6 +45870,7 @@ rebores
 reboring
 reborn
 rebought
+rebound
 rebozo
 rebozos
 rebrace
@@ -45876,6 +45911,7 @@ rebunk
 rebuoy
 rebuoyed
 rebuoys
+reburgeon
 reburial
 reburies
 rebury
@@ -46351,6 +46387,8 @@ referencer
 referencers
 references
 referencing
+referend
+referenda
 referent
 referential
 referment
@@ -46421,6 +46459,7 @@ reform
 reformer
 reformers
 refought
+refound
 refount
 refract
 refracter
@@ -46460,6 +46499,7 @@ refuges
 refugia
 refugial
 refugium
+refund
 refurb
 refurbed
 refuse
@@ -47193,6 +47233,7 @@ rendu
 renegade
 renegaded
 renegader
+renegado
 renegate
 renegation
 renege
@@ -60192,6 +60233,7 @@ unflinching
 unfold
 unfolds
 unframed
+unfriend
 unfurl
 unfurled
 unfurling
@@ -60716,6 +60758,7 @@ unravel
 unraveler
 unraveling
 unreacted
+unread
 unreal
 unrebated
 unreceiving
@@ -62255,6 +62298,7 @@ wagering
 wages
 waging
 wagon
+wagoner
 wagons
 wags
 wagtail
@@ -62374,6 +62418,7 @@ war
 waragi
 waratah
 waratahs
+warbird
 warble
 warbled
 warbler
@@ -62622,6 +62667,7 @@ weird
 weirded
 weirdie
 weirdies
+weirdo
 weirds
 weirdy
 weirs
@@ -62850,6 +62896,9 @@ widened
 widening
 wider
 wides
+widgeon
+widger
+widgie
 widow
 widowed
 widowing
@@ -62873,6 +62922,7 @@ wifeish
 wifelet
 wifelets
 wifely
+wifeward
 wifey
 wifeys
 wifi
@@ -63004,6 +63054,7 @@ wiper
 wipes
 wiping
 wire
+wirebird
 wired
 wiredraw
 wiredrawn
