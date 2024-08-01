@@ -8871,6 +8871,7 @@ centres
 centrex
 centric
 centrical
+centripetence
 centroclinal
 centroid
 centroids
@@ -8878,6 +8879,7 @@ centromere
 cents
 centurial
 centuriate
+centuries
 ceorl
 ceorls
 cep
@@ -9266,6 +9268,7 @@ chenar
 chenars
 cheque
 chequer
+cheques
 cherish
 cherishes
 chert
@@ -9414,6 +9417,8 @@ chinkara
 chino
 chinois
 chins
+chintz
+chintziest
 chinwag
 chionodoxa
 chip
@@ -9635,14 +9640,18 @@ churched
 churches
 churchful
 churchier
+churchiest
 churching
 churchish
 churchism
 churchisms
 churchite
+churchites
 churchkey
 churchkeys
 churchlet
+churchset
+churchsets
 churchship
 churchships
 churchy
@@ -12268,6 +12277,7 @@ cushat
 cushats
 cushes
 cushier
+cushiest
 cushion
 cushions
 cushiony
@@ -15631,6 +15641,8 @@ encamps
 encase
 encases
 encash
+enceinte
+enceintes
 encephalic
 encephalin
 encephalitic
@@ -15668,6 +15680,8 @@ encoring
 encounter
 encroach
 encroacher
+encrust
+encrusts
 encrypt
 encryption
 encumbrance
@@ -15835,6 +15849,7 @@ enquire
 enquirer
 enquirers
 enquires
+enquiries
 enrage
 enraged
 enragement
@@ -15862,6 +15877,8 @@ ensembles
 ensheath
 ensheathe
 ensheathes
+enshrine
+enshrines
 ensiform
 ensign
 ensigncies
@@ -21433,6 +21450,8 @@ heinies
 heinous
 heir
 heirs
+heirship
+heirships
 heist
 heists
 held
@@ -23124,7 +23143,9 @@ incenses
 incensories
 incent
 incentre
+incents
 incept
+incepts
 incest
 inch
 incharge
@@ -23315,6 +23336,7 @@ ineliminable
 ineludible
 inept
 ineptitude
+inequities
 inert
 inertia
 inertial
@@ -23486,6 +23508,7 @@ inimical
 inimitable
 inion
 inions
+iniquities
 iniquity
 initial
 initialed
@@ -23574,6 +23597,7 @@ inroad
 inroads
 inros
 inrush
+inrushes
 ins
 insalata
 insalatas
@@ -23588,6 +23612,7 @@ insect
 insectivore
 insectivores
 insects
+insecurities
 inseing
 inseminate
 inseminates
@@ -23596,6 +23621,7 @@ insensible
 insensitive
 insensitively
 insensitivities
+insentience
 insentient
 insert
 inserter
@@ -33484,6 +33510,7 @@ neurin
 neurine
 neurines
 neurite
+neurites
 neuritic
 neurochord
 neurocoel
@@ -38854,12 +38881,17 @@ pectinal
 pectinate
 pectinately
 pectineal
+pectines
+pectineus
+pectineuses
 pectins
 pectolite
 pectose
 pectoses
 pectosic
 pects
+pectus
+pectuses
 peculiar
 peculium
 peculiums
@@ -39063,6 +39095,7 @@ peninsulates
 penis
 penises
 penitence
+penitences
 penitent
 penitential
 penitents
@@ -39635,6 +39668,7 @@ petunes
 petuning
 petuntse
 petzite
+petzites
 peut
 pew
 pewed
@@ -40138,6 +40172,8 @@ piecewise
 piecey
 piecier
 piecing
+piecrust
+piecrusts
 pied
 piedly
 piedra
@@ -40333,6 +40369,9 @@ pincer
 pincers
 pinces
 pinch
+pinche
+pinches
+pinchpence
 pincie
 pincord
 pincushion
@@ -40391,6 +40430,7 @@ pinions
 pinipicrin
 pinipicrins
 pinite
+pinites
 pink
 pinken
 pinkening
@@ -40536,6 +40576,10 @@ pipsyls
 pipy
 pique
 piques
+piquet
+piquets
+piqueur
+piqueurs
 piqui
 piquia
 piquias
@@ -40707,6 +40751,7 @@ pituitous
 pituitrin
 pituri
 piturine
+piturines
 pity
 pityriasis
 piu
@@ -42931,6 +42976,8 @@ princelet
 princely
 princeps
 princes
+princeship
+princeships
 principal
 principality
 principate
@@ -44494,6 +44541,7 @@ quena
 quenas
 quench
 quencher
+quenches
 querencia
 querent
 querier
@@ -44537,6 +44585,7 @@ quiesces
 quiet
 quieten
 quietener
+quietens
 quieter
 quietest
 quieties
@@ -44549,6 +44598,8 @@ quietize
 quietly
 quietner
 quiets
+quietus
+quietuses
 quiety
 quila
 quilas
@@ -44571,7 +44622,9 @@ quinariuses
 quinas
 quinate
 quince
+quinces
 quinch
+quinches
 quincite
 quinet
 quinible
@@ -44592,6 +44645,8 @@ quinonoid
 quinoyl
 quinquereme
 quinqueremes
+quinquesect
+quinquesects
 quinquina
 quinquinas
 quins
@@ -44604,7 +44659,10 @@ quinton
 quintons
 quints
 quintupling
+quintus
+quintuses
 quinze
+quinzite
 quip
 quips
 quipu
@@ -44676,6 +44734,7 @@ quouk
 quoy
 quoys
 quoz
+qursh
 rab
 rabato
 rabdoid
@@ -48589,6 +48648,7 @@ rhinology
 rhinos
 rhizina
 rhizine
+rhizines
 rhizobia
 rhizomic
 rho
@@ -51756,6 +51816,8 @@ sentence
 sentences
 sententious
 senti
+sentience
+sentiences
 sentiencies
 sentient
 sentiment
@@ -51811,8 +51873,12 @@ sequacity
 sequel
 sequela
 sequels
+sequence
+sequences
+sequent
 sequin
 sequins
+sequitur
 sera
 serac
 seracs
@@ -51941,6 +52007,8 @@ setlists
 seton
 setons
 setose
+setpiece
+setpieces
 sets
 setup
 setups
@@ -52252,6 +52320,7 @@ shiniest
 shinily
 shining
 shins
+shinties
 shinty
 shiny
 shiok
@@ -52433,6 +52502,8 @@ shrimper
 shrimpers
 shrimps
 shrimpy
+shrine
+shrines
 shrink
 shrinks
 shrive
@@ -53388,6 +53459,7 @@ snipes
 snips
 snit
 snitch
+snitches
 snits
 snive
 snivel
@@ -54033,6 +54105,7 @@ spew
 spewer
 spewers
 spews
+sphene
 sphere
 spheres
 spheric
@@ -54066,6 +54139,8 @@ spinaramas
 spindly
 spine
 spines
+spinet
+spinets
 spinier
 spiniest
 spinorama
@@ -54126,6 +54201,7 @@ spite
 spites
 spits
 spitup
+spitz
 spiv
 spivs
 splash
@@ -54266,12 +54342,14 @@ sprites
 sprits
 spritsail
 spritsails
+spritz
 sprog
 sprogs
 sprout
 sprouts
 spruce
 spruces
+sprucest
 sprue
 sprues
 spruik
@@ -54350,7 +54428,10 @@ squib
 squibs
 squid
 squids
+squinch
+squinches
 squint
+squintiest
 squints
 squire
 squired
@@ -55874,6 +55955,8 @@ sus
 sushi
 suslik
 susliks
+suspect
+suspects
 suspense
 suspensible
 suspicion
@@ -56874,6 +56957,7 @@ technicize
 technicizing
 technicolor
 technique
+techniques
 techno
 technomic
 technospeak
@@ -59706,6 +59790,7 @@ turntable
 turon
 turons
 turpentine
+turpentines
 turpitude
 turps
 turs
@@ -59717,6 +59802,7 @@ turves
 tusche
 tusches
 tush
+tushes
 tushies
 tushy
 tusk
@@ -63757,6 +63843,7 @@ zetetic
 zho
 zhos
 zhush
+zhushes
 zhuzh
 zhuzhes
 zhuzhing
@@ -63776,6 +63863,7 @@ zincs
 zindabad
 zine
 zineb
+zines
 zing
 zinged
 zinger
@@ -63786,6 +63874,7 @@ zino
 zins
 zip
 zipline
+zips
 zircon
 zirconia
 zit
