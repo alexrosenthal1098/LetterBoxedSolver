@@ -4411,6 +4411,7 @@ aviated
 aviates
 aviating
 aviation
+aviator
 aviatrices
 avid
 avidin
@@ -4684,6 +4685,7 @@ bags
 bagsy
 bagua
 bagwig
+bagworm
 bah
 bahada
 bahadas
@@ -6354,6 +6356,7 @@ boatman
 boatmen
 boatpeople
 boats
+boatwright
 boaty
 boatyard
 bob
@@ -7165,6 +7168,7 @@ brontothere
 bros
 brose
 broth
+brotha
 brothel
 brother
 broths
@@ -7174,9 +7178,11 @@ brouhahas
 brow
 browbeat
 brown
+brownbag
 browner
 browneye
 brownie
+browning
 browny
 brows
 browse
@@ -22950,6 +22956,7 @@ imitable
 imitate
 imitated
 imitates
+imitating
 imitation
 imitative
 imitator
@@ -23473,6 +23480,7 @@ inhabit
 inhabitability
 inhabitable
 inhabitant
+inhabiting
 inhalant
 inhalants
 inhalation
@@ -23919,6 +23927,7 @@ intimal
 intimate
 intimated
 intimates
+intimating
 intimation
 intimidate
 intimidated
@@ -28953,6 +28962,7 @@ matildites
 matily
 matin
 matinal
+mating
 matins
 matipo
 matipos
@@ -30015,6 +30025,7 @@ miai
 miais
 mianserin
 miaow
+miaowing
 miaows
 miarolitic
 miascite
@@ -30460,6 +30471,7 @@ minhag
 minhagim
 mini
 miniate
+miniating
 miniator
 minibar
 minibars
@@ -30939,6 +30951,7 @@ mitigant
 mitigate
 mitigated
 mitigates
+mitigating
 mitigator
 mitogen
 mitomycin
@@ -31031,6 +31044,7 @@ moars
 moas
 moat
 moated
+moating
 moats
 mob
 mobaton
@@ -31419,6 +31433,7 @@ monobosom
 monobosoms
 monobrominate
 monobromination
+monobrow
 monocalcic
 monocarp
 monocarpic
@@ -31465,6 +31480,7 @@ monodrome
 monodromy
 monody
 monogamian
+monogatori
 monogenean
 monogerm
 monoid
@@ -31706,6 +31722,7 @@ morin
 morindin
 morindone
 morine
+moringa
 morinite
 morion
 morions
@@ -31799,6 +31816,7 @@ morulation
 moruloid
 moruti
 morutis
+morwong
 mory
 mosaic
 mosaical
@@ -31873,6 +31891,8 @@ moting
 motion
 motioned
 motioning
+motivating
+motivator
 motive
 motived
 motivic
@@ -31886,6 +31906,7 @@ motoneuronal
 motons
 motor
 motorable
+motorboat
 motorbus
 motorcamp
 motorcar
@@ -31991,6 +32012,7 @@ movie
 moviedom
 movieola
 movies
+moving
 moviola
 mow
 mowable
@@ -34578,6 +34600,7 @@ novae
 novas
 novate
 novateur
+novating
 novation
 novel
 novela
@@ -48916,6 +48939,7 @@ rightly
 rightmost
 righto
 rights
+rightwing
 rightwise
 righty
 rigid
@@ -48962,6 +48986,7 @@ rimbase
 rimbases
 rimbomb
 rimbombed
+rimbombing
 rimbombs
 rime
 rimed
@@ -49723,6 +49748,7 @@ rotators
 rotatory
 rotavate
 rotavated
+rotavating
 rotavator
 rotavators
 rotaviral
@@ -49758,6 +49784,7 @@ rotos
 rotound
 rotovate
 rotovated
+rotovating
 rotovator
 rotovators
 rots
@@ -57785,6 +57812,7 @@ throatful
 throatier
 throatiest
 throatily
+throating
 throatlash
 throatlet
 throats
@@ -57795,6 +57823,8 @@ throbs
 throck
 throe
 throes
+thrombi
+thrombin
 thromboembolic
 thrombolite
 thrombolites
@@ -57808,6 +57838,7 @@ thronelets
 thronely
 thrones
 throng
+thronging
 throning
 through
 througher
@@ -57824,6 +57855,7 @@ throw
 throwdown
 thrower
 throwin
+throwing
 throwins
 thrown
 throws
@@ -59133,6 +59165,7 @@ triadic
 triads
 triage
 triages
+triaging
 trial
 trialed
 trialing
@@ -59455,6 +59488,7 @@ trout
 trouting
 trouts
 trouve
+trovato
 trove
 trover
 troves
@@ -59462,6 +59496,7 @@ trow
 trowel
 troweling
 trowels
+trowing
 trows
 troy
 troys
@@ -61377,6 +61412,7 @@ vaginae
 vaginal
 vaginas
 vaginitis
+vagotonia
 vagrant
 vagrants
 vags
@@ -62156,6 +62192,7 @@ vitiated
 vitiates
 vitiating
 vitiation
+vitiator
 vitrescent
 vitrine
 vitriol
@@ -62291,6 +62328,8 @@ vomica
 vomit
 vomited
 vomiter
+vomiting
+vomitoria
 vomits
 voms
 von
@@ -62404,6 +62443,7 @@ wailing
 wails
 wain
 wains
+wainwright
 wairua
 wairuas
 waist
@@ -63266,6 +63306,7 @@ wonkish
 wonks
 wonky
 wont
+wonting
 wonton
 wontons
 wonts
