@@ -5477,13 +5477,16 @@ belimb
 belimbs
 belime
 belimed
+belimes
 belit
 beloid
 belong
 belote
+belotes
 belove
 beloved
 belover
+beloves
 below
 bels
 belsire
@@ -5708,6 +5711,7 @@ biathlete
 biaxial
 bib
 bibelot
+bibelots
 bibi
 bibimbap
 bibis
@@ -5796,6 +5800,7 @@ bigs
 bigtime
 bigwig
 bihon
+bijective
 bijou
 bikable
 bike
@@ -6032,6 +6037,8 @@ birze
 birzed
 birzing
 bis
+bisect
+bisects
 bish
 bismuth
 bison
@@ -6496,6 +6503,8 @@ bolero
 boles
 bolet
 bolete
+boletes
+bolets
 bolide
 bolivar
 boliviano
@@ -8981,6 +8990,7 @@ cervine
 cesarean
 cesareans
 cesium
+cespitose
 cesta
 cestas
 cesti
@@ -9912,6 +9922,10 @@ civicism
 civics
 civil
 civilian
+civilise
+civilises
+civilist
+civilists
 civilities
 civility
 clachan
@@ -10053,6 +10067,7 @@ clenching
 cleome
 cleomes
 clepe
+clepes
 clept
 clercs
 clergy
@@ -11330,9 +11345,14 @@ cosiest
 cosily
 cosine
 cosines
+cosmetic
 cosmic
 cosmopolis
+cosmopolises
+cosmopolite
+cosmopolites
 cosmos
+cosmoses
 cost
 costa
 costae
@@ -11346,12 +11366,14 @@ coster
 costers
 costful
 costic
+costive
 costlier
 costliest
 costlily
 costly
 costmary
 costotome
+costotomes
 costrel
 costrels
 costs
@@ -11368,6 +11390,7 @@ cotch
 cotched
 cotches
 cote
+cotes
 cotise
 cotises
 cots
@@ -15091,7 +15114,10 @@ eclair
 eclairs
 eclat
 eclectic
+eclecticism
 eclectics
+eclipse
+eclipses
 eclogite
 eclogue
 eclogues
@@ -15272,6 +15298,7 @@ either
 eject
 ejected
 ejective
+ejectives
 ejector
 ejectors
 ejects
@@ -15545,6 +15572,7 @@ emits
 emo
 emocore
 emoji
+emojis
 emoney
 emos
 emote
@@ -15556,6 +15584,10 @@ emoting
 emotion
 emotioned
 emotioning
+emotive
+emotivism
+emotivist
+emotivists
 emp
 empaestic
 empaistic
@@ -16152,6 +16184,9 @@ epicism
 epicisms
 epicist
 epicists
+epicleses
+epiclesis
+epicolic
 epicrisis
 epicrisises
 epicritic
@@ -16212,6 +16247,14 @@ episteme
 epistemes
 epistemic
 epistemics
+epistle
+epistles
+epistolic
+epistolise
+epistolist
+epistolists
+epistome
+epistomes
 epitaph
 epithelia
 epithelial
@@ -16221,8 +16264,11 @@ epithetical
 epithets
 epitome
 epitomes
+epitomic
 epitomise
 epitomises
+epitomist
+epitomists
 epitope
 epitopes
 epoch
@@ -16702,6 +16748,7 @@ evesong
 evesongs
 evetide
 evetides
+evetime
 evict
 evicted
 evicter
@@ -24349,6 +24396,8 @@ isotheres
 isotherm
 isotonic
 isotonicity
+isotope
+isotopes
 isotopic
 isotopy
 isotropic
@@ -24481,6 +24530,7 @@ jay
 jean
 jeans
 jebel
+jebels
 jejuna
 jejunal
 jejune
@@ -24557,6 +24607,7 @@ jobs
 jobsmith
 jock
 jocks
+jocose
 joe
 joes
 joey
@@ -24581,6 +24632,7 @@ joked
 jokier
 jol
 jolie
+jols
 jolt
 jolted
 jolts
@@ -24588,6 +24640,8 @@ jong
 jorts
 jorum
 josh
+jostle
+jostles
 jot
 jota
 jotas
@@ -26696,10 +26750,12 @@ limed
 limen
 limens
 limepit
+limepits
 limerence
 limerences
 limes
 limicole
+limicoles
 limicoline
 limicolines
 limicolous
@@ -26865,6 +26921,8 @@ lipoma
 lipomata
 lipophilic
 lipoprotein
+liposome
+liposomes
 lipotrophin
 lipotropin
 lipotropins
@@ -26910,6 +26968,8 @@ lister
 listeria
 listeriosis
 listers
+listicle
+listicles
 lists
 listserv
 listservs
@@ -27077,6 +27137,8 @@ lobola
 lobolo
 lobopod
 lobos
+lobotomise
+lobotomises
 lobs
 lobscouse
 lobster
@@ -27158,7 +27220,12 @@ locofocoisms
 locoman
 locomen
 locomobile
+locomobiles
+locomote
+locomotes
 locomotility
+locomotive
+locomotives
 locomotor
 locomotory
 locos
@@ -27337,6 +27404,7 @@ lorn
 lory
 lose
 losel
+losels
 loser
 losers
 loses
@@ -27422,6 +27490,7 @@ loverly
 lovers
 loves
 lovesick
+lovesome
 loveware
 lovey
 loving
@@ -29480,13 +29549,16 @@ melic
 melilite
 melilites
 melilot
+melilots
 melinite
 melinites
 meliorator
 melisma
+melitose
 melktert
 melmont
 melmot
+melmots
 melo
 melodia
 melodium
@@ -29781,6 +29853,8 @@ mesitite
 mesitites
 mesitoate
 mesitoates
+mesitol
+meslest
 mesmeric
 mesmerical
 mesmerise
@@ -29795,6 +29869,7 @@ mesmerize
 mesmerizer
 mesmerizes
 mesne
+mesocele
 mesochil
 mesocolic
 mesoconch
@@ -29806,7 +29881,10 @@ mesodes
 mesoform
 mesokurtoses
 mesole
+mesolect
+mesolects
 mesoles
+mesolimbic
 mesoline
 mesolines
 mesolite
@@ -30014,8 +30092,11 @@ metoestrus
 metol
 metope
 metopes
+metopic
 metopion
 metopirone
+metopism
+metopisms
 metopon
 metoprolol
 metre
@@ -30354,6 +30435,8 @@ mildewing
 mile
 mileage
 mileages
+milepost
+mileposts
 miler
 milers
 miles
@@ -31133,6 +31216,8 @@ mobilise
 mobilises
 mobilism
 mobilisms
+mobilist
+mobilists
 mobilize
 mobilizer
 mobism
@@ -31301,7 +31386,9 @@ moit
 moits
 moity
 mojito
+mojitos
 mojo
+mojos
 moke
 moker
 mokers
@@ -31344,6 +31431,8 @@ molecule
 molecules
 moler
 moles
+molest
+molests
 molie
 molies
 molimen
@@ -31936,6 +32025,7 @@ motard
 mote
 moted
 motel
+motels
 motes
 motet
 motets
@@ -31972,6 +32062,7 @@ motivating
 motivator
 motive
 motived
+motives
 motivic
 motlier
 motmot
@@ -35079,6 +35170,8 @@ obeliac
 obelias
 obelion
 obelions
+obelise
+obelises
 obelisk
 obelisks
 obelize
@@ -35108,10 +35201,20 @@ obituarians
 obituarily
 obituary
 object
+objectise
 objective
 objectively
+objectives
+objectivise
+objectivises
+objectivism
+objectivist
+objectivistic
+objectivists
 objectivity
+objects
 objet
+objets
 oblast
 oblasts
 oblata
@@ -35168,6 +35271,9 @@ obscurism
 obscurisms
 obscurities
 obsidian
+obsolete
+obsoletes
+obsoletism
 obstat
 obstinacy
 obstinancy
@@ -35251,6 +35357,7 @@ ockies
 ocky
 oclock
 ocote
+ocotes
 ocrea
 ocreae
 ocreas
@@ -35323,6 +35430,7 @@ octopod
 octopodan
 octopoid
 octopole
+octopoles
 octopus
 octose
 octoses
@@ -35539,6 +35647,7 @@ ois
 oiticica
 oiticicas
 ojime
+ojimes
 oka
 okapi
 okapis
@@ -35666,6 +35775,7 @@ omdas
 omdeh
 omega
 omelet
+omelets
 omen
 omened
 omens
@@ -36449,6 +36559,8 @@ osmite
 osmites
 osmium
 osmol
+osmole
+osmoles
 osmometer
 osmometers
 osmometry
@@ -39012,6 +39124,7 @@ pectineus
 pectineuses
 pectins
 pectolite
+pectolites
 pectose
 pectoses
 pectosic
@@ -40264,6 +40377,9 @@ picon
 picons
 picot
 picotah
+picote
+picotite
+picotites
 picots
 picral
 picrate
@@ -40402,6 +40518,7 @@ pileate
 piled
 pilei
 piler
+piles
 pileum
 pileup
 pilewort
@@ -40427,11 +40544,13 @@ pilis
 pilk
 piloerector
 pilolite
+pilolites
 pilomotor
 pilomotors
 pilon
 pilone
 pilons
+pilose
 pilosity
 pilot
 pilotage
@@ -40460,6 +40579,7 @@ pilus
 pily
 pimbina
 pimelate
+pimelite
 pimelodid
 pimlico
 pimlicos
@@ -40651,6 +40771,7 @@ pipcorn
 pipe
 pipeage
 pipebomb
+pipebombs
 pipeclay
 piped
 pipeful
@@ -40797,6 +40918,7 @@ piskuns
 pisky
 pismire
 pismires
+pisolite
 pisolitic
 pistachio
 pistachios
@@ -40809,7 +40931,13 @@ pistics
 pistil
 pistils
 pistol
+pistole
+pistoles
+pistolet
+pistolets
 pistols
+pistomesite
+pistomesites
 piston
 pistons
 pistou
@@ -41288,6 +41416,8 @@ plighting
 plim
 plimpler
 plims
+plimsole
+plimsoles
 plink
 plinker
 plinkety
@@ -41313,6 +41443,7 @@ ploidy
 ploit
 plomb
 plombe
+plombes
 plombiere
 plombierite
 plonk
@@ -41321,6 +41452,8 @@ plonko
 plop
 plops
 plore
+plosive
+plosives
 plot
 plotch
 plotful
@@ -41697,8 +41830,15 @@ poled
 poleis
 poleman
 polemen
+polemic
+polemicise
+polemicises
+polemicist
+polemicists
 polemies
 polemise
+polemist
+polemists
 polenta
 poler
 poles
@@ -41707,6 +41847,8 @@ polhode
 poliadic
 polian
 polianite
+police
+polices
 policial
 policlinic
 policlinics
@@ -41722,14 +41864,20 @@ polismen
 polite
 politely
 politer
+politest
 politic
 political
+politicise
+politicises
 politicism
 politicisms
+politicist
+politicists
 politicly
 politico
 politicos
 politics
+politise
 politist
 politists
 politize
@@ -41737,6 +41885,8 @@ politizing
 polity
 politzerize
 politzerizing
+polje
+poljes
 polka
 polkaing
 polo
@@ -41912,11 +42062,13 @@ pomatos
 pomatum
 pomatums
 pombe
+pombes
 pome
 pomegranate
 pomeis
 pomeises
 pomelo
+pomelos
 pomerium
 pomeron
 pomerons
@@ -42275,6 +42427,8 @@ posish
 posit
 position
 positions
+positive
+positives
 positivism
 positivist
 positivistic
@@ -42299,6 +42453,7 @@ postbags
 postcard
 postcava
 postcavas
+postclitic
 postdict
 postdicts
 poste
@@ -43916,6 +44071,7 @@ psias
 psilocin
 psilomelane
 psilomelanes
+psiloses
 psilosis
 psilotic
 psionic
@@ -53467,6 +53623,9 @@ smearier
 smeariest
 smears
 smeary
+smectic
+smectite
+smectites
 smeg
 smegma
 smeik
@@ -53838,6 +53997,9 @@ soldieries
 soldiers
 soldo
 sole
+solecism
+solecisms
+solecistic
 soled
 solei
 solera
@@ -53859,6 +54021,7 @@ solids
 solidus
 solipsism
 solipsist
+solipsistic
 solipsists
 soliton
 solitons
@@ -54310,6 +54473,10 @@ spike
 spikes
 spikier
 spikiest
+spile
+spiles
+spilite
+spilites
 spilitic
 spilt
 spilth
@@ -55288,6 +55455,8 @@ stovepipe
 stovepiped
 stovepipes
 stoves
+stovetop
+stovetops
 stovies
 stow
 stows
@@ -57180,6 +57349,7 @@ tektites
 telaesthesia
 telamon
 telco
+telcos
 tele
 telearch
 telebus
@@ -57198,6 +57368,8 @@ telechiric
 telecine
 telecinema
 telecoil
+telecom
+telecoms
 telecon
 telecontrol
 teleconverter
@@ -58236,6 +58408,8 @@ timesed
 timeses
 timeslice
 timeslices
+timeslot
+timeslots
 timesome
 timespan
 timespans
@@ -58590,6 +58764,7 @@ tombings
 tombo
 tombola
 tombolo
+tombolos
 tombos
 tombs
 tomcat
@@ -58597,6 +58772,7 @@ tomcats
 tomcod
 tome
 tomelet
+tomelets
 tomen
 tomenta
 tomentose
@@ -58844,6 +59020,7 @@ totem
 totemic
 totemism
 totemist
+totemistic
 totemists
 totems
 toter
@@ -62136,6 +62313,8 @@ vicinal
 vicinities
 vicinity
 victim
+victimise
+victimises
 victims
 victor
 victors
@@ -62458,6 +62637,7 @@ volens
 volente
 voles
 volet
+volets
 volition
 volitive
 volk
@@ -62469,6 +62649,7 @@ voltage
 voltaic
 volte
 volted
+voltes
 volting
 voltmeter
 volts
