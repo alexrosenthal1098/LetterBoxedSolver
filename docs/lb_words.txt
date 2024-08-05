@@ -1130,6 +1130,7 @@ adrenine
 adret
 adrift
 adrip
+adrogate
 adrogator
 adroit
 adroiter
@@ -1303,6 +1304,7 @@ aerogel
 aerogenerator
 aerogenic
 aerogram
+aerograph
 aerolite
 aerolith
 aeroliths
@@ -1318,6 +1320,7 @@ aerometer
 aerometry
 aeromotor
 aeronat
+aeronaut
 aeronef
 aeronefs
 aeronomer
@@ -1325,6 +1328,7 @@ aeronomers
 aeronomic
 aeronomical
 aeronomy
+aerophane
 aerophone
 aerophore
 aerophyte
@@ -2810,6 +2814,7 @@ anatomists
 anatomy
 ancho
 anchor
+anchorage
 anchoret
 anchoretic
 anchoritic
@@ -2835,10 +2840,13 @@ andrew
 andro
 androcracy
 androcratic
+androgen
 android
 androids
 andrology
 anecdata
+anecdotage
+anecdote
 anechoic
 anele
 aneled
@@ -3100,6 +3108,7 @@ antholite
 anthologizing
 anthomania
 anthonyite
+anthophore
 anthotype
 anthozoan
 anthracic
@@ -3498,6 +3507,7 @@ arch
 archaea
 archaeal
 archaean
+archaeon
 archaic
 archaise
 archaises
@@ -3545,6 +3555,7 @@ arco
 arcs
 arcsine
 arcsines
+arctangent
 arctic
 arctician
 arcticise
@@ -3780,6 +3791,7 @@ arthrogryposis
 arthropathic
 arthropathy
 arthropod
+arthropodan
 arthropodin
 arthroses
 arthrosis
@@ -4275,6 +4287,7 @@ authentic
 authentical
 authenticate
 author
+authorage
 authorish
 authors
 autism
@@ -4342,7 +4355,9 @@ automise
 automised
 automises
 autopathy
+autopen
 autophon
+autophone
 autophony
 autophotograph
 autopiano
@@ -4371,6 +4386,7 @@ autotransfusion
 autotransfusions
 autotray
 autotrays
+autotroph
 autotune
 autotypy
 autowind
@@ -8860,6 +8876,7 @@ cenobia
 cenobite
 cenospecies
 cenospecieses
+cenotaph
 cenote
 cense
 censer
@@ -8903,6 +8920,7 @@ centners
 cento
 centonise
 centra
+centrad
 central
 centrale
 centre
@@ -9030,6 +9048,7 @@ chadors
 chads
 chaeta
 chaetae
+chaetognath
 chagrin
 chai
 chain
@@ -9101,8 +9120,11 @@ chandler
 changa
 change
 changeable
+changeant
 changeling
+changeout
 changer
+changeup
 changing
 chank
 chanko
@@ -9135,6 +9157,9 @@ chapatis
 chape
 chapeau
 chapel
+chaperon
+chaperonage
+chaperone
 chapes
 chaplain
 chaplet
@@ -9583,11 +9608,14 @@ choral
 chorale
 chord
 chordal
+chordate
 chorded
+chordophone
 chords
 chore
 chorea
 choreas
+choreograph
 chores
 choriamb
 choriambi
@@ -12607,6 +12635,7 @@ danaid
 danaids
 dance
 danced
+dancer
 dancing
 dancy
 danda
@@ -12621,6 +12650,7 @@ dandling
 dandy
 danewort
 dang
+dangdut
 danger
 dangermen
 dangling
@@ -12632,6 +12662,7 @@ dans
 dansant
 danthonia
 dap
+daphne
 daphnia
 daps
 darbies
@@ -14422,6 +14453,7 @@ doubter
 doubtful
 doubts
 douc
+douce
 douche
 douched
 douchy
@@ -14523,7 +14555,9 @@ drafter
 draftier
 drag
 draghound
+dragnet
 dragon
+dragonet
 drail
 drails
 drain
@@ -14574,6 +14608,8 @@ dray
 dread
 dreaded
 dreadful
+dreadnaught
+dreadnought
 dream
 dreamer
 dreamery
@@ -14746,6 +14782,7 @@ duded
 dudedom
 duderies
 dudes
+dudgeon
 dudine
 dudines
 duding
@@ -15023,6 +15060,7 @@ earthrises
 earths
 earthstar
 earthstars
+earthtone
 earthware
 earthwoman
 earthwomen
@@ -15105,6 +15143,7 @@ echoer
 echoers
 echoes
 echoey
+echograph
 echoic
 echolalia
 echt
@@ -15190,6 +15229,7 @@ ecstasy
 ecstatic
 ecstatics
 ectoderm
+ectogene
 ectopic
 ectropion
 ecu
@@ -15243,6 +15283,7 @@ efts
 egad
 egads
 egalitarian
+egerdouce
 egest
 egesta
 egested
@@ -15764,6 +15805,7 @@ encumbrances
 encyst
 encysts
 end
+endanger
 endear
 endearing
 ended
@@ -15771,6 +15813,7 @@ endekad
 endenizen
 endenizened
 endenizening
+endgate
 endian
 ending
 endite
@@ -15784,6 +15827,7 @@ endodontic
 endodontics
 endodontist
 endodontists
+endophora
 endopod
 endorse
 endorser
@@ -16164,7 +16208,9 @@ ephebes
 ephebic
 ephemera
 ephemeron
+ephod
 ephor
+ephorate
 ephors
 ephyra
 ephyrae
@@ -16346,6 +16392,7 @@ erg
 ergative
 ergo
 ergogenic
+ergograph
 ergometer
 ergometrine
 ergosterol
@@ -16582,6 +16629,7 @@ ethionine
 ethionines
 ethiops
 ethiopses
+ethnagogue
 ethnarch
 ethnic
 ethnicist
@@ -16589,6 +16637,7 @@ ethnicists
 ethnicities
 ethnicity
 ethnogenic
+ethnogogue
 ethnohistory
 ethnonym
 ethnopoetics
@@ -20012,6 +20061,7 @@ godmama
 godmen
 godown
 godpapa
+godparent
 gods
 godson
 godsons
@@ -20238,11 +20288,15 @@ grand
 granda
 grandad
 grandada
+grandaughter
 grandgirl
+grandgore
 grandling
 grandly
 grandpa
 grandpapa
+grandparent
+grandparentage
 grandpop
 granfer
 grange
@@ -20582,8 +20636,10 @@ guayule
 gub
 gubs
 guck
+gudgeon
 guelder
 guenon
+guerdon
 guest
 guestlist
 guestlists
@@ -21032,6 +21088,7 @@ handclap
 handed
 handel
 handful
+handgate
 handheld
 handhold
 handhole
@@ -21054,6 +21111,7 @@ handman
 handmen
 handout
 handouts
+handphone
 handplant
 handplay
 handprint
@@ -21073,6 +21131,7 @@ hang
 hangar
 hangarage
 hangaring
+hangdog
 hanger
 hangi
 hanging
@@ -21161,6 +21220,8 @@ hardman
 hardmen
 hardnut
 hardon
+hardpan
+hardpear
 hardrock
 hardtop
 hardun
@@ -22066,6 +22127,7 @@ hocks
 hocus
 hocuses
 hod
+hodgepodge
 hodman
 hodmen
 hodograph
@@ -22085,6 +22147,7 @@ hogfish
 hogherd
 hoglet
 hogman
+hogner
 hognut
 hogo
 hogoh
@@ -33399,6 +33462,7 @@ necromancers
 necromant
 necromantic
 necronite
+necrophage
 necropolitan
 necropsy
 necroscopic
@@ -33591,6 +33655,7 @@ nephew
 nephric
 nephrite
 nephritic
+nephron
 nepionic
 nepotal
 nepotation
@@ -35483,9 +35548,12 @@ odontist
 odontists
 odontitis
 odontitises
+odontograph
 odontoid
 odontoids
 odontome
+odontophore
+odophone
 odor
 odorable
 odorant
@@ -35497,6 +35565,7 @@ odorises
 odorize
 odorized
 odorizing
+odorophore
 odorosity
 odorous
 odorously
@@ -35998,6 +36067,8 @@ operagoer
 operance
 operancies
 operancy
+operand
+operant
 operas
 operate
 operator
@@ -36260,6 +36331,7 @@ ordinars
 ordinary
 ordination
 ordinator
+ordnance
 ordo
 ordos
 ordure
@@ -36483,9 +36555,12 @@ orthophonic
 orthophony
 orthophoria
 orthophoto
+orthophotograph
 orthophotos
 orthopinacoid
 orthoploid
+orthopnea
+orthopnoea
 orthopod
 orthose
 orthoses
@@ -36798,11 +36873,13 @@ outcrops
 outcry
 outcut
 outcuts
+outdance
 outdare
 outdate
 outdid
 outdo
 outdoer
+outdone
 outdrank
 outdrunk
 outearn
@@ -36919,7 +36996,9 @@ outraises
 outrake
 outrakes
 outran
+outrance
 outrang
+outrange
 outranging
 outrant
 outranting
@@ -37611,6 +37690,7 @@ pagati
 pagatis
 page
 pageant
+pageanter
 pageantic
 pageants
 pageboy
@@ -38152,6 +38232,7 @@ paperen
 paperer
 paperers
 paperful
+paperhanger
 paperhanging
 papering
 papermaker
@@ -38249,6 +38330,7 @@ parage
 paraglide
 paraglided
 paraglider
+paragnath
 paragoge
 paragogic
 paragon
@@ -38462,6 +38544,7 @@ pareras
 parerga
 parergal
 parergic
+parergon
 parers
 pares
 pareses
@@ -38778,6 +38861,7 @@ patency
 patent
 patenter
 patenting
+patentor
 pater
 patera
 paterae
@@ -38794,6 +38878,7 @@ pathic
 pathics
 pathing
 pathname
+pathogen
 pathopoeia
 paths
 patia
@@ -38870,6 +38955,7 @@ patrol
 patrolatry
 patrolmen
 patron
+patronage
 patronal
 patronat
 patronate
@@ -39313,6 +39399,7 @@ penes
 penetrable
 penetralia
 penetrameter
+penetrance
 penetrant
 penetrate
 penetrated
@@ -39370,8 +39457,10 @@ pensums
 pensy
 pent
 pentad
+pentagon
 pentail
 pentane
+pentarch
 pentaspast
 pentaspasts
 pentatone
@@ -39391,6 +39480,7 @@ penton
 pentons
 pentop
 pentops
+pentrough
 pentrow
 pentyl
 pentylene
@@ -39476,10 +39566,12 @@ percaline
 percase
 perceant
 percent
+percentage
 percentile
 percept
 percepts
 perch
+perchance
 percher
 percheries
 perchery
@@ -39728,11 +39820,16 @@ perpensities
 perpet
 perpetrate
 perpetrates
+perpetrator
 perpets
 perpetuana
 perpetuanas
+perpetuance
+perpetuano
 perpetuate
 perpetuates
+perpetuator
+perpetuo
 perplex
 perplexer
 perplexity
@@ -39770,6 +39867,8 @@ perspires
 perspiry
 pert
 pertain
+pertechnate
+pertechnetate
 perten
 perthite
 perthites
@@ -39897,6 +39996,7 @@ petrean
 petrel
 petrels
 petrifier
+petrograph
 petroil
 petrol
 petroline
@@ -39927,6 +40027,7 @@ peytrel
 pfui
 phacelia
 phacelite
+phaeton
 phage
 phages
 phagolytic
@@ -40089,6 +40190,7 @@ phonoscopes
 phonotypy
 phons
 phony
+phorate
 phoresy
 phoretic
 phoria
@@ -40132,6 +40234,8 @@ photoed
 photoes
 photofit
 photog
+photogen
+photogene
 photoglyph
 photoglyphic
 photoglyphography
@@ -40158,6 +40262,7 @@ photolithotrophy
 photology
 photolytic
 photon
+photoneutron
 photonic
 photons
 photopathy
@@ -40174,6 +40279,8 @@ photopic
 photopile
 photoplate
 photoplay
+photoproduce
+photoproduct
 photoprotect
 photoprotection
 photoproton
@@ -40181,6 +40288,7 @@ photoprotons
 photopsy
 photoptic
 photoreaction
+photoreproduce
 photos
 photoscopic
 photoset
@@ -40218,6 +40326,7 @@ phratry
 phreak
 phreaker
 phrenic
+phrenograph
 phrenotropic
 phtanite
 phthalate
@@ -41733,6 +41842,7 @@ poetships
 pog
 poge
 pogh
+poghue
 pogies
 pogo
 pogoed
@@ -41746,6 +41856,7 @@ pogonium
 pogonology
 pogonophora
 pogonophoran
+pogonophore
 pogos
 pogrom
 pogromist
@@ -42110,6 +42221,7 @@ pomps
 ponask
 ponasks
 ponce
+ponceau
 ponces
 poncey
 poncho
@@ -42119,6 +42231,7 @@ poncif
 poncifs
 poncy
 pond
+pondage
 ponding
 pondok
 pondy
@@ -42347,6 +42460,7 @@ portended
 portent
 portention
 porter
+porterage
 portering
 porteur
 porteurs
@@ -42592,6 +42706,7 @@ potstones
 potsy
 pou
 pouble
+pouce
 pouch
 pouchong
 pouchy
@@ -42824,6 +42939,7 @@ preceptor
 precepts
 preces
 preceses
+prechordate
 precip
 precipice
 precipices
@@ -42844,6 +42960,7 @@ precompose
 precomposes
 precoracoid
 precordia
+precut
 predial
 predy
 prefade
@@ -42877,7 +42994,9 @@ pregenital
 pregive
 pregiven
 pregiving
+pregnance
 pregnane
+pregnant
 pregnate
 prehalter
 preharvest
@@ -42982,6 +43101,7 @@ prepare
 prepared
 preparer
 preparing
+prepatent
 prepay
 prepaying
 prepend
@@ -42997,6 +43117,7 @@ preponing
 prepose
 preposes
 prepotence
+prepotent
 prepreg
 preprimate
 preprint
@@ -43092,6 +43213,7 @@ pretectums
 pretemporal
 pretence
 pretend
+pretendance
 pretendant
 pretense
 pretenses
@@ -43465,6 +43587,9 @@ prodrome
 prodromic
 prodrug
 prods
+produce
+producent
+producer
 product
 productid
 production
@@ -43494,6 +43619,7 @@ proforma
 proformas
 profs
 prog
+progenerate
 progenerating
 progenerator
 progenial
@@ -43582,6 +43708,7 @@ pronating
 pronation
 pronator
 prone
+pronephron
 pronetalol
 proneur
 proneural
@@ -43617,6 +43744,8 @@ propaganding
 propagandize
 propagandized
 propagandizing
+propagant
+propagate
 propagating
 propagator
 propagatory
@@ -43766,6 +43895,7 @@ prorationing
 prorean
 prorex
 prorexes
+prorogate
 prorogating
 prorogator
 prorogue
@@ -43813,6 +43943,7 @@ prostatitic
 prostatitis
 prosy
 protactic
+protagon
 protan
 protanomal
 protanope
@@ -43825,9 +43956,11 @@ protea
 protead
 protean
 protect
+protectant
 protection
 protectionary
 protector
+protectorate
 protectorial
 protectory
 protege
@@ -43905,6 +44038,7 @@ protonation
 protonema
 protonemal
 protonematal
+protonephron
 protonic
 protonotarial
 protonotariat
@@ -44183,6 +44317,7 @@ puerperial
 puerperium
 pug
 pugil
+pugnant
 pugs
 puha
 puirtith
@@ -44578,6 +44713,7 @@ putin
 putins
 putlog
 puto
+putonghua
 putos
 putout
 putouts
@@ -46052,6 +46188,7 @@ readmits
 readorn
 readout
 reads
+readthrough
 ready
 reagent
 reagents
@@ -46610,6 +46747,8 @@ recue
 recueil
 recueils
 recuperance
+recuperate
+recuperator
 recur
 recurs
 recurse
@@ -47608,6 +47747,7 @@ rencontre
 rencounter
 rend
 rendal
+rendang
 rendible
 rendition
 renditions
@@ -47680,6 +47820,7 @@ rentable
 rentage
 rentages
 rental
+rentcharge
 rente
 rented
 renter
@@ -47704,6 +47845,7 @@ reo
 reoblige
 reobtain
 reogram
+reograph
 reopen
 reopener
 reopeners
@@ -47785,11 +47927,13 @@ repeatable
 repeater
 repeaters
 repeats
+repechage
 repel
 repels
 repen
 repens
 repent
+repentance
 repentant
 repenter
 repenters
@@ -47874,6 +48018,7 @@ repones
 reponing
 report
 reportable
+reportage
 reporter
 reporting
 reportorial
@@ -47930,6 +48075,9 @@ reprobater
 reprobator
 reprobe
 reprobed
+reproduce
+reproducer
+reproductor
 reprogram
 reprogramed
 repromise
@@ -47950,6 +48098,8 @@ reptiliary
 reptility
 reptiloid
 repugn
+repugnance
+repugnant
 repugner
 repugning
 repulp
@@ -48381,6 +48531,7 @@ retam
 retama
 retamas
 retard
+retardance
 retardant
 retardate
 retarded
@@ -48575,8 +48726,10 @@ retroacts
 retrobulbar
 retrochoir
 retrod
+retroduce
 retrofit
 retroform
+retroguard
 retronym
 retroperitoneal
 retroperitoneum
@@ -48985,12 +49138,14 @@ rhizines
 rhizobia
 rhizomic
 rho
+rhodanate
 rhodanide
 rhodate
 rhodeoretin
 rhodic
 rhodinal
 rhodonite
+rhodophane
 rhodora
 rhoeadin
 rhoeadine
@@ -56984,6 +57139,8 @@ taonga
 tap
 tapa
 tapas
+tapdance
+tapdancer
 tape
 taped
 taper
@@ -57544,6 +57701,7 @@ tenantry
 tenants
 tench
 tend
+tendance
 tended
 tending
 tendinitis
@@ -57784,6 +57942,7 @@ tetrameter
 tetrameters
 tetrapak
 tetraplegia
+tetrapod
 tetrarch
 tetrarchate
 tetrarchates
@@ -58088,6 +58247,7 @@ though
 thought
 thoughtful
 thoughtlet
+thoughtograph
 thoughtway
 thoughty
 thouing
@@ -58165,6 +58325,7 @@ thronelets
 thronely
 thrones
 throng
+thronger
 thronging
 throning
 through
@@ -59042,6 +59203,8 @@ touch
 touche
 toucher
 touchous
+touchpad
+touchpaper
 touchtone
 touchup
 touchy
@@ -59224,6 +59387,9 @@ traditive
 traditor
 traditors
 tradits
+traduce
+traducent
+traducer
 traduct
 traductio
 traduction
@@ -59479,6 +59645,7 @@ trends
 trendy
 trente
 trepan
+trepang
 trepans
 treponema
 treponemal
@@ -59816,6 +59983,8 @@ troubler
 trough
 troughed
 trougher
+troughgeng
+troughgeong
 troupe
 trouper
 troupial
@@ -61437,13 +61606,16 @@ upcase
 upcases
 upcast
 upcasts
+upcharge
 upchuck
 upchucks
 upcoast
 upcycle
 upcycles
+update
 updation
 updo
+updraught
 upend
 upended
 upending
