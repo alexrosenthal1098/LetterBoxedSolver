@@ -3716,6 +3716,7 @@ armors
 armory
 armour
 armourer
+armours
 armoury
 armozine
 armpit
@@ -4542,6 +4543,8 @@ axon
 axons
 ayah
 ayahs
+ayahuasca
+ayahuascas
 aye
 ayes
 aymag
@@ -11659,6 +11662,7 @@ crawler
 crawls
 craws
 cray
+crayfish
 crayon
 crayoning
 crayons
@@ -12006,6 +12010,7 @@ crucibles
 crucifer
 crucified
 crucifier
+crucify
 cruck
 crucks
 crud
@@ -18863,6 +18868,7 @@ fumigant
 fumigate
 fumigated
 fuming
+fumy
 fun
 funana
 funboard
@@ -22623,6 +22629,7 @@ humidex
 humidistat
 humidistats
 humidity
+humify
 humiliate
 humiliated
 humiliation
@@ -30476,6 +30483,8 @@ mike
 mikes
 miko
 mikos
+mikoshi
+mikoshis
 mil
 miladies
 milage
@@ -31005,6 +31014,7 @@ misjudge
 miskal
 miskoek
 miskoeks
+misky
 misl
 mislaid
 mislay
@@ -31405,6 +31415,7 @@ moha
 mohair
 mohalim
 mohar
+mohars
 mohel
 mohock
 mohonono
@@ -31470,6 +31481,7 @@ mokomokai
 mokoro
 mokoros
 mokos
+moksha
 mokume
 mokumes
 mokus
@@ -32049,6 +32061,7 @@ morwong
 mory
 mosaic
 mosaical
+mosaicism
 mosaicist
 mosaicists
 mosaics
@@ -32072,6 +32085,7 @@ moshpits
 mosies
 mosker
 moskers
+moskur
 mosmol
 mosmols
 mosque
@@ -32285,6 +32299,7 @@ muchachos
 mucho
 mucicarmin
 mucid
+mucify
 mucin
 mucins
 muck
@@ -32812,6 +32827,7 @@ mycotic
 mydriasis
 myelitic
 myen
+myiasis
 mylonitic
 myna
 mynah
@@ -32824,6 +32840,8 @@ myograms
 myograph
 myographs
 myography
+myokymia
+myokymias
 myoma
 myomas
 myombo
@@ -35896,6 +35914,7 @@ omphacites
 omphacitic
 omphaloi
 omrah
+omrahs
 oms
 omul
 omuls
@@ -45548,13 +45567,19 @@ raki
 rakia
 rakias
 raking
+rakish
 rakism
 rakisms
 rakiya
 raksasa
 raksasas
 raksasi
+rakshasa
+rakshasas
+rakshasi
+rakshasis
 rakshi
+rakshis
 raksi
 raku
 rakyat
@@ -49185,6 +49210,7 @@ rhymers
 rhymery
 rhymes
 rhymic
+rhymics
 rhymist
 rhymists
 rhymy
@@ -50983,6 +51009,7 @@ sahitya
 sahuaro
 sahuaros
 sahukar
+sahukars
 sai
 said
 saiga
@@ -51946,6 +51973,7 @@ scum
 scums
 scup
 scurf
+scurfy
 scut
 scuta
 scutal
@@ -54121,6 +54149,7 @@ soit
 sojourn
 soju
 sojus
+sokaiya
 soke
 sokes
 sol
