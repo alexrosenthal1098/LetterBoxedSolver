@@ -942,6 +942,7 @@ adermin
 adermine
 adevism
 adhan
+adhans
 adhere
 adhered
 adherend
@@ -973,6 +974,7 @@ adiation
 adience
 adient
 adieu
+adieus
 adigar
 adigars
 adikar
@@ -2094,6 +2096,7 @@ alembic
 alembicate
 alembicated
 aleph
+alephs
 alerce
 alerces
 alerion
@@ -2160,6 +2163,7 @@ algraphy
 alhagi
 alia
 alias
+aliased
 aliases
 alibi
 alibied
@@ -2355,6 +2359,7 @@ alpacas
 alpargata
 alpha
 alpharion
+alphas
 alphatron
 alphin
 alphorn
@@ -2485,6 +2490,7 @@ alumnus
 alums
 alumy
 alundum
+alundums
 alunite
 alunites
 alunogen
@@ -2523,6 +2529,7 @@ amahs
 amakhosi
 amalgam
 amanuenses
+amanuensis
 amapakati
 amapakatis
 amaqueta
@@ -2672,6 +2679,7 @@ amphipath
 amphipaths
 amphipathy
 amphiuma
+amphiumas
 amphora
 amping
 ample
@@ -2782,6 +2790,8 @@ anamneses
 anamnesis
 anamorphic
 ananda
+anandamide
+anandamides
 anapaest
 anapaestic
 anapaests
@@ -3320,6 +3330,7 @@ apheretic
 aphesis
 aphetic
 aphid
+aphides
 aphis
 aphonia
 aphonic
@@ -3401,6 +3412,7 @@ apsaras
 apsarases
 apse
 apses
+apsidal
 apsides
 apsis
 apso
@@ -12578,10 +12590,12 @@ dahi
 dahis
 dahl
 dahlia
+dahlias
 dahling
 dahs
 dai
 daikon
+dailies
 daily
 daimio
 daimios
@@ -12622,6 +12636,7 @@ damasks
 dame
 dames
 damiana
+damianas
 damn
 damna
 damned
@@ -12629,7 +12644,11 @@ damns
 damnum
 damp
 damped
+dampen
+dampened
+dampens
 damper
+damps
 dams
 damsel
 damsels
@@ -12646,6 +12665,7 @@ dancy
 danda
 dandas
 dandier
+dandies
 dandiprat
 dandiprats
 dandiya
@@ -12665,9 +12685,13 @@ dank
 dankly
 dans
 dansant
+danse
+danseuse
+danseuses
 danthonia
 dap
 daphne
+daphnes
 daphnia
 daps
 darbies
@@ -12837,6 +12861,7 @@ deaden
 deadened
 deadener
 deadening
+deadens
 deader
 deadest
 deadhead
@@ -12846,7 +12871,10 @@ deadliest
 deadline
 deadlock
 deadlocked
+deadman
 deadmen
+deadpan
+deadpans
 deadtime
 deaerate
 deaerated
@@ -12863,6 +12891,7 @@ dealing
 deals
 dealt
 dean
+deans
 dear
 dearer
 dearest
@@ -13010,7 +13039,9 @@ decorums
 decried
 decries
 decry
+dedans
 dedendum
+dedendums
 dedicate
 dedicated
 dedicatedly
@@ -13260,6 +13291,7 @@ denar
 dendroid
 dendron
 dene
+denes
 dengue
 deni
 denial
@@ -13270,6 +13302,8 @@ denigrated
 denim
 denizen
 denotation
+dens
+dense
 dent
 dental
 dentalia
@@ -13286,6 +13320,7 @@ dentition
 denture
 denude
 denuded
+denudes
 denuding
 denunciate
 denunciated
@@ -13313,6 +13348,7 @@ depilated
 depilator
 deplane
 deplaned
+deplanes
 deplume
 deplumed
 depluming
@@ -13383,6 +13419,9 @@ deserves
 desex
 desexed
 desexes
+desh
+deshi
+deshis
 desi
 desiderata
 desiderate
@@ -13399,11 +13438,15 @@ desisted
 desists
 desk
 desks
+desman
+desmans
 desmid
 desmids
 desolder
 desoldered
 desolders
+despedida
+despedidas
 despise
 despised
 despises
@@ -13754,6 +13797,9 @@ diesel
 dieselise
 dieselised
 dieselises
+dieselize
+dieselized
+dieselizes
 diesels
 dieses
 diesis
@@ -13857,6 +13903,8 @@ dimidiated
 diminuendi
 dimity
 dimple
+dimpled
+dimples
 dimplier
 dimpling
 dimps
@@ -14039,12 +14087,17 @@ diseuses
 disgust
 disgusts
 dish
+dishdash
+dishdasha
+dishdashas
 dishful
 dishfuls
 dishonor
 dishonors
 dishonour
 dishonours
+dishpan
+dishpans
 dishy
 disinvest
 disinvests
@@ -14067,8 +14120,15 @@ disomy
 disown
 disowns
 disparity
+dispel
+dispense
+dispensed
+dispenses
 dispirit
 dispirits
+displease
+displeased
+displeases
 disport
 disports
 dispositor
@@ -14118,6 +14178,8 @@ distrusts
 disturb
 disturbs
 disubstituted
+disulphide
+disulphides
 disuse
 disused
 dit
@@ -14785,6 +14847,7 @@ dud
 dude
 duded
 dudedom
+dudeism
 duderies
 dudes
 dudgeon
@@ -14800,8 +14863,10 @@ dueful
 duel
 dueled
 dueler
+duelism
 duels
 duende
+duendes
 duergar
 dues
 duet
@@ -14858,6 +14923,7 @@ dunam
 dunams
 dunce
 dune
+dunes
 dung
 dunged
 dunging
@@ -14887,6 +14953,7 @@ duotones
 dupe
 duped
 duper
+dupes
 dupion
 dupioni
 duple
@@ -15360,6 +15427,7 @@ elaborator
 elan
 eland
 elapse
+elapsed
 elapses
 elastase
 elastic
@@ -15994,6 +16062,8 @@ enrolment
 enrols
 enroute
 ens
+ensaimada
+ensaimadas
 ensconce
 ensconces
 ensemble
@@ -16008,6 +16078,7 @@ ensign
 ensigncies
 ensigns
 ensile
+ensiled
 ensiles
 enslave
 enslaves
@@ -16020,6 +16091,7 @@ ensoul
 ensouls
 enstatitic
 ensue
+ensued
 ensues
 ensuite
 ensuites
@@ -16497,7 +16569,11 @@ eskies
 esky
 esoteric
 esotericism
+espada
+espadas
 espies
+esplanade
+esplanades
 esport
 esports
 espouse
@@ -16709,6 +16785,8 @@ euhedral
 eulogy
 eunuch
 eunuchoid
+eupepsia
+euphuism
 euploid
 eureka
 eurekas
@@ -21021,6 +21099,7 @@ halfling
 halfwit
 halibut
 halide
+halides
 halier
 haliers
 halieutic
@@ -21079,6 +21158,7 @@ hamsin
 hamster
 hamsters
 hamuli
+hamulus
 hamza
 hamzas
 hanami
@@ -21102,6 +21182,7 @@ handhorn
 handi
 handicap
 handier
+handies
 handily
 handing
 handis
@@ -21111,7 +21192,10 @@ handlebar
 handled
 handler
 handling
+handmade
 handmaid
+handmaiden
+handmaidens
 handmaids
 handman
 handmen
@@ -21121,6 +21205,8 @@ handphone
 handplant
 handplay
 handprint
+handpump
+handpumps
 hands
 handsaw
 handsaws
@@ -21159,10 +21245,12 @@ hankies
 hanks
 hanky
 hansel
+hanseled
 hansels
 hansom
 hansoms
 hanuman
+hanumans
 haole
 haoma
 hap
@@ -21287,6 +21375,7 @@ hashtag
 hashtags
 haslet
 hasp
+hasped
 hasps
 hast
 hasta
@@ -21910,6 +21999,7 @@ hie
 hied
 hieing
 hielaman
+hielamans
 hiemal
 hierarch
 hierarchic
@@ -22617,6 +22707,7 @@ human
 humana
 humane
 humaner
+humans
 humbly
 humdrum
 humect
@@ -22643,6 +22734,7 @@ humours
 humous
 hump
 humpback
+humped
 humph
 humpier
 humpies
@@ -22922,6 +23014,9 @@ idealism
 idealist
 idealists
 idealities
+idealize
+idealized
+idealizes
 idealties
 ideas
 ideate
@@ -23127,6 +23222,7 @@ impacts
 impair
 impaired
 impala
+impalas
 impale
 impaled
 impaler
@@ -23135,6 +23231,7 @@ impaling
 impalpable
 impanate
 impanel
+impaneled
 impanels
 impark
 impart
@@ -23149,6 +23246,7 @@ impeaches
 imped
 impede
 impeded
+impedes
 impediment
 impedimentum
 impeding
@@ -23194,6 +23292,7 @@ implant
 implantable
 implausible
 implead
+impleaded
 implement
 implicit
 implied
@@ -25905,6 +26004,8 @@ lamplight
 lamplit
 lamprey
 lamps
+lampshade
+lampshades
 lams
 lanai
 lanais
@@ -25928,8 +26029,10 @@ landlord
 landlords
 landman
 landnam
+landnams
 landpirate
 landplane
+landplanes
 landrace
 landrail
 lands
@@ -25974,6 +26077,7 @@ lapels
 lapis
 laps
 lapse
+lapsed
 lapses
 lapsus
 laptop
@@ -26235,6 +26339,7 @@ leaderene
 leaders
 leads
 leadup
+leadups
 leadwort
 leaf
 leafage
@@ -26476,6 +26581,7 @@ lenity
 leno
 lenos
 lens
+lensed
 lenses
 lensman
 lensmen
@@ -26602,6 +26708,7 @@ lezes
 liability
 liable
 liaise
+liaised
 liaises
 liaison
 liaisons
@@ -27021,6 +27128,7 @@ lises
 lisle
 lisles
 lisp
+lisped
 lisper
 lispers
 lisps
@@ -28043,6 +28151,8 @@ maegasira
 maegeri
 maegth
 maenad
+maenadism
+maenadisms
 maenol
 maenor
 maenors
@@ -28119,8 +28229,10 @@ maguro
 magus
 maha
 mahaila
+mahailas
 mahal
 mahala
+mahalas
 mahalo
 mahaly
 mahant
@@ -28160,6 +28272,8 @@ maid
 maidan
 maidans
 maiden
+maidens
+maidish
 maids
 maieutic
 maiko
@@ -28229,6 +28343,10 @@ maison
 maisons
 maistry
 maitre
+maize
+maizel
+maizena
+maizenas
 maja
 majas
 majat
@@ -28347,6 +28465,7 @@ malemute
 malemutes
 maleo
 males
+malesh
 malf
 malgre
 mali
@@ -28464,6 +28583,7 @@ manaca
 manacle
 manacled
 manada
+manadas
 manage
 managed
 management
@@ -28494,16 +28614,22 @@ mancus
 mancuses
 mand
 mandala
+mandalas
 mandalic
 mandamus
+mandamuses
 mandap
 mandapa
 mandapam
+mandapams
+mandapas
+mandaps
 mandara
 mandarin
 mandat
 mandate
 manday
+mandies
 mandir
 mandirs
 mandor
@@ -28669,8 +28795,10 @@ manul
 manuls
 manumatic
 manumise
+manumised
 manumises
 manumit
+manumize
 manure
 manurer
 manurers
@@ -28691,6 +28819,7 @@ mapepire
 mapepires
 mapes
 maple
+mapled
 mapleleaves
 maples
 mapmaker
@@ -29036,6 +29165,7 @@ masked
 masks
 maslin
 maslins
+masnad
 masochism
 masochist
 masochistic
@@ -29083,6 +29213,7 @@ masturbates
 masty
 masu
 masula
+masulah
 masulas
 masur
 masurium
@@ -30413,6 +30544,8 @@ midlist
 midmost
 midnight
 midpiece
+midplane
+midplanes
 midpoint
 midrib
 midribs
@@ -30431,6 +30564,7 @@ midwives
 midwoman
 mie
 mielie
+mielieland
 mielies
 miemite
 miemites
@@ -30571,6 +30705,7 @@ milometers
 milord
 milordo
 milpa
+milpas
 milreis
 mils
 milt
@@ -31078,7 +31213,10 @@ mispers
 misplace
 misplaces
 misplant
+misplead
+mispleaded
 misplease
+mispleased
 mispleases
 misprice
 misprices
@@ -31232,6 +31370,7 @@ miya
 miyas
 miz
 mizen
+mizens
 mizes
 mizmaze
 mizmazes
@@ -32338,6 +32477,7 @@ mucuna
 mucus
 mud
 mudalali
+mudalalis
 mudar
 mudarin
 mudarine
@@ -32363,6 +32503,7 @@ mudirieh
 mudiriehs
 mudirs
 mudmap
+mudmaps
 mudpout
 mudra
 mudrun
@@ -32529,6 +32670,7 @@ mundana
 mundane
 mundans
 mundarah
+mundel
 munds
 mundu
 mundum
@@ -32685,6 +32827,10 @@ musers
 muses
 museum
 museumise
+museumish
+museumize
+museumized
+museumizes
 museums
 mush
 musha
@@ -32996,6 +33142,7 @@ nahcolite
 nahual
 nai
 naiad
+naiades
 naiads
 naiant
 naib
@@ -33163,6 +33310,7 @@ naow
 nap
 napa
 napalm
+napalms
 nape
 napery
 napes
@@ -33247,9 +33395,13 @@ nasalisable
 nasalisation
 nasalisations
 nasalise
+nasalised
 nasalises
 nasalism
 nasalisms
+nasalize
+nasalized
+nasalizes
 nasals
 nasbandhi
 nasbandi
@@ -34969,13 +35121,16 @@ nuclidic
 nucular
 nucule
 nude
+nudes
 nudge
 nudged
 nudging
 nudibranch
 nudibranchiate
 nudie
+nudies
 nudified
+nudish
 nudism
 nudist
 nudists
@@ -35006,6 +35161,7 @@ numbnuts
 numbs
 numchuck
 numdah
+numdahs
 numen
 numerary
 numerate
@@ -35017,6 +35173,7 @@ numina
 numinal
 numinosity
 numnah
+numnahs
 numori
 nump
 numps
@@ -35099,6 +35256,7 @@ nurtz
 nus
 nusach
 nuse
+nused
 nuses
 nushnik
 nushniks
@@ -37663,7 +37821,11 @@ padauk
 padayatra
 padi
 padis
+padishah
+padishahs
 padloper
+padmasan
+padmasana
 padou
 padouk
 padre
@@ -37684,6 +37846,7 @@ paeans
 paedo
 paedos
 paenula
+paenulas
 paeon
 paeonin
 paeons
@@ -37884,6 +38047,10 @@ palinody
 palinspastic
 palinspastics
 palis
+palisade
+palisaded
+palisades
+palish
 palki
 palkis
 palm
@@ -37956,6 +38123,8 @@ paludial
 paludian
 paludic
 paludinal
+paludism
+paludisms
 palus
 paluses
 palwar
@@ -37984,6 +38153,7 @@ panaceists
 panache
 panada
 panade
+panades
 panaesthesia
 panagraph
 panagraphic
@@ -38027,10 +38197,14 @@ pandani
 pandanis
 pandans
 pandanus
+pandanuses
 pandaric
 pandas
 pandeiro
+pandesal
 pandied
+pandies
+pandisal
 pandit
 pandits
 pandoer
@@ -38053,9 +38227,11 @@ paned
 panel
 panela
 panele
+paneled
 paneles
 panelist
 panelists
+panelized
 panels
 panentheist
 panentheistic
@@ -38125,6 +38301,7 @@ panpots
 pans
 pansala
 pansalas
+pansied
 pansies
 pansit
 panslavism
@@ -38222,6 +38399,8 @@ papalist
 papalists
 papality
 papalize
+papalized
+papalizes
 papalizing
 papaloi
 papalois
@@ -38799,6 +38978,7 @@ pashka
 pashm
 pasigraphy
 pasila
+pasilalies
 paskha
 pasmo
 pasmos
@@ -39252,6 +39432,7 @@ pedalian
 pedaling
 pedalo
 pedanda
+pedandas
 pedang
 pedant
 pedate
@@ -39301,6 +39482,7 @@ pekoe
 pel
 pela
 pelade
+pelades
 pelamid
 pelargonate
 pelargone
@@ -39315,6 +39497,7 @@ pelerins
 peles
 pelf
 pelham
+pelhams
 pelican
 pelicanries
 pelicanry
@@ -39370,13 +39553,18 @@ pemuda
 pen
 penaeid
 penaeidean
+penaeideans
 penaeoid
 penaeoidean
 penal
 penalise
+penalised
 penalises
 penalities
 penality
+penalize
+penalized
+penalizes
 penalties
 penalty
 penance
@@ -39396,6 +39584,7 @@ pendanted
 pendapa
 pended
 pendejo
+pendens
 pendent
 pendente
 pending
@@ -39404,10 +39593,13 @@ pendrin
 pendulant
 pendular
 pendule
+penduled
 pendulent
+pendules
 penduline
 penduling
 pendulum
+pendulums
 peneid
 peneplain
 peneplained
@@ -39927,6 +40119,8 @@ perviest
 pervs
 pervy
 pes
+pesade
+pesades
 pesage
 pesages
 pesante
@@ -40052,6 +40246,7 @@ phages
 phagolytic
 phakic
 phalaena
+phalaenas
 phalangal
 phalangial
 phalangid
@@ -40071,7 +40266,10 @@ pharming
 pharology
 pharos
 pharoses
+phasal
 phase
+phaseal
+phased
 phaser
 phases
 phasic
@@ -40079,6 +40277,7 @@ phasis
 phasm
 phasma
 phasmas
+phasmid
 phasms
 phason
 phasons
@@ -40119,8 +40318,11 @@ phew
 phi
 phial
 phiale
+phiales
 phialine
 phies
+philadelphus
+philadelphuses
 philanthropia
 philanthropic
 philanthropical
@@ -40144,6 +40346,7 @@ phish
 phisiog
 phit
 phiz
+phizes
 phizog
 phloem
 phlorol
@@ -41250,6 +41453,8 @@ planer
 planerite
 planers
 planes
+planeside
+planesides
 planesman
 planesmen
 planet
@@ -41325,6 +41530,7 @@ plasmablast
 plasmablasts
 plasmal
 plasmic
+plasmid
 plasmin
 plaster
 plasterer
@@ -41441,6 +41647,7 @@ pleach
 pleacher
 plead
 pleadable
+pleaded
 pleaful
 pleas
 pleasable
@@ -41450,6 +41657,7 @@ pleasancies
 pleasant
 pleasanter
 please
+pleased
 pleaser
 pleasers
 pleases
@@ -41498,6 +41706,7 @@ plenist
 plenists
 pleno
 plenum
+plenums
 pleon
 pleons
 pleopod
@@ -41556,6 +41765,7 @@ pliotron
 pliotrons
 plip
 plips
+plish
 ploat
 ploated
 ploating
@@ -44210,9 +44420,15 @@ psc
 pschent
 pschents
 pscs
+psephism
+psephisma
+psephismas
+psephisms
 psephite
 psephites
 psephitic
+pseud
+pseudish
 pshaw
 pshaws
 pshent
@@ -44382,6 +44598,7 @@ pulmotor
 pulmotors
 pulp
 pulpal
+pulped
 pulper
 pulperia
 pulpier
@@ -44573,6 +44790,7 @@ pupu
 pupuna
 pupunah
 pupunha
+pupunhas
 pupus
 pupusa
 pupusas
@@ -50958,7 +51176,10 @@ sacrum
 sacrums
 sacs
 sad
+sadhana
 sadhu
+sadhuism
+sadhuisms
 sadhus
 sadic
 sadism
@@ -51019,6 +51240,7 @@ sailable
 sailboat
 sailboats
 sailcloth
+sailed
 sailer
 sailers
 sailfin
@@ -51027,6 +51249,7 @@ sailor
 sailorly
 sailors
 sailplane
+sailplanes
 sails
 sainfoin
 saint
@@ -51218,7 +51441,9 @@ samosas
 samp
 sampan
 sampans
+sampladelia
 sample
+sampled
 sampler
 samplers
 samples
@@ -51239,6 +51464,7 @@ sanctity
 sanctus
 sand
 sandal
+sandaled
 sandarac
 sandarach
 sandbag
@@ -51250,9 +51476,12 @@ sandbars
 sandboard
 sandboards
 sandboy
+sanded
+sandesh
 sandhi
 sandhog
 sandhogs
+sandies
 sanding
 sandlot
 sandlots
@@ -51328,6 +51557,7 @@ saola
 saolas
 sap
 sapele
+sapeles
 sapid
 sapidity
 sapience
@@ -52108,12 +52338,15 @@ securities
 securitise
 securitises
 security
+sedan
+sedans
 sedate
 sedated
 sedates
 sedge
 sedges
 sedile
+sedilia
 seduce
 seduced
 seduces
@@ -52164,6 +52397,7 @@ seismometer
 seitan
 seiza
 seize
+seized
 seizer
 seizes
 seizin
@@ -52261,7 +52495,11 @@ senates
 senatus
 sencha
 send
+sendal
+sended
 sends
+sendup
+sendups
 sene
 senecio
 senecios
@@ -52282,6 +52520,7 @@ seniti
 sensa
 sensate
 sense
+sensed
 sensei
 senses
 sensi
@@ -52615,6 +52854,9 @@ shacks
 shad
 shadchan
 shadchans
+shade
+shaded
+shades
 shads
 shaft
 shafter
@@ -52666,6 +52908,7 @@ shalwars
 shaly
 sham
 shama
+shamal
 shaman
 shamanic
 shamans
@@ -52681,8 +52924,12 @@ shamers
 shamiana
 shamianas
 shaming
+shamisen
+shamisens
 shams
 shamus
+shamuses
+shandies
 shanghai
 shango
 shank
@@ -52694,6 +52941,7 @@ shanties
 shanty
 shantyman
 shape
+shaped
 shaper
 shapes
 shapka
@@ -53076,6 +53324,7 @@ shyster
 shysters
 sial
 sialic
+sialidase
 sib
 sibia
 sibias
@@ -53129,6 +53378,9 @@ sided
 sidegrade
 sidegraded
 sidegrades
+sidelamp
+sidelamps
+sideland
 sidemeat
 sider
 sideral
@@ -53141,6 +53393,7 @@ siderisms
 siderite
 siders
 sides
+sidesman
 sidesway
 sidesways
 sideview
@@ -53443,6 +53696,7 @@ sixty
 sizar
 sizars
 size
+sized
 sizeism
 sizeist
 sizer
@@ -53865,6 +54119,7 @@ smiths
 smithum
 smithy
 smize
+smized
 smizes
 smock
 smocked
@@ -53962,6 +54217,7 @@ sneakiest
 sneaks
 sneck
 snecks
+sned
 snib
 snibs
 snick
@@ -54504,6 +54760,9 @@ spack
 spackle
 spacy
 spad
+spade
+spaded
+spades
 spads
 spae
 spaed
@@ -54527,6 +54786,8 @@ spanks
 spans
 spanspek
 spanspeks
+spansule
+spansules
 spar
 sparable
 sparables
@@ -54624,6 +54885,7 @@ spence
 spencer
 spencers
 spences
+spend
 spent
 sperm
 spermine
@@ -54742,6 +55004,7 @@ splashpads
 splat
 splats
 splay
+splendid
 splenetic
 splenia
 splenial
@@ -54896,6 +55159,7 @@ spryly
 spud
 spuds
 spue
+spued
 spueing
 spues
 spug
@@ -56251,6 +56515,9 @@ sulk
 sulker
 sulkers
 sulks
+sulpha
+sulphide
+sulphides
 sulphite
 sulphites
 sulphur
@@ -56295,7 +56562,10 @@ sunburns
 sunburnt
 sunburst
 sunbursts
+sundae
+sundaes
 sundari
+sundial
 sundri
 sundris
 sundry
@@ -56312,6 +56582,8 @@ sunk
 sunken
 sunker
 sunkers
+sunlamp
+sunlamps
 sunland
 sunlands
 sunlet
@@ -56330,6 +56602,8 @@ sunrounds
 suns
 sunset
 sunsets
+sunshade
+sunshades
 sunshine
 sunshiny
 sunship
@@ -56365,6 +56639,7 @@ sup
 supari
 suparis
 supe
+suped
 super
 superb
 superius
@@ -56491,6 +56766,8 @@ suslik
 susliks
 suspect
 suspects
+suspend
+suspended
 suspense
 suspensible
 suspicion
@@ -60676,6 +60953,7 @@ unalive
 unalterable
 unambitious
 unamenable
+unamused
 unanalyzable
 unaneled
 unanimated
@@ -60826,6 +61104,7 @@ undead
 undenied
 undented
 undid
+undies
 undiluted
 undinal
 undine
@@ -60917,11 +61196,13 @@ unguided
 unguis
 ungulate
 unhand
+unhanded
 unhandy
 unhang
 unhanging
 unharmed
 unhasp
+unhasped
 unhasps
 unhealed
 unheard
@@ -61096,12 +61377,15 @@ unlacing
 unlade
 unladed
 unladen
+unlades
 unlading
 unlaid
 unlamed
 unlanced
 unlanded
 unlap
+unlaps
+unlapsed
 unlarded
 unlash
 unlatined
@@ -61126,6 +61410,8 @@ unlearn
 unlearnable
 unlearned
 unlearnt
+unleased
+unleash
 unleave
 unled
 unleft
@@ -61207,6 +61493,7 @@ unmaid
 unmaided
 unmaids
 unmail
+unmailed
 unmails
 unmake
 unmaker
@@ -61517,26 +61804,34 @@ unrulier
 unruly
 unrumple
 unrung
+unsaid
 unsalable
 unsaleable
 unsaturation
 unsaturations
 unsaw
 unseal
+unsealed
 unseals
 unseat
 unseats
+unsend
 unsent
 unsentimental
 unset
 unsets
 unsewn
+unshaded
 unshaken
+unshaped
 unship
 unships
 unshod
 unshorn
+unsized
 unskilful
+unsnap
+unsnaps
 unsnarl
 unsold
 unsolvable
@@ -61610,6 +61905,7 @@ untwine
 untying
 unum
 unusable
+unused
 unusual
 unvalued
 unveil
@@ -61688,9 +61984,12 @@ upset
 upsets
 upshot
 upshots
+upside
+upsides
 upsilon
 upsilons
 upsize
+upsized
 upsizes
 upsizing
 upskirt
@@ -61849,6 +62148,7 @@ useable
 used
 useful
 usen
+usened
 usens
 user
 userid
@@ -64408,6 +64708,7 @@ zef
 zein
 zeitgeber
 zenana
+zenanas
 zenith
 zero
 zeroes
