@@ -2609,6 +2609,7 @@ amenities
 amens
 ament
 amentia
+aments
 amerce
 amerceable
 amercement
@@ -2644,6 +2645,7 @@ amnesiacs
 amnesic
 amnesics
 amnesties
+amnesty
 amnia
 amnio
 amnion
@@ -2717,6 +2719,7 @@ amulets
 amuse
 amused
 amusement
+amusements
 amuses
 amyl
 amyotrophy
@@ -2818,6 +2821,8 @@ anarchical
 anarchism
 anarchs
 anarchy
+anastomose
+anastomoses
 anastomosis
 anatase
 anatases
@@ -3434,6 +3439,7 @@ aquacades
 aquaculture
 aqualung
 aquanaut
+aquanauts
 aquaria
 aquarium
 aquariums
@@ -4027,6 +4033,7 @@ astroids
 astroite
 astroites
 astrolatry
+astrometry
 astronaut
 astronauts
 astronomic
@@ -4370,6 +4377,7 @@ automatist
 automatists
 automaton
 automats
+autometry
 automise
 automised
 automises
@@ -4389,6 +4397,7 @@ autorad
 autorads
 autoregulate
 autorotate
+autorotates
 autorotation
 autorotations
 autoroute
@@ -4524,6 +4533,7 @@ aweary
 awed
 aweigh
 awes
+awesome
 awful
 awhirl
 awing
@@ -15624,6 +15634,7 @@ emanates
 emanation
 emanative
 emanator
+emanators
 emancipist
 emancipists
 embalm
@@ -16208,6 +16219,8 @@ entropic
 entropion
 entropy
 entrust
+entrustment
+entrustments
 entrusts
 entry
 entryism
@@ -16432,12 +16445,14 @@ equalizer
 equals
 equanimous
 equant
+equants
 equatable
 equate
 equates
 equative
 equator
 equatorial
+equators
 eques
 equid
 equids
@@ -29485,6 +29500,7 @@ mayo
 mayor
 mayoral
 mayorial
+mayors
 mayory
 mayos
 maypop
@@ -29854,6 +29870,7 @@ membranes
 membrum
 meme
 memento
+mementoes
 mementos
 memes
 memetic
@@ -29926,6 +29943,13 @@ menser
 menses
 mensh
 menshes
+menstrua
+menstruant
+menstruants
+menstruate
+menstruates
+mensur
+mensurs
 menswear
 mentagra
 mental
@@ -29950,6 +29974,7 @@ menton
 mentons
 mentor
 mentoring
+mentors
 mentos
 ments
 mentula
@@ -30155,6 +30180,9 @@ mesophase
 mesophases
 mesopic
 mesorhine
+mesosaur
+mesosaurs
+mesosaurus
 mesoscaph
 mesoscaphe
 mesoscaphes
@@ -30250,6 +30278,8 @@ metastasise
 metastasised
 metastasises
 metastasize
+metastatement
+metastatements
 metastoma
 metastomas
 metastome
@@ -30280,6 +30310,7 @@ meted
 meteg
 metel
 metels
+metensomatoses
 metenteron
 meteor
 meteorite
@@ -30338,6 +30369,7 @@ metics
 metier
 metiers
 meting
+metoestrum
 metoestrus
 metol
 metope
@@ -32257,6 +32289,7 @@ mosaist
 mosaists
 mosasaur
 mosasaurs
+mosasaurus
 moscato
 mosesite
 mosesites
@@ -32363,6 +32396,7 @@ motormen
 motormouth
 motors
 motorsport
+motorway
 motory
 motoryacht
 motricity
@@ -32462,6 +32496,7 @@ mowra
 mowrah
 mowras
 mows
+mowy
 moxie
 moxy
 moy
@@ -32844,6 +32879,7 @@ murumuru
 murunga
 murva
 muryan
+muryans
 mus
 musambi
 musambis
@@ -32923,6 +32959,7 @@ musnud
 musnuds
 muso
 musos
+musquaw
 must
 musta
 mustache
@@ -32943,6 +32980,7 @@ mutable
 mutage
 mutagen
 mutant
+mutants
 mutarotate
 mutas
 mutase
@@ -34002,6 +34040,9 @@ neurocrine
 neurohormone
 neuroid
 neuroma
+neuromas
+neuromast
+neuromasts
 neuromata
 neuromere
 neurometer
@@ -34014,11 +34055,13 @@ neuropter
 neuroptera
 neuropteran
 neuroregulator
+neurosensory
 neuroses
 neurosis
 neurotensin
 neurotensins
 neurotome
+neurotomes
 neurotubule
 neurula
 neurulas
@@ -35394,6 +35437,7 @@ nyrl
 nystatin
 nything
 nytril
+nyuse
 oaf
 oafdom
 oafish
@@ -35835,6 +35879,7 @@ oestrin
 oestrins
 oestrone
 oestrous
+oestrum
 oestrus
 oeuvre
 ofay
@@ -36693,6 +36738,8 @@ ornamental
 ornamentation
 ornamenter
 ornamentor
+ornamentors
+ornaments
 ornate
 ornated
 ornative
@@ -36735,6 +36782,7 @@ oronasal
 oropendola
 oroposea
 orotate
+orotates
 orotidine
 orotund
 orp
@@ -36895,9 +36943,11 @@ ostensible
 ostension
 ostensions
 ostensive
+ostensory
 ostent
 ostentate
 ostentates
+ostentatory
 ostents
 osteoarthritic
 osteoarthritis
@@ -36911,6 +36961,7 @@ osteocytic
 osteoid
 osteoma
 osteomas
+osteometry
 osteon
 osteone
 osteons
@@ -45221,6 +45272,8 @@ quank
 quanks
 quant
 quanta
+quantasome
+quantasomes
 quantic
 quantifier
 quanton
@@ -45286,6 +45339,7 @@ quenas
 quench
 quencher
 quenches
+quento
 querencia
 querent
 querier
@@ -45293,6 +45347,8 @@ quern
 querulous
 queso
 quest
+questman
+questmen
 questor
 questors
 quests
@@ -50502,6 +50558,7 @@ rotatable
 rotatably
 rotate
 rotated
+rotates
 rotating
 rotation
 rotational
@@ -52552,6 +52609,8 @@ sen
 senarius
 senate
 senates
+senator
+senators
 senatus
 sencha
 send
@@ -52579,6 +52638,9 @@ seniors
 seniti
 sensa
 sensate
+sensator
+sensators
+sensatory
 sense
 sensed
 sensei
@@ -52619,6 +52681,7 @@ sensor
 sensoria
 sensorium
 sensors
+sensory
 sensu
 sensual
 sensualise
@@ -52695,6 +52758,7 @@ sequels
 sequence
 sequences
 sequent
+sequestrum
 sequin
 sequins
 sequitur
@@ -54557,6 +54621,7 @@ somatic
 somatise
 somatised
 somatises
+somatosensory
 somber
 sombre
 sombrero
@@ -54567,6 +54632,7 @@ someday
 somesthetic
 sometime
 sometimes
+someway
 somite
 somites
 somitic
@@ -55262,6 +55328,7 @@ squalidity
 squalidly
 squalor
 squamate
+squamates
 squamose
 squamous
 squamule
@@ -55520,12 +55587,16 @@ statelier
 stateliest
 statelily
 stately
+statement
+statements
 stater
 statera
 stateras
 staters
 states
 stateside
+stateswoman
+stateswomen
 statevisit
 statevisits
 statewise
@@ -55587,6 +55658,7 @@ statuary
 statue
 statued
 statues
+statuesque
 statufy
 statural
 stature
@@ -55967,6 +56039,7 @@ stovetop
 stovetops
 stovies
 stow
+stowaway
 stows
 strafe
 strafes
@@ -56797,6 +56870,8 @@ surlily
 surly
 surmise
 surmises
+surname
+surnames
 surplice
 surplices
 surplus
@@ -57716,6 +57791,7 @@ tawer
 tawers
 tawing
 tawnier
+tawny
 taws
 tawse
 tawses
@@ -58254,8 +58330,12 @@ testable
 testacies
 testacy
 testae
+testament
+testaments
 testate
 testates
+testator
+testators
 testatrices
 testatrix
 testatrixes
@@ -59458,6 +59538,8 @@ toric
 torment
 tormenting
 tormentor
+tormentors
+torments
 torn
 tornadic
 tornado
@@ -59473,6 +59555,7 @@ torpidly
 torpor
 torque
 torques
+torquey
 torquiest
 torquing
 tors
@@ -59653,6 +59736,7 @@ townsite
 townsites
 townsman
 townswoman
+townswomen
 townward
 towny
 towpath
@@ -59683,6 +59767,7 @@ toyons
 toys
 toyshop
 toyshops
+toytown
 tra
 trabeated
 trabeation
@@ -63550,6 +63635,7 @@ wasters
 wastes
 wastewater
 wastlins
+wastmost
 wat
 watch
 watcha
@@ -63767,6 +63853,7 @@ westies
 westlin
 westlins
 westly
+westmost
 wet
 weta
 wetas
@@ -64187,6 +64274,7 @@ woe
 woebegone
 woeful
 woes
+woesome
 wogs
 wok
 woke
@@ -64290,7 +64378,11 @@ worms
 worn
 wors
 worse
+worsement
+worsements
 worsen
+worsenment
+worsenments
 worsens
 worser
 worsered
@@ -64427,6 +64519,7 @@ wryly
 wudu
 wunga
 wurp
+wursom
 wurst
 wursts
 wushu
@@ -64480,6 +64573,7 @@ yakuza
 yakuzas
 yam
 yamen
+yamens
 yampa
 yampas
 yampier
@@ -64531,6 +64625,7 @@ yawls
 yawn
 yawner
 yawnier
+yawns
 yawny
 yawp
 yawper
@@ -64571,6 +64666,7 @@ yelps
 yen
 yens
 yenta
+yentas
 yeoman
 yeomanry
 yeomen
@@ -64697,6 +64793,7 @@ yow
 yowl
 yowled
 yowley
+yowsa
 yoyo
 yoyoed
 yoyoes
