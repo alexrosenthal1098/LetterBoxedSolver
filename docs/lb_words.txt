@@ -458,6 +458,7 @@ aceramic
 acerb
 acerbate
 acerbic
+acerbly
 acerebral
 acerola
 acerose
@@ -3360,6 +3361,7 @@ apiculturists
 apiece
 aping
 apish
+apishly
 aplanat
 aplanatic
 aplanats
@@ -3950,6 +3952,8 @@ askable
 askance
 askant
 askar
+askarel
+askarels
 askari
 askaris
 askars
@@ -4644,6 +4648,8 @@ babyfy
 babygym
 babygyms
 babying
+babyish
+babyishly
 babymama
 babymamas
 babysat
@@ -4662,6 +4668,7 @@ bachelor
 baches
 baching
 back
+backache
 backarc
 backbar
 backbars
@@ -4673,13 +4680,21 @@ backchat
 backcloth
 backcomb
 backed
+backer
+backers
 backhaul
+backie
 backlist
 backlists
 backlit
 backlot
 backlots
 backpack
+backpacker
+backpackers
+backpacks
+backpay
+backpays
 backrub
 backrubs
 backs
@@ -5026,6 +5041,7 @@ barbets
 barbican
 barbicans
 barbicel
+barbicels
 barbie
 barbies
 barbital
@@ -5049,6 +5065,9 @@ bardo
 bards
 bardy
 bare
+bareback
+barebacker
+barebackers
 bareboat
 barebones
 bared
@@ -5183,6 +5202,7 @@ bashas
 bashaw
 bashaws
 basher
+bashers
 bashes
 bashful
 bashing
@@ -5385,6 +5405,8 @@ beardy
 bearer
 bearers
 bearing
+bearish
+bearishly
 bearlike
 bearpit
 bears
@@ -5786,7 +5808,12 @@ bicepses
 bichir
 bichirs
 bichon
+bicker
+bickerer
+bickerers
+bickers
 bickies
+bicky
 bicolor
 bicolour
 biconcave
@@ -6028,6 +6055,7 @@ bipartisan
 bipartite
 biped
 bipedal
+biphasic
 biphobia
 biphobias
 biplane
@@ -6221,6 +6249,8 @@ blazon
 blazonry
 bleach
 bleached
+bleacher
+bleachers
 bleah
 bleak
 bleaker
@@ -6886,6 +6916,7 @@ brace
 bracelet
 bracer
 bracero
+bracers
 braces
 brachial
 brachiate
@@ -6893,6 +6924,7 @@ brachium
 brachiums
 braciola
 brack
+brackish
 bracks
 braconid
 bract
@@ -6980,6 +7012,7 @@ brasco
 brascos
 brash
 brasher
+brashly
 brat
 brats
 brava
@@ -7106,6 +7139,7 @@ bribery
 bribes
 bribing
 brick
+brickie
 bricks
 bricoleur
 bridal
@@ -7171,6 +7205,7 @@ briskest
 brisket
 briskets
 brisking
+briskly
 brisks
 bristle
 bristled
@@ -7710,6 +7745,7 @@ cabanas
 cabaret
 cabarets
 caber
+cabers
 cabezon
 cabildo
 cabin
@@ -8172,6 +8208,7 @@ canzoni
 caoutchouc
 cap
 capable
+capably
 capacitance
 capacitate
 capacitating
@@ -8264,6 +8301,8 @@ captors
 capture
 capturer
 capuchin
+capybara
+capybaras
 car
 carabao
 carabaos
@@ -8568,8 +8607,11 @@ casevaced
 casevacs
 casework
 cash
+cashable
 cashback
 cashes
+cashier
+cashiers
 casino
 casinos
 casita
@@ -9196,6 +9238,8 @@ chapes
 chaplain
 chaplet
 chapman
+chaprasi
+chaprasis
 chaps
 chapstick
 chapsticks
@@ -9326,7 +9370,9 @@ cheating
 cheats
 cheba
 check
+checkable
 checker
+checkers
 checkin
 checks
 checkup
@@ -9847,6 +9893,7 @@ cinquain
 cinque
 cion
 cipher
+ciphers
 cipolin
 circa
 circadian
@@ -10133,7 +10180,13 @@ clercs
 clergy
 cleric
 clerical
+clerics
+clerisy
 clerk
+clerkish
+clerkly
+clerks
+clerkship
 cleuch
 cleugh
 clever
@@ -15096,6 +15149,7 @@ earache
 earaches
 earbash
 earbasher
+earbashers
 earbashes
 earclip
 earcup
@@ -15120,7 +15174,9 @@ earlily
 earlobe
 earlock
 earls
+earlship
 early
+earlyish
 earmark
 earmarks
 earn
@@ -15138,6 +15194,7 @@ earpiece
 earpieces
 ears
 earsay
+earsays
 earth
 earthboard
 earthen
@@ -15324,6 +15381,7 @@ ecotoxic
 ecotype
 ecozone
 ecphrases
+ecphrasis
 ecru
 ecstasy
 ecstatic
@@ -15449,6 +15507,7 @@ eked
 ekes
 eking
 ekphrases
+ekphrasis
 elaborate
 elaborating
 elaborator
@@ -20990,10 +21049,12 @@ hachures
 hacienda
 haciendado
 hack
+hackable
 hackathon
 hackathons
 hacked
 hacker
+hackers
 hacket
 hackia
 hackias
@@ -21004,7 +21065,11 @@ hackiest
 hackish
 hackit
 hackle
+hackleback
+hacklebacks
 hackled
+hackler
+hacklers
 hackly
 hackney
 hacks
@@ -21640,6 +21705,7 @@ hearken
 hearkened
 hearkens
 hears
+hearsay
 hearse
 hearses
 heart
@@ -21709,6 +21775,7 @@ hebetude
 heck
 heckle
 heckler
+hecklers
 hectarage
 hectare
 hectares
@@ -22034,6 +22101,7 @@ hibernation
 hic
 hick
 hickey
+hickeys
 hickory
 hicks
 hid
@@ -22110,6 +22178,7 @@ hijinks
 hike
 hiked
 hiker
+hikers
 hikes
 hikoi
 hikois
@@ -22983,6 +23052,8 @@ ibises
 ibn
 ibogaine
 ice
+icebreaker
+icebreakers
 icecap
 icecaps
 icecream
@@ -24484,6 +24555,8 @@ ipso
 iracund
 irade
 irades
+irascible
+irascibly
 irate
 irately
 ire
@@ -25270,6 +25343,7 @@ kewpie
 kewpies
 key
 keyaki
+keyakis
 keycard
 keycards
 keyed
@@ -25332,6 +25406,7 @@ kibitz
 kibla
 kiblah
 kick
+kickable
 kicked
 kicker
 kickers
@@ -25359,6 +25434,7 @@ kieve
 kieves
 kif
 kikay
+kikays
 kikoi
 kikois
 kikuyu
@@ -26485,6 +26561,7 @@ lech
 leche
 leched
 lecher
+lechers
 lechery
 leching
 lechon
@@ -37890,12 +37967,14 @@ pacier
 paciest
 pacing
 pack
+packable
 package
 packager
 packages
 packcloth
 packer
 packeries
+packers
 packet
 packhal
 packie
@@ -38557,6 +38636,7 @@ papirosa
 papirosas
 papish
 papisher
+papishers
 papishes
 papism
 papist
@@ -38568,6 +38648,7 @@ papolatry
 papouche
 papri
 paprika
+paprikash
 papris
 paps
 papsak
@@ -38702,6 +38783,7 @@ paranormal
 paranotal
 paranym
 parapack
+parapacks
 parapak
 paraparesis
 paraparetic
@@ -38714,12 +38796,14 @@ parapente
 parapenter
 parapet
 paraph
+paraphasic
 parapherna
 paraphilia
 paraphiliac
 paraphilic
 paraphimosis
 paraphonic
+paraphrasable
 paraphrase
 paraphraser
 paraphrases
@@ -38766,6 +38850,8 @@ parasitic
 parasitise
 parasitises
 parasitism
+paraskier
+paraskiers
 parastas
 parastases
 parastatal
@@ -38796,6 +38882,7 @@ parawing
 paraxial
 parbleu
 parbreak
+parbreaks
 parc
 parcel
 parcenary
@@ -38818,6 +38905,7 @@ pardons
 pards
 pare
 parecbases
+parecbasis
 pared
 pareidolia
 pareira
@@ -38897,15 +38985,18 @@ parka
 parkas
 parker
 parkerite
+parkership
 parkie
 parkier
 parkies
 parkiest
 parkin
 parking
+parkish
 parkland
 parklands
 parklet
+parkly
 parks
 parkway
 parkways
@@ -38918,6 +39009,7 @@ parle
 parled
 parles
 parley
+parleys
 parling
 parloir
 parlor
@@ -38979,6 +39071,7 @@ parsecs
 parser
 parsers
 parses
+parsley
 parsnip
 parsnips
 parson
@@ -39348,6 +39441,8 @@ pay
 payable
 payables
 payasam
+payback
+paybacks
 paybob
 paybobs
 paycheck
@@ -40448,6 +40543,8 @@ phimosis
 phiran
 phis
 phish
+phisher
+phishers
 phisiog
 phit
 phiz
@@ -40652,6 +40749,8 @@ phrator
 phratry
 phreak
 phreaker
+phreakers
+phreaks
 phrenic
 phrenograph
 phrenotropic
@@ -40703,6 +40802,8 @@ physiatry
 physic
 physicist
 physicists
+physicker
+physickers
 physics
 physio
 physiog
@@ -40773,6 +40874,8 @@ pica
 picador
 picamar
 picante
+picarel
+picarels
 picarian
 picaro
 picas
@@ -40785,9 +40888,15 @@ pichis
 piciform
 picine
 pick
+pickaback
+pickabacks
+pickable
 pickage
 pickages
 picker
+pickerel
+pickerels
+pickers
 picket
 picketline
 pickey
@@ -40796,6 +40905,8 @@ pickier
 pickies
 pickiest
 pickle
+pickler
+picklers
 pickney
 picks
 pickthank
@@ -40926,11 +41037,14 @@ pikaus
 pike
 pikel
 pikelet
+pikels
 pikeman
 pikeperch
 piker
 pikers
 pikes
+pikey
+pikeys
 piki
 piking
 pikipiki
@@ -41348,6 +41462,8 @@ pisher
 pishers
 pishkun
 pishpash
+piskey
+piskeys
 piskies
 piskun
 piskuns
@@ -41750,6 +41866,7 @@ plaza
 plea
 pleach
 pleacher
+pleachers
 plead
 pleadable
 pleaded
@@ -41779,9 +41896,11 @@ pleats
 pleb
 plebe
 plebes
+plebish
 plebs
 plec
 pleck
+plecks
 plectra
 pled
 pledge
@@ -42056,6 +42175,7 @@ pluvius
 pluviuses
 ply
 plyer
+plyers
 plym
 plz
 pneu
@@ -43226,9 +43346,12 @@ praying
 prays
 pre
 preach
+preachable
 preacher
 preacheries
 preacherly
+preachers
+preachership
 preachery
 preaches
 preachier
@@ -43633,13 +43756,17 @@ priciest
 pricing
 prick
 pricker
+prickers
 pricket
 prickle
+prickleback
+pricklebacks
 pricklet
 pricklets
 pricklier
 prickly
 pricks
+pricky
 pricy
 pride
 prided
@@ -45575,6 +45702,8 @@ racemisms
 racemize
 racemizes
 racer
+racerback
+racerbacks
 racers
 races
 racetrack
@@ -45584,6 +45713,7 @@ raceway
 raceways
 rache
 rachel
+rachels
 raches
 rachial
 rachidial
@@ -45896,6 +46026,7 @@ rakia
 rakias
 raking
 rakish
+rakishly
 rakism
 rakisms
 rakiya
@@ -46233,6 +46364,8 @@ rascalries
 rascalry
 rascals
 rasceta
+raschel
+raschels
 rase
 rased
 rases
@@ -46242,6 +46375,7 @@ rashers
 rashes
 rashest
 rashful
+rashly
 rasing
 rasmalai
 rasorial
@@ -46499,8 +46633,10 @@ reabridges
 reabsorb
 reabsorbs
 reach
+reachable
 reached
 reacher
+reachers
 reaches
 reaching
 reachy
@@ -46651,6 +46787,8 @@ reawakes
 reawoke
 rebab
 rebabs
+reback
+rebacks
 rebadge
 rebadged
 rebail
@@ -46690,6 +46828,7 @@ rebeaten
 rebeats
 rebec
 rebeck
+rebecks
 rebecome
 rebecomes
 rebecs
@@ -46874,6 +47013,7 @@ recharters
 rechaud
 recheat
 recheck
+rechecks
 recherche
 rechew
 rechewed
@@ -46889,6 +47029,7 @@ recidivities
 recipe
 recipes
 recipher
+reciphers
 recipience
 recipiencies
 recipient
@@ -49652,6 +49793,7 @@ ricinus
 rick
 ricked
 ricker
+rickers
 ricket
 ricketed
 ricketic
@@ -49660,6 +49802,7 @@ ricketly
 rickets
 rickety
 rickey
+rickeys
 ricking
 rickle
 rickley
@@ -49669,6 +49812,7 @@ rickly
 rickrack
 ricks
 ricksha
+rickshas
 rickyard
 ricochet
 ricochets
@@ -49971,6 +50115,7 @@ rishons
 rishta
 rishtas
 risible
+risibly
 rising
 risings
 risk
@@ -49984,6 +50129,7 @@ riskish
 risks
 risktaker
 risktakers
+risky
 risoluto
 risorial
 risorius
@@ -52973,8 +53119,12 @@ sexy
 sez
 sezes
 shabash
+shabrack
+shabracks
 shack
+shackle
 shacks
+shacky
 shad
 shadchan
 shadchans
@@ -53003,10 +53153,13 @@ shaikhs
 shaitan
 shaitans
 shaka
+shakable
 shakas
 shake
+shakeable
 shaken
 shaker
+shakers
 shakes
 shakeup
 shakeups
@@ -53064,15 +53217,18 @@ shanti
 shanties
 shanty
 shantyman
+shapable
 shape
 shaped
 shaper
 shapes
 shapka
 shapkas
+sharable
 sharara
 shararas
 share
+shareable
 sharer
 sharers
 shares
@@ -53087,6 +53243,9 @@ shark
 sharks
 sharkskin
 sharp
+sharpie
+sharpish
+sharply
 sharps
 sharpy
 shart
@@ -53176,6 +53335,7 @@ shiatsu
 shicer
 shicers
 shicker
+shickers
 shied
 shield
 shielded
@@ -53193,6 +53353,7 @@ shikar
 shikara
 shikaras
 shikari
+shikaris
 shikars
 shikra
 shikras
@@ -53217,12 +53378,14 @@ shinty
 shiny
 shiok
 ship
+shipbreaker
 ships
 shipshape
 shire
 shires
 shirk
 shirker
+shirkers
 shirks
 shirt
 shirtier
@@ -53383,6 +53546,7 @@ shrewish
 shrews
 shriek
 shrieker
+shriekers
 shrieks
 shrieval
 shrift
@@ -53461,6 +53625,8 @@ sibilated
 sibilates
 sibs
 sibship
+sibyl
+sibyls
 sic
 sice
 sices
@@ -53483,6 +53649,7 @@ sickle
 sickles
 sicklier
 sickliest
+sickly
 sicko
 sickos
 sickout
@@ -53860,6 +54027,7 @@ skein
 skeins
 skelf
 skelfs
+skelp
 skene
 skenes
 skenkle
@@ -64556,6 +64724,7 @@ yachties
 yachts
 yachtsman
 yack
+yacker
 yacks
 yada
 yag
