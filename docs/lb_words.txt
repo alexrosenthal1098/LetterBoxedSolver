@@ -499,6 +499,7 @@ acetonate
 acetone
 acetonemia
 acetophenone
+acetose
 acetum
 acetums
 acetyl
@@ -536,6 +537,7 @@ achime
 achimenes
 aching
 achiote
+achiotes
 achiral
 achkan
 achkans
@@ -1566,6 +1568,7 @@ ageusics
 ageustia
 ageustias
 agey
+aghast
 agi
 agidi
 agidis
@@ -1644,6 +1647,7 @@ ago
 agog
 agogic
 agogical
+agogics
 agogo
 agogos
 agon
@@ -4355,6 +4359,7 @@ autodidactic
 autodidacts
 autoflare
 autogas
+autogases
 autogeny
 autogony
 autograph
@@ -7896,6 +7901,7 @@ cage
 cages
 cagey
 cagier
+cagiest
 caging
 cagoule
 cagy
@@ -9559,6 +9565,7 @@ chief
 chiefs
 chignon
 chigoe
+chigoes
 chihuahua
 chihuahuas
 chikan
@@ -19638,6 +19645,8 @@ gasohol
 gasp
 gasps
 gaspy
+gasthaus
+gasthauses
 gastrostomy
 gat
 gate
@@ -20003,6 +20012,8 @@ gheraos
 ghi
 ghibli
 ghis
+ghost
+ghosts
 ghoul
 ghrelin
 ghusl
@@ -20510,6 +20521,7 @@ gosh
 gosht
 got
 gotcha
+gotchas
 goth
 gothic
 goths
@@ -20957,6 +20969,7 @@ guardant
 guarded
 guars
 guava
+guavas
 guayule
 gub
 gubs
@@ -21097,6 +21110,7 @@ gusty
 gut
 gutful
 gutfuls
+gutkha
 guts
 gutser
 gutsers
@@ -21717,6 +21731,7 @@ hauteur
 hav
 havable
 havage
+havages
 havala
 havan
 havans
@@ -22451,6 +22466,7 @@ hoach
 hoached
 hoaches
 hoagie
+hoagies
 hoagy
 hoar
 hoard
@@ -22500,6 +22516,8 @@ hoes
 hog
 hogan
 hogans
+hogchoke
+hogchokes
 hogfish
 hogherd
 hoglet
@@ -22809,6 +22827,8 @@ hot
 hotbed
 hotbeds
 hotbox
+hotcake
+hotcakes
 hotch
 hotcha
 hotched
@@ -24768,6 +24788,8 @@ ironworker
 ironworkers
 ironwort
 irony
+isagogic
+isagogics
 isatin
 ischaemia
 ischaemic
@@ -25742,6 +25764,7 @@ kitset
 kitsets
 kiva
 kivas
+kiviut
 kiwi
 kiwis
 kiyaki
@@ -35681,6 +35704,7 @@ oak
 oaked
 oaken
 oakier
+oakiest
 oakleaf
 oakling
 oaks
@@ -52427,6 +52451,7 @@ schismatic
 schismatics
 schisms
 schist
+schistose
 schists
 schlub
 schlubs
@@ -58224,6 +58249,7 @@ tbsp
 tch
 tchagra
 tchotchke
+tchotchkes
 tea
 teabag
 teabags
@@ -58994,9 +59020,11 @@ thickens
 thicker
 thickest
 thicket
+thickets
 thickish
 thickly
 thicko
+thickos
 thief
 thieve
 thievery
@@ -62815,6 +62843,7 @@ vague
 vaguely
 vaguer
 vaguest
+vaguish
 vagus
 vaid
 vaids
@@ -63657,10 +63686,13 @@ vodkas
 vodun
 voe
 voes
+voetsak
+voetsek
 vog
 vogue
 vogues
 voguing
+voguish
 voice
 voiced
 voicelet
