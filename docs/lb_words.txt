@@ -589,6 +589,7 @@ acidulate
 acidulated
 acidulation
 acidulent
+acidulous
 aciduric
 acidy
 acierage
@@ -3605,6 +3606,7 @@ ardente
 ardor
 ardors
 ardour
+ardours
 arduous
 are
 area
@@ -7875,6 +7877,7 @@ cadis
 cadmium
 cadre
 cads
+caducous
 caeca
 caecal
 caecilian
@@ -8538,6 +8541,7 @@ carlines
 carling
 carlins
 carload
+carloads
 carls
 carmaker
 carmakers
@@ -11332,6 +11336,7 @@ coquet
 coquets
 coqui
 coquina
+coquis
 cor
 coracle
 coracoid
@@ -11583,6 +11588,7 @@ cougher
 coughs
 could
 coulda
+couldas
 couldst
 coulibiac
 coulibiacs
@@ -11660,6 +11666,7 @@ covine
 coving
 cow
 coward
+cowards
 cowbane
 cowed
 cower
@@ -11669,6 +11676,7 @@ cowgirl
 cowing
 cowl
 cowlick
+cowlicks
 cowls
 cowman
 cowmen
@@ -14036,6 +14044,7 @@ dilatorily
 dilatory
 dildo
 dildoes
+dildos
 diligent
 diluent
 dilute
@@ -14452,6 +14461,7 @@ doctorate
 doctored
 doctors
 docu
+docus
 dodge
 dodged
 dodgem
@@ -14684,6 +14694,7 @@ doudou
 dough
 doughy
 doula
+doulas
 doum
 dour
 dourly
@@ -15013,6 +15024,8 @@ duchy
 duck
 ducked
 ducks
+duckwalk
+duckwalks
 duco
 duct
 ductal
@@ -25774,6 +25787,7 @@ klaxon
 klepht
 kleptomania
 klick
+klicks
 klieg
 klik
 kliket
@@ -27096,6 +27110,7 @@ lid
 lidar
 lido
 lidocaine
+lidos
 lids
 lie
 lied
@@ -27424,6 +27439,7 @@ liquidi
 liquidity
 liquidly
 liquids
+liquidus
 liquify
 liquor
 liquoring
@@ -27727,6 +27743,7 @@ loculations
 locule
 locules
 loculi
+loculicidal
 loculous
 loculus
 locum
@@ -35722,6 +35739,7 @@ oarfish
 oarfishes
 oaring
 oarlock
+oarlocks
 oarman
 oarmen
 oars
@@ -36042,6 +36060,7 @@ octyne
 ocular
 ocularist
 ocularists
+oculars
 oculi
 oculist
 oculistic
@@ -36052,6 +36071,7 @@ oculonasal
 oculus
 oda
 odah
+odalisk
 odas
 ode
 odea
@@ -45513,6 +45533,8 @@ qadi
 qadis
 qanat
 qanats
+qasida
+qasidas
 qat
 qats
 qena
@@ -45633,6 +45655,7 @@ quayful
 quayfuls
 quays
 qubit
+qudlik
 que
 quean
 queans
@@ -45686,6 +45709,7 @@ quickenance
 quickener
 quicker
 quickhatch
+quicks
 quid
 quidam
 quidams
@@ -45979,8 +46003,12 @@ radical
 radicand
 radication
 radices
+radicicolous
 radicidation
 radicle
+radicula
+radicular
+radiculas
 radif
 radio
 radiobe
@@ -46140,6 +46168,7 @@ railmotor
 railodoc
 railodock
 railodok
+railodoks
 railplane
 railroad
 railroaded
@@ -52088,6 +52117,7 @@ sarcopenia
 sard
 sardar
 sardars
+sardius
 sarge
 sari
 sarin
@@ -55775,6 +55805,8 @@ squeakers
 squeaks
 squib
 squibs
+squick
+squicks
 squid
 squids
 squinch
@@ -63917,6 +63949,7 @@ wakers
 wakes
 waking
 waldo
+waldos
 wale
 wales
 wali
@@ -63933,9 +63966,11 @@ walkists
 walklet
 walklets
 walkout
+walks
 walkway
 walnut
 walnuts
+walrus
 waltz
 waltzer
 waltzing
@@ -64012,6 +64047,7 @@ wariest
 warily
 waring
 warlock
+warlocks
 warlord
 warlords
 warm
@@ -64459,6 +64495,7 @@ wick
 wicker
 wicket
 wickets
+wicks
 wid
 wide
 widen
@@ -64518,6 +64555,8 @@ wiki
 wikis
 wilco
 wild
+wildcard
+wildcards
 wilded
 wilder
 wildered
