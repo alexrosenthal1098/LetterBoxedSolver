@@ -441,6 +441,7 @@ aced
 acedia
 acedies
 acedy
+acelomate
 acenaphthene
 acenaphthylene
 acene
@@ -492,12 +493,15 @@ acetin
 acetins
 acetoacetate
 acetobacter
+acetoin
 acetometer
 acetometers
 acetonaemia
+acetonamine
 acetonate
 acetone
 acetonemia
+acetonic
 acetophenone
 acetose
 acetum
@@ -675,6 +679,7 @@ acral
 acrania
 acranial
 acranias
+acraniate
 acrasia
 acrasial
 acrasies
@@ -789,6 +794,7 @@ actinins
 actinium
 actinoid
 actinolite
+actinolitic
 actinology
 actinometer
 actinon
@@ -807,6 +813,8 @@ activases
 activate
 activated
 activates
+activation
+activator
 active
 actively
 actives
@@ -1255,6 +1263,7 @@ aegis
 aegises
 aegrotat
 aegrotats
+aelotropic
 aeluroid
 aeneous
 aeolian
@@ -1263,6 +1272,7 @@ aeoline
 aeolipile
 aeolist
 aeolists
+aeolotropic
 aeon
 aeonial
 aeonian
@@ -2614,6 +2624,10 @@ amebas
 amebiasis
 amebic
 ameboid
+ameliorate
+amelioration
+ameliorative
+ameliorator
 amen
 amenable
 amend
@@ -2968,6 +2982,7 @@ animatics
 animation
 animatism
 animatisms
+animative
 animato
 animator
 animatos
@@ -3712,6 +3727,7 @@ armament
 armamentarium
 armarian
 armarians
+armatole
 armature
 armatures
 armband
@@ -3737,6 +3753,7 @@ armigers
 armil
 armils
 arming
+armipotence
 armlet
 armlets
 armload
@@ -8080,6 +8097,7 @@ came
 camel
 camelid
 camels
+cameltoe
 cameo
 cameos
 camera
@@ -8389,6 +8407,7 @@ carafe
 caragana
 caramba
 carambola
+caramel
 carapace
 carat
 carats
@@ -8547,6 +8566,7 @@ carmaker
 carmakers
 carman
 carmen
+carminative
 carmine
 carn
 carnage
@@ -8567,6 +8587,7 @@ carnies
 carnita
 carnitas
 carnival
+carnotite
 carny
 carob
 carobs
@@ -8935,6 +8956,7 @@ caviling
 cavils
 caving
 cavitary
+cavitation
 cavities
 cavity
 cavolo
@@ -9000,6 +9022,7 @@ celiac
 celiacs
 celibate
 celom
+celomate
 celomic
 celoms
 cels
@@ -10375,6 +10398,7 @@ clonality
 clone
 cloneable
 cloned
+clonemate
 cloner
 cloners
 clones
@@ -11761,6 +11785,7 @@ craned
 cranes
 crania
 cranial
+craniate
 craning
 craniosacral
 craniotomy
@@ -15425,6 +15450,7 @@ eclecticism
 eclectics
 eclipse
 eclipses
+ecliptic
 eclogite
 eclogue
 eclogues
@@ -15665,6 +15691,7 @@ electrician
 electricity
 electrifier
 electro
+electroactive
 electrocoat
 electrocortin
 electrocortins
@@ -15674,7 +15701,10 @@ electrogilt
 electroglow
 electrolier
 electrologic
+electromatic
 electromer
+electromotion
+electromotive
 electromotor
 electron
 electronic
@@ -15684,8 +15714,13 @@ electronicists
 electronics
 electrons
 electronvolt
+electropop
+electroporate
+electroporation
+electroporator
 electroreceptor
 electros
+electrotactic
 electrotin
 electrotins
 electrotint
@@ -15693,6 +15728,7 @@ electrotints
 electrotonic
 electrotonicities
 electrotractor
+electrotropic
 electrowin
 elects
 elegance
@@ -15736,6 +15772,7 @@ elhi
 elicit
 elicitation
 elicited
+elicitor
 elicits
 elide
 elided
@@ -15746,6 +15783,8 @@ eligibly
 eliminable
 eliminate
 eliminates
+elimination
+eliminator
 elision
 elisions
 elite
@@ -15793,6 +15832,7 @@ elves
 elvish
 elytra
 emaciated
+emaciation
 email
 emailable
 emailed
@@ -15955,6 +15995,7 @@ empowering
 emprise
 emprises
 empt
+emptain
 empted
 emptied
 emptier
@@ -16428,6 +16469,7 @@ envelopes
 envelops
 envenom
 envenomate
+envenomation
 envenoms
 enviable
 envied
@@ -16459,6 +16501,7 @@ eoline
 eolist
 eolith
 eoliths
+eolotropic
 eon
 eonial
 eonian
@@ -16535,6 +16578,7 @@ epigyny
 epilate
 epilated
 epilator
+epileptic
 epilimnia
 epilithic
 epilog
@@ -23575,6 +23619,7 @@ impertinent
 impest
 impetigo
 impetrate
+impetration
 impetuous
 impetus
 impetuses
@@ -23608,6 +23653,7 @@ impolitic
 impoliticly
 import
 importance
+importation
 importer
 importing
 imports
@@ -23664,6 +23710,8 @@ inability
 inaction
 inactivate
 inactivated
+inactivation
+inactivator
 inactive
 inalienable
 inalienably
@@ -23719,6 +23767,9 @@ incent
 incentre
 incents
 incept
+inception
+inceptive
+inceptor
 incepts
 incest
 inch
@@ -26933,10 +26984,14 @@ lepers
 leporine
 lepra
 leproid
+leprolin
 leproma
+lepromin
+lepromine
 lepta
 leptin
 lepton
+leptonic
 leptotene
 les
 lesbian
@@ -27007,6 +27062,7 @@ levitate
 levitated
 levitates
 levitation
+levitator
 levities
 levity
 levs
@@ -27277,6 +27333,7 @@ limitate
 limitated
 limitates
 limitation
+limitative
 limited
 limiter
 limiters
@@ -27321,6 +27378,7 @@ linearises
 linearize
 linearizer
 linearizing
+lineation
 lined
 linein
 lineman
@@ -27381,6 +27439,7 @@ linocut
 linocuts
 linoleate
 linoleic
+linolenate
 linolenic
 linoprint
 linos
@@ -28407,6 +28466,7 @@ macrodont
 macrodontia
 macroeconomic
 macroform
+macromelia
 macromineral
 macromodel
 macromodels
@@ -28414,6 +28474,7 @@ macromolecule
 macromolecules
 macron
 macrons
+macropine
 macropod
 macropodid
 macroradical
@@ -29061,6 +29122,7 @@ manoao
 manoaos
 manoir
 manoirs
+manoletina
 manometer
 manometry
 manor
@@ -29393,6 +29455,7 @@ marmem
 marmems
 marmite
 marmites
+marmolite
 marmoreal
 marmorealize
 marmorean
@@ -29593,6 +29656,8 @@ matchup
 matchups
 mate
 mated
+matelot
+matelote
 mater
 materia
 material
@@ -30091,6 +30156,9 @@ melilot
 melilots
 melinite
 melinites
+meliorate
+melioration
+meliorative
 meliorator
 melisma
 melitose
@@ -30112,9 +30180,12 @@ melomania
 melomaniac
 melomanic
 melon
+melonite
 melons
+melopiano
 melopoeia
 melos
+melotrope
 mels
 melshed
 melt
@@ -30257,6 +30328,7 @@ mentums
 menu
 menus
 menyanthin
+meonic
 meontic
 meow
 meowing
@@ -30265,6 +30337,7 @@ mepacrine
 mephitic
 mephitis
 mephitises
+mepivacaine
 meq
 mer
 meranti
@@ -30490,9 +30563,11 @@ metabiosis
 metabolite
 metabolome
 metabolon
+metacarpi
 metacharacter
 metacharacters
 metacone
+metacromion
 metadata
 metadyne
 metage
@@ -30570,6 +30645,7 @@ metatheses
 metathesis
 metathesise
 metathesised
+metatonic
 metatonie
 metaxite
 metaxylem
@@ -30678,6 +30754,8 @@ metrizes
 metro
 metron
 metronome
+metronomic
+metropole
 metropolitan
 metropolitanate
 metros
@@ -30750,6 +30828,7 @@ mic
 mica
 micaceous
 micacious
+micanite
 mice
 michaelite
 michi
@@ -30759,6 +30838,7 @@ micks
 micrite
 micritic
 micro
+microanatomic
 microbal
 microbalance
 microbarom
@@ -30796,6 +30876,7 @@ microdont
 microdontic
 microdot
 microeconomic
+microelectronic
 microlite
 microliter
 microliters
@@ -30806,7 +30887,9 @@ microliths
 microlitic
 microlitre
 microlitres
+microloan
 micromania
+micromelia
 micromere
 micromeres
 micromeric
@@ -30821,15 +30904,19 @@ micrometre
 micrometres
 micromineral
 micromolar
+micromole
 micromorph
 micromorphic
 micromorphs
 micromotion
 micromotor
 micron
+micronation
 micronize
 micronizer
 microns
+micropipet
+micropolitan
 micropolitical
 microray
 microrays
@@ -30851,6 +30938,7 @@ microsomal
 microsome
 microsomes
 microsomia
+microtine
 microtiter
 microtitre
 microtome
@@ -30861,6 +30949,7 @@ microtomist
 microtomists
 microtomy
 microtonal
+microtone
 microtron
 microtrons
 microunit
@@ -31043,7 +31132,10 @@ militate
 militated
 militates
 militia
+militiaman
+militiamen
 militias
+militician
 milium
 milk
 milken
@@ -31071,6 +31163,7 @@ miltz
 miltzes
 milver
 milvers
+milvine
 mim
 mimation
 mimbar
@@ -32001,6 +32094,7 @@ moler
 moles
 molest
 molests
+moletronic
 molie
 molies
 molimen
@@ -32029,6 +32123,7 @@ molto
 molts
 molue
 molues
+molvi
 moly
 mom
 mombin
@@ -32156,6 +32251,7 @@ monoanionic
 monoanions
 monoao
 monoaos
+monoatomic
 monoazo
 monobath
 monobaths
@@ -32325,6 +32421,7 @@ monostiches
 monostome
 monostomes
 monotechnic
+monotelic
 monoterpene
 monotic
 monotint
@@ -32550,6 +32647,7 @@ morulation
 moruloid
 moruti
 morutis
+morvenite
 morwong
 mory
 mosaic
@@ -32629,7 +32727,10 @@ moting
 motion
 motioned
 motioning
+motivate
 motivating
+motivation
+motivative
 motivator
 motive
 motived
@@ -32649,6 +32750,7 @@ motorboat
 motorbus
 motorcamp
 motorcar
+motorcaravan
 motordom
 motordrome
 motored
@@ -33994,6 +34096,7 @@ necromant
 necromantic
 necronite
 necrophage
+necropole
 necropolitan
 necropsy
 necroscopic
@@ -34153,6 +34256,7 @@ neophytic
 neoprene
 neosa
 neosia
+neotectonic
 neotene
 neotenes
 neotenic
@@ -34193,6 +34297,7 @@ nepionic
 nepotal
 nepotation
 nepotations
+nepotic
 nepotist
 nepotists
 neptunite
@@ -34802,6 +34907,7 @@ nius
 nival
 nivas
 nivases
+nivation
 nivel
 nivels
 nivenite
@@ -34900,6 +35006,7 @@ noel
 noels
 noema
 noemas
+noematic
 noeme
 noemes
 noes
@@ -34975,6 +35082,7 @@ nominalizer
 nominate
 nominatim
 nomination
+nominative
 nominator
 nominies
 nominy
@@ -35105,6 +35213,7 @@ nonpast
 nonpasts
 nonpayer
 nonpayers
+nonpenetrative
 nonperson
 nonpersons
 nonracial
@@ -35195,6 +35304,7 @@ normal
 normalien
 normalize
 normalizer
+normative
 normcore
 normie
 normies
@@ -36146,6 +36256,7 @@ oenochoes
 oenological
 oenology
 oenomania
+oenomaniac
 oenomel
 oenomels
 oer
@@ -36550,6 +36661,7 @@ onomasts
 onomatomania
 onomatope
 onomatopoeia
+onomatopoetic
 onramp
 onroad
 onrush
@@ -36664,6 +36776,7 @@ opilionid
 opinable
 opinant
 opinants
+opinative
 opine
 opined
 opiner
@@ -36676,7 +36789,10 @@ opining
 opinion
 opinionaire
 opinional
+opinionate
 opinionation
+opinionative
+opinionator
 opinionist
 opinionists
 opinions
@@ -36748,6 +36864,7 @@ optionality
 optioning
 options
 opto
+optoelectronic
 optogram
 optograms
 optometer
@@ -36840,6 +36957,7 @@ orc
 orca
 orcas
 orcein
+orcelite
 orch
 orchard
 orchat
@@ -39807,6 +39925,7 @@ pectin
 pectinal
 pectinate
 pectinately
+pectination
 pectineal
 pectines
 pectineus
@@ -39932,6 +40051,7 @@ peltae
 peltage
 peltate
 peltately
+peltation
 pelter
 pelterer
 pelterers
@@ -40019,6 +40139,8 @@ penetrant
 penetrate
 penetrated
 penetrating
+penetration
+penetrative
 penetrator
 penetrometer
 pengle
@@ -40616,8 +40738,11 @@ petrifier
 petrograph
 petroil
 petrol
+petrolene
+petrolic
 petroline
 petronel
+petrotectonic
 pets
 petsat
 petsit
@@ -41133,10 +41258,13 @@ picotite
 picotites
 picots
 picral
+picramate
 picrate
 picric
 picrite
 picritic
+picroilmenite
+picrolite
 picrotin
 picrotins
 picryl
@@ -41291,6 +41419,7 @@ piliation
 pilidium
 pilidiums
 pilifer
+pilimiction
 pilin
 piling
 pilins
@@ -41464,6 +41593,7 @@ pinocytic
 pinocytosis
 pinocytotic
 pinol
+pinole
 pinon
 pinons
 pinout
@@ -42465,7 +42595,9 @@ poduran
 podurid
 podurids
 podus
+poecile
 poem
+poematic
 poemet
 poemets
 poemlet
@@ -42532,6 +42664,7 @@ poietic
 poikilocyte
 poilu
 poilus
+poimenic
 poinciana
 poincianas
 poind
@@ -42600,6 +42733,7 @@ poleis
 poleman
 polemen
 polemic
+polemician
 polemicise
 polemicises
 polemicist
@@ -42617,8 +42751,11 @@ poliadic
 polian
 polianite
 police
+policeman
+policemen
 polices
 policial
+policitation
 policlinic
 policlinics
 policy
@@ -42626,6 +42763,7 @@ poligar
 poliklinik
 poling
 polio
+poliorcetic
 poliphant
 polis
 polisman
@@ -42636,6 +42774,7 @@ politer
 politest
 politic
 political
+politician
 politicise
 politicises
 politicism
@@ -42880,6 +43019,7 @@ ponask
 ponasks
 ponce
 ponceau
+poncelet
 ponces
 poncey
 poncho
@@ -43060,6 +43200,7 @@ pornie
 pornier
 porno
 pornomania
+pornomaniac
 pornos
 pornotopia
 pornotopias
@@ -43468,6 +43609,7 @@ praecoracoid
 praecordia
 praedial
 praelect
+praelection
 praelector
 praeludium
 praenomen
@@ -44177,6 +44319,8 @@ proa
 proach
 proact
 proaction
+proactivator
+proactive
 proacts
 proal
 proamnion
@@ -44318,6 +44462,7 @@ prolated
 prolation
 prole
 proleg
+proleptic
 prolicidal
 prolife
 prolifer
@@ -44355,6 +44500,8 @@ promote
 promoter
 promoters
 promotes
+promotion
+promotive
 promotor
 promotors
 promotrix
@@ -44387,6 +44534,7 @@ pronks
 pronoia
 pronoias
 pronominal
+pronomination
 prononce
 pronotal
 pronotary
@@ -44456,8 +44604,10 @@ prophetry
 propho
 prophos
 propidium
+propination
 propine
 propines
+propionate
 propione
 propionic
 propitiable
@@ -44493,7 +44643,9 @@ proporting
 proportion
 proportional
 proportionality
+proportionate
 proportionating
+proportionative
 proportioner
 proportioning
 proportions
@@ -44609,10 +44761,12 @@ prostatitis
 prosy
 protactic
 protagon
+protamine
 protan
 protanomal
 protanope
 protanopia
+protanopic
 protargol
 protarsus
 protasis
@@ -44624,6 +44778,8 @@ protect
 protectant
 protection
 protectionary
+protectionate
+protective
 protector
 protectorate
 protectorial
@@ -44640,6 +44796,7 @@ protentional
 proteobacteria
 proteome
 proteomes
+proteomic
 proteose
 proteoses
 proter
@@ -44754,6 +44911,7 @@ protract
 protractible
 protractile
 protraction
+protractive
 protractor
 protriaene
 protropin
@@ -46369,6 +46527,7 @@ ranariums
 rance
 rancel
 rancelman
+rancelmen
 rances
 ranch
 ranched
@@ -46708,6 +46867,7 @@ rationalists
 rationality
 rationate
 rationating
+rationative
 rationed
 rationing
 rations
@@ -50755,6 +50915,7 @@ romalis
 romals
 roman
 romance
+romancelet
 romancer
 romancers
 romances
@@ -50985,6 +51146,7 @@ rotatory
 rotavate
 rotavated
 rotavating
+rotavation
 rotavator
 rotavators
 rotaviral
@@ -51001,6 +51163,7 @@ rotiform
 rotini
 rotinis
 rotis
+rotivation
 roto
 rotochute
 rotograph
@@ -58468,8 +58631,10 @@ teleodont
 teleologic
 teleological
 teleometer
+teleonomic
 teleoperate
 teleoperator
+teleoptile
 teleorganic
 teleosis
 teleost
@@ -58483,12 +58648,15 @@ telepic
 teleplastic
 teleplay
 teleport
+teleportation
+teleportative
 teleporter
 teleporting
 teleprint
 teleprinter
 teleprinters
 teleprints
+teleprompt
 telergic
 telergies
 telergy
@@ -58583,6 +58751,7 @@ tempos
 temps
 tempt
 temptable
+temptation
 tempted
 tempter
 tempters
@@ -58858,6 +59027,7 @@ tetrarchy
 tetras
 tetrastich
 tetrastichs
+tetratomic
 tetri
 tetris
 tetrode
@@ -59616,6 +59786,7 @@ titanitic
 titanium
 titanoaugite
 titanohematite
+titanolivine
 titanos
 titanosaur
 titanosaurs
@@ -59883,6 +60054,7 @@ tonearm
 toned
 toneme
 tonemes
+tonemic
 tonepad
 toner
 toners
@@ -60381,6 +60553,7 @@ trampiest
 trampish
 trample
 trampler
+trampoline
 tramps
 trampy
 tramroad
@@ -60891,6 +61064,7 @@ troponin
 tropophyte
 tropophytic
 tropos
+tropotactic
 trot
 troth
 trothful
@@ -62844,6 +63018,7 @@ vacas
 vacate
 vacated
 vacates
+vacation
 vacay
 vacays
 vacs
@@ -62985,6 +63160,7 @@ vapours
 vaquita
 vaquitas
 vara
+varactor
 varas
 varda
 vardo
@@ -63050,6 +63226,8 @@ vatic
 vaticinal
 vaticinate
 vaticinated
+vaticination
+vaticinator
 vatje
 vato
 vatos
