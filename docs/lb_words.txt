@@ -22,6 +22,8 @@ abacuses
 abadjad
 abaft
 abaht
+abaisance
+abaisances
 abaiser
 abaisers
 abajour
@@ -136,6 +138,7 @@ abilitated
 abilitates
 abilities
 ability
+abiotic
 abiotrophy
 abiu
 abius
@@ -287,6 +290,8 @@ abs
 abscise
 abscises
 abscisic
+abscisin
+abscision
 abseil
 abseiled
 abseiler
@@ -295,12 +300,16 @@ abseils
 absence
 absences
 absent
+absentia
+absents
 absinth
 absinthial
 absinthin
 absinthism
 absinthium
 absinths
+absistence
+absistences
 absit
 absolvable
 absonant
@@ -311,12 +320,19 @@ absorbing
 absorbs
 abstain
 abstains
+abstention
+abstentionist
+abstentionists
 absterge
 absterged
 absterges
 absterse
 abstersed
 absterses
+abstinence
+abstinencies
+abstinency
+abstinent
 abstract
 abstracter
 abstractive
@@ -2755,6 +2771,7 @@ anabases
 anabasis
 anabatic
 anabiosis
+anabiotic
 anabolic
 anabolism
 anabranch
@@ -3109,6 +3126,7 @@ antepenultima
 antepenultimas
 antepenultimate
 antepone
+antepones
 anteport
 anteposition
 antepositions
@@ -3185,6 +3203,8 @@ antiasthmatics
 antiatrophic
 antibacterial
 antibiosis
+antibiotic
+antibiotics
 antibody
 antic
 anticancer
@@ -3216,6 +3236,7 @@ antilucan
 antimony
 antinational
 anting
+antinoise
 antinomian
 antinomy
 antipasti
@@ -3315,6 +3336,7 @@ anyroads
 anything
 anythink
 anyway
+anyways
 anywhen
 anywhence
 anywhere
@@ -4675,6 +4697,8 @@ babus
 babushka
 babushkas
 baby
+babycino
+babycinos
 babydom
 babyfy
 babygym
@@ -5212,6 +5236,8 @@ basalts
 basanite
 basanites
 basas
+bascinet
+bascinets
 base
 baseborn
 basecamp
@@ -5263,6 +5289,8 @@ basinets
 basing
 basins
 basis
+basispoint
+basispoints
 bask
 basked
 basking
@@ -5282,6 +5310,7 @@ basters
 bastes
 bastide
 bastides
+bastion
 bastnaesite
 bastnasite
 bat
@@ -5374,6 +5403,8 @@ bayanihan
 bayas
 bayed
 baying
+bayonet
+bayonets
 bayou
 bayous
 bays
@@ -6025,6 +6056,9 @@ bio
 bioagent
 bioagents
 biobank
+biocenoses
+biocenosis
+biocenotic
 biochar
 biochronologic
 biocidal
@@ -6067,20 +6101,30 @@ biomining
 biomolecule
 bion
 bionic
+bionics
 bionomic
 bions
 biopirate
 biopoesis
 biopsies
+biopsy
 biordinal
 bioreactor
 bioregion
 bios
+bioscience
+biosciences
+bioscientist
+bioscientists
+bioscope
+bioscopes
 biose
 biosensor
 biosensors
 bioses
 biosonar
+biospecies
+biospecieses
 biostasis
 biosystem
 biosystematist
@@ -6096,12 +6140,16 @@ biotite
 biotites
 biotitic
 biotope
+biotopes
 biotroph
 biotrophs
 biotrophy
 biowar
 biowarfare
 biowars
+biowaste
+biowastes
+bioweapon
 bioyogurt
 bipartisan
 bipartite
@@ -7813,6 +7861,7 @@ byte
 bytes
 byun
 byway
+byways
 cab
 cabal
 cabalism
@@ -9040,6 +9089,7 @@ cenospecies
 cenospecieses
 cenotaph
 cenote
+cenotes
 cense
 censer
 censers
@@ -9081,6 +9131,7 @@ centner
 centners
 cento
 centonise
+centos
 centra
 centrad
 central
@@ -9966,6 +10017,7 @@ cinder
 cine
 cineast
 cineaste
+cineastes
 cineasts
 cinema
 cinemas
@@ -10023,6 +10075,7 @@ cis
 cisco
 ciscoes
 cislunar
+cispontine
 cist
 cistern
 cisterns
@@ -10074,6 +10127,7 @@ citole
 citoler
 citolers
 citoles
+citoyen
 citraconic
 citral
 citrate
@@ -10544,6 +10598,7 @@ coast
 coastal
 coaster
 coasts
+coastwise
 coat
 coatcheck
 coated
@@ -10990,13 +11045,20 @@ concatenate
 concave
 conceal
 concealer
+conceit
+conceitist
+conceitists
+conceits
 conceivable
 conceive
 conceiver
 concent
 concenter
+concents
 concept
 conception
+conceptionist
+conceptionists
 conceptions
 concepts
 concern
@@ -11068,6 +11130,7 @@ cones
 conex
 coney
 coneyry
+coneys
 confer
 confidant
 configure
@@ -11222,9 +11285,11 @@ contempt
 contempts
 content
 contention
+contents
 contes
 contest
 contests
+continence
 continent
 continental
 continently
@@ -11317,9 +11382,11 @@ cony
 conylene
 cop
 copacetic
+copaiba
 copal
 copasetic
 copay
+copays
 cope
 copeck
 copecks
@@ -11692,6 +11759,7 @@ cow
 coward
 cowards
 cowbane
+cowbanes
 cowed
 cower
 cowered
@@ -11706,6 +11774,8 @@ cowman
 cowmen
 cowp
 cowpat
+cowpea
+cowpeas
 cowps
 cowrie
 cowries
@@ -11724,8 +11794,10 @@ coxed
 coxes
 coy
 coyer
+coyest
 coyly
 coyote
+coyotes
 coypu
 coypus
 coz
@@ -12624,12 +12696,14 @@ cyan
 cyanate
 cyanic
 cyanine
+cyanines
 cyanite
 cyanitic
 cyanoacrylate
 cyanogen
 cyanogenic
 cyanosis
+cyanotic
 cyanotype
 cyathia
 cybrarian
@@ -12687,8 +12761,12 @@ cypher
 cypsela
 cypselae
 cyst
+cysteine
 cystic
+cystine
 cystitis
+cystoscope
+cystoscopes
 cystotomy
 cysts
 cytharist
@@ -12703,9 +12781,13 @@ cytolytic
 cyton
 cytons
 cytopathic
+cytopenia
+cytopenias
+cytopenic
 cytophil
 cytophilic
 cytoproct
+cytosine
 cytosol
 cytosolic
 cytotrophy
@@ -16442,6 +16524,7 @@ entryway
 ents
 entwine
 entwinement
+entwines
 enucleate
 enucleated
 enumerate
@@ -17451,6 +17534,8 @@ eyesight
 eyesome
 eyesore
 eyesores
+eyespot
+eyespots
 eyestrain
 eyeward
 eyewards
@@ -23294,6 +23379,7 @@ iceshoes
 icetray
 icewater
 icewine
+icewines
 ichor
 ichorous
 ichthus
@@ -23832,6 +23918,8 @@ incomers
 incomes
 inconsonance
 inconsonances
+incontinence
+incontinent
 incorporation
 incorporator
 increase
@@ -24635,6 +24723,7 @@ intuitions
 intuitive
 intuits
 intwine
+intwines
 intwining
 inukshuk
 inukshuks
@@ -33868,6 +33957,7 @@ nasals
 nasbandhi
 nasbandi
 nascence
+nascency
 nascent
 nascha
 nasher
@@ -33888,6 +33978,8 @@ naskhis
 nasociliary
 nasolacrimal
 nason
+nasonite
+nasonites
 nasons
 nastaliq
 nastaliqs
@@ -34299,6 +34391,7 @@ nepotation
 nepotations
 nepotic
 nepotist
+nepotistic
 nepotists
 neptunite
 neptunites
@@ -34384,6 +34477,7 @@ neti
 netizen
 netlike
 netop
+netops
 nets
 netsmen
 netsuke
@@ -34586,6 +34680,7 @@ nicest
 niceties
 nicety
 nicey
+niceys
 niche
 niched
 nicher
@@ -34625,6 +34720,7 @@ nicoise
 nicorandil
 nicotian
 nicotiana
+nicotianas
 nicotinate
 nicotine
 nicotinean
@@ -35143,6 +35239,7 @@ noncompete
 noncoms
 nonconductor
 noncontent
+noncontents
 noncore
 noncount
 noncy
@@ -36042,7 +36139,12 @@ ocean
 oceanaria
 oceanful
 oceanic
+oceanicities
+oceanicity
 oceanite
+oceanites
+oceanities
+oceanity
 oceanological
 oceanology
 oceans
@@ -36586,6 +36688,8 @@ oncolysis
 oncolytic
 oncome
 oncomes
+oncosine
+oncosines
 oncost
 oncosts
 oncotic
@@ -36822,6 +36926,8 @@ opsomania
 opsonic
 opsonin
 opsonins
+opsonise
+opsonises
 opt
 optable
 optant
@@ -36839,6 +36945,7 @@ optician
 opticians
 opticist
 opticists
+opticities
 opticity
 optics
 optima
@@ -37453,6 +37560,8 @@ otopathic
 otopathies
 otopathy
 otosclerosis
+otoscope
+otoscopes
 otoscopic
 otoses
 otosis
@@ -38432,6 +38541,7 @@ paint
 painter
 painters
 paintier
+paintiest
 painting
 paintpot
 paintpots
@@ -38694,6 +38804,7 @@ pancreatic
 pancreatin
 pancreatitic
 pancreatitis
+pancytopenia
 pand
 panda
 pandaite
@@ -38795,6 +38906,7 @@ panoramic
 panoramical
 panorpid
 panorpoid
+panosteitis
 panostitis
 panotype
 panpipes
@@ -38866,6 +38978,8 @@ pantonal
 pantonality
 pantopod
 pantos
+pantoscope
+pantoscopes
 pantothenol
 pantoyl
 pantries
@@ -38877,6 +38991,8 @@ pantskirt
 pantskirts
 pantun
 panty
+pantywaist
+pantywaists
 panung
 panurgic
 panurgy
@@ -39539,6 +39655,7 @@ pastor
 pastora
 pastoras
 pastors
+pastose
 pastrami
 pastries
 pastry
@@ -39785,6 +39902,7 @@ payphone
 pays
 paysagist
 paysagists
+paysan
 paysayg
 payshi
 pbj
@@ -39874,10 +39992,13 @@ peasantist
 peasantists
 peasantries
 peasants
+peasanty
 pease
 peasemeal
 peasemeals
 peasies
+peastone
+peastones
 peasy
 peat
 peatbog
@@ -40158,6 +40279,7 @@ peninsulate
 peninsulates
 penis
 penises
+penistone
 penitence
 penitences
 penitent
@@ -40171,6 +40293,7 @@ penmen
 penpal
 penpals
 penpoint
+penpoints
 pens
 pensant
 pense
@@ -40212,16 +40335,23 @@ pentimenti
 pentine
 pentito
 pentitol
+pentitos
 pentode
+pentoic
 penton
 pentons
 pentop
 pentops
+pentosan
+pentosane
+pentose
+pentoses
 pentrough
 pentrow
 pentyl
 pentylene
 pentyne
+pentynes
 pentynyl
 penuche
 penult
@@ -40281,6 +40411,8 @@ peptizing
 peptonate
 peptone
 peptones
+peptonise
+peptonises
 pequi
 pequia
 pequis
@@ -40655,6 +40787,7 @@ pesch
 peseta
 pesetas
 pesewa
+pesewas
 pesher
 peshers
 peshkash
@@ -40722,6 +40855,8 @@ petition
 petitional
 petitioner
 petitioning
+petitionist
+petitionists
 petitions
 petitive
 petitory
@@ -40765,6 +40900,10 @@ pews
 pewter
 pewterer
 pewterers
+peyote
+peyotist
+peyotists
+peysie
 peytrel
 pfui
 phacelia
@@ -42680,9 +42819,11 @@ pointer
 pointes
 pointful
 pointier
+pointiest
 pointing
 pointmen
 points
+pointwise
 pointy
 poipoi
 poipois
@@ -42695,6 +42836,7 @@ poisha
 poising
 poison
 poisons
+poisony
 poitrail
 poitrel
 poivre
@@ -43025,6 +43167,7 @@ poncey
 poncho
 ponchos
 poncier
+ponciest
 poncif
 poncifs
 poncy
@@ -43037,6 +43180,7 @@ pone
 ponens
 ponent
 ponente
+ponentes
 ponerine
 ponerines
 pong
@@ -43336,6 +43480,8 @@ posey
 posh
 posho
 poshos
+posies
+posiest
 posish
 posit
 position
@@ -43363,6 +43509,8 @@ postals
 postaxial
 postbag
 postbags
+postbase
+postbases
 postcard
 postcava
 postcavas
@@ -43400,6 +43548,8 @@ postpalatals
 postpeople
 postpetiole
 postpetioles
+postpone
+postpones
 postpose
 postposes
 postposit
@@ -43413,6 +43563,9 @@ postscriptal
 postscripts
 postseason
 postseasons
+postsynapsis
+postsynapsises
+postsynaptic
 postural
 postwar
 posy
@@ -43443,6 +43596,9 @@ pote
 potecary
 poted
 potence
+potences
+potencies
+potency
 potent
 potentate
 potented
@@ -43452,7 +43608,10 @@ potentiality
 potentiary
 potentiometer
 potentional
+potentise
+potentises
 potentite
+potentites
 potently
 potes
 potful
@@ -45038,6 +45197,7 @@ psiloses
 psilosis
 psilotic
 psionic
+psionics
 psis
 pskhent
 psoas
@@ -52681,8 +52841,10 @@ science
 sciencer
 sciencers
 sciences
+sciencey
 sciencist
 sciencists
+sciency
 scienter
 sciential
 scientical
@@ -52772,6 +52934,7 @@ scotches
 scote
 scoter
 scoters
+scotes
 scotia
 scotias
 scotoma
@@ -52781,6 +52944,8 @@ scotometer
 scotometers
 scotopia
 scotopic
+scotoscope
+scotoscopes
 scots
 scour
 scourer
@@ -52987,6 +53152,8 @@ seats
 seaward
 seawards
 seawater
+seaway
+seaways
 sebaceous
 sebum
 sec
@@ -53281,6 +53448,7 @@ senti
 sentience
 sentiences
 sentiencies
+sentiency
 sentient
 sentiment
 sentimental
@@ -53472,6 +53640,8 @@ setons
 setose
 setpiece
 setpieces
+setpoint
+setpoints
 sets
 setup
 setups
@@ -55057,6 +55227,7 @@ soapbox
 soapboxes
 soaped
 soaps
+soapstone
 soapy
 soar
 soaraway
@@ -55563,6 +55734,7 @@ spas
 spasm
 spasms
 spastic
+spasticity
 spastics
 spat
 spatchcock
@@ -55605,12 +55777,15 @@ specials
 specie
 species
 speciesism
+speciesist
+speciesists
 specific
 specifics
 specifier
 specifiers
 specifies
 speciose
+speciosity
 speck
 speckle
 specklier
@@ -56361,6 +56536,7 @@ steno
 stenos
 stenoses
 stenosis
+stenotic
 stent
 stenter
 stenters
@@ -56373,11 +56549,14 @@ stepins
 stepmom
 stepmum
 stepmums
+stepney
+stepneys
 steps
 stepsister
 stepsisters
 stepson
 stepsons
+stepwise
 sterane
 steranes
 stere
@@ -56661,6 +56840,7 @@ stovetops
 stovies
 stow
 stowaway
+stowaways
 stows
 strafe
 strafes
@@ -57700,6 +57880,7 @@ syed
 syeds
 syenite
 syenites
+syenitic
 sylph
 sylphs
 sylvine
@@ -57721,6 +57902,10 @@ symptoms
 synaesthesia
 synaesthete
 synaesthetes
+synapse
+synapses
+synapsis
+synaptic
 synastry
 sync
 synch
@@ -57733,8 +57918,12 @@ synchrony
 synchrotron
 synchrotrons
 synchs
+syncope
 syncs
+syncytia
 syne
+synesis
+synesises
 synesthete
 synesthetes
 syngas
@@ -57743,12 +57932,22 @@ synods
 synonym
 synonymic
 synonymy
+synopses
 synopsis
+synopsise
+synopsises
+synoptic
+synoptics
+synoptist
+synoptists
+synostoses
 synostosis
 synsacra
 synsacral
 syntax
 syntaxy
+syntenic
+syntenies
 synteny
 synth
 synthase
@@ -57765,6 +57964,8 @@ synthon
 synthons
 synths
 synthy
+syntone
+syntones
 syntonic
 syphon
 syphonic
@@ -58476,6 +58677,9 @@ teams
 teamster
 teamsters
 teapot
+teapots
+teapoy
+teapoys
 tear
 tearable
 tearaway
@@ -58764,6 +58968,7 @@ tenace
 tenacity
 tenacula
 tenakoe
+tenancies
 tenancy
 tenant
 tenantable
@@ -59543,6 +59748,7 @@ tiefing
 tiefs
 tienda
 tiento
+tientos
 tiepin
 tiepins
 tier
@@ -59887,6 +60093,8 @@ toaster
 toasters
 toastie
 toastier
+toasties
+toastiest
 toasts
 toasty
 tobies
@@ -61486,6 +61694,7 @@ twelves
 twenjang
 twenties
 twentieth
+twenty
 twerk
 twerp
 twerps
@@ -61546,6 +61755,7 @@ twocker
 twocs
 twonk
 twonks
+twopence
 twos
 twyer
 twyers
@@ -64388,6 +64598,8 @@ weaner
 weaners
 weans
 weapon
+weaponise
+weaponises
 weapons
 wear
 wearable
@@ -64770,6 +64982,9 @@ wimps
 win
 wince
 wincer
+winces
+wincey
+winceys
 winch
 wincher
 winching
@@ -65332,6 +65547,7 @@ yeas
 yeasayer
 yeasayers
 yeast
+yeastiest
 yeasts
 yeasty
 yebo
