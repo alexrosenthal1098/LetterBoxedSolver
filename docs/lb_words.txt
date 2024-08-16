@@ -2478,6 +2478,7 @@ althaea
 althea
 altheas
 althorn
+although
 altigraph
 altimeter
 altiplanation
@@ -2574,6 +2575,7 @@ amakhosi
 amalgam
 amanuenses
 amanuensis
+amapagati
 amapakati
 amapakatis
 amaqueta
@@ -3855,6 +3857,7 @@ arteritic
 arteritis
 artery
 artesian
+artform
 artful
 arthritic
 arthritical
@@ -3867,6 +3870,7 @@ arthrogram
 arthrograms
 arthrography
 arthrogryposis
+arthrologia
 arthropathic
 arthropathy
 arthropod
@@ -18490,6 +18494,7 @@ flacon
 flacons
 flag
 flageolet
+flagtail
 flail
 flailed
 flailing
@@ -18543,6 +18548,7 @@ flatcar
 flatcars
 flatfile
 flatfish
+flatform
 flathead
 flatiron
 flatirons
@@ -18609,6 +18615,7 @@ flight
 flightier
 flightiest
 flightily
+flightpath
 flights
 flighty
 flimflam
@@ -18717,6 +18724,7 @@ fluidity
 fluidly
 fluids
 flume
+flump
 flung
 flunk
 flunks
@@ -18726,6 +18734,9 @@ fluoric
 fluoride
 fluorination
 fluorinations
+fluoroform
+fluorogram
+fluorograph
 fluorol
 fluorometer
 fluorophor
@@ -18982,6 +18993,7 @@ forme
 former
 formers
 formes
+formula
 fornent
 forsake
 forsakes
@@ -19011,6 +19023,8 @@ foulard
 fouler
 fouling
 fouls
+foulup
+foumart
 found
 foundation
 fount
@@ -19583,6 +19597,7 @@ galop
 galore
 galpal
 gals
+galumph
 galvanic
 galvanometer
 galvo
@@ -22520,6 +22535,7 @@ hipeing
 hiper
 hipers
 hipes
+hipfrog
 hiphop
 hiping
 hipline
@@ -22720,6 +22736,7 @@ holmes
 holmium
 holms
 holo
+hologram
 holograph
 holographic
 holography
@@ -26532,6 +26549,7 @@ lapas
 lapdog
 lapel
 lapels
+lapful
 lapis
 laps
 lapse
@@ -28780,6 +28798,7 @@ mailman
 mailmen
 mailo
 mailos
+mailout
 mails
 mailshot
 mailshots
@@ -33140,6 +33159,11 @@ multiculti
 multicults
 multicuspid
 multidialectal
+multiflora
+multifloral
+multifoil
+multiform
+multigraph
 multihit
 multihole
 multiholed
@@ -33155,6 +33179,9 @@ multilocation
 multilocus
 multiman
 multip
+multipara
+multipart
+multipath
 multiple
 multiples
 multiplet
@@ -33163,8 +33190,10 @@ multiplex
 multiplexes
 multiplexities
 multiplicious
+multipolar
 multipole
 multipoles
+multiport
 multips
 multiring
 multirotor
@@ -37732,6 +37761,7 @@ outlain
 outlash
 outlast
 outlasts
+outlaugh
 outlaw
 outlawry
 outlay
@@ -38651,6 +38681,7 @@ paletas
 paletot
 palets
 pali
+paliform
 palilalia
 palilogia
 palinal
@@ -38673,6 +38704,7 @@ palm
 palmar
 palmary
 palmate
+palmatiform
 palmation
 palmatipartite
 palmed
@@ -38686,6 +38718,7 @@ palmful
 palmier
 palmierite
 palmiet
+palmiform
 palming
 palmiped
 palmipede
@@ -39677,6 +39710,7 @@ pataches
 patacon
 patacons
 patagia
+patagial
 patagon
 pataka
 patakas
@@ -41208,6 +41242,7 @@ phototypy
 photronic
 phots
 photy
+phragma
 phrasal
 phrase
 phraser
@@ -41497,6 +41532,7 @@ pignorating
 pigpen
 pigpens
 pigs
+pigtail
 pigwash
 pika
 pikake
@@ -41558,6 +41594,7 @@ piliation
 pilidium
 pilidiums
 pilifer
+piliform
 pilimiction
 pilin
 piling
@@ -43408,6 +43445,7 @@ portering
 porteur
 porteurs
 portfire
+portfolio
 porth
 porthole
 portholed
@@ -44581,7 +44619,9 @@ profiled
 profiler
 profilist
 profilists
+profilograph
 profit
+profitful
 proform
 proforma
 proformas
@@ -44738,6 +44778,7 @@ propanoic
 propanol
 propanone
 propargyl
+propatagial
 propazine
 proped
 propel
@@ -44762,6 +44803,7 @@ prophetic
 prophetry
 propho
 prophos
+prophragma
 propidium
 propination
 propine
@@ -46621,6 +46663,7 @@ rames
 rameses
 ramet
 ramets
+ramgoat
 rami
 ramicorn
 ramicorns
@@ -51389,6 +51432,7 @@ roughed
 rougher
 roughet
 roughie
+roughit
 roughly
 roughout
 roughrider
@@ -59529,6 +59573,7 @@ thots
 thou
 though
 thought
+thoughtform
 thoughtful
 thoughtlet
 thoughtograph
@@ -61885,6 +61930,7 @@ ultrafilter
 ultrafiltration
 ultraist
 ultraists
+ultralight
 ultramafic
 ultramarathon
 ultranationalist
@@ -63006,6 +63052,7 @@ uptalk
 uptempo
 upthrow
 upthrown
+uptight
 uptime
 upto
 uptown
