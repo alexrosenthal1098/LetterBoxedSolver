@@ -2506,6 +2506,7 @@ altitudinal
 altitudo
 altivolant
 alto
+altocumuli
 altogether
 altograph
 altoist
@@ -3257,6 +3258,8 @@ antilife
 antilock
 antilog
 antilucan
+antimalarial
+antimonial
 antimony
 antinational
 anting
@@ -3319,6 +3322,7 @@ antlike
 antling
 antlion
 antlions
+antocular
 antode
 antoeci
 antoecian
@@ -8771,6 +8775,7 @@ cartron
 cartrons
 carts
 caruncle
+caruncular
 carve
 carved
 carvel
@@ -10273,6 +10278,7 @@ cladodes
 clads
 clag
 claim
+claimant
 claimed
 claimer
 claims
@@ -10972,6 +10978,7 @@ colostrum
 colotomy
 colour
 colourable
+colourant
 colouration
 colourations
 colourblind
@@ -24411,6 +24418,7 @@ inmate
 inmates
 inmost
 inocula
+inoculant
 inoculation
 inoculations
 inoculator
@@ -24791,6 +24799,7 @@ intoning
 intracranial
 intraday
 intrados
+intramural
 intranet
 intranets
 intranidal
@@ -28028,6 +28037,7 @@ locomobiles
 locomote
 locomotes
 locomotility
+locomotion
 locomotive
 locomotives
 locomotor
@@ -29343,6 +29353,7 @@ manipular
 manis
 manises
 manism
+manitou
 manjack
 manjak
 mank
@@ -31374,6 +31385,7 @@ militia
 militiaman
 militiamen
 militias
+militiawoman
 militician
 milium
 milk
@@ -32060,6 +32072,7 @@ mizens
 mizes
 mizmaze
 mizmazes
+mizuna
 mkay
 mlungu
 mneme
@@ -32964,6 +32977,7 @@ motile
 motility
 moting
 motion
+motional
 motioned
 motioning
 motivate
@@ -33019,6 +33033,7 @@ mots
 motu
 motuca
 motuka
+motza
 mou
 mouch
 mouchoir
@@ -33157,6 +33172,7 @@ mucocele
 mucoceles
 mucocoele
 mucoid
+mucoitin
 mucolipid
 mucolipids
 mucolytic
@@ -33299,6 +33315,7 @@ multihit
 multihole
 multiholed
 multihued
+multilaminar
 multilaminate
 multilane
 multiline
@@ -33306,9 +33323,13 @@ multilineal
 multilinealities
 multilines
 multilithed
+multilocal
 multilocation
+multilocular
 multilocus
 multiman
+multinomial
+multinominal
 multip
 multipara
 multipart
@@ -33340,6 +33361,7 @@ multivalence
 multivalued
 multivalve
 multivalved
+multocular
 multry
 multum
 multure
@@ -37759,6 +37781,7 @@ otoacoustic
 otoconial
 otoconium
 otocranial
+otocranium
 otocyst
 otocysts
 otolith
@@ -52238,6 +52261,7 @@ rumicin
 rumicine
 rumina
 ruminal
+ruminant
 ruminitis
 ruminotomy
 rumly
@@ -60458,6 +60482,7 @@ timpani
 timpanist
 timpanists
 tin
+tinamou
 tinctorial
 tincture
 tinder
@@ -61239,6 +61264,7 @@ tractable
 tractate
 tractates
 traction
+tractional
 tractive
 tractor
 tractors
@@ -62398,6 +62424,7 @@ tyros
 tystie
 tysties
 tzar
+tzarina
 tzarism
 tzarist
 tzarists
@@ -66017,6 +66044,7 @@ wurst
 wursts
 wushu
 wuxia
+wuz
 wych
 wye
 wyes
@@ -66433,6 +66461,7 @@ zipline
 zips
 zircon
 zirconia
+zirconium
 zit
 zither
 ziti
