@@ -1944,6 +1944,7 @@ aiya
 aiyah
 aiyo
 aiyoh
+ajangle
 ajar
 aji
 ajiaco
@@ -17467,7 +17468,9 @@ exegetics
 exegeting
 exempla
 exemplied
+exemplify
 exemplum
+exemply
 exempt
 exempted
 exempting
@@ -18937,6 +18940,7 @@ flyfish
 flyin
 flying
 flyleaf
+flymen
 flyrod
 flyrods
 flys
@@ -25308,6 +25312,8 @@ jamun
 jamuns
 jane
 janes
+jangle
+jangly
 janitor
 janitorial
 jank
@@ -27611,6 +27617,7 @@ limepits
 limerence
 limerences
 limes
+limey
 limicole
 limicoles
 limicoline
@@ -30236,6 +30243,7 @@ meaner
 meanest
 meanie
 meanies
+meanly
 means
 meant
 meantime
@@ -41942,6 +41950,8 @@ pightle
 pigism
 piglet
 pigly
+pigmean
+pigmen
 pigmy
 pignoli
 pignolia
@@ -66194,6 +66204,7 @@ xvi
 xylan
 xylans
 xylem
+xylene
 xystus
 yacht
 yachtie
