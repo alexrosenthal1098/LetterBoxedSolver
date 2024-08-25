@@ -5849,6 +5849,7 @@ beryl
 beryls
 beset
 besets
+beshrew
 beside
 besides
 besiege
@@ -5920,6 +5921,7 @@ bewail
 bewailer
 bewails
 beware
+bewdies
 bewilder
 bewildered
 bewilderedly
@@ -6276,15 +6278,19 @@ birdbrain
 birdbrained
 birdbrains
 birder
+birdhouse
+birdhouses
 birdie
 birdied
 birdieing
+birdies
 birding
 birdman
 birdmen
 birdo
 birdos
 birds
+birdshot
 birdtable
 birefringent
 bireme
@@ -7888,7 +7894,11 @@ bushed
 bushel
 bushels
 bushes
+bushido
 bushie
+bushier
+bushies
+bushiest
 bushtit
 busied
 busier
@@ -7910,6 +7920,8 @@ buster
 busters
 bustian
 bustians
+bustier
+bustiers
 bustiest
 bustle
 bustler
@@ -14231,6 +14243,7 @@ diesels
 dieses
 diesis
 diestock
+diestrus
 diet
 dietaries
 dieted
@@ -14386,6 +14399,7 @@ dioceses
 dioch
 diode
 diodes
+dioestrus
 diogenite
 diol
 diols
@@ -14436,6 +14450,8 @@ dirtboard
 dirtboards
 dirtied
 dirtier
+dirties
+dirtiest
 dirtily
 dirty
 dis
@@ -14929,6 +14945,7 @@ dotcom
 dote
 doted
 doter
+doters
 dotes
 doth
 doting
@@ -14952,6 +14969,7 @@ doubt
 doubtable
 doubted
 doubter
+doubters
 doubtful
 doubts
 douc
@@ -14985,6 +15003,8 @@ dovetail
 dowak
 dowaks
 dowd
+dowdier
+dowdiest
 dowds
 dowdy
 dowel
@@ -15153,6 +15173,7 @@ dried
 drier
 driers
 dries
+driest
 drift
 drifted
 drifter
@@ -15283,6 +15304,7 @@ duality
 duals
 duathlon
 dub
+dubious
 dubitability
 dubitable
 dubitative
@@ -17276,6 +17298,7 @@ etiology
 etoile
 etoiles
 etourdi
+etourdie
 etre
 etrier
 etriers
@@ -22454,6 +22477,7 @@ herby
 herd
 herded
 herder
+herds
 here
 hereafter
 hereat
@@ -23262,6 +23286,7 @@ housel
 houselet
 houselets
 houser
+housers
 houses
 houseshare
 housesharer
@@ -23286,6 +23311,7 @@ how
 howay
 howbeit
 howdah
+howdies
 howdy
 howe
 howes
@@ -23301,6 +23327,7 @@ howlets
 howto
 howtos
 howtowdie
+howtowdies
 howzit
 hox
 hoy
@@ -38049,6 +38076,8 @@ ousel
 ousels
 ousia
 oust
+ouster
+ousters
 oustiti
 oustitis
 ousts
@@ -46840,6 +46869,7 @@ quayful
 quayfuls
 quays
 qubit
+qubits
 qudlik
 que
 quean
@@ -46861,11 +46891,17 @@ quenches
 quento
 querencia
 querent
+querido
+queridos
 querier
+queriers
+queries
 quern
 querulous
 queso
 quest
+quester
+questers
 questman
 questmen
 questor
@@ -47026,6 +47062,8 @@ quoining
 quoins
 quois
 quoit
+quoiter
+quoiters
 quoiting
 quoits
 quondam
@@ -47046,8 +47084,13 @@ quotationist
 quotationists
 quotations
 quotatious
+quote
+quoter
+quoters
+quotes
 quotidian
 quoting
+quotities
 quotum
 quotums
 quouk
@@ -48267,6 +48310,7 @@ rebelries
 rebels
 rebend
 rebent
+rebestow
 rebete
 rebetic
 rebetika
@@ -48332,6 +48376,7 @@ rebroken
 rebrought
 rebuckle
 rebud
+rebuds
 rebuild
 rebuilder
 rebuilt
@@ -50250,6 +50295,8 @@ reshoe
 reshoes
 reshore
 reshores
+reshot
+reshow
 reshta
 reshut
 reshuts
@@ -50469,6 +50516,8 @@ restructure
 restructures
 rests
 resty
+resubdue
+resubdues
 resubmit
 resuck
 resucks
@@ -50667,6 +50716,7 @@ retour
 retourable
 retoured
 retouring
+retours
 retrace
 retraces
 retrack
@@ -51095,7 +51145,9 @@ rheas
 rhebok
 rhegosol
 rheid
+rheidities
 rheidity
+rheids
 rhematic
 rheme
 rhemes
@@ -52586,6 +52638,8 @@ rudistid
 rudistids
 rudists
 rudite
+rudites
+rudities
 rudity
 ruds
 rudyte
@@ -54919,6 +54973,7 @@ shelve
 shelves
 shen
 sherd
+sherds
 shero
 sheroes
 shes
@@ -55125,7 +55180,13 @@ show
 showd
 showding
 showds
+shower
+showerer
+showerers
+showers
 showgirl
+showhouse
+showhouses
 showie
 showies
 showiest
@@ -55142,6 +55203,7 @@ showy
 shoyu
 shrank
 shrew
+shrewd
 shrewish
 shrews
 shriek
@@ -56298,6 +56360,8 @@ socs
 sod
 soda
 sodas
+sodbuster
+sodbusters
 sodic
 sodium
 sodomise
@@ -56652,6 +56716,7 @@ southwest
 souvlaki
 souvlakia
 souvlakis
+souwester
 sov
 sovereign
 sovereigns
@@ -57197,6 +57262,8 @@ squirmers
 squirmier
 squirms
 squirt
+squirter
+squirters
 squirts
 squirty
 squish
@@ -57865,6 +57932,7 @@ stoups
 stour
 stoury
 stoush
+stoushes
 stout
 stoutest
 stoutish
@@ -58208,6 +58276,8 @@ subdivisible
 subdivisive
 subdolous
 subdue
+subduer
+subduers
 subdues
 subedit
 subedited
@@ -58238,6 +58308,8 @@ subgrain
 subgrains
 subgum
 subgums
+subhouse
+subhouses
 subhumid
 subiculum
 subiculums
@@ -58376,6 +58448,8 @@ subtone
 subtones
 subtotem
 subtotems
+subtower
+subtowers
 subtribe
 subtribes
 subtriple
@@ -58398,6 +58472,7 @@ suburbian
 suburbians
 suburbs
 subweb
+subwebs
 subzero
 such
 suck
@@ -61632,6 +61707,7 @@ towels
 tower
 towered
 towering
+towers
 towie
 towier
 towies
@@ -62461,6 +62537,7 @@ trunkful
 trunks
 trust
 trustbuster
+trustbusters
 trusted
 truster
 trusters
@@ -62916,6 +62993,7 @@ ube
 ubes
 ubi
 ubiety
+ubiquitous
 ubiquity
 ubis
 ubities
@@ -65822,6 +65900,7 @@ webmail
 webring
 webrings
 webs
+websterite
 webwork
 webworks
 wed
@@ -65847,6 +65926,7 @@ weirded
 weirdie
 weirdies
 weirdo
+weirdos
 weirds
 weirdy
 weirs
@@ -65914,6 +65994,8 @@ wetland
 wetly
 wetpack
 wets
+wetsuit
+wetsuits
 wetware
 wetwipe
 wey
