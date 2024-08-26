@@ -9219,6 +9219,9 @@ celt
 celts
 cembalo
 cement
+cemented
+cementer
+cementite
 cemeteries
 cemetery
 cenacle
@@ -9253,7 +9256,9 @@ centenary
 centenier
 centeniers
 center
+centered
 centerline
+centermen
 centerpiece
 centerpin
 centers
@@ -9262,6 +9267,10 @@ centile
 centiliter
 centiliters
 centilitre
+centime
+centimeter
+centimetre
+centimo
 centipoise
 centipoises
 centisecond
@@ -9276,6 +9285,7 @@ centrad
 central
 centrale
 centre
+centred
 centreline
 centreman
 centremen
@@ -9286,6 +9296,7 @@ centric
 centrical
 centripetence
 centroclinal
+centrode
 centroid
 centroids
 centromere
@@ -10022,7 +10033,9 @@ chromatic
 chromaticism
 chromatin
 chrome
+chromed
 chromic
+chromide
 chromite
 chromium
 chromo
@@ -10038,6 +10051,7 @@ chronicled
 chronograph
 chronologer
 chronology
+chronometer
 chronon
 chronons
 chronotropic
@@ -10176,6 +10190,7 @@ cinquain
 cinque
 cion
 cipher
+ciphered
 ciphers
 cipolin
 circa
@@ -11101,6 +11116,7 @@ combos
 combs
 come
 comeatable
+comedic
 comedo
 comelier
 comer
@@ -11109,7 +11125,9 @@ comes
 comestion
 comestions
 comet
+comether
 cometic
+cometoid
 comets
 comfier
 comic
@@ -11179,6 +11197,9 @@ compotus
 compound
 comprador
 compradore
+comprehend
+comprehended
+comprehender
 compresence
 comps
 compte
@@ -11197,15 +11218,25 @@ concatenate
 concave
 conceal
 concealer
+concede
+conceded
+concedence
+conceder
 conceit
+conceited
 conceitist
 conceitists
 conceits
 conceivable
 conceive
+conceived
+conceivement
 conceiver
 concent
 concenter
+concentered
+concentre
+concentred
 concents
 concept
 conception
@@ -11217,8 +11248,12 @@ concern
 concerning
 concert
 concertante
+concerted
 concerter
 concertgoer
+concerti
+concertment
+concerto
 conch
 concha
 conchae
@@ -11251,10 +11286,16 @@ concours
 concrescence
 concrescences
 concrete
+concreted
+concretion
 concur
 concurs
+condemn
+condemned
 condign
+condiment
 condition
+conditioned
 conditioner
 conditioners
 conditions
@@ -11432,11 +11473,19 @@ contaminants
 contaminator
 conte
 contemn
+contemned
+contemner
 contemns
 contempt
 contempts
+contend
+contended
+contender
+contendere
 content
+contented
 contention
+contentment
 contents
 contes
 contest
@@ -11453,6 +11502,7 @@ continuation
 continuator
 continuo
 contort
+contorted
 contortion
 contortionist
 contortionists
@@ -11493,6 +11543,7 @@ controversist
 controversists
 controversities
 controvert
+controverted
 controverter
 controvertist
 controvertists
@@ -11506,6 +11557,7 @@ convectional
 convective
 convenance
 convene
+convened
 convener
 convening
 convenor
@@ -11515,7 +11567,9 @@ conventional
 converge
 convergent
 convert
+converted
 converter
+convertor
 convey
 conveyer
 convict
@@ -11597,6 +11651,7 @@ corda
 corded
 cordial
 cordiality
+cordite
 cordlike
 cordon
 cordoned
@@ -11695,6 +11750,7 @@ coronations
 coroner
 coroners
 coronet
+coroneted
 coronial
 coronoid
 coronoids
@@ -12127,8 +12183,14 @@ creche
 creches
 cred
 credal
+credence
+credencive
 credent
 credible
+credit
+credited
+creditive
+creditor
 credo
 crein
 crema
@@ -13400,17 +13462,24 @@ decani
 decay
 decayed
 decays
+decedent
 deceit
 deceive
 deceived
 deceiver
 deceives
+decent
+decenter
+decentered
+decentre
+decentred
 decibel
 decidable
 decide
 decided
 decidedly
 decidence
+decidendi
 decider
 decides
 decidua
@@ -13424,7 +13493,14 @@ decimals
 decimas
 decime
 decimes
+decimet
+decimeter
+decimetre
 decims
+decipher
+deciphered
+decipherer
+decipherment
 decipia
 decisis
 decisive
@@ -13452,6 +13528,8 @@ decoked
 decokes
 decolor
 decolors
+decondition
+deconditioned
 decor
 decorate
 decorated
@@ -13459,6 +13537,8 @@ decorator
 decors
 decorum
 decorums
+decrement
+decremented
 decried
 decrier
 decries
@@ -13682,6 +13762,7 @@ demes
 demigod
 demigods
 demilune
+demimonde
 demine
 demined
 deminer
@@ -13708,6 +13789,7 @@ demot
 demote
 demoted
 demotes
+demotic
 demotion
 demots
 demoware
@@ -13732,6 +13814,8 @@ denigrated
 denim
 denizen
 denotation
+denote
+denoted
 dens
 dense
 dent
@@ -13831,6 +13915,7 @@ dermal
 dermatitis
 dermic
 dermis
+dermoid
 dernier
 derp
 derpier
@@ -13914,6 +13999,7 @@ detectors
 detects
 detent
 detente
+detention
 detenu
 detenue
 deter
@@ -13933,6 +14019,9 @@ detested
 detester
 detesters
 detests
+dethrone
+dethroned
+dethronement
 detinue
 detour
 detoured
@@ -13996,6 +14085,7 @@ devore
 devores
 devote
 devoted
+devotement
 devoting
 devotion
 devour
@@ -14154,7 +14244,9 @@ dichotomic
 dichotomous
 dichroic
 dichroistic
+dichroite
 dichroitic
+dichromic
 dichronous
 dicier
 diciest
@@ -14342,10 +14434,12 @@ dimes
 dimeter
 dimeters
 dimethoate
+dimetrodon
 dimidiate
 dimidiated
 diminuendi
 dimity
+dimorphic
 dimple
 dimpled
 dimples
@@ -14411,12 +14505,14 @@ diotic
 dioxide
 dioxides
 dip
+diphone
 diphtheroid
 diploid
 diploids
 diploidy
 diplopia
 diplopod
+dipnet
 dipolar
 dipole
 dips
@@ -14667,7 +14763,10 @@ diversion
 diversions
 diversities
 divert
+diverted
+diverter
 divertimenti
+divertimento
 diverts
 dives
 divest
@@ -14706,6 +14805,8 @@ divisive
 divisor
 divisors
 divorce
+divorced
+divorcement
 divorces
 divot
 divots
@@ -15163,6 +15264,7 @@ dreidl
 dreidls
 drek
 drench
+drenched
 drew
 drey
 dreys
@@ -15741,6 +15843,7 @@ ecole
 ecologic
 ecological
 ecology
+ecomorph
 ecomuseum
 ecomuseums
 econ
@@ -15831,6 +15934,7 @@ editable
 edited
 editing
 editio
+edition
 editor
 edits
 edtech
@@ -16163,6 +16267,7 @@ embuses
 emend
 emendation
 emended
+emender
 emending
 emerald
 emerg
@@ -16209,6 +16314,7 @@ emoted
 emoter
 emoters
 emotes
+emoticon
 emoting
 emotion
 emotioned
@@ -16239,7 +16345,9 @@ emphases
 emphasis
 emphasise
 emphasises
+empiecement
 empierce
+empierced
 empierces
 empire
 empiredom
@@ -16366,6 +16474,8 @@ enchilada
 enchiridia
 enchiridion
 encipher
+enciphered
+encipherment
 encircle
 encircling
 enclave
@@ -16375,6 +16485,7 @@ encloses
 encodable
 encode
 encoded
+encodement
 encoder
 encomia
 encomium
@@ -16399,6 +16510,7 @@ endear
 endearing
 ended
 endekad
+endemic
 endenizen
 endenizened
 endenizening
@@ -16412,16 +16524,22 @@ endives
 endline
 endnote
 endnotes
+endoderm
+endodermic
 endodontic
 endodontics
 endodontist
 endodontists
+endomorph
+endomorphic
 endophora
 endopod
 endorse
 endorser
 endorsers
 endorses
+endotherm
+endothermic
 endow
 endowed
 endower
@@ -16645,11 +16763,13 @@ entertainer
 enthral
 enthralment
 enthrone
+enthroned
 enthronement
 enthusiast
 enthusiasts
 enthymeme
 entice
+enticed
 enticement
 enticer
 enticers
@@ -16664,6 +16784,7 @@ entitles
 entitling
 entity
 entoderm
+entodermic
 entomb
 entombing
 entombment
@@ -16692,7 +16813,9 @@ entreating
 entreatment
 entreats
 entrechat
+entrecote
 entrench
+entrenched
 entrenches
 entrenchment
 entrepot
@@ -16747,6 +16870,7 @@ envelops
 envenom
 envenomate
 envenomation
+envenomed
 envenoms
 enviable
 envied
@@ -17207,6 +17331,7 @@ ethanoate
 ethanoic
 ethanol
 ethene
+ethenoid
 ether
 etherate
 etherated
@@ -17259,6 +17384,8 @@ ethnicist
 ethnicists
 ethnicities
 ethnicity
+ethnocentred
+ethnocide
 ethnogenic
 ethnogogue
 ethnohistory
@@ -17435,6 +17562,7 @@ evictors
 evicts
 evidence
 evidenced
+evidencer
 evident
 evil
 evils
@@ -22411,6 +22539,7 @@ hemialgia
 hemianopia
 hemianopsia
 hemic
+hemimorphite
 hemiola
 hemistich
 hemline
@@ -22507,6 +22636,7 @@ herls
 herm
 hermeneut
 hermeneute
+hermetic
 hermit
 hermitage
 hermitic
@@ -22571,6 +22701,8 @@ heterocyst
 heterocysts
 heterodyne
 heterology
+heteromorph
+heteromorphic
 heteronomy
 heteronym
 heterophyte
@@ -22758,6 +22890,7 @@ hints
 hip
 hipcat
 hipcats
+hipdom
 hipe
 hipeing
 hiper
@@ -23007,6 +23140,7 @@ homeosis
 homeostases
 homeostasis
 homer
+homered
 homers
 homerun
 homes
@@ -23019,8 +23153,10 @@ homesters
 homestretch
 homestudy
 hometime
+homevid
 homey
 homeys
+homicide
 homie
 homier
 homies
@@ -23048,6 +23184,8 @@ homoeostases
 homoeostasis
 homoeotic
 homoerotic
+homoiotherm
+homoiothermic
 homoloid
 homomorphic
 homonym
@@ -23724,6 +23862,8 @@ idiolects
 idiom
 idiomatic
 idiomatical
+idiometer
+idiomorphic
 idioms
 idiopathic
 idiopathical
@@ -23738,6 +23878,7 @@ idiot
 idiota
 idiotas
 idiotcies
+idiothetic
 idiotic
 idiotical
 idioticon
@@ -24019,7 +24160,11 @@ impropriator
 impros
 improv
 improve
+improved
+improvement
 improver
+improvidence
+improvident
 improving
 imps
 impugn
@@ -30444,6 +30589,7 @@ medifraud
 medigap
 medin
 medina
+mediocre
 meditate
 meditated
 meditates
@@ -30692,7 +30838,9 @@ menazon
 mence
 mend
 mended
+mender
 mending
+mendipite
 mendon
 mendung
 meneghinite
@@ -30741,6 +30889,7 @@ menthe
 menthene
 menthol
 menthone
+menticide
 mention
 mentioned
 mentioner
@@ -30750,6 +30899,7 @@ mento
 menton
 mentons
 mentor
+mentored
 mentoring
 mentors
 mentos
@@ -30789,6 +30939,7 @@ merch
 merchant
 merchantman
 merchantmen
+merchet
 mercies
 merciful
 mercs
@@ -30863,6 +31014,7 @@ meroistic
 meromictic
 meromixis
 meromixises
+meromorphic
 meront
 meronym
 meronymy
@@ -31135,6 +31287,7 @@ methionine
 metho
 method
 methode
+methodic
 methodise
 methodised
 methodises
@@ -31293,12 +31446,15 @@ microchip
 microchips
 microclimatic
 microcline
+microcode
+microcoded
 microcolony
 microcosm
 microcosmic
 microcosmos
 microcosms
 microcrack
+microcredit
 microcrystal
 microcrystals
 microcyst
@@ -31372,6 +31528,8 @@ microsomal
 microsome
 microsomes
 microsomia
+microtherm
+microthermic
 microtine
 microtiter
 microtitre
@@ -32206,6 +32364,7 @@ mithers
 mithramycin
 mithril
 miticidal
+miticide
 mitie
 mitigable
 mitigant
@@ -32349,6 +32508,7 @@ mocap
 moch
 mocha
 mochas
+moched
 moches
 mochi
 mochila
@@ -32723,6 +32883,8 @@ monocaryon
 monochasia
 monochord
 monochorial
+monochroic
+monochrome
 monochromic
 monochromous
 monochronic
@@ -32759,6 +32921,8 @@ monodon
 monodont
 monodontid
 monodrome
+monodromic
+monodromie
 monodromy
 monody
 monogamian
@@ -32804,6 +32968,7 @@ monomineralic
 monomino
 monominos
 monomode
+monomorphemic
 monomorphic
 monomyarian
 monomyarians
@@ -32844,6 +33009,7 @@ monoptical
 monoracial
 monorail
 monorails
+monorchid
 monorheme
 monorhinal
 monorhine
@@ -32878,6 +33044,7 @@ monostomes
 monotechnic
 monotelic
 monoterpene
+monothetic
 monotic
 monotint
 monotonal
@@ -32910,6 +33077,7 @@ montaria
 montarias
 montbretia
 monte
+monteith
 montero
 montes
 month
@@ -32982,6 +33150,7 @@ morbuses
 morcha
 morchas
 mordant
+mordent
 mordida
 mordita
 mordore
@@ -33047,6 +33216,10 @@ morosoph
 morosophs
 moroxite
 morph
+morphed
+morpheme
+morphemic
+morphetic
 morphia
 morphic
 morphinan
@@ -33057,10 +33230,15 @@ morphisms
 morphium
 morphiums
 morpho
+morphodite
 morphomaniac
 morphon
+morphoneme
+morphonemic
 morphonic
 morphophonic
+morphotic
+morphotonemic
 morphs
 morpion
 morpions
@@ -34661,6 +34839,7 @@ negs
 negus
 neguses
 neicher
+neichered
 neigh
 neigher
 neighing
@@ -34841,6 +35020,7 @@ nertz
 nerval
 nervate
 nerve
+nerved
 nervelet
 nervelets
 nerves
@@ -35611,6 +35791,7 @@ nomolis
 nomori
 nomos
 nomoses
+nomothetic
 noms
 non
 nonabrasive
@@ -35803,6 +35984,7 @@ norbornane
 norbornanes
 norbornene
 norbornenes
+nordite
 norethindrone
 nori
 noria
@@ -35825,10 +36007,12 @@ normalize
 normalizer
 normative
 normcore
+normed
 normie
 normies
 norming
 normochromic
+normothermic
 norms
 nornicotine
 nornicotines
@@ -35950,6 +36134,7 @@ nothing
 nothingly
 nothings
 nothingy
+nothomorph
 notice
 noticed
 noticer
@@ -36751,6 +36936,7 @@ odontist
 odontists
 odontitis
 odontitises
+odontocete
 odontograph
 odontoid
 odontoids
@@ -37126,6 +37312,7 @@ onboards
 once
 oncer
 oncers
+onchocercotic
 oncogen
 oncogene
 oncogenic
@@ -37136,6 +37323,7 @@ oncolysis
 oncolytic
 oncome
 oncomes
+oncometer
 oncosine
 oncosines
 oncost
@@ -37761,6 +37949,7 @@ orphion
 orphions
 orphrey
 orphreys
+orpiment
 orpin
 orpine
 orpines
@@ -37783,18 +37972,24 @@ orthid
 orthide
 orthite
 orthites
+orthocenter
+orthocentre
 orthoceras
 orthocerases
 orthoceratite
 orthoceratites
 orthochoanitic
+orthocone
 orthoconic
 orthodigita
 orthodome
 orthodontia
+orthodontic
 orthodrome
+orthodromic
 orthoform
 orthology
+orthomorphic
 orthophonic
 orthophony
 orthophoria
@@ -37817,6 +38012,7 @@ orthostichy
 orthotic
 orthotist
 orthotists
+orthotomic
 orthotone
 orthotones
 orthotonic
@@ -38482,6 +38678,8 @@ overdoes
 overdone
 overdot
 overdots
+overdrench
+overdrenched
 overdried
 overdries
 overdrive
@@ -38496,6 +38694,7 @@ overeater
 overeaters
 overeats
 overenter
+overentered
 overerupt
 overest
 overface
@@ -38649,6 +38848,8 @@ overt
 overtake
 overtaker
 overtakers
+overtime
+overtip
 overtire
 overtly
 overtold
@@ -41649,6 +41850,11 @@ phenenyl
 phenetic
 phenic
 phenicin
+phenom
+phenome
+phenomen
+phenomenon
+phenomic
 phenon
 phenotypic
 phenyl
@@ -41662,6 +41868,7 @@ phenylic
 pheon
 pheons
 pheran
+pheromone
 phew
 phi
 phial
@@ -41688,6 +41895,7 @@ philopatry
 philothion
 philter
 phimosis
+phimotic
 phiran
 phis
 phish
@@ -41735,7 +41943,9 @@ phonational
 phonatory
 phonautograph
 phone
+phoned
 phoneme
+phonemic
 phoner
 phonetic
 phonetician
@@ -41750,7 +41960,9 @@ phonograph
 phonography
 phonolith
 phonology
+phonometer
 phonomimic
+phonomotor
 phonon
 phonons
 phonophore
@@ -41768,6 +41980,7 @@ phoretic
 phoria
 phorid
 phormium
+phorometer
 phoron
 phorone
 phoronic
@@ -41799,9 +42012,17 @@ photoact
 photoaction
 photoaging
 photocatalytic
+photochemic
+photochrom
+photochrome
+photochromic
+photoconvert
+photoconverted
 photocopy
+photodimer
 photodiode
 photodrama
+photodrome
 photoed
 photoes
 photofit
@@ -41833,6 +42054,7 @@ photolithotroph
 photolithotrophy
 photology
 photolytic
+photometer
 photon
 photoneutron
 photonic
@@ -41866,6 +42088,8 @@ photoscopic
 photoset
 photosets
 phototactic
+photothermic
+phototimer
 phototonic
 phototopographic
 phototopography
@@ -42070,10 +42294,12 @@ picnicky
 picnics
 picolin
 picon
+piconet
 picons
 picot
 picotah
 picote
+picoted
 picotite
 picotites
 picots
@@ -42083,6 +42309,7 @@ picrate
 picric
 picrite
 picritic
+picrochromite
 picroilmenite
 picrolite
 picrotin
@@ -42108,6 +42335,7 @@ piece
 pieced
 piecemeal
 piecen
+piecened
 piecener
 pieceners
 piecening
@@ -42136,6 +42364,8 @@ piend
 pier
 pierage
 pierce
+pierced
+piercement
 piercer
 piercers
 pierces
@@ -42293,6 +42523,10 @@ pimbina
 pimelate
 pimelite
 pimelodid
+piment
+pimento
+pimenton
+pimiento
 pimlico
 pimlicos
 pimp
@@ -42689,6 +42923,7 @@ piteous
 pitful
 pith
 pithecine
+pithecoid
 pithed
 pithful
 pithiatic
@@ -42696,6 +42931,7 @@ pithier
 pithiest
 pithily
 pithing
+pithivier
 pithoi
 pithos
 piths
@@ -42749,6 +42985,9 @@ piva
 pivo
 pivos
 pivot
+pivoted
+pivoter
+pivotmen
 pivots
 piwari
 piwaris
@@ -44684,7 +44923,14 @@ precariat
 precarity
 precast
 precasts
+precede
+preceded
+precedence
+precedent
+precedented
+preceder
 precent
+precented
 precentor
 precentory
 precentral
@@ -44706,19 +44952,36 @@ precips
 precis
 precisian
 precisians
+precited
 preclear
 preclears
 preclimax
 precloacal
 precocene
 precocenes
+precode
+precoded
 precoma
 precompose
 precomposes
+preconceited
+preconceive
+preconceived
+preconcert
+preconcerted
+precondemn
+precondemned
+precondition
+preconditioned
 precoracoid
 precordia
 precut
+predecided
+predevote
+predevoted
 predial
+predicrotic
+predone
 predy
 prefade
 prefaded
@@ -44760,6 +45023,8 @@ preharvest
 preheat
 preheater
 preheats
+prehend
+prehended
 preimage
 preke
 prekes
@@ -44794,7 +45059,10 @@ premasters
 premature
 premed
 premedial
+premeiotic
 prememorial
+premention
+prementioned
 premia
 premiable
 premial
@@ -44818,6 +45086,7 @@ premorbid
 premorse
 premortal
 premortem
+premotion
 premotor
 premoult
 prems
@@ -44835,6 +45104,7 @@ prenotional
 prenoun
 prenova
 prentice
+prenticed
 prenup
 prenups
 prenuptial
@@ -44892,6 +45162,7 @@ prepupas
 prequel
 prereaction
 prerecord
+prerecorded
 prerectal
 prerelease
 prereleases
@@ -44977,6 +45248,9 @@ pretence
 pretend
 pretendance
 pretendant
+pretended
+pretendence
+pretender
 pretense
 pretenses
 pretercanine
@@ -45015,6 +45289,11 @@ prevails
 prevaricate
 prevaricates
 prevaricative
+prevent
+prevented
+preventer
+prevention
+preventive
 preverb
 preverbs
 prevert
@@ -45326,15 +45605,20 @@ proby
 procacity
 procain
 procarp
+procede
+procedendo
+procercoid
 proceres
 procereses
 procerus
 proceruses
 prochiral
+prochoice
 prochordal
 prochous
 prochouses
 prochronic
+procidence
 proclaim
 proclamation
 proclamator
@@ -45421,6 +45705,7 @@ programer
 progs
 progueing
 progun
+prohormone
 proing
 proings
 proke
@@ -45475,6 +45760,7 @@ promorphs
 promos
 promotable
 promote
+promoted
 promoter
 promoters
 promotes
@@ -45483,8 +45769,10 @@ promotive
 promotor
 promotors
 promotrix
+promovent
 promover
 prompt
+prompted
 prompter
 prompters
 promptive
@@ -45803,6 +46091,8 @@ protectory
 protege
 proteges
 proteic
+proteid
+proteide
 protein
 proteinase
 proteinases
@@ -45834,6 +46124,7 @@ protext
 protexts
 protheses
 prothesis
+prothetic
 prothonotarial
 prothonotariat
 prothonotary
@@ -45852,18 +46143,22 @@ protists
 protium
 protoanemonin
 protobird
+protocneme
 protocoel
 protocoele
 protocol
 protocolar
 protocolic
 protoconch
+protocone
 protoconid
 protocorm
+protoderm
 protodipnoan
 protoform
 protogine
 protograph
+protoheme
 protolife
 protolith
 protolog
@@ -45878,6 +46173,8 @@ protomerite
 protomerites
 protomers
 protomes
+protomorph
+protomorphic
 proton
 protonate
 protonates
@@ -45888,6 +46185,7 @@ protonemal
 protonematal
 protonephron
 protonic
+protonmotive
 protonotarial
 protonotariat
 protonotaries
@@ -45928,6 +46226,7 @@ prototheme
 protothemes
 protothere
 prototheres
+protothetic
 prototoxin
 prototoxins
 prototraitor
@@ -45969,11 +46268,25 @@ prouder
 proudly
 provan
 prove
+proved
+proveditor
+proveditore
+provedor
+provedore
 proven
+provend
+provender
 provene
+provened
 provening
 provenue
 prover
+provide
+provided
+providence
+provident
+provider
+providore
 proving
 proviso
 provisor
@@ -46130,7 +46443,9 @@ pterins
 pterion
 pteris
 pterises
+pteroid
 pteroma
+pteromorph
 pteropine
 pteropleuron
 pterotic
@@ -48433,9 +48748,12 @@ recaught
 recaulk
 recede
 receded
+recedence
+recedent
 receder
 receipt
 receiptable
+receipted
 receiptor
 receival
 receive
@@ -48446,6 +48764,7 @@ receives
 receiving
 recelebrate
 recement
+recemented
 recency
 recense
 recenses
@@ -48458,6 +48777,7 @@ recensors
 recent
 recently
 recentre
+recentred
 recentres
 recents
 recep
@@ -48493,6 +48813,7 @@ rechewing
 rechose
 rechosen
 recidive
+recidived
 recidives
 recidivist
 recidivistic
@@ -48501,6 +48822,7 @@ recidivities
 recipe
 recipes
 recipher
+reciphered
 reciphers
 recipience
 recipiencies
@@ -48524,6 +48846,7 @@ recitativo
 recitator
 recite
 recited
+recitement
 reciter
 reciters
 recites
@@ -48609,12 +48932,15 @@ recomposers
 recomposes
 recon
 reconceive
+reconceived
 reconcile
 reconciler
 reconciliate
 reconcoct
+recondite
 recondities
 recondition
+reconditioned
 reconditioner
 reconditioners
 reconditions
@@ -48624,17 +48950,22 @@ reconfine
 reconfining
 recons
 reconvene
+reconvened
 reconvening
 reconvent
+reconvented
 reconvention
 reconverge
 reconvert
+reconverted
 reconvey
 reconvict
 reconviction
 recopies
 record
 recordable
+recorded
+recorder
 recordist
 recordists
 records
@@ -48654,6 +48985,7 @@ recover
 recovered
 recoverer
 recoverers
+recoverment
 recoveror
 recoverors
 recovers
@@ -48672,6 +49004,7 @@ recreational
 recreative
 recreator
 recreatory
+recredence
 recrement
 recremental
 recrew
@@ -48782,6 +49115,11 @@ redefined
 redeified
 redeliberate
 redeliberated
+redempted
+redemption
+redemptioner
+redemptive
+redemptor
 redented
 rederive
 rederived
@@ -48820,6 +49158,7 @@ redintegrate
 redintegrated
 redip
 redistil
+redition
 redive
 redived
 redives
@@ -48835,6 +49174,7 @@ redly
 redo
 redoes
 redonation
+redondite
 redone
 redouble
 redoubled
@@ -49262,6 +49602,7 @@ rehoboam
 rehoist
 rehoists
 rehome
+rehomed
 rehonour
 rehouse
 rehouses
@@ -49288,6 +49629,7 @@ reimpel
 reimpels
 reimplace
 reimport
+reimprovement
 rein
 reinaugurate
 reinauguration
@@ -49647,7 +49989,9 @@ rememories
 rememory
 remen
 remend
+remended
 remens
+remercied
 remercies
 remercy
 remerge
@@ -49702,6 +50046,7 @@ remoted
 remoter
 remotes
 remotion
+remotive
 remou
 remount
 remounting
@@ -49750,6 +50095,10 @@ rencounter
 rend
 rendal
 rendang
+rended
+render
+rendered
+renderer
 rendible
 rendition
 renditions
@@ -49776,6 +50125,7 @@ renegue
 renegued
 reneguing
 renerve
+renerved
 renerves
 renerving
 renew
@@ -50163,6 +50513,7 @@ rereadable
 rereads
 rerebrace
 rerecord
+rerecorded
 rerecords
 rerelease
 rereleased
@@ -50605,6 +50956,8 @@ retempers
 retenant
 retenanted
 retenants
+retender
+retendered
 retene
 retenes
 retentate
@@ -50630,6 +50983,7 @@ rethought
 rethread
 rethreaded
 rethrone
+rethroned
 retia
 retiarius
 retiary
@@ -50749,6 +51103,7 @@ retreative
 retreatment
 retreats
 retrench
+retrenched
 retrencher
 retrial
 retribute
@@ -50771,6 +51126,10 @@ retroaction
 retroactive
 retroacts
 retrobulbar
+retrocede
+retroceded
+retrocedence
+retrocedent
 retrochoir
 retrod
 retroduce
@@ -50877,6 +51236,7 @@ revelrous
 revels
 revenant
 revend
+revended
 revends
 revenge
 revengeful
@@ -50884,6 +51244,7 @@ revenger
 revenging
 revent
 reventa
+revented
 revents
 revenue
 revenuer
@@ -50899,6 +51260,7 @@ reverdies
 revere
 revered
 reverence
+reverenced
 reverencer
 reverencing
 reverend
@@ -50937,6 +51299,7 @@ reverso
 revert
 revertant
 reverted
+revertence
 reverter
 reverters
 revertive
@@ -51196,6 +51559,7 @@ rhinolith
 rhinoliths
 rhinology
 rhinos
+rhitidome
 rhizina
 rhizine
 rhizines
@@ -51208,6 +51572,8 @@ rhodate
 rhodeoretin
 rhodic
 rhodinal
+rhodochrome
+rhododendron
 rhodonite
 rhodophane
 rhodora
@@ -51975,6 +52341,7 @@ rod
 rode
 roded
 rodent
+rodenticide
 rodeo
 rodeoed
 rodeoing
@@ -59874,6 +60241,7 @@ technicolor
 technique
 techniques
 techno
+technoid
 technomic
 technospeak
 technotronic
@@ -60124,6 +60492,9 @@ tench
 tend
 tendance
 tended
+tender
+tendered
+tenderer
 tending
 tendinitis
 tendinous
@@ -60151,6 +60522,7 @@ teniae
 tenias
 tenioid
 tenon
+tenoned
 tenoner
 tenoning
 tenons
@@ -60272,6 +60644,7 @@ termitary
 termite
 termites
 termitic
+termiticide
 termitid
 termitids
 termitine
@@ -60459,6 +60832,7 @@ theca
 thecae
 thecal
 thecate
+thecodont
 theft
 thegn
 theine
@@ -60535,9 +60909,11 @@ therm
 thermae
 thermal
 thermic
+thermidor
 thermion
 thermit
 thermite
+thermochromic
 thermometer
 thermometers
 thermometry
@@ -60582,6 +60958,7 @@ thicko
 thickos
 thief
 thieve
+thieved
 thievery
 thieves
 thieving
@@ -60648,6 +61025,7 @@ tholing
 tholoi
 tholos
 thon
+thonder
 thong
 thonging
 thongs
@@ -60706,6 +61084,8 @@ threat
 threaten
 threatener
 threats
+threnode
+threnodic
 thresh
 thresher
 threshers
@@ -60754,6 +61134,8 @@ thromboses
 thrombosis
 thronal
 throne
+throned
+thronedom
 thronelet
 thronelets
 thronely
@@ -60985,6 +61367,7 @@ time
 timebomb
 timebombs
 timecard
+timecode
 timed
 timeframe
 timeish
@@ -61531,6 +61914,7 @@ torgoch
 tori
 toric
 torment
+tormented
 tormenting
 tormentor
 tormentors
@@ -62089,6 +62473,7 @@ tremolites
 tremolo
 tremolos
 tremor
+tremored
 tremoring
 tremors
 trems
@@ -62097,11 +62482,14 @@ trenails
 trench
 trenchant
 trenchcoat
+trenched
 trencher
+trenchermen
 trenches
 trenchman
 trenchmen
 trend
+trended
 trendier
 trendies
 trendiest
@@ -64719,6 +65107,7 @@ veging
 vego
 vegolate
 vegos
+vehemence
 vehement
 veil
 veiled
@@ -64781,6 +65170,7 @@ venational
 venator
 vend
 vended
+vender
 vendible
 vending
 vendor
@@ -64806,6 +65196,7 @@ vengeful
 venial
 venison
 venom
+venomed
 venoms
 venose
 venosus
@@ -64872,6 +65263,7 @@ verdict
 verdicts
 verdin
 verdins
+verditer
 verdure
 verdured
 verdurous
@@ -64902,6 +65294,7 @@ verligtes
 verligtheid
 vermes
 vermian
+vermicide
 vermin
 vermis
 vermouth
@@ -65054,6 +65447,7 @@ vicinal
 vicinities
 vicinity
 vicious
+vicomte
 victim
 victimise
 victimises
