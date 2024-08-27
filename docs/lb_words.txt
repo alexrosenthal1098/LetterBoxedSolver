@@ -17878,6 +17878,7 @@ eyeleted
 eyelets
 eyelid
 eyelight
+eyelights
 eyeline
 eyeliner
 eyelines
@@ -20728,6 +20729,7 @@ glebe
 glen
 glengore
 gley
+gleys
 glia
 glial
 glib
@@ -20739,6 +20741,7 @@ gliding
 glim
 glint
 glinting
+glints
 glioma
 glister
 glisters
@@ -20800,6 +20803,7 @@ gluey
 glug
 glugs
 gluier
+gluiest
 gluing
 glum
 glume
@@ -21283,7 +21287,10 @@ greycloth
 greycoat
 greyer
 greyers
+greyerses
+greyest
 greygle
+greygles
 greying
 greyish
 greylag
@@ -21454,6 +21461,7 @@ grunion
 grunions
 grunt
 grunter
+grunters
 grunting
 grunts
 gua
@@ -21490,6 +21498,8 @@ gudgeon
 guelder
 guenon
 guerdon
+guernsey
+guernseys
 guest
 guestlist
 guestlists
@@ -21511,8 +21521,10 @@ guileful
 guilt
 guilted
 guiltier
+guiltiest
 guiltily
 guilting
+guilts
 guilty
 guimp
 guimpe
@@ -21538,7 +21550,9 @@ gulden
 gulder
 gulderd
 guldered
+gules
 gulet
+gulets
 gulf
 gulfs
 gulp
@@ -21581,15 +21595,21 @@ gunmetal
 gunplay
 gunpoint
 guns
+gunsel
 gunship
 gunships
+gunsight
+gunsights
 gunter
+gunters
 gunyah
 gur
 gurdwara
 gurgle
 gurgled
 gurgler
+gurglers
+gurgles
 gurgling
 gurk
 gurks
@@ -22814,6 +22834,7 @@ highbrow
 highchair
 highchairs
 higher
+highest
 highflier
 highfliers
 highflyer
@@ -23567,6 +23588,7 @@ hunks
 hunky
 hunt
 hunter
+hunters
 hunting
 hunts
 hunyak
@@ -23580,6 +23602,8 @@ hurl
 hurled
 hurler
 hurlers
+hurley
+hurleys
 hurling
 hurls
 hurst
@@ -23591,6 +23615,7 @@ hurtiest
 hurting
 hurtle
 hurtled
+hurtles
 hurtling
 hurts
 hurty
@@ -24613,6 +24638,7 @@ inhere
 inhered
 inherence
 inherent
+inheres
 inhering
 inherit
 inheritance
@@ -24757,6 +24783,8 @@ inservice
 inset
 insets
 inshore
+insight
+insights
 insignia
 insignias
 insincere
@@ -24847,6 +24875,8 @@ insulators
 insulin
 insulitis
 insult
+insulter
+insulters
 insults
 insurable
 insurance
@@ -25001,12 +25031,15 @@ interneural
 interneurals
 internist
 internists
+internity
 internment
 internode
 internonce
 interns
 internuclear
 internuncial
+internuntius
+internuntiuses
 interoceanic
 interplant
 interplants
@@ -25020,6 +25053,7 @@ interstice
 interstitial
 interstitials
 intertitle
+intertitles
 intertrigo
 intertwine
 interurban
@@ -25586,6 +25620,8 @@ jeopardizing
 jerk
 jerkier
 jerkin
+jersey
+jerseys
 jest
 jested
 jester
@@ -27458,6 +27494,7 @@ leister
 leistered
 leisters
 leisure
+leisurely
 lek
 leke
 leks
@@ -27771,6 +27808,7 @@ lighter
 lighters
 lightest
 lightgun
+lightguns
 lighties
 lighting
 lightish
@@ -27790,6 +27828,7 @@ ligula
 ligular
 ligulate
 ligule
+ligules
 likability
 likable
 likably
@@ -28822,6 +28861,7 @@ lure
 lured
 lures
 lurex
+lurgies
 lurgy
 lurid
 luridly
@@ -35378,10 +35418,13 @@ nightgown
 nightgowns
 nighthawk
 nightie
+nighties
 nightlight
+nightlights
 nightly
 nightman
 nightrider
+nights
 nighty
 nigiri
 nignay
@@ -49857,6 +49900,9 @@ religated
 religates
 religation
 relight
+relights
+religieuse
+religieuses
 religion
 religionary
 religioner
@@ -50691,6 +50737,7 @@ resinoses
 resinosis
 resinous
 resins
+resiny
 resist
 resistabilities
 resistable
@@ -50867,6 +50914,8 @@ restructure
 restructures
 rests
 resty
+restyle
+restyles
 resubdue
 resubdues
 resubmit
@@ -51032,9 +51081,11 @@ retinomotor
 retinotectal
 retins
 retinue
+retinues
 retinula
 retinular
 retinule
+retinules
 retinyl
 retip
 retips
@@ -51186,6 +51237,7 @@ reunion
 reunitable
 reunite
 reunited
+reunites
 reuniting
 reunition
 reunitive
@@ -53188,6 +53240,7 @@ runt
 runted
 runthrough
 runtier
+runtiest
 runtime
 runting
 runts
@@ -55928,6 +55981,7 @@ singsong
 singsonging
 singsongs
 sinister
+sinisterly
 sinistral
 sinistrality
 sinistrals
@@ -56648,6 +56702,7 @@ snub
 snubs
 snuck
 snug
+snugly
 snugs
 snus
 soak
@@ -58064,8 +58119,10 @@ sternest
 sternie
 sternite
 sternites
+sternly
 sternmost
 sterns
+sterny
 sterol
 sterols
 stet
@@ -58398,6 +58455,7 @@ stretches
 stretchier
 stretchiest
 stretchy
+streusel
 strew
 strewer
 strewers
@@ -58570,6 +58628,8 @@ stye
 styes
 stylar
 style
+styler
+stylers
 styles
 stylet
 stylets
@@ -59013,6 +59073,7 @@ sunland
 sunlands
 sunlet
 sunlets
+sunlight
 sunlit
 sunomono
 sunomonos
@@ -59132,6 +59193,7 @@ surd
 surds
 sure
 surefire
+surely
 surer
 surest
 sureties
@@ -59457,6 +59519,8 @@ synthases
 syntheses
 synthesis
 synthesise
+synthesiser
+synthesisers
 synthesises
 synthesist
 synthesists
@@ -60667,6 +60731,7 @@ terns
 terpene
 terpenes
 terse
+tersely
 terser
 tersest
 tertian
@@ -62512,6 +62577,7 @@ tret
 tretinoin
 trews
 trey
+treys
 triable
 triac
 triacetate
@@ -63895,6 +63961,7 @@ unite
 united
 unitely
 uniter
+uniters
 unites
 unities
 uniting
@@ -64010,6 +64077,7 @@ unlid
 unlids
 unlifted
 unlight
+unlights
 unlikable
 unlike
 unlikeable
@@ -64339,6 +64407,7 @@ unrepulsive
 unrequiter
 unreserve
 unrest
+unresty
 unretained
 unretaliated
 unretarded
@@ -64389,6 +64458,7 @@ unruined
 unrule
 unrules
 unrulier
+unruliest
 unruly
 unrumple
 unrung
@@ -64416,6 +64486,10 @@ unship
 unships
 unshod
 unshorn
+unsightlier
+unsightliest
+unsightly
+unsisterly
 unsized
 unskilful
 unsnap
@@ -64446,6 +64520,7 @@ unsubtle
 unsuitable
 unsung
 unsure
+unsurely
 unsuspicious
 unsworn
 unt
@@ -64464,6 +64539,7 @@ untended
 untenured
 untether
 untethered
+untethers
 unthaw
 unthinkability
 unthinkable
@@ -67237,6 +67313,8 @@ yerked
 yerks
 yes
 yeses
+yesternight
+yesternights
 yesteryear
 yesteryears
 yet
