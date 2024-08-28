@@ -3698,6 +3698,7 @@ arctic
 arctician
 arcticise
 arctics
+arctophilia
 arcuate
 arcus
 ardeb
@@ -5007,6 +5008,7 @@ balm
 balmier
 balmiest
 balmily
+balmoral
 balms
 balmy
 baloi
@@ -9556,6 +9558,7 @@ charactery
 charade
 charango
 charas
+charbroil
 charcoal
 charcuterie
 chard
@@ -9904,6 +9907,7 @@ chivies
 chivy
 chloracne
 chloral
+chlorambucil
 chlorate
 chlordane
 chloric
@@ -10224,6 +10228,7 @@ circumcircle
 circumcise
 circumcises
 circumlunar
+circumpolar
 circus
 circuses
 cire
@@ -10531,6 +10536,7 @@ climatal
 climate
 climatic
 climatical
+climatorial
 climax
 climaxed
 climb
@@ -10638,6 +10644,7 @@ closish
 closure
 closures
 clot
+clotbur
 cloth
 clothe
 clothier
@@ -21830,6 +21837,7 @@ hair
 hairband
 hairbrush
 haircare
+haircloth
 haircut
 haircuts
 hairdo
@@ -21908,6 +21916,7 @@ halohalo
 haloing
 halon
 halons
+halophilic
 halophyte
 halos
 halothane
@@ -22059,6 +22068,7 @@ haplography
 haploid
 haploidy
 haplology
+haplomorphic
 haplont
 haplotypic
 haply
@@ -23557,6 +23567,8 @@ humiliation
 humiliator
 humint
 humor
+humoral
+humoric
 humors
 humour
 humoured
@@ -28182,6 +28194,7 @@ lithic
 lithifies
 lithify
 lithifying
+lithium
 litho
 lithoed
 lithoes
@@ -28486,6 +28499,7 @@ lolo
 lolos
 lols
 lolz
+lomatium
 loment
 lomenta
 lone
@@ -29973,6 +29987,7 @@ maria
 mariachi
 mariachis
 mariage
+marialitic
 maricon
 maricons
 marid
@@ -30322,6 +30337,9 @@ matraca
 matracas
 matral
 matras
+matriarch
+matriarchal
+matriarchic
 matric
 matrical
 matricaria
@@ -31545,6 +31563,9 @@ micronation
 micronize
 micronizer
 microns
+microphoto
+microphthalmia
+microphthalmic
 micropipet
 micropolitan
 micropolitical
@@ -31582,6 +31603,7 @@ microtomists
 microtomy
 microtonal
 microtone
+microtrichium
 microtron
 microtrons
 microunit
@@ -33179,6 +33201,7 @@ moran
 moras
 morat
 moratoria
+moratorium
 moratory
 morats
 moray
@@ -33291,6 +33314,7 @@ mortalists
 mortals
 mortar
 mortaria
+mortarium
 mortars
 mortary
 mortcloth
@@ -33916,6 +33940,7 @@ murghs
 murgi
 murgis
 muriate
+muriatic
 muricacean
 muricaceans
 muricate
@@ -37278,6 +37303,7 @@ omasal
 omasum
 omatsu
 ombre
+ombrotrophic
 ombu
 ombus
 omda
@@ -37338,6 +37364,7 @@ omomyine
 omphacite
 omphacites
 omphacitic
+omphalic
 omphaloi
 omrah
 omrahs
@@ -37539,6 +37566,7 @@ ophicleide
 ophidian
 ophidioid
 ophiolatry
+ophiolitic
 ophiology
 ophiomorphic
 ophisaur
@@ -37549,6 +37577,9 @@ ophitic
 ophiuran
 ophryon
 ophryons
+ophthalmia
+ophthalmic
+ophthalmitic
 opi
 opianate
 opiate
@@ -37873,6 +37904,7 @@ oribatid
 oribi
 oribis
 orichalc
+orichalcum
 oriel
 orieled
 oriels
@@ -38038,12 +38070,14 @@ orthophony
 orthophoria
 orthophoto
 orthophotograph
+orthophotomap
 orthophotos
 orthopinacoid
 orthoploid
 orthopnea
 orthopnoea
 orthopod
+orthoptic
 orthose
 orthoses
 orthosis
@@ -39934,6 +39968,7 @@ parabolae
 parabolas
 parabole
 paraboles
+parabolic
 parabolist
 parabolists
 parabrake
@@ -40058,6 +40093,7 @@ paraphilia
 paraphiliac
 paraphilic
 paraphimosis
+paraphimotic
 paraphonic
 paraphrasable
 paraphrase
@@ -40099,6 +40135,7 @@ parapterum
 paraptosis
 paraptosises
 paraptotic
+parapublic
 pararectal
 pararenal
 pararosanilin
@@ -40152,6 +40189,7 @@ parawais
 parawing
 paraxial
 parbleu
+parboil
 parbreak
 parbreaks
 parc
@@ -40619,6 +40657,9 @@ patriae
 patrial
 patriality
 patrials
+patriarch
+patriarchal
+patriarchic
 patrias
 patriate
 patriating
@@ -41931,9 +41972,14 @@ philatelical
 philately
 philautia
 philibeg
+philobat
+philobatic
 philodinid
 philologian
 philologizing
+philomath
+philomathic
+philopatric
 philopatry
 philothion
 philter
@@ -42018,6 +42064,7 @@ phonotypy
 phons
 phony
 phorate
+phorbol
 phoresy
 phoretic
 phoria
@@ -42054,6 +42101,7 @@ photo
 photoact
 photoaction
 photoaging
+photobomb
 photocatalytic
 photochemic
 photochrom
@@ -42094,10 +42142,13 @@ photolitho
 photolithograph
 photolithographing
 photolithotroph
+photolithotrophic
 photolithotrophy
 photology
 photolytic
+photomap
 photometer
+photomural
 photon
 photoneutron
 photonic
@@ -42111,6 +42162,7 @@ photophobe
 photophone
 photophonic
 photophore
+photophthalmia
 photopia
 photopic
 photopile
@@ -43950,6 +44002,8 @@ poliphant
 polis
 polisman
 polismen
+politarch
+politburo
 polite
 politely
 politer
@@ -45434,6 +45488,8 @@ primase
 primases
 primatal
 primate
+primatial
+primatic
 primavera
 prime
 primed
@@ -45574,6 +45630,7 @@ pristine
 pritch
 pritchel
 pritches
+pritchil
 prius
 priuses
 privacy
@@ -45629,6 +45686,7 @@ proband
 probang
 probate
 probates
+probatic
 probating
 probative
 probe
@@ -46165,6 +46223,8 @@ proteus
 proteuses
 protext
 protexts
+prothalamia
+prothalamium
 protheses
 prothesis
 prothetic
@@ -46204,6 +46264,7 @@ protograph
 protoheme
 protolife
 protolith
+protolithic
 protolog
 protologue
 protology
@@ -46517,6 +46578,8 @@ pube
 puberulent
 pubes
 pubis
+public
+publicitor
 pubs
 pubsy
 pucan
@@ -46798,6 +46861,7 @@ puraus
 purchase
 purchaser
 purchases
+purchil
 purdah
 purdy
 pure
@@ -48298,6 +48362,7 @@ ratiocinations
 ratiocinator
 ratioed
 ratioing
+ratiomorphic
 ration
 rational
 rationale
@@ -48322,6 +48387,8 @@ ratline
 ratling
 ratlins
 rato
+ratomorph
+ratomorphic
 ratpack
 ratrace
 ratraces
@@ -52344,6 +52411,7 @@ robotism
 robotize
 robotlike
 robotnik
+robotomorphic
 robotry
 robots
 roboty
@@ -59811,6 +59879,7 @@ talc
 talced
 talcose
 talcs
+talcum
 talcy
 tale
 talebearer
@@ -60839,6 +60908,7 @@ texturises
 thai
 thakur
 thalami
+thalamic
 thale
 thaler
 thalers
@@ -61099,6 +61169,7 @@ thoraces
 thoracic
 thorax
 thoria
+thorium
 thorn
 thornier
 thorniest
@@ -62821,6 +62892,7 @@ triturations
 triturator
 triturators
 triumph
+triumphal
 triune
 trivalent
 trivet
@@ -62873,6 +62945,7 @@ tropes
 trophal
 trophic
 trophical
+trophophoric
 trophotropic
 trophus
 trophuses
