@@ -1857,6 +1857,7 @@ aired
 airer
 airers
 airfare
+airfield
 airflow
 airfoil
 airforce
@@ -9192,6 +9193,7 @@ ceilometers
 ceils
 ceinture
 cel
+celadon
 celeb
 celebrant
 celebrate
@@ -10734,6 +10736,7 @@ coalesce
 coalesced
 coalesces
 coalface
+coalfield
 coalification
 coalifications
 coaling
@@ -10877,6 +10880,7 @@ codex
 codexes
 codices
 codicil
+codifier
 codomain
 codon
 codons
@@ -12035,6 +12039,7 @@ crabmeat
 crabs
 crack
 crackajack
+crackdown
 cracked
 cracker
 crackers
@@ -13143,6 +13148,7 @@ danaids
 dance
 danced
 dancer
+dancewear
 dancing
 dancy
 danda
@@ -13165,6 +13171,7 @@ dangling
 dangly
 danio
 dank
+danker
 dankly
 dans
 dansant
@@ -14535,6 +14542,7 @@ direful
 direly
 direr
 direst
+direwolf
 dirge
 dirges
 dirham
@@ -15127,12 +15135,16 @@ dowfs
 down
 downed
 downer
+downfield
+downfold
 downgrade
 downgraded
 downhaul
+downier
 downiest
 downing
 downlevel
+download
 downlow
 downpour
 downrange
@@ -15248,6 +15260,7 @@ drays
 dread
 dreaded
 dreadful
+dreadlock
 dreadnaught
 dreadnought
 dream
@@ -15290,6 +15303,7 @@ driftier
 drily
 drink
 drinkable
+drinker
 drinking
 drinks
 drip
@@ -15843,6 +15857,7 @@ ecocline
 ecoclines
 ecocritic
 ecocritical
+ecofreak
 ecohouse
 ecohouses
 ecolabel
@@ -18323,6 +18338,8 @@ featuring
 febrifuge
 fecal
 feces
+feck
+fecker
 fed
 fedai
 fedais
@@ -18729,6 +18746,8 @@ firebed
 firebird
 fireboard
 firebug
+firecock
+firecracker
 firecrest
 firecrests
 fired
@@ -18747,6 +18766,7 @@ firehole
 firelight
 fireline
 firelit
+firelock
 fireman
 firemaster
 firemen
@@ -18863,6 +18883,8 @@ flailing
 flails
 flair
 flak
+flake
+flakier
 flam
 flambe
 flambeau
@@ -18947,6 +18969,7 @@ fleabite
 fleadh
 fleas
 fleche
+fleck
 fled
 fledge
 fledged
@@ -19013,6 +19036,8 @@ floats
 flob
 flobs
 floc
+flock
+flockier
 flocs
 floe
 floes
@@ -19157,6 +19182,7 @@ fobs
 focal
 focalise
 focalises
+focaloid
 foci
 focus
 focuses
@@ -19223,6 +19249,9 @@ foliole
 folios
 folium
 folk
+folkdance
+folkie
+folkier
 folklorist
 folklorists
 folks
@@ -19419,6 +19448,7 @@ foyers
 fracas
 fracases
 frack
+fracker
 fracks
 fractal
 fracture
@@ -19478,7 +19508,9 @@ fraying
 frays
 frazil
 freak
+freakier
 freaks
+freckle
 freight
 freighter
 freighters
@@ -24571,6 +24603,7 @@ info
 infobot
 infobots
 infoglut
+infold
 infoliating
 infoliation
 infoline
@@ -24584,6 +24617,7 @@ infowar
 infra
 infract
 infracted
+infradian
 infrangibly
 infrared
 infrarenal
@@ -26031,6 +26065,7 @@ kecks
 ked
 keds
 kef
+kefir
 keg
 kegerator
 kegerators
@@ -26093,6 +26128,7 @@ kereru
 kererus
 kerf
 kerfs
+kerida
 kermes
 kermis
 kermises
@@ -26287,6 +26323,7 @@ kinetics
 kinetin
 kinetosome
 kinetosomes
+kinfolk
 king
 kingie
 kingies
@@ -26437,6 +26474,8 @@ knick
 knicker
 knickers
 knicks
+knife
+knifer
 knight
 knightage
 knish
@@ -26450,6 +26489,7 @@ knoblike
 knobs
 knock
 knockback
+knockdown
 knocker
 knockers
 knocking
@@ -28368,6 +28408,7 @@ loci
 locie
 locies
 lock
+lockdown
 locked
 locker
 lockers
@@ -35714,6 +35755,7 @@ nobodies
 nobody
 nobs
 nocake
+nocardial
 nocebo
 nocent
 nocerite
@@ -35723,6 +35765,7 @@ nocive
 nock
 nockandro
 nocked
+nockerl
 nocking
 nocks
 noctiluca
@@ -37220,6 +37263,7 @@ oldies
 oldline
 oldly
 oldman
+oldwife
 ole
 oleandrin
 oleandrine
@@ -47636,6 +47680,7 @@ radial
 radiale
 radiality
 radian
+radiance
 radiancy
 radians
 radiant
@@ -49414,6 +49459,7 @@ reflowed
 reflower
 reflowered
 reflowers
+reflown
 reflows
 refluent
 reflux
@@ -66730,8 +66776,10 @@ wienies
 wife
 wifedom
 wifeish
+wifekin
 wifelet
 wifelets
+wifelkin
 wifely
 wifeward
 wifey
@@ -66851,6 +66899,7 @@ winked
 winker
 winkers
 winkie
+winkier
 winkle
 winkled
 winkler
