@@ -1648,6 +1648,8 @@ agitational
 agitative
 agitato
 agitator
+agitatorial
+agitatrix
 agitpop
 agitprop
 aglance
@@ -2490,6 +2492,7 @@ altercative
 altered
 alterer
 alterers
+altering
 alterity
 altern
 alternacy
@@ -2502,11 +2505,13 @@ alternants
 alternate
 alternately
 alternatim
+alternating
 alternation
 alternative
 alternator
 alterne
 alterned
+alterning
 alterns
 alters
 alteza
@@ -4659,6 +4664,7 @@ awakenings
 awakens
 awakes
 awaking
+awanting
 award
 awarded
 awarder
@@ -16779,9 +16785,11 @@ entered
 enteric
 entering
 enteritis
+enterotoxin
 enters
 entertain
 entertainer
+entertaining
 enthral
 enthralment
 enthrone
@@ -16864,6 +16872,7 @@ ents
 entwine
 entwinement
 entwines
+entwining
 enucleate
 enucleated
 enumerate
@@ -17440,6 +17449,7 @@ etic
 etics
 etiolate
 etiolated
+etiolating
 etiolation
 etiologic
 etiological
@@ -17698,6 +17708,7 @@ exercycle
 exergue
 exergues
 exert
+exerting
 exerts
 exes
 exeunt
@@ -17710,6 +17721,8 @@ exier
 exies
 exieses
 exiest
+exigent
+exigenter
 exile
 exiled
 exiler
@@ -17735,6 +17748,7 @@ exited
 exitelite
 exitelites
 exites
+exitial
 exiting
 exitious
 exits
@@ -17826,6 +17840,8 @@ exteriorises
 exteriority
 exteriors
 extern
+external
+externing
 extirpate
 extirpates
 extirpator
@@ -17836,6 +17852,7 @@ extort
 extorted
 extorter
 extorters
+extorting
 extorts
 extra
 extract
@@ -20078,6 +20095,7 @@ gangrape
 gangraping
 gangrel
 gangrenate
+gangrenating
 gangrene
 gangrening
 gangril
@@ -20250,6 +20268,8 @@ gaveling
 gavial
 gavone
 gawk
+gawker
+gawking
 gawkish
 gawp
 gawped
@@ -20366,6 +20386,7 @@ genetic
 genetical
 geneticize
 geneticizing
+genetrix
 genets
 geneva
 genever
@@ -20830,6 +20851,7 @@ glowier
 glowing
 glows
 glowy
+gloxinia
 gloze
 glozes
 glozing
@@ -21302,6 +21324,7 @@ greasiest
 great
 greatcoat
 greaten
+greatening
 greater
 greatest
 greatish
@@ -23992,6 +24015,7 @@ ignis
 ignitable
 ignite
 ignited
+igniter
 igniting
 ignition
 ignitor
@@ -25075,6 +25099,7 @@ internegative
 internes
 interneural
 interneurals
+interning
 internist
 internists
 internity
@@ -25102,6 +25127,7 @@ intertitle
 intertitles
 intertrigo
 intertwine
+intertwining
 interurban
 interval
 intervene
@@ -25906,6 +25932,7 @@ kaiseki
 kaiser
 kaisers
 kaitiaki
+kaitiakitanga
 kajal
 kaka
 kakapo
@@ -26034,6 +26061,7 @@ kavas
 kawa
 kawakawa
 kawakawas
+kawanatanga
 kay
 kayak
 kayaked
@@ -26095,6 +26123,7 @@ ken
 kena
 kenaf
 kenafs
+kenanga
 kendo
 kendoist
 kendoists
@@ -26141,6 +26170,7 @@ kerning
 kernite
 kerns
 kero
+kerogen
 kerosene
 kerosine
 kersey
@@ -27197,6 +27227,7 @@ lateritize
 laterize
 laters
 latest
+latewake
 latex
 latexes
 lath
@@ -28522,6 +28553,7 @@ lointaine
 loiter
 loiterer
 loiterers
+loitering
 loiters
 loke
 lokes
@@ -35656,6 +35688,7 @@ nitrite
 nitrites
 nitritoid
 nitro
+nitroalkane
 nitroamine
 nitroaniline
 nitroanisol
@@ -37894,6 +37927,7 @@ orenda
 oreodont
 oreodonts
 ores
+orexin
 orexis
 orexises
 orf
@@ -39129,6 +39163,7 @@ oxeye
 oxeyes
 oxgang
 oxgangs
+oxgate
 oxheal
 oxhide
 oxhouse
@@ -39149,6 +39184,7 @@ oximeters
 oximetry
 oximide
 oximides
+oxine
 oxisol
 oxisols
 oxlip
@@ -48622,6 +48658,7 @@ reaginic
 reagitate
 reagitated
 reagitates
+reagitating
 reagreing
 reais
 reak
@@ -48718,8 +48755,10 @@ reavow
 reavowed
 reawake
 reawaken
+reawakening
 reawakens
 reawakes
+reawaking
 reawoke
 rebab
 rebabs
@@ -49657,6 +49696,7 @@ regorge
 regorged
 regorgement
 regorges
+regorging
 regos
 regosol
 regosols
@@ -51077,15 +51117,18 @@ retainable
 retainage
 retained
 retainer
+retaining
 retake
 retaken
 retaker
 retakers
+retaking
 retaliate
 retaliated
 retaliation
 retaliator
 retalk
+retalking
 retam
 retama
 retamas
@@ -51117,6 +51160,7 @@ retempering
 retempers
 retenant
 retenanted
+retenanting
 retenants
 retender
 retendered
@@ -51186,6 +51230,7 @@ retinite
 retinites
 retinitis
 retinker
+retinkering
 retinkers
 retinoate
 retinoic
@@ -51261,6 +51306,7 @@ retreatant
 retreated
 retreater
 retreatful
+retreating
 retreatist
 retreatists
 retreative
@@ -51596,6 +51642,7 @@ rewatch
 rewatched
 rewater
 rewatered
+rewatering
 rewaters
 reweave
 rewed
@@ -59910,6 +59957,7 @@ takfir
 takht
 takhts
 takin
+taking
 takins
 takoyaki
 takraw
@@ -60015,7 +60063,9 @@ tangas
 tangata
 tanged
 tangent
+tangential
 tangere
+tangerine
 tangi
 tangible
 tangier
@@ -60044,6 +60094,7 @@ tankard
 tankards
 tankas
 tanker
+tankering
 tankers
 tankful
 tanking
@@ -60665,6 +60716,7 @@ tenancy
 tenant
 tenantable
 tenanted
+tenanting
 tenantry
 tenants
 tench
@@ -61501,6 +61553,7 @@ tigon
 tigs
 tik
 tika
+tikanga
 tikas
 tike
 tikes
@@ -61624,6 +61677,7 @@ tink
 tinker
 tinkerer
 tinkerers
+tinkering
 tinkers
 tinking
 tinkle
@@ -63440,6 +63494,7 @@ twangs
 tweak
 tweaker
 tweakers
+tweaking
 tweaks
 twelfth
 twelve
@@ -63449,6 +63504,7 @@ twenties
 twentieth
 twenty
 twerk
+twerking
 twerp
 twerps
 twice
@@ -63461,6 +63517,7 @@ twine
 twiner
 twines
 twiney
+twinge
 twinging
 twining
 twink
@@ -63473,6 +63530,7 @@ twinsets
 twinsies
 twiny
 twirk
+twirking
 twirl
 twirler
 twirlier
@@ -66197,8 +66255,10 @@ walk
 walkability
 walkabout
 walked
+walker
 walkies
 walkin
+walking
 walkins
 walkist
 walkists
@@ -66229,6 +66289,7 @@ wanly
 want
 wanta
 wantaed
+wantage
 wantaing
 wantas
 wantaway
@@ -66236,6 +66297,7 @@ wanter
 wanters
 wantey
 wanties
+wanting
 wanton
 wantoned
 wantoner
@@ -66364,10 +66426,12 @@ watercolour
 watered
 waterer
 waterers
+watergang
 watergate
 watergrave
 waterhen
 waterhole
+watering
 waterish
 waterlog
 waterlogs
@@ -66433,6 +66497,7 @@ weak
 weaken
 weakener
 weakeners
+weakening
 weakens
 weaker
 weakest
@@ -66447,6 +66512,7 @@ wealthier
 wean
 weaner
 weaners
+weaning
 weans
 weapon
 weaponise
@@ -66900,6 +66966,7 @@ winker
 winkers
 winkie
 winkier
+winking
 winkle
 winkled
 winkler
@@ -66911,6 +66978,7 @@ wins
 winsome
 winter
 winterer
+wintering
 wintrier
 wintriest
 wintrifies
@@ -67192,6 +67260,7 @@ wraths
 wreak
 wreaker
 wreakers
+wreaking
 wreaks
 wreath
 wreathe
@@ -67288,11 +67357,13 @@ xenon
 xeric
 xerox
 xeroxes
+xeroxing
 xes
 xis
 xiv
 xix
 xlnt
+xoana
 xolo
 xolos
 xvi
