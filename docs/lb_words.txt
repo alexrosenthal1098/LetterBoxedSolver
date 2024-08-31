@@ -8954,6 +8954,9 @@ catachresis
 catachrestic
 cataclasis
 cataclastic
+cataclysm
+cataclysmal
+cataclysms
 catacomb
 catadioptric
 catalase
@@ -9866,6 +9869,7 @@ chining
 chinkara
 chino
 chinois
+chinos
 chins
 chintz
 chintziest
@@ -9896,6 +9900,7 @@ chiru
 chis
 chit
 chital
+chitals
 chitchat
 chitchats
 chiti
@@ -9913,6 +9918,7 @@ chives
 chivied
 chivies
 chivy
+chlamys
 chloracne
 chloral
 chlorambucil
@@ -10450,7 +10456,9 @@ clawlike
 claws
 clay
 clayey
+clayish
 claylike
+claymation
 claypan
 clays
 clean
@@ -10656,6 +10664,7 @@ clotbur
 cloth
 clothe
 clothier
+cloths
 clots
 cloture
 clou
@@ -10869,6 +10878,7 @@ coconut
 coconuts
 cocos
 cocoyam
+cocoyams
 coculture
 cocultures
 cocus
@@ -11104,6 +11114,7 @@ coltan
 colter
 colters
 coltish
+coltishly
 colts
 colugo
 columbine
@@ -11280,6 +11291,7 @@ conchiolin
 concho
 conchoid
 conchs
+conchy
 concierge
 conciliar
 conciliate
@@ -23028,6 +23040,7 @@ histometabases
 histometabasis
 histone
 histones
+histonomy
 historian
 historians
 historic
@@ -23044,6 +23057,7 @@ historists
 history
 historywise
 histosol
+histosols
 histotrophic
 histotropic
 histrio
@@ -23710,6 +23724,7 @@ hutong
 huts
 hwyl
 hyacinth
+hyacinths
 hyaena
 hyaenodon
 hyaenodons
@@ -25498,6 +25513,7 @@ isolable
 isolate
 isolates
 isolation
+isolationism
 isolationist
 isolationists
 isolations
@@ -26851,7 +26867,9 @@ lacks
 lacky
 laconic
 laconica
+laconicism
 laconicum
+laconism
 lacquer
 lacquerer
 lacquey
@@ -27295,6 +27313,7 @@ lavas
 lavash
 lavatera
 lavateras
+lavation
 lavatorial
 lave
 laved
@@ -27304,6 +27323,7 @@ lavers
 laves
 laving
 lavish
+lavishly
 lavs
 law
 lawfare
@@ -28353,6 +28373,7 @@ loafers
 loafing
 loafs
 loam
+loamy
 loan
 loanable
 loaned
@@ -28548,6 +28569,7 @@ logy
 loiasis
 loin
 loincloth
+loincloths
 loins
 lointaine
 loiter
@@ -29118,16 +29140,20 @@ machera
 machers
 machete
 machetes
+machicolation
 machila
 machilas
 machilid
 machina
 machinima
 machinimas
+machinist
+machinists
 machismo
 macho
 machos
 macilencies
+macintosh
 mack
 macka
 macker
@@ -29328,6 +29354,8 @@ mahal
 mahala
 mahalas
 mahalo
+mahalos
+mahals
 mahaly
 mahant
 mahants
@@ -29343,6 +29371,7 @@ mahimahi
 mahimahis
 mahis
 mahmal
+mahmals
 mahmudi
 mahoe
 mahoes
@@ -29403,6 +29432,7 @@ maineporte
 mainland
 mainline
 mainliner
+mainly
 mainman
 mainmast
 mainmasts
@@ -32648,6 +32678,7 @@ moches
 mochi
 mochila
 mochis
+mochy
 mock
 mockado
 mockamock
@@ -32971,9 +33002,12 @@ monimolimnions
 monimolite
 monion
 monions
+monish
 monism
 monisms
 monist
+monistic
+monistical
 monists
 monition
 monitor
@@ -32996,6 +33030,7 @@ monoacid
 monoacidic
 monoamine
 monoamines
+monoamniotic
 monoanion
 monoanionic
 monoanions
@@ -33083,6 +33118,7 @@ monomachia
 monomachias
 monomachist
 monomachists
+monomachy
 monomania
 monomaniac
 monomaniacal
@@ -33111,6 +33147,7 @@ mononitrate
 mononomial
 mononomials
 mononym
+mononyms
 monopalmitin
 monophase
 monophases
@@ -33164,6 +33201,7 @@ monosemous
 monoses
 monoski
 monoskis
+monosomatic
 monosome
 monosomes
 monosomic
@@ -33172,6 +33210,7 @@ monospecific
 monosperm
 monospore
 monospores
+monostatic
 monostich
 monostiches
 monostome
@@ -33182,6 +33221,7 @@ monoterpene
 monothetic
 monotic
 monotint
+monotints
 monotonal
 monotone
 monotoned
@@ -33216,6 +33256,7 @@ monteith
 montero
 montes
 month
+monthly
 months
 monticuliporoid
 monticulus
@@ -34247,6 +34288,7 @@ mylonitic
 myna
 mynah
 mynas
+myoclonia
 myoclonic
 myoclonus
 myodome
@@ -34283,6 +34325,8 @@ myosote
 myosotes
 myosotis
 myosotises
+myostatic
+myotatic
 myotic
 myotis
 myotises
@@ -34319,12 +34363,18 @@ mysie
 mysorin
 mysorins
 mysost
+mystachial
 mystacial
 mystagogy
 mystes
 mysteses
 mystic
+mystical
+mysticism
+mysticist
+mysticists
 mysticity
+mysticly
 mystics
 myth
 mytheme
@@ -35603,6 +35653,7 @@ ninth
 ninthly
 ninths
 ninyam
+ninyams
 niobate
 niobian
 niobic
@@ -36658,6 +36709,7 @@ nux
 nyah
 nyala
 nyam
+nyams
 nyanyam
 nyas
 nyases
@@ -37432,6 +37484,7 @@ omnists
 omnitonic
 omnium
 omnivarious
+omnivision
 omnivorous
 omochi
 omochis
@@ -37526,6 +37579,7 @@ onlaid
 onlap
 onlaps
 onlay
+onlays
 onliest
 online
 onliner
@@ -37578,6 +37632,7 @@ onya
 onycha
 onychia
 onychite
+onymatic
 onyongnyong
 onyx
 opa
@@ -38229,6 +38284,7 @@ osmite
 osmites
 osmium
 osmol
+osmolal
 osmole
 osmoles
 osmometer
@@ -54406,6 +54462,7 @@ schemies
 schif
 schism
 schismatic
+schismatical
 schismatics
 schisms
 schist
@@ -54434,6 +54491,7 @@ schtum
 schtums
 sciaena
 sciaenas
+sciamachy
 sciascope
 sciascopic
 sciaterics
@@ -55414,6 +55472,7 @@ shales
 shaley
 shalier
 shaliest
+shalom
 shalt
 shalwar
 shalwars
@@ -55421,6 +55480,7 @@ shaly
 sham
 shama
 shamal
+shamals
 shaman
 shamanic
 shamans
@@ -56445,6 +56505,7 @@ slaves
 slavey
 slaveys
 slavish
+slavishly
 slaw
 slay
 slayed
@@ -56538,6 +56599,7 @@ slosh
 sloshed
 sloshier
 sloshiest
+sloshy
 slot
 sloth
 sloths
@@ -56909,6 +56971,7 @@ socials
 socias
 sociate
 sociates
+sociation
 socies
 socieses
 societaire
@@ -57049,6 +57112,7 @@ solos
 sols
 solstice
 solstices
+solstitial
 soluble
 solunar
 solus
@@ -57058,6 +57122,7 @@ solution
 solutions
 solvable
 solvate
+solvation
 solve
 solved
 solver
@@ -57073,6 +57138,7 @@ somatise
 somatised
 somatises
 somatosensory
+somatostatin
 somber
 sombre
 sombrero
@@ -58445,6 +58511,10 @@ stolon
 stolonate
 stolons
 stoma
+stomach
+stomachic
+stomachics
+stomachs
 stomal
 stomas
 stomata
@@ -59608,6 +59678,7 @@ syenites
 syenitic
 sylph
 sylphs
+sylvatic
 sylvine
 sylvinite
 sylvite
@@ -59656,6 +59727,7 @@ synod
 synods
 synonym
 synonymic
+synonyms
 synonymy
 synopses
 synopsis
@@ -59705,6 +59777,7 @@ syrups
 syrupy
 sysop
 sysops
+systaltic
 systases
 systasis
 systatic
@@ -61443,6 +61516,7 @@ thymes
 thymi
 thymic
 thymine
+thymol
 thymoma
 thymomas
 thymomata
@@ -61800,6 +61874,7 @@ tithonicity
 tithonometer
 tithonotype
 tithymal
+tithymals
 titi
 titihoya
 titin
@@ -65080,6 +65155,8 @@ vacate
 vacated
 vacates
 vacation
+vacationist
+vacationists
 vacay
 vacays
 vacs
@@ -65810,6 +65887,7 @@ vintners
 vints
 viny
 vinyl
+vinyls
 viol
 viola
 violable
@@ -65904,6 +65982,7 @@ visional
 visionaries
 visions
 visit
+visitation
 visite
 visitor
 visitors
