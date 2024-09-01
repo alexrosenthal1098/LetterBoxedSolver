@@ -16321,6 +16321,7 @@ emerita
 emeritus
 emerse
 emersed
+emersion
 emery
 emesis
 emetic
@@ -17096,6 +17097,10 @@ epoch
 epochal
 epochs
 epode
+eponym
+eponymous
+eponyms
+eponymy
 epoque
 epoxies
 epoxy
@@ -18473,6 +18478,7 @@ fern
 fernbird
 fernery
 ferns
+ferny
 ferox
 feroxes
 fertile
@@ -18823,6 +18829,7 @@ firmer
 firmest
 firmly
 firms
+firmus
 firmware
 firn
 firni
@@ -19886,9 +19893,11 @@ fusiliers
 fusils
 fusion
 fusional
+fusionism
 fusionist
 fusionists
 fusions
+fusiony
 fustian
 fustic
 fustier
@@ -24599,6 +24608,8 @@ inference
 inferior
 infernal
 inferno
+infernos
+infers
 infertile
 infest
 infests
@@ -24670,6 +24681,10 @@ infulae
 infuriate
 infuriating
 infuriation
+infuse
+infuser
+infusers
+infuses
 infusion
 infusions
 ingenue
@@ -25377,6 +25392,8 @@ ionist
 ionists
 ionium
 ionize
+ionizer
+ionizers
 ionizes
 ionizing
 ionogen
@@ -25528,6 +25545,8 @@ isomeric
 isomerise
 isomerises
 isomerism
+isomerize
+isomerizes
 isomerous
 isomers
 isometries
@@ -31141,6 +31160,7 @@ merisises
 merism
 merisms
 merismus
+merismuses
 meristem
 meristems
 merit
@@ -31226,6 +31246,7 @@ mesmeric
 mesmerical
 mesmerise
 mesmeriser
+mesmerisers
 mesmerises
 mesmerism
 mesmerist
@@ -31234,6 +31255,7 @@ mesmerite
 mesmerites
 mesmerize
 mesmerizer
+mesmerizers
 mesmerizes
 mesne
 mesocele
@@ -31536,6 +31558,8 @@ mews
 mezcal
 mezcals
 meze
+mezereon
+mezereons
 mezereum
 mezes
 mezuza
@@ -33128,6 +33152,8 @@ monomark
 monomer
 monomeric
 monomerise
+monomerize
+monomerizes
 monomerous
 monomers
 monometer
@@ -33147,6 +33173,7 @@ mononitrate
 mononomial
 mononomials
 mononym
+mononymous
 mononyms
 monopalmitin
 monophase
@@ -33175,6 +33202,7 @@ monoprotic
 monops
 monopsonic
 monopsonies
+monopsony
 monopteral
 monoptic
 monoptical
@@ -33198,6 +33226,7 @@ monosemantemic
 monosemantic
 monosemic
 monosemous
+monosemy
 monoses
 monoski
 monoskis
@@ -33208,6 +33237,8 @@ monosomic
 monosomy
 monospecific
 monosperm
+monospermous
+monospermy
 monospore
 monospores
 monostatic
@@ -33278,6 +33309,7 @@ moper
 mopers
 mopery
 mopes
+mopey
 mopier
 mopily
 moping
@@ -33290,6 +33322,7 @@ mopsy
 moptop
 moptops
 mopus
+mopuses
 mopy
 moqueca
 moquecas
@@ -33647,9 +33680,11 @@ mousekins
 mouser
 mouseries
 mousers
+mousery
 mouses
 mouseweb
 mousewebs
+mousey
 mousier
 mousme
 mousmes
@@ -34045,6 +34080,7 @@ murdrum
 mure
 mured
 murein
+mureins
 murena
 mures
 murex
@@ -34308,11 +34344,13 @@ myon
 myons
 myopathy
 myope
+myopes
 myopia
 myopic
 myopism
 myopisms
 myops
+myopses
 myoptic
 myopy
 myosarcoma
@@ -36109,10 +36147,13 @@ nonpayers
 nonpenetrative
 nonperson
 nonpersons
+nonpoisonous
 nonracial
 nonrational
 nonreader
 nonrenewable
+nonresponse
+nonresponses
 nonreward
 nonrhotic
 nonrigid
@@ -36124,6 +36165,7 @@ nonsense
 nonsenses
 nonsensible
 nonsensities
+nonserious
 nonslip
 nonspecie
 nonspecific
@@ -36734,6 +36776,7 @@ nystatin
 nything
 nytril
 nyuse
+nyuze
 oaf
 oafdom
 oafish
@@ -37483,6 +37526,7 @@ omnist
 omnists
 omnitonic
 omnium
+omniums
 omnivarious
 omnivision
 omnivorous
@@ -37633,6 +37677,7 @@ onycha
 onychia
 onychite
 onymatic
+onymous
 onyongnyong
 onyx
 opa
@@ -37777,6 +37822,8 @@ opsonin
 opsonins
 opsonise
 opsonises
+opsonize
+opsonizes
 opt
 optable
 optant
@@ -38794,6 +38841,8 @@ ouze
 ouzel
 ouzeri
 ouzeria
+ouzeris
+ouzery
 ouzo
 ouzos
 ova
@@ -39260,6 +39309,7 @@ oyama
 oyamas
 oyer
 oyes
+oyez
 oys
 oyster
 oysterer
@@ -41444,6 +41494,7 @@ peones
 peonies
 peonin
 peons
+peony
 people
 peopleise
 peopleize
@@ -41559,12 +41610,22 @@ perfecta
 perfecter
 perfectly
 perfin
+perfins
 perforin
 perform
 performer
 perfume
 perfumed
 perfumer
+perfumeries
+perfumers
+perfumery
+perfumes
+perfumy
+perfuse
+perfuses
+perfusion
+perfusions
 pergana
 pergola
 pergolide
@@ -41603,6 +41664,10 @@ periegesis
 periegesises
 periegete
 perienteric
+perifuse
+perifuses
+perifusion
+perifusions
 perigraph
 perigyny
 perihepatic
@@ -41747,6 +41812,9 @@ pernancy
 perne
 perning
 pernio
+pernios
+pernioses
+perniosis
 pernor
 pernors
 perns
@@ -44043,6 +44111,7 @@ poises
 poisha
 poising
 poison
+poisonous
 poisons
 poisony
 poitrail
@@ -44358,6 +44427,7 @@ pomeises
 pomelo
 pomelos
 pomerium
+pomeriums
 pomeron
 pomerons
 pomeroy
@@ -45006,6 +45076,7 @@ poxiest
 poxy
 poya
 poyas
+poyzer
 pozole
 practic
 practicant
@@ -45323,6 +45394,7 @@ premotion
 premotor
 premoult
 prems
+premsie
 prenarial
 prenasal
 prenasals
@@ -45342,6 +45414,7 @@ prenup
 prenups
 prenuptial
 preon
+preons
 preoptic
 preoral
 preorbital
@@ -45755,6 +45828,9 @@ prisms
 prismy
 prison
 prisonise
+prisonize
+prisonizes
+prisonous
 prisons
 pristaf
 pristane
@@ -45792,6 +45868,7 @@ prize
 prizeable
 prized
 prizer
+prizers
 prizes
 prizing
 pro
@@ -46554,6 +46631,7 @@ prozine
 prude
 prudist
 prudists
+pruinose
 pruinous
 prunase
 prunases
@@ -47019,6 +47097,8 @@ purging
 puri
 purified
 purifier
+purifiers
+purifies
 puriform
 purine
 purines
@@ -47080,6 +47160,8 @@ purpurate
 purpurates
 purpure
 purpureal
+purpurein
+purpureins
 purpureous
 purpuric
 purpurice
@@ -49905,6 +49987,10 @@ reinflated
 reinflict
 reinflicted
 reinform
+reinfuse
+reinfuses
+reinfusion
+reinfusions
 reing
 reingratiating
 reinherit
@@ -49947,6 +50033,8 @@ reinverted
 reinvite
 reinvited
 reionise
+reionize
+reionizes
 reird
 reirded
 reirds
@@ -50556,6 +50644,8 @@ repeople
 reperform
 reperfume
 reperfumed
+reperfumes
+reperfusion
 repermit
 repermits
 repertoire
@@ -50740,6 +50830,7 @@ repun
 repunit
 repuns
 repurge
+repurifies
 repurpose
 repurposes
 reput
@@ -50936,6 +51027,7 @@ resing
 resinging
 resings
 resinic
+resinifies
 resining
 resinite
 resinites
@@ -51060,6 +51152,7 @@ responses
 responsor
 responsories
 responsors
+responsum
 respray
 resprays
 respun
@@ -53380,6 +53473,7 @@ rumors
 rumour
 rumoured
 rumourer
+rumourers
 rumouring
 rumourist
 rumourists
@@ -54929,6 +55023,7 @@ seiza
 seize
 seized
 seizer
+seizers
 seizes
 seizin
 seizing
@@ -55247,6 +55342,10 @@ sermonise
 sermoniser
 sermonisers
 sermonises
+sermonize
+sermonizer
+sermonizers
+sermonizes
 sermons
 serosa
 serositis
@@ -57835,6 +57934,7 @@ spumantes
 spume
 spumes
 spumoni
+spumous
 spumy
 spun
 spunk
@@ -59359,16 +59459,30 @@ supe
 suped
 super
 superb
+superfuse
+superfuses
+superfusion
 superial
+superinfuse
+superinfuses
+superinfusion
+superinfusions
 superius
 supermini
 superminis
+supermom
+supermoms
+supermum
+supermums
 supern
+superperson
 superpose
 superposes
 supers
 supersaver
 supersavers
+supersize
+supersizes
 superuser
 superusers
 supervene
@@ -59403,6 +59517,8 @@ supraspinatus
 suprasubtle
 supreme
 supremes
+supremo
+supremos
 supremum
 supremums
 sups
@@ -67603,6 +67719,7 @@ yikes
 yin
 yinz
 yinzer
+yinzers
 yip
 yipe
 yips
@@ -67840,6 +67957,7 @@ zingiest
 zinging
 zings
 zino
+zinos
 zins
 zip
 zipline
