@@ -1502,6 +1502,7 @@ afters
 aftersale
 aftershaft
 aftershafts
+afties
 afto
 aftos
 aftosa
@@ -1770,6 +1771,8 @@ ahistoric
 ahold
 ahole
 aholehole
+aholeholes
+aholes
 ahoy
 ahu
 ahuahuete
@@ -1910,6 +1913,8 @@ airs
 airscape
 airscrew
 airscrews
+airshaft
+airshafts
 airsick
 airside
 airsome
@@ -2588,6 +2593,7 @@ alvar
 alvars
 alvearie
 alvearies
+alveary
 alveated
 alveolar
 alveolars
@@ -2600,6 +2606,7 @@ alveus
 alveuses
 alvine
 alvite
+alvites
 alway
 always
 alypin
@@ -3807,6 +3814,8 @@ aristocrat
 aristocratic
 aristocrats
 aristos
+aristotle
+aristotles
 arith
 ark
 arkose
@@ -3989,6 +3998,7 @@ artiste
 artistes
 artistic
 artistical
+artistly
 artistry
 artists
 artly
@@ -3996,6 +4006,7 @@ artolater
 artolatries
 artolatry
 artotyrite
+artotyrites
 arts
 artsier
 artsiest
@@ -4060,6 +4071,8 @@ ashlars
 ashore
 ashplant
 ashplants
+ashrafi
+ashrafis
 ashram
 ashrama
 ashramas
@@ -4183,11 +4196,13 @@ astrovirus
 astute
 astuter
 astutest
+astylar
 asura
 asuras
 aswarm
 aswim
 aswirl
+asystole
 asystolic
 atactic
 ataman
@@ -15705,6 +15720,7 @@ eared
 earful
 earfuls
 earhole
+earholes
 earing
 earl
 earldom
@@ -15741,6 +15757,7 @@ earpieces
 ears
 earsay
 earsays
+earshot
 earth
 earthboard
 earthen
@@ -17334,6 +17351,7 @@ estrane
 estreat
 estreats
 estrin
+estriol
 estrone
 estrous
 estrual
@@ -17929,6 +17947,8 @@ eyefuls
 eyehole
 eyeholes
 eyeing
+eyelash
+eyelashes
 eyelet
 eyeleted
 eyelets
@@ -18054,6 +18074,7 @@ fails
 failsafe
 failsafes
 failte
+failtes
 failure
 fain
 faineant
@@ -18255,6 +18276,7 @@ fascistic
 fascistisation
 fascists
 fash
+fashes
 fashion
 fashionista
 fashionistas
@@ -18267,6 +18289,7 @@ fastens
 faster
 fastest
 fastie
+fasties
 fasts
 fat
 fatal
@@ -18349,6 +18372,7 @@ fazed
 fazenda
 fazes
 fazing
+fealty
 fear
 feard
 feardie
@@ -18361,6 +18385,8 @@ fearsome
 feart
 feartie
 fearties
+feast
+feasts
 feat
 feather
 featherbed
@@ -18500,6 +18526,10 @@ festa
 festal
 fester
 festers
+festive
+festively
+festivities
+festivity
 fests
 feta
 fetal
@@ -18679,6 +18709,7 @@ filons
 filopodia
 filopodial
 filopodium
+filose
 fils
 filter
 filtered
@@ -18890,6 +18921,7 @@ fits
 five
 fivefinger
 fiver
+fives
 fix
 fixate
 fixative
@@ -19282,7 +19314,9 @@ folic
 folie
 folio
 foliole
+folioles
 folios
+foliose
 folium
 folk
 folkdance
@@ -19469,6 +19503,7 @@ foursquare
 fourth
 fovea
 foveae
+foveal
 foveate
 fowl
 fowler
@@ -19479,6 +19514,7 @@ fox
 foxtail
 foxtails
 foyaite
+foyaites
 foyer
 foyers
 fracas
@@ -19502,6 +19538,7 @@ frail
 frailer
 frailest
 frails
+frailties
 frailty
 frais
 fraise
@@ -19618,6 +19655,7 @@ friths
 frits
 frivol
 frivoling
+frivolities
 frivolity
 fro
 froe
@@ -22013,6 +22051,8 @@ halva
 halvah
 halve
 halvers
+halves
+halvsies
 halwa
 halwah
 halyard
@@ -22130,6 +22170,7 @@ hansoms
 hanuman
 hanumans
 haole
+haoles
 haoma
 hap
 hapa
@@ -22393,6 +22434,8 @@ hay
 haycock
 haycocks
 haying
+hayloft
+haylofts
 haymaker
 hayrick
 hayride
@@ -22573,6 +22616,10 @@ hedonic
 heft
 hefted
 heftier
+heftiest
+heftily
+hefts
+hefty
 hegira
 hehe
 heiau
@@ -23102,9 +23149,12 @@ hoarded
 hoarhound
 hoarier
 hoariest
+hoarily
 hoarse
+hoarsely
 hoarsen
 hoarsens
+hoarsest
 hoary
 hoatzin
 hoax
@@ -23453,9 +23503,14 @@ hosta
 hostas
 hosted
 hostel
+hostelries
+hostelry
 hostie
 hosties
+hostile
+hostilely
 hostilities
+hostility
 hosts
 hot
 hotbed
@@ -23475,6 +23530,8 @@ hote
 hotel
 hotelier
 hotelified
+hotelifies
+hotelify
 hotelise
 hotelish
 hotels
@@ -27212,6 +27269,7 @@ lases
 lash
 lasher
 lashers
+lashes
 lashline
 lasque
 lasques
@@ -27376,6 +27434,8 @@ layout
 layover
 layovers
 lays
+layshaft
+layshafts
 layup
 layups
 lazar
@@ -27469,6 +27529,7 @@ leaser
 leasers
 leases
 leash
+leashes
 least
 leat
 leather
@@ -27528,6 +27589,7 @@ left
 leftfield
 leftie
 lefties
+leftish
 leftist
 leftists
 lefts
@@ -28316,6 +28378,8 @@ lithopone
 lithos
 lithosol
 lithosols
+lithotrite
+lithotrites
 lithotrity
 litie
 lities
@@ -28551,6 +28615,7 @@ loeweite
 loft
 lofted
 lofter
+loftiest
 loftily
 lofting
 lofts
@@ -28771,17 +28836,25 @@ lovat
 love
 loveable
 loved
+lovefest
+lovefests
 loveful
 lovekin
 lovekins
 lovekinses
 lovelier
 lovelies
+loveliest
 lovelife
+lovelifies
+lovelify
+lovelily
 loveling
 lovelives
 lovelock
 lovelorn
+lovely
+lovelyfy
 lover
 lovered
 loverlike
@@ -28853,6 +28926,7 @@ lox
 loyal
 loyalist
 loyalists
+loyalties
 loyalty
 lozenge
 lsd
@@ -36780,6 +36854,7 @@ nyuze
 oaf
 oafdom
 oafish
+oafishly
 oafo
 oafos
 oafs
@@ -38461,6 +38536,7 @@ othyl
 othyls
 otic
 otiose
+otiosely
 otiosity
 otitis
 otium
@@ -39161,6 +39237,7 @@ overzeal
 overzealous
 overzeals
 oviaries
+oviary
 ovibovine
 ovibovines
 ovicide
@@ -47959,6 +48036,7 @@ raftered
 rafters
 rafting
 rafts
+rafty
 rag
 raga
 ragabash
@@ -52528,6 +52606,7 @@ rivinas
 riving
 rivose
 rivotite
+rivotites
 rivulet
 rivulets
 rivulose
@@ -53796,10 +53875,14 @@ saether
 safari
 safaris
 safe
+safely
 safener
 safeners
 safer
 safes
+safest
+safeties
+safety
 safeword
 safewords
 safranin
@@ -55709,6 +55792,8 @@ shelterer
 shelterers
 shelters
 sheltie
+shelties
+shelty
 shelve
 shelves
 shen
@@ -55824,7 +55909,9 @@ shmuck
 shmutz
 sho
 shoal
+shoalest
 shoals
+shoaly
 shoat
 shoats
 shochet
@@ -55846,6 +55933,8 @@ shoeshine
 shoeshiner
 shoeshiners
 shoeshines
+shofar
+shofars
 shogun
 shoguns
 shoji
@@ -55916,6 +56005,9 @@ shoutout
 shoutouts
 shouts
 shouty
+shove
+shovel
+shoves
 show
 showd
 showding
@@ -55965,6 +56057,8 @@ shrines
 shrink
 shrinks
 shrive
+shrivel
+shrives
 shroud
 shrouds
 shrove
@@ -57121,11 +57215,18 @@ soever
 sofa
 sofar
 sofas
+sofrito
 soft
 softa
 softas
 softdrink
 softdrinks
+softest
+softie
+softies
+softish
+softly
+softy
 sogo
 soh
 soie
@@ -57176,6 +57277,7 @@ solecisms
 solecistic
 soled
 solei
+solely
 soleplate
 soleplates
 solera
@@ -58554,6 +58656,7 @@ stirfry
 stirk
 stirks
 stirs
+stishovite
 stitch
 stitcher
 stitchery
@@ -58717,6 +58820,7 @@ strains
 strait
 straiten
 straitens
+straitly
 straits
 straitsman
 strake
@@ -58978,9 +59082,12 @@ stylites
 stylo
 styloid
 styloids
+stylolite
+stylolites
 stylopid
 stylopids
 stylops
+stylos
 stylus
 styluses
 stymie
@@ -60738,6 +60845,7 @@ teleguided
 telehandler
 telehealth
 teleioses
+teleiosis
 teleiotic
 telekinesis
 telekinetic
@@ -61171,6 +61279,8 @@ tetrarchy
 tetras
 tetrastich
 tetrastichs
+tetrastyle
+tetrastyles
 tetratomic
 tetri
 tetris
@@ -61256,10 +61366,12 @@ thecal
 thecate
 thecodont
 theft
+thefts
 thegn
 theine
 their
 theirs
+theirselves
 theism
 theist
 theistic
@@ -61525,6 +61637,7 @@ thrip
 thrips
 thrive
 thriven
+thrives
 thriving
 thro
 throat
@@ -62115,6 +62228,7 @@ toilers
 toilet
 toileted
 toiletic
+toiletries
 toiletry
 toilets
 toilful
@@ -63117,6 +63231,7 @@ trinomials
 trio
 triode
 triolet
+triolets
 trios
 triose
 trioses
@@ -63190,6 +63305,8 @@ trivet
 trivets
 trivia
 trivial
+trivialise
+trivialises
 trivialities
 triviality
 trixie
@@ -65809,6 +65926,8 @@ vestal
 vestals
 vestas
 vested
+vestiaries
+vestiary
 vestibule
 vestibules
 vestige
@@ -65963,6 +66082,7 @@ vilely
 viler
 vilest
 vilifier
+vilifies
 vilify
 vilifying
 vim
@@ -66034,6 +66154,7 @@ viperine
 vipers
 viraemia
 viral
+virality
 virals
 virelai
 vireo
@@ -66134,6 +66255,8 @@ vitiating
 vitiation
 vitiator
 vitrescent
+vitrifies
+vitrify
 vitrine
 vitriol
 vitriolic
@@ -66228,6 +66351,8 @@ voivods
 voix
 volant
 volar
+volaries
+volary
 volcan
 volcanean
 volcanian
@@ -67674,6 +67799,7 @@ yeasayer
 yeasayers
 yeast
 yeastiest
+yeastily
 yeasts
 yeasty
 yebo
