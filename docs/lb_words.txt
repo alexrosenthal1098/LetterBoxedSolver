@@ -944,9 +944,12 @@ adance
 adapid
 adapt
 adaptable
+adaptate
+adaptated
 adaptating
 adaptation
 adaptational
+adapted
 adapter
 adapting
 adaption
@@ -3542,6 +3545,7 @@ apraxic
 apricot
 apriori
 apron
+aproned
 aprons
 apropos
 apsara
@@ -9946,6 +9950,7 @@ chlorion
 chloritic
 chloritoid
 chlorocarbon
+chloroprene
 chlorotic
 choanocyte
 choc
@@ -10678,6 +10683,7 @@ clot
 clotbur
 cloth
 clothe
+clothed
 clothier
 cloths
 clots
@@ -10697,7 +10703,9 @@ cloven
 clover
 clovers
 cloves
+clowder
 clown
+clowned
 clowns
 cloy
 cloys
@@ -10757,6 +10765,7 @@ coachmen
 coaction
 coactive
 coadaptation
+coadapted
 coadjutor
 coagula
 coal
@@ -10928,6 +10937,7 @@ coenobia
 coequal
 coequals
 coerce
+coerced
 coercer
 coercers
 coerces
@@ -11036,6 +11046,7 @@ colobine
 coloboma
 colobus
 colocate
+colocated
 colocates
 colocynth
 cologne
@@ -11665,6 +11676,7 @@ coprophilia
 cops
 copse
 copses
+copter
 copula
 copular
 copulas
@@ -11692,6 +11704,7 @@ corbeled
 corbie
 cord
 corda
+cordate
 corded
 cordial
 cordiality
@@ -11809,6 +11822,7 @@ corporatocracy
 corporatocrat
 corporatocratic
 corporator
+corporeal
 corps
 corpse
 corpses
@@ -12024,6 +12038,7 @@ cower
 cowered
 cowering
 cowgirl
+cowherd
 cowing
 cowl
 cowlick
@@ -12230,6 +12245,7 @@ cred
 credal
 credence
 credencive
+credenda
 credent
 credible
 credit
@@ -12509,6 +12525,7 @@ crowls
 crown
 crownal
 crownals
+crowned
 crowner
 crownet
 crownlet
@@ -13269,6 +13286,8 @@ databanks
 database
 databases
 datable
+datacenter
+datacentre
 datacom
 datagram
 datagrams
@@ -13385,6 +13404,7 @@ dead
 deadbeat
 deadbolt
 deaden
+deadender
 deadened
 deadener
 deadening
@@ -13498,14 +13518,17 @@ decad
 decadal
 decade
 decadence
+decadent
 decades
 decads
+decahedron
 decal
 decals
 decan
 decanal
 decane
 decani
+decathlon
 decay
 decayed
 decays
@@ -13574,9 +13597,11 @@ decoke
 decoked
 decokes
 decolor
+decolored
 decolors
 decondition
 deconditioned
+decontrol
 decor
 decorate
 decorated
@@ -13586,6 +13611,7 @@ decorum
 decorums
 decrement
 decremented
+decretal
 decried
 decrier
 decries
@@ -14152,11 +14178,13 @@ dewaxed
 dewaxing
 dewclaw
 dewclaws
+dewdrop
 dewed
 dewier
 dewily
 dewing
 dewlap
+dewpond
 dews
 dewy
 dex
@@ -15372,6 +15400,8 @@ drongo
 drongos
 droning
 drop
+dropcloth
+drophead
 droplight
 dropout
 drops
@@ -15390,6 +15420,7 @@ drover
 drovers
 droves
 drown
+drowned
 drowse
 drowsed
 drowses
@@ -15915,6 +15946,7 @@ economistic
 economists
 economize
 economizer
+ecophene
 ecopoiesis
 ecorat
 ecorats
@@ -16553,6 +16585,7 @@ encores
 encoring
 encounter
 encroach
+encroached
 encroacher
 encrust
 encrusts
@@ -16566,6 +16599,7 @@ end
 endanger
 endear
 endearing
+endecad
 ended
 endekad
 endemic
@@ -16868,6 +16902,7 @@ entrap
 entraps
 entre
 entreat
+entreated
 entreaties
 entreating
 entreatment
@@ -16956,6 +16991,7 @@ envy
 enwrap
 enwraps
 enwreathe
+enwreathed
 eolian
 eolianly
 eolid
@@ -22192,6 +22228,7 @@ haply
 haps
 hapten
 haptenic
+hapteron
 haptic
 haptics
 haptin
@@ -22465,6 +22502,7 @@ headbay
 headboard
 headcase
 headcases
+headcloth
 headcold
 headed
 headend
@@ -22484,6 +22522,7 @@ headliner
 headload
 headman
 headmen
+headnote
 headrail
 headrig
 headright
@@ -22492,8 +22531,10 @@ headset
 headsets
 headstay
 headstays
+headteacher
 headwater
 headwear
+headword
 heady
 heal
 healable
@@ -22709,6 +22750,8 @@ hence
 hench
 henchman
 henchmen
+hendecad
+hendecade
 henequen
 henge
 henley
@@ -22850,6 +22893,7 @@ hetaira
 hetairai
 hetairas
 hetero
+heterocercal
 heterocyst
 heterocysts
 heterodyne
@@ -28468,6 +28512,7 @@ loans
 loas
 loath
 loathe
+loathed
 loather
 loathers
 loathing
@@ -28517,6 +28562,7 @@ locant
 locants
 locatable
 locate
+located
 locater
 locates
 location
@@ -28906,6 +28952,7 @@ lowlily
 lowling
 lowly
 lown
+lowned
 lowning
 lowns
 lowres
@@ -35363,6 +35410,7 @@ netful
 nethead
 netheads
 nether
+netherworld
 neti
 netizen
 netlike
@@ -36270,6 +36318,7 @@ nonvoter
 nonvoting
 nonwhite
 nonwireline
+nonword
 nonwork
 nonworker
 nonworkers
@@ -36341,6 +36390,7 @@ northerner
 northing
 northland
 northly
+northpaw
 nortmast
 nory
 nose
@@ -36412,6 +36462,7 @@ notarise
 notarises
 notary
 notate
+notated
 notates
 notatin
 notating
@@ -36433,6 +36484,7 @@ notchy
 note
 noted
 noteful
+notehead
 notelet
 notelets
 notepad
@@ -36563,6 +36615,7 @@ nowcasts
 nowd
 nowder
 nowds
+nowdther
 nowed
 nowhat
 nowhen
@@ -37757,6 +37810,7 @@ onyongnyong
 onyx
 opa
 opacate
+opacated
 opacite
 opacites
 opacity
@@ -38532,6 +38586,7 @@ othertimes
 otherwhat
 otherwhere
 otherwhither
+otherworld
 othyl
 othyls
 otic
@@ -39298,6 +39353,7 @@ owleries
 owlers
 owlet
 owlets
+owlhead
 owling
 owlism
 owlisms
@@ -39638,6 +39694,7 @@ pala
 palabra
 palabras
 palace
+palaced
 palacinka
 palacinkas
 palacio
@@ -39647,6 +39704,7 @@ paladin
 palaeic
 palaeobotanist
 palaeobotanists
+palaeocon
 palaeoequator
 palaeoequatorial
 palaeogean
@@ -39664,6 +39722,7 @@ palaeosoil
 palaeosoils
 palaeosol
 palaeosols
+palaeothere
 palaeowind
 palaestra
 palaestras
@@ -39689,6 +39748,7 @@ palatalize
 palatalizing
 palatals
 palate
+palated
 palates
 palatial
 palatian
@@ -39823,6 +39883,7 @@ palsies
 palsy
 palsylike
 palter
+paltered
 palterer
 palterers
 palters
@@ -40854,11 +40915,13 @@ patchiest
 patchy
 patdown
 pate
+pated
 patel
 patels
 paten
 patency
 patent
+patented
 patenter
 patenting
 patentor
@@ -40873,6 +40936,7 @@ patesis
 patete
 patetes
 path
+pathed
 pathetic
 pathetical
 pathia
@@ -42213,8 +42277,11 @@ phenate
 phenazone
 phenenyl
 phenetic
+phenetol
 phenic
 phenicin
+phenol
+phenolate
 phenom
 phenome
 phenomen
@@ -42277,7 +42344,9 @@ phiz
 phizes
 phizog
 phloem
+phloretate
 phlorol
+phlorone
 phlox
 phloxes
 pho
@@ -42503,6 +42572,7 @@ phreaks
 phrenic
 phrenograph
 phrenotropic
+phronetal
 phtanite
 phthalate
 phthalein
@@ -44016,7 +44086,9 @@ poboy
 pobs
 pobses
 pocan
+pochade
 poche
+poched
 poches
 pochismo
 pochismos
@@ -44546,6 +44618,7 @@ ponask
 ponasks
 ponce
 ponceau
+ponced
 poncelet
 ponces
 poncey
@@ -44558,6 +44631,10 @@ poncifs
 poncy
 pond
 pondage
+ponded
+ponder
+pondered
+ponderer
 ponding
 pondok
 pondy
@@ -44674,6 +44751,7 @@ poral
 porangi
 porcate
 porch
+porched
 porchway
 porcine
 porcini
@@ -44686,6 +44764,7 @@ pored
 porer
 porers
 pores
+porewater
 porey
 porfido
 porge
@@ -44787,6 +44866,7 @@ porte
 ported
 portend
 portended
+portender
 portent
 portention
 porter
@@ -45019,6 +45099,7 @@ potestal
 potestas
 potestases
 potful
+pothead
 pother
 potholder
 pothole
@@ -45135,7 +45216,14 @@ povos
 pow
 powan
 powans
+powder
+powdercoat
+powdercoated
+powdered
+powderer
 power
+powered
+powerhead
 powering
 powerpop
 powers
@@ -45267,6 +45355,7 @@ prays
 pre
 preach
 preachable
+preached
 preacher
 preacheries
 preacherly
@@ -45281,6 +45370,7 @@ preachy
 preactivate
 preactivates
 preadapt
+preadapted
 preak
 preamble
 preambles
@@ -45308,6 +45398,7 @@ precede
 preceded
 precedence
 precedent
+precedental
 precedented
 preceder
 precent
@@ -45357,7 +45448,12 @@ preconditioned
 precoracoid
 precordia
 precut
+predate
+predated
+predator
+predawn
 predecided
+predentate
 predevote
 predevoted
 predial
@@ -45402,6 +45498,7 @@ pregnate
 prehalter
 preharvest
 preheat
+preheated
 preheater
 preheats
 prehend
@@ -45498,6 +45595,7 @@ preorbital
 preordain
 preorder
 preordered
+preowned
 prep
 prepackage
 prepackages
@@ -45664,6 +45762,7 @@ pretorships
 pretrain
 pretravel
 pretreat
+pretreated
 pretreats
 pretrial
 prevail
@@ -45951,6 +46050,7 @@ prizing
 pro
 proa
 proach
+proached
 proact
 proaction
 proactivator
@@ -46019,6 +46119,9 @@ proclitic
 proclitics
 proconsul
 procoracoid
+procreate
+procreated
+procreator
 proctitis
 proctocele
 proctocolitis
@@ -46183,6 +46286,7 @@ pronators
 prone
 pronephron
 pronetalol
+pronethalol
 proneur
 proneural
 prong
@@ -46300,6 +46404,7 @@ propolis
 propolize
 propolizing
 propone
+proponed
 proponent
 propones
 proponing
@@ -46515,6 +46620,7 @@ protext
 protexts
 prothalamia
 prothalamium
+protheca
 protheses
 prothesis
 prothetic
@@ -46536,6 +46642,7 @@ protists
 protium
 protoanemonin
 protobird
+protocercal
 protocneme
 protocoel
 protocoele
@@ -46616,6 +46723,7 @@ protostele
 protosteles
 protosun
 protosuns
+prototheca
 prototheme
 protothemes
 protothere
@@ -46693,6 +46801,7 @@ provosts
 provostship
 provostships
 prow
+prowed
 prowk
 prowl
 prowler
@@ -46843,6 +46952,7 @@ pteroma
 pteromorph
 pteropine
 pteropleuron
+pterotheca
 pterotic
 pterygote
 pterygotes
@@ -48847,6 +48957,7 @@ read
 readabilities
 readable
 readapt
+readapted
 readathon
 reader
 readers
@@ -49289,6 +49400,7 @@ reclining
 reclose
 recloses
 reclothe
+reclothed
 reclude
 recluded
 recluse
@@ -49321,6 +49433,7 @@ recolonise
 recolonises
 recolonize
 recolor
+recolored
 recoloring
 recolors
 recolour
@@ -49374,6 +49487,7 @@ reconviction
 recopies
 record
 recordable
+recordal
 recorded
 recorder
 recordist
@@ -49423,6 +49537,7 @@ recrews
 recriminate
 recriminator
 recrown
+recrowned
 recruit
 recruital
 recruiter
@@ -49502,7 +49617,9 @@ redbone
 redbreast
 redbreasts
 redbud
+redcap
 redcedar
+redcoal
 redcoat
 redcole
 rede
@@ -49609,6 +49726,7 @@ reds
 redside
 redsides
 redtail
+redthroat
 redtop
 redub
 reducable
@@ -50556,6 +50674,7 @@ renewalist
 renewalists
 renewals
 renewance
+renewed
 renewer
 renewers
 renewing
@@ -51527,6 +51646,8 @@ retraites
 retral
 retravel
 retread
+retreaded
+retreader
 retreat
 retreatal
 retreatant
@@ -51879,6 +52000,7 @@ reweighs
 reweight
 reweights
 rewend
+rewended
 rewhirl
 rewhirls
 rewild
@@ -60298,6 +60420,7 @@ talktime
 talky
 talofa
 talon
+taloned
 talons
 tals
 taluk
@@ -61617,6 +61740,7 @@ threap
 threaps
 threat
 threaten
+threatened
 threatener
 threats
 threnode
@@ -62176,6 +62300,7 @@ toby
 tocher
 tochus
 toco
+tocopherol
 tocos
 tocsin
 tocsins
@@ -62431,6 +62556,7 @@ topsoils
 topspin
 topstitch
 topstitches
+topwater
 toque
 toques
 tor
@@ -62633,6 +62759,8 @@ tower
 towered
 towering
 towers
+towhead
+towheaded
 towie
 towier
 towies
@@ -62640,6 +62768,7 @@ towiest
 towing
 towline
 town
+townhead
 townho
 townie
 townies
@@ -63413,6 +63542,7 @@ trove
 trover
 troves
 trow
+trowed
 trowel
 troweling
 trowels
@@ -66742,6 +66872,7 @@ watchtower
 water
 watercock
 watercolor
+watercolored
 watercolour
 watered
 waterer
@@ -66753,13 +66884,17 @@ waterhen
 waterhole
 watering
 waterish
+waterlade
 waterlog
 waterlogs
 waterman
 watermen
+waterpolo
+waterpower
 waters
 waterway
 waterwork
+waterwort
 watery
 wats
 waul
@@ -66835,6 +66970,7 @@ weaners
 weaning
 weans
 weapon
+weaponed
 weaponise
 weaponises
 weapons
@@ -66928,6 +67064,7 @@ welting
 welts
 wen
 wench
+wenched
 wencher
 wenching
 wend
@@ -67435,6 +67572,9 @@ wombs
 women
 womenswear
 won
+wonder
+wondered
+wonderer
 wonga
 wonk
 wonkier
@@ -67443,6 +67583,7 @@ wonkish
 wonks
 wonky
 wont
+wonted
 wonting
 wonton
 wontons
@@ -67590,6 +67731,7 @@ wreck
 wrecker
 wren
 wrench
+wrenched
 wrenching
 wrens
 wrentit
