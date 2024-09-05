@@ -10153,6 +10153,7 @@ chutist
 chutists
 chyle
 chymic
+chymous
 chypre
 chyron
 ciao
@@ -11999,6 +12000,7 @@ cousins
 couta
 coutas
 couth
+couthy
 couture
 couvade
 covariance
@@ -23123,6 +23125,7 @@ hist
 hister
 histers
 histic
+histiocytic
 histioid
 histoblast
 histoblasts
@@ -23819,6 +23822,7 @@ huskier
 huskies
 huskiest
 husks
+husky
 hustle
 hustler
 hustlers
@@ -25915,6 +25919,7 @@ jojobas
 joke
 joked
 jokier
+joky
 jol
 jolie
 jols
@@ -25948,6 +25953,8 @@ joy
 joyed
 joyous
 joys
+joystick
+joysticks
 jua
 juba
 jube
@@ -26409,6 +26416,8 @@ kickers
 kickier
 kickiest
 kicking
+kickout
+kickouts
 kicks
 kicky
 kid
@@ -26590,6 +26599,7 @@ kits
 kitsch
 kitschier
 kitschiest
+kitschy
 kitset
 kitsets
 kiva
@@ -31728,6 +31738,7 @@ michis
 mick
 mickle
 micks
+micky
 micrite
 micritic
 micro
@@ -32514,6 +32525,8 @@ misintent
 misintents
 misjudge
 miskal
+miskick
+miskicks
 miskoek
 miskoeks
 misky
@@ -32832,6 +32845,7 @@ mocker
 mockers
 mocks
 mockup
+mocky
 moco
 mocock
 mococks
@@ -33809,6 +33823,7 @@ mousey
 mousier
 mousme
 mousmes
+mousy
 mouth
 mouthed
 mouther
@@ -34321,6 +34336,8 @@ musicist
 musicists
 musico
 musicos
+musicstick
+musicsticks
 musiker
 musion
 musions
@@ -34331,6 +34348,7 @@ muskets
 muskrat
 muskrats
 musks
+musky
 muslin
 muslinet
 muslins
@@ -34381,6 +34399,7 @@ muthas
 muti
 mutic
 muticate
+muticous
 mutilate
 mutilates
 mutile
@@ -34416,6 +34435,8 @@ muxing
 muxy
 muzak
 muzakal
+muzhik
+muzhiks
 mvula
 mvule
 mvules
@@ -34433,6 +34454,8 @@ myasis
 mycete
 mycetes
 myceteses
+mycomysticism
+mycomysticisms
 mycosis
 mycota
 mycotas
@@ -34540,6 +34563,11 @@ mytheme
 mythemes
 mythi
 mythic
+mythicism
+mythicist
+mythicists
+mythism
+mythisms
 mythoi
 mythos
 myths
@@ -54766,6 +54794,7 @@ schismatics
 schisms
 schist
 schistose
+schistous
 schists
 schlub
 schlubs
@@ -58718,6 +58747,8 @@ stickles
 stickpin
 stickpins
 sticks
+stickum
+stickums
 stickup
 stickups
 sticky
@@ -58806,12 +58837,15 @@ stocklist
 stocklists
 stockmarket
 stockmarkets
+stockout
+stockouts
 stockpot
 stockpots
 stocks
 stocktake
 stocktaker
 stocktakers
+stocky
 stoep
 stoeps
 stog
@@ -62444,6 +62478,7 @@ tomographs
 tomography
 tomorn
 tomos
+tomoz
 tompion
 tompot
 tompots
@@ -64008,6 +64043,7 @@ twopence
 twos
 twyer
 twyers
+tychism
 tying
 tyke
 tykes
