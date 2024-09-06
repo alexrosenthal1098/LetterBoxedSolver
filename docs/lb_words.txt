@@ -3561,6 +3561,7 @@ apt
 apter
 aptest
 aptly
+aptonym
 apts
 aqsaqal
 aqua
@@ -4206,6 +4207,8 @@ asuras
 aswarm
 aswim
 aswirl
+asymptote
+asymptotes
 asystole
 asystolic
 atactic
@@ -4725,6 +4728,7 @@ axe
 axed
 axel
 axels
+axeman
 axemen
 axenic
 axes
@@ -15828,6 +15832,7 @@ eased
 easel
 easels
 easement
+easements
 easer
 easers
 eases
@@ -16719,6 +16724,10 @@ enisles
 enjoin
 enjoined
 enjoining
+enjoy
+enjoyment
+enjoyments
+enjoys
 enkephalin
 enkindle
 enkindled
@@ -17715,6 +17724,7 @@ exalted
 exaltes
 exalts
 exam
+examen
 example
 exams
 excel
@@ -17907,6 +17917,7 @@ extend
 extended
 extending
 extent
+extents
 exterior
 exteriorise
 exteriorises
@@ -25787,6 +25798,7 @@ jankier
 janky
 japan
 jape
+japes
 jar
 jarhead
 jarkman
@@ -25926,6 +25938,8 @@ jols
 jolt
 jolted
 jolts
+jones
+joneses
 jong
 jorts
 jorum
@@ -26888,6 +26902,7 @@ kylin
 kyloe
 kyloes
 kype
+kypes
 kyphotic
 kyte
 kytes
@@ -29635,6 +29650,7 @@ majorat
 majoritarian
 majorite
 majoron
+majos
 makable
 makaf
 makai
@@ -29986,6 +30002,7 @@ manism
 manitou
 manjack
 manjak
+manjaks
 mank
 mankal
 mankier
@@ -29993,6 +30010,7 @@ mankiest
 mankini
 mankinis
 manks
+manky
 manlier
 manlock
 manlot
@@ -30088,6 +30106,7 @@ manus
 manutergium
 manworth
 many
+manyokana
 manzo
 maomao
 maomaos
@@ -31621,6 +31640,8 @@ meting
 metoestrum
 metoestrus
 metol
+metonym
+metonymy
 metope
 metopes
 metopic
@@ -34485,6 +34506,8 @@ myombo
 myomere
 myomeres
 myon
+myoneme
+myonemes
 myons
 myopathy
 myope
@@ -37836,6 +37859,7 @@ onymatic
 onymous
 onyongnyong
 onyx
+onyxes
 opa
 opacate
 opacated
@@ -39701,6 +39725,7 @@ paise
 paitung
 pajala
 pajama
+pajamas
 pajock
 pakalolo
 pakalolos
@@ -41642,6 +41667,7 @@ pentose
 pentoses
 pentrough
 pentrow
+pentstemon
 pentyl
 pentylene
 pentyne
@@ -42125,6 +42151,7 @@ peshers
 peshkash
 peskier
 peskiest
+pesky
 peso
 pesos
 pest
@@ -47510,7 +47537,10 @@ pygidia
 pygmy
 pygmydom
 pygopod
+pyjama
+pyjamas
 pyknic
+pyknoses
 pyknotic
 pylon
 pylori
@@ -47587,6 +47617,9 @@ pyrothere
 pyrotheres
 pyrus
 pyruses
+pysanka
+pysankas
+pysanky
 python
 pythonic
 pythonist
@@ -55369,6 +55402,7 @@ senesce
 senescence
 senescent
 senesces
+senex
 senhor
 senhora
 senhoras
@@ -56793,6 +56827,8 @@ skyish
 skylark
 skylarked
 skylarks
+skyman
+skymen
 skyr
 skyscape
 skyscraper
@@ -57498,6 +57534,7 @@ sombreros
 some
 somebody
 someday
+someone
 somesthetic
 sometime
 sometimes
@@ -58882,6 +58919,7 @@ stomate
 stomates
 stomatitis
 stomp
+stompnose
 stomps
 stompy
 stone
@@ -58889,6 +58927,7 @@ stonechat
 stonechats
 stonehatch
 stonehatches
+stonemason
 stoner
 stoners
 stones
@@ -61216,6 +61255,7 @@ tenorini
 tenorino
 tenors
 tenotomies
+tenotomy
 tenpin
 tenpins
 tenrec
@@ -61455,6 +61495,7 @@ textile
 textiles
 texting
 texts
+textspeak
 texture
 textures
 texturise
@@ -62413,6 +62454,7 @@ tokers
 tokes
 toking
 tokonoma
+tokonomas
 tokotoko
 tolar
 tolars
