@@ -2919,6 +2919,8 @@ anarchical
 anarchism
 anarchs
 anarchy
+anastigmat
+anastigmats
 anastomose
 anastomoses
 anastomosis
@@ -3017,6 +3019,7 @@ angrily
 angry
 angst
 anguine
+anguish
 angular
 angulate
 anharmonic
@@ -4421,6 +4424,8 @@ auntie
 aunties
 auntly
 aunts
+auntship
+auntships
 aunty
 aura
 aurae
@@ -8092,6 +8097,7 @@ cacodyl
 cacodylic
 cacoethes
 cacology
+cacophonous
 cacti
 cactus
 cactuses
@@ -9107,6 +9113,8 @@ catsit
 catsits
 catsuit
 catsuits
+catsup
+catsups
 catwalk
 caucus
 caucuses
@@ -9127,6 +9135,8 @@ causa
 causable
 causal
 causality
+causation
+causations
 causative
 causatively
 causatives
@@ -9499,8 +9509,12 @@ champak
 champaks
 champerty
 champetre
+champignon
+champignons
 champion
 champions
+championship
+championships
 champleve
 champs
 chana
@@ -9830,6 +9844,7 @@ chiding
 chief
 chiefs
 chignon
+chignons
 chigoe
 chigoes
 chihuahua
@@ -10965,10 +10980,13 @@ cogent
 cogently
 cogitate
 cogitation
+cogitations
 cogitative
 cogito
 cognac
+cognacs
 cogon
+cogs
 coheir
 coheirs
 cohen
@@ -10994,6 +11012,7 @@ cohune
 coif
 coifs
 coign
+coigns
 coil
 coiled
 coiling
@@ -11413,6 +11432,7 @@ congener
 congeneric
 congenial
 conger
+congius
 coni
 conic
 conical
@@ -11462,6 +11482,8 @@ conserve
 conserver
 conservers
 conserves
+consign
+consigns
 consist
 consistorial
 consistory
@@ -11516,6 +11538,7 @@ consult
 consultation
 consultations
 consults
+consumption
 contact
 contactor
 contactors
@@ -11531,6 +11554,7 @@ contains
 contaminant
 contaminants
 contaminator
+contango
 conte
 contemn
 contemned
@@ -11550,6 +11574,7 @@ contents
 contes
 contest
 contests
+contiguous
 continence
 continent
 continental
@@ -11972,11 +11997,15 @@ countenance
 counter
 countercheck
 countian
+countians
 counts
+countship
+countships
 coup
 coupe
 couply
 coupon
+coupons
 coups
 cour
 courage
@@ -20837,6 +20866,7 @@ gist
 gists
 git
 gitana
+gitanas
 gitano
 gite
 gites
@@ -21698,6 +21728,7 @@ guilts
 guilty
 guimp
 guimpe
+guimps
 guinea
 guineapig
 guineas
@@ -21768,6 +21799,8 @@ guns
 gunsel
 gunship
 gunships
+gunshot
+gunshots
 gunsight
 gunsights
 gunter
@@ -21800,6 +21833,7 @@ gushiest
 gushily
 gushy
 gust
+gustation
 gustatory
 gustier
 gustiest
@@ -22195,6 +22229,7 @@ hanger
 hangi
 hanging
 hangings
+hangis
 hangman
 hangnail
 hangout
@@ -22202,6 +22237,7 @@ hangrier
 hangry
 hangs
 hangup
+hangups
 hank
 hanker
 hankerer
@@ -22431,6 +22467,7 @@ haunt
 haunted
 haunter
 haunting
+haunts
 haurient
 haustoria
 haut
@@ -23079,6 +23116,7 @@ hilum
 hilus
 him
 himation
+himations
 himbo
 himbos
 hin
@@ -24167,8 +24205,10 @@ ignore
 ignorer
 ignores
 ignoring
+ignotius
 ignotum
 iguana
+iguanas
 iguanid
 ijtihad
 ijtihads
@@ -24261,6 +24301,7 @@ imitated
 imitates
 imitating
 imitation
+imitations
 imitative
 imitator
 imli
@@ -24403,6 +24444,7 @@ imps
 impugn
 impugned
 impugning
+impugns
 impulse
 impulses
 impulsive
@@ -29965,6 +30007,7 @@ mangetout
 manghir
 mangi
 mangia
+mangiao
 manging
 mango
 mangos
@@ -30095,6 +30138,7 @@ manumise
 manumised
 manumises
 manumit
+manumits
 manumize
 manure
 manurer
@@ -30452,6 +30496,7 @@ mash
 masha
 mashas
 mashes
+mashgiach
 mashgiah
 mashie
 mashies
@@ -30556,6 +30601,7 @@ matchets
 matchman
 matchmen
 matchpot
+matchpots
 matchup
 matchups
 mate
@@ -33953,6 +33999,7 @@ mucous
 mucro
 mucros
 mucuna
+mucunas
 mucus
 mud
 mudalali
@@ -34004,6 +34051,7 @@ mugo
 mugos
 mugs
 mugshot
+mugshots
 muguet
 muguets
 mugwump
@@ -34151,6 +34199,7 @@ mumped
 mumper
 mumph
 mumping
+mumpish
 mumpreneur
 mumps
 mumpsimus
@@ -34181,6 +34230,7 @@ mungi
 munging
 mungite
 mungo
+mungs
 munguba
 mungy
 muni
@@ -34298,6 +34348,8 @@ muryans
 mus
 musambi
 musambis
+musang
+musangs
 muscae
 muscari
 muscaris
@@ -34381,6 +34433,9 @@ musquaw
 must
 musta
 mustache
+mustachio
+mustang
+mustangs
 mustas
 musted
 muster
@@ -34738,6 +34793,7 @@ nala
 nalas
 naled
 nam
+namacush
 namad
 namads
 namak
@@ -35034,6 +35090,8 @@ naufrage
 naught
 naughtier
 naughty
+naumachia
+naumachias
 naupaka
 nauplial
 naupliar
@@ -36350,6 +36408,7 @@ nonsuch
 nonsuit
 nonsuits
 nonsunt
+nonsunts
 nontheist
 nontheists
 nontrivial
@@ -36703,6 +36762,7 @@ nubs
 nubuck
 nucha
 nuchal
+nuchas
 nucin
 nucivorous
 nucleal
@@ -37301,6 +37361,7 @@ octopoid
 octopole
 octopoles
 octopus
+octopush
 octose
 octoses
 octostichous
@@ -38031,6 +38092,8 @@ optimal
 optimate
 optime
 optimes
+optimisation
+optimisations
 optimise
 optimises
 optimism
@@ -42288,6 +42351,12 @@ phalera
 phalerae
 phanatron
 phanotron
+phantasiast
+phantasiasts
+phantasist
+phantasists
+phantast
+phantasts
 pharaoh
 pharaohs
 pharate
@@ -42497,6 +42566,7 @@ phosphorus
 phot
 phota
 photae
+photas
 photic
 photics
 photie
@@ -42505,6 +42575,8 @@ photistic
 photo
 photoact
 photoaction
+photoactions
+photoacts
 photoaging
 photobomb
 photocatalytic
@@ -42535,6 +42607,7 @@ photographica
 photographing
 photographizing
 photography
+photogs
 photoheterotroph
 photoheterotrophic
 photoheterotrophy
@@ -42579,6 +42652,8 @@ photoprotect
 photoprotection
 photoproton
 photoprotons
+photopsia
+photopsias
 photopsy
 photoptic
 photoreaction
@@ -42893,6 +42968,8 @@ piety
 piezo
 pig
 pigboat
+pigcoit
+pigcot
 pigdog
 pigdom
 pigeon
@@ -42902,6 +42979,7 @@ pightle
 pigism
 piglet
 pigly
+pigman
 pigmean
 pigmen
 pigmy
@@ -42909,11 +42987,14 @@ pignoli
 pignolia
 pignolo
 pignon
+pignons
 pignorate
 pignorating
 pigpen
 pigpens
 pigs
+pigscot
+pigscots
 pigtail
 pigwash
 pika
@@ -43337,6 +43418,8 @@ pisacas
 pisacha
 pisane
 pisanes
+pisang
+pisangs
 pisanite
 pisanites
 pisanka
@@ -43414,6 +43497,7 @@ pitchi
 pitchier
 pitchiest
 pitchis
+pitchman
 pitchout
 pitchouts
 pitchpole
@@ -44278,6 +44362,7 @@ poi
 poiesis
 poiesises
 poietic
+poignant
 poikilocyte
 poilu
 poilus
@@ -44710,6 +44795,7 @@ ponging
 pongo
 pongs
 pongy
+ponhaus
 poniard
 ponies
 ponor
@@ -47262,6 +47348,8 @@ punk
 punkah
 punks
 punky
+punmanship
+punmanships
 puns
 punster
 punsters
@@ -47269,6 +47357,7 @@ punt
 punter
 punties
 punting
+puntman
 puntmen
 punto
 puntos
@@ -54724,6 +54813,7 @@ scamper
 scampers
 scampi
 scampis
+scampish
 scamps
 scams
 scamster
@@ -55870,6 +55960,7 @@ shamus
 shamuses
 shandies
 shanghai
+shanghais
 shango
 shank
 shankh
@@ -56139,6 +56230,7 @@ shophouse
 shophouses
 shoplet
 shoplets
+shopman
 shops
 shore
 shores
@@ -56174,6 +56266,8 @@ shosha
 shot
 shote
 shotes
+shotgun
+shotguns
 shotput
 shotputs
 shots
@@ -56294,6 +56388,8 @@ shysters
 sial
 sialic
 sialidase
+siamang
+siamangs
 sib
 sibia
 sibias
@@ -56420,6 +56516,8 @@ sigmas
 sigmate
 sign
 signaries
+signation
+signations
 signer
 signing
 signings
@@ -56431,6 +56529,7 @@ signorias
 signories
 signors
 signs
+signum
 signup
 sigri
 sigris
@@ -57963,6 +58062,7 @@ spides
 spiel
 spies
 spigot
+spigots
 spike
 spikes
 spikier
@@ -58798,6 +58898,7 @@ stiflers
 stigma
 stigmas
 stigmata
+stigmatisation
 stigmatise
 stigmatised
 stigmatises
@@ -59694,6 +59795,8 @@ sunfish
 sunflower
 sunflowers
 sung
+sunhat
+sunhats
 suni
 sunis
 sunk
@@ -60543,7 +60646,9 @@ tamperer
 tamperers
 tampers
 tampion
+tampions
 tampon
+tampons
 tamps
 tams
 tan
@@ -60562,6 +60667,7 @@ tangi
 tangible
 tangier
 tanging
+tangis
 tangle
 tangling
 tangly
@@ -62051,7 +62157,9 @@ tightly
 tights
 tiglon
 tignon
+tignons
 tigon
+tigons
 tigs
 tik
 tika
@@ -62593,6 +62701,7 @@ toper
 topes
 topflight
 tophat
+tophats
 tophi
 tophus
 topi
@@ -62792,7 +62901,9 @@ toughed
 toughen
 tougher
 toughie
+toughish
 toughly
+toughs
 touman
 tour
 touraco
@@ -63739,6 +63850,8 @@ tsuba
 tsubas
 tsubo
 tsubos
+tsunami
+tsunamis
 tsuris
 tuan
 tuans
@@ -64534,6 +64647,7 @@ unhanded
 unhandy
 unhang
 unhanging
+unhangs
 unharmed
 unhasp
 unhasped
