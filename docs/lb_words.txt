@@ -19146,6 +19146,7 @@ flight
 flightier
 flightiest
 flightily
+flighting
 flightpath
 flights
 flighty
@@ -19233,6 +19234,7 @@ flowerier
 flowers
 flowery
 flowier
+flowing
 flowline
 flown
 flows
@@ -19369,6 +19371,7 @@ foilist
 foilists
 foils
 foist
+foisting
 foists
 folacin
 folate
@@ -19400,6 +19403,7 @@ folk
 folkdance
 folkie
 folkier
+folkish
 folklorist
 folklorists
 folks
@@ -19509,14 +19513,17 @@ forge
 forged
 forger
 forget
+forging
 forgo
 forgoing
 forgone
 forgot
 fori
 forint
+forints
 fork
 forkful
+forking
 forklift
 forklifts
 forks
@@ -19711,6 +19718,7 @@ frighten
 frightened
 frightener
 frightful
+frighting
 frights
 frigid
 frigidarium
@@ -19722,6 +19730,7 @@ frise
 friseur
 friseurs
 frisk
+frisking
 frisks
 frit
 frita
@@ -19757,11 +19766,13 @@ frontmen
 fronton
 frontpage
 frore
+frosh
 frost
 frostie
 frostier
 frosties
 frostiest
+frosting
 frosts
 froth
 frothed
@@ -19769,6 +19780,7 @@ frother
 frothier
 frothily
 frothing
+froths
 froufrou
 froufrous
 frow
@@ -19776,6 +19788,7 @@ frown
 frowner
 frowning
 frowningly
+frowns
 frowny
 frows
 frowsier
@@ -19783,6 +19796,7 @@ frowsiest
 frowst
 frowstier
 frowstiest
+frowsting
 frowsts
 frowzier
 frowzy
@@ -20723,6 +20737,7 @@ ghi
 ghibli
 ghis
 ghost
+ghosting
 ghosts
 ghoul
 ghrelin
@@ -21274,6 +21289,7 @@ goving
 gowan
 gowans
 gowk
+gowks
 gown
 gowned
 gowning
@@ -21632,6 +21648,7 @@ growling
 growlingly
 growly
 grown
+grows
 growth
 grozing
 grub
@@ -23316,6 +23333,7 @@ hoist
 hoisted
 hoister
 hoisters
+hoisting
 hoists
 hok
 hoke
@@ -23559,6 +23577,8 @@ horny
 horologe
 horologer
 horologic
+horologist
+horologists
 horology
 horopter
 hors
@@ -23575,6 +23595,7 @@ horsey
 horsier
 horsiest
 horsily
+horsing
 horst
 horsts
 horsy
@@ -23592,6 +23613,7 @@ hoses
 hosier
 hosiers
 hosiery
+hosing
 hospice
 hospices
 host
@@ -23607,6 +23629,7 @@ hostile
 hostilely
 hostilities
 hostility
+hosting
 hosts
 hot
 hotbed
@@ -23718,12 +23741,14 @@ howes
 however
 howk
 howked
+howking
 howks
 howl
 howled
 howler
 howlet
 howlets
+howling
 howto
 howtos
 howtowdie
@@ -24197,6 +24222,7 @@ igniter
 igniting
 ignition
 ignitor
+ignitors
 ignitron
 ignoble
 ignorable
@@ -24805,6 +24831,8 @@ inflicted
 inflicter
 inflight
 inflow
+inflowing
+inflows
 influence
 influx
 info
@@ -24816,6 +24844,7 @@ infoliating
 infoliation
 infoline
 infolio
+infolios
 infomania
 infomaniac
 infonaut
@@ -25058,6 +25087,7 @@ insist
 insistence
 insistencies
 insistent
+insisting
 insists
 insitu
 insofar
@@ -26500,11 +26530,13 @@ kikoi
 kikois
 kikuyu
 kikuyus
+kilig
 kilikiti
 kilim
 kilims
 kiln
 kilned
+kilning
 kilns
 kilo
 kilobit
@@ -26521,6 +26553,7 @@ kilt
 kilted
 kilter
 kiltie
+kilting
 kilts
 kilty
 kimchi
@@ -26555,6 +26588,7 @@ kinetin
 kinetosome
 kinetosomes
 kinfolk
+kinfolks
 king
 kingie
 kingies
@@ -26612,6 +26646,7 @@ kirkmen
 kirks
 kirkton
 kirktown
+kirktowns
 kirkwynd
 kirkyard
 kirpan
@@ -28110,6 +28145,8 @@ lightish
 lightly
 lightning
 lights
+lightshow
+lightshows
 lightweight
 lightweights
 lighty
@@ -28279,8 +28316,11 @@ lingerer
 lingerie
 lingering
 lingo
+lingos
 lingot
+lingots
 lingtow
+lingtows
 lingua
 linguae
 lingual
@@ -28415,6 +28455,7 @@ listeriosis
 listers
 listicle
 listicles
+listing
 lists
 listserv
 listservs
@@ -28879,6 +28920,7 @@ losels
 loser
 losers
 loses
+losing
 lost
 lot
 lota
@@ -29015,6 +29057,9 @@ lowkey
 lowland
 lowlier
 lowliest
+lowlight
+lowlighting
+lowlights
 lowlily
 lowling
 lowly
@@ -35836,12 +35881,15 @@ nightgowns
 nighthawk
 nightie
 nighties
+nightish
 nightlight
 nightlights
 nightly
 nightman
+nightowl
 nightrider
 nights
+nightsoil
 nighty
 nigiri
 nignay
@@ -37675,6 +37723,7 @@ oligotroph
 oliguria
 olim
 olingo
+olingos
 olinguito
 olio
 olios
@@ -37697,6 +37746,8 @@ olivine
 olivinic
 olm
 olms
+ologist
+ologists
 ology
 ololiuque
 ololiuqui
@@ -38279,6 +38330,7 @@ orexises
 orf
 orfe
 orfes
+orfling
 orful
 org
 organ
@@ -38408,6 +38460,8 @@ ornithine
 ornithoid
 ornitholite
 ornitholites
+ornithologist
+ornithologists
 ornithophily
 ornithopod
 ornithosis
@@ -38428,6 +38482,8 @@ orohydrography
 oroide
 oroides
 orological
+orologist
+orologists
 orology
 orometry
 oronasal
@@ -38721,6 +38777,8 @@ otocysts
 otolith
 otolithic
 otoliths
+otologist
+otologists
 otology
 otomycosis
 otopathic
@@ -39470,6 +39528,7 @@ owlet
 owlets
 owlhead
 owling
+owlish
 owlism
 owlisms
 owls
@@ -52674,6 +52733,8 @@ ringspot
 ringspots
 ringtail
 ringtone
+ringwork
+ringworks
 ringworm
 ringy
 rink
@@ -52788,6 +52849,7 @@ risps
 risque
 rist
 risted
+risting
 ristle
 ristles
 ristorante
@@ -56211,6 +56273,7 @@ shoeshiners
 shoeshines
 shofar
 shofars
+shofroth
 shogun
 shoguns
 shoji
@@ -56234,6 +56297,7 @@ shopman
 shops
 shore
 shores
+shoring
 shorn
 shornie
 shornies
@@ -56333,6 +56397,7 @@ shrimps
 shrimpy
 shrine
 shrines
+shrining
 shrink
 shrinks
 shrive
@@ -56507,6 +56572,7 @@ sighs
 sight
 sighter
 sighters
+sighting
 sightly
 sights
 sigil
@@ -56582,6 +56648,7 @@ silky
 silo
 siloed
 siloes
+siloing
 silos
 silt
 siltation
@@ -56589,6 +56656,7 @@ siltations
 silted
 siltier
 siltiest
+silting
 silts
 siltstone
 siltstones
@@ -56751,6 +56819,7 @@ sitdowns
 site
 sited
 sites
+siting
 sitrep
 sitreps
 sits
@@ -56874,12 +56943,15 @@ skins
 skinsuit
 skinsuits
 skint
+skintight
 skintle
+skintling
 skioptic
 skioscopic
 skip
 skips
 skirl
+skirling
 skirls
 skirt
 skirts
@@ -56889,6 +56961,7 @@ skitch
 skitches
 skite
 skites
+skiting
 skits
 skive
 skiver
@@ -57508,9 +57581,13 @@ softas
 softdrink
 softdrinks
 softest
+softhorn
+softhorns
 softie
 softies
+softing
 softish
+softling
 softly
 softy
 sogo
@@ -57518,6 +57595,7 @@ soh
 soie
 soil
 soiled
+soiling
 soils
 soily
 soit
@@ -57583,6 +57661,7 @@ solid
 solidi
 solids
 solidus
+soling
 solipsism
 solipsist
 solipsistic
@@ -57593,6 +57672,7 @@ solitons
 solo
 soloed
 soloes
+soloing
 soloist
 soloists
 solos
@@ -58919,6 +58999,8 @@ stimied
 stimies
 stimuli
 stimulus
+sting
+stinging
 stink
 stinker
 stinkers
@@ -58932,6 +59014,7 @@ stinkpots
 stinks
 stinky
 stint
+stinting
 stints
 stipe
 stipes
@@ -59066,6 +59149,8 @@ storier
 storiers
 stories
 storing
+storiologist
+storiologists
 stork
 storks
 storm
@@ -59103,6 +59188,7 @@ stovies
 stow
 stowaway
 stowaways
+stowing
 stows
 strafe
 strafes
@@ -60148,6 +60234,7 @@ swirl
 swirled
 swirlie
 swirlier
+swirling
 swirls
 swish
 swisher
@@ -62153,6 +62240,7 @@ tighthead
 tightined
 tightknit
 tightline
+tightlining
 tightly
 tights
 tiglon
@@ -62971,6 +63059,7 @@ towno
 towns
 townscape
 townscapes
+townsfolk
 township
 townships
 townsite
@@ -67435,10 +67524,13 @@ whodunit
 whoever
 whole
 wholecloth
+wholist
+wholists
 whom
 whomso
 whop
 whorl
+whorling
 whortle
 whose
 whosis
@@ -67541,6 +67633,7 @@ wiliest
 wilily
 wiling
 wilt
+wilting
 wiltja
 wilts
 wily
@@ -67682,6 +67775,7 @@ wishes
 wishful
 wishlist
 wishlists
+wising
 wisp
 wispiest
 wisps
@@ -67711,6 +67805,7 @@ withies
 within
 without
 withy
+witling
 wits
 wive
 wived
@@ -67746,6 +67841,8 @@ wolds
 wolf
 wolfed
 wolfs
+wolfskin
+wolfskins
 wolverine
 wolves
 woma
@@ -67801,6 +67898,10 @@ worked
 worker
 workers
 workfare
+workflow
+workflows
+workfolk
+workfolks
 workforce
 workforces
 workhand
@@ -67810,6 +67911,7 @@ workhouse
 workhouses
 workie
 workies
+working
 workload
 workperson
 workrate
@@ -67863,6 +67965,7 @@ worsted
 worsteds
 worstest
 worstests
+worsting
 worsts
 wort
 worth
@@ -67893,6 +67996,7 @@ wowsed
 wowser
 wowsers
 wowses
+wowsing
 woylie
 woylies
 wpb
