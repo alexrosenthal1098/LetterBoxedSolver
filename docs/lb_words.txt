@@ -413,6 +413,7 @@ acalculia
 acalypha
 acanonical
 acanth
+acanthine
 acanthite
 acanthocyte
 acanthodian
@@ -1932,6 +1933,8 @@ airtight
 airtime
 airting
 airts
+airvent
+airvents
 airview
 airviews
 airward
@@ -3163,6 +3166,7 @@ antdom
 ante
 anteal
 anteater
+anteaters
 antebrachial
 antecaecal
 antechapel
@@ -3201,6 +3205,7 @@ antetheme
 antethemes
 antetype
 antevert
+anteverts
 anthelia
 anthelic
 anthelion
@@ -3667,6 +3672,7 @@ arch
 archaea
 archaeal
 archaean
+archaeans
 archaeon
 archaic
 archaise
@@ -3683,6 +3689,7 @@ archenemies
 archenteron
 archeon
 archer
+archers
 archery
 arches
 archest
@@ -4047,6 +4054,8 @@ ascension
 ascensions
 ascent
 ascents
+ascertain
+ascertains
 ascesis
 ascetic
 ascetics
@@ -4163,6 +4172,7 @@ asterisms
 astern
 asters
 asthenia
+asthenic
 asthma
 asthmatic
 asthmatics
@@ -8083,6 +8093,7 @@ caches
 cachet
 cachets
 cachexia
+cachexy
 caching
 cachou
 cachous
@@ -9055,7 +9066,9 @@ cate
 catechesis
 catechetic
 catechetical
+catechetics
 catechin
+catechins
 catechism
 catechisms
 catechist
@@ -9310,6 +9323,7 @@ centaurian
 centauric
 centenarial
 centenarian
+centenarians
 centenary
 centenier
 centeniers
@@ -9427,6 +9441,7 @@ cervicitis
 cervid
 cervids
 cervine
+cervix
 cesarean
 cesareans
 cesium
@@ -9439,6 +9454,7 @@ cestodes
 cestui
 cestus
 cetacean
+cetaceans
 cetane
 cetera
 ceteris
@@ -9533,6 +9549,8 @@ chana
 chance
 chancel
 chancer
+chancers
+chancery
 chances
 chancier
 chanciest
@@ -9563,7 +9581,10 @@ chantable
 chantage
 chantant
 chanter
+chanters
 chanteur
+chantey
+chanteys
 chanties
 chantlike
 chantment
@@ -9669,6 +9690,7 @@ charts
 charva
 charver
 charvered
+charvers
 charwoman
 charwomen
 chary
@@ -9680,6 +9702,8 @@ chasmic
 chasms
 chaste
 chasten
+chastener
+chasteners
 chastens
 chastise
 chastiser
@@ -9719,6 +9743,7 @@ cheapos
 cheat
 cheated
 cheater
+cheaters
 cheating
 cheats
 cheba
@@ -10344,6 +10369,7 @@ citharistic
 citharists
 cither
 cithern
+cithers
 citied
 cities
 citification
@@ -15871,6 +15897,7 @@ earthnut
 earthrise
 earthrises
 earths
+earthshine
 earthstar
 earthstars
 earthtone
@@ -15946,8 +15973,11 @@ ecbolic
 ecdysial
 ecdysis
 echelon
+echeveria
+echeverias
 echidna
 echinacea
+echinaceas
 echini
 echinoderm
 echiuran
@@ -16620,8 +16650,10 @@ enchained
 enchainement
 enchaining
 enchainment
+enchains
 enchant
 enchanter
+enchanters
 enchantment
 enchants
 enchase
@@ -16886,6 +16918,7 @@ ensnarl
 ensnarls
 ensoul
 ensouls
+enstatite
 enstatitic
 ensue
 ensued
@@ -16923,7 +16956,9 @@ enterotoxin
 enters
 entertain
 entertainer
+entertainers
 entertaining
+entertains
 enthral
 enthralment
 enthrone
@@ -16978,6 +17013,7 @@ entreating
 entreatment
 entreats
 entrechat
+entrechats
 entrecote
 entrench
 entrenched
@@ -17683,8 +17719,11 @@ evenomate
 evens
 evensong
 evensongs
+evenstar
+evenstars
 event
 eventer
+eventers
 eventful
 eventide
 eventime
@@ -17801,8 +17840,12 @@ excimers
 excipient
 excise
 excises
+excitant
+excitants
+excitative
 excite
 exciter
+exciters
 excites
 exciting
 exclaim
@@ -17810,7 +17853,9 @@ exclaimed
 excreta
 excrete
 excreter
+excreters
 excretes
+excretive
 excursus
 excuse
 excuses
@@ -17819,6 +17864,7 @@ exeats
 exec
 execrate
 execrates
+execrative
 execs
 executor
 executors
@@ -18001,6 +18047,7 @@ extra
 extract
 extracts
 extranet
+extranets
 extrapolate
 extrapolates
 extrapolator
@@ -23945,8 +23992,10 @@ hutong
 huts
 hwyl
 hyacinth
+hyacinthine
 hyacinths
 hyaena
+hyaenas
 hyaenodon
 hyaenodons
 hyalin
@@ -23985,6 +24034,7 @@ hydrophilicity
 hydrophily
 hydrophytic
 hyena
+hyenas
 hygiene
 hygienic
 hying
@@ -24091,6 +24141,7 @@ iceships
 iceshoe
 iceshoes
 icetray
+icetrays
 icewater
 icewine
 icewines
@@ -24567,6 +24618,7 @@ incapacitant
 incapacitate
 incapacitation
 incapacity
+incarcerate
 incarnadine
 incarnadined
 incarnate
@@ -24579,6 +24631,9 @@ incense
 incenses
 incensories
 incent
+incenter
+incenters
+incentive
 incentre
 incents
 incept
@@ -25077,6 +25132,7 @@ insane
 insanitary
 insanities
 insanity
+insatiate
 inscape
 inseam
 inseams
@@ -25147,8 +25203,10 @@ inspos
 instabilities
 instal
 instals
+instance
 instancy
 instant
+instanter
 instantiate
 instantiates
 instantly
@@ -25269,6 +25327,7 @@ interceder
 intercensal
 intercept
 intercepts
+interchain
 intercolonial
 intercontinental
 interconvert
@@ -25372,6 +25431,7 @@ interpreters
 interprets
 inters
 interspace
+interstate
 interstice
 interstitial
 interstitials
@@ -25384,6 +25444,7 @@ interurban
 interval
 intervene
 intervener
+interveners
 intervenes
 intervenient
 interview
@@ -25538,14 +25599,18 @@ inventor
 inventors
 invents
 inver
+invers
 invert
 inverted
 inverter
+inverters
+inverts
 invest
 investible
 investor
 investors
 invests
+inveterate
 inviable
 invigilate
 invincible
@@ -25559,6 +25624,7 @@ invitational
 invite
 invited
 inviter
+inviters
 invites
 inviting
 invitingly
@@ -35079,6 +35145,7 @@ narodnosts
 narods
 narsarsukite
 narthecal
+narthex
 narwhal
 narwhals
 nary
@@ -35258,6 +35325,8 @@ naying
 nays
 naysaid
 naysay
+naysayer
+naysayers
 naysays
 nazar
 nazir
@@ -35790,6 +35859,7 @@ newts
 nexal
 nexin
 nexine
+nexins
 next
 nexum
 ngaio
@@ -35842,6 +35912,7 @@ niched
 nicher
 nichered
 nichering
+nichers
 niches
 nichevo
 niching
@@ -36182,6 +36253,7 @@ nivosities
 nix
 nixed
 nixer
+nixers
 nixes
 nixie
 nixies
@@ -48277,6 +48349,7 @@ racecar
 racecard
 racecars
 racecaster
+racecasters
 raced
 racegoer
 racegoers
@@ -48771,8 +48844,11 @@ ranch
 ranched
 rancher
 ranchera
+rancheras
 rancheria
+rancherias
 ranchero
+ranchers
 ranches
 ranching
 ranchito
@@ -49646,17 +49722,22 @@ recercely
 recertifies
 rechain
 rechaining
+rechains
 rechange
 rechanging
 rechant
+rechants
 recharge
 rechargeable
 recharger
 recharging
 recharter
 recharters
+rechasten
+rechastens
 rechaud
 recheat
+recheats
 recheck
 rechecks
 recherche
@@ -49694,6 +49775,7 @@ recit
 recitable
 recital
 recitant
+recitants
 recitate
 recitates
 recitation
@@ -51070,6 +51152,7 @@ renunciance
 renunciant
 renunciate
 renunciated
+renvers
 renvoi
 reo
 reoblige
@@ -51799,7 +51882,9 @@ retainable
 retainage
 retained
 retainer
+retainers
 retaining
+retains
 retake
 retaken
 retaker
@@ -51987,8 +52072,10 @@ retreader
 retreat
 retreatal
 retreatant
+retreatants
 retreated
 retreater
+retreaters
 retreatful
 retreating
 retreatist
@@ -51999,6 +52086,7 @@ retreats
 retrench
 retrenched
 retrencher
+retrenchers
 retrial
 retribute
 retributed
@@ -52130,6 +52218,7 @@ revelries
 revelrous
 revels
 revenant
+revenants
 revend
 revended
 revends
@@ -52139,6 +52228,7 @@ revenger
 revenging
 revent
 reventa
+reventas
 revented
 revents
 revenue
@@ -52157,6 +52247,7 @@ revered
 reverence
 reverenced
 reverencer
+reverencers
 reverencing
 reverend
 reverendize
@@ -52193,6 +52284,7 @@ reversive
 reverso
 revert
 revertant
+revertants
 reverted
 revertence
 reverter
@@ -52593,7 +52685,9 @@ ricer
 ricercar
 ricercare
 ricercari
+ricercars
 ricercata
+ricercatas
 ricers
 rices
 ricey
@@ -54596,6 +54690,7 @@ samurai
 san
 sanad
 sanads
+sanative
 sanatoria
 sancoche
 sancocho
@@ -54652,8 +54747,10 @@ sangria
 sangrias
 sangshaw
 sanies
+sanitaire
 sanitaria
 sanitarian
+sanitarians
 sanitary
 sanitate
 sanitates
@@ -54718,6 +54815,8 @@ sarapes
 sarcasm
 sarcasms
 sarcastic
+sarcenet
+sarcenets
 sarcoma
 sarcomas
 sarcomata
@@ -54801,8 +54900,10 @@ satiations
 satiety
 satin
 satinet
+satinets
 satinise
 satinises
+satiny
 satire
 satires
 satiric
@@ -55324,6 +55425,8 @@ scripts
 scritch
 scritches
 scritchy
+scrivener
+scriveners
 scrod
 scrods
 scrota
@@ -56357,6 +56460,7 @@ shiver
 shiverer
 shiverers
 shivers
+shivery
 shives
 shivs
 shlemiel
@@ -58661,6 +58765,8 @@ stagy
 staid
 staidly
 stain
+stainer
+stainers
 stains
 stair
 staircase
@@ -58702,6 +58808,7 @@ stamper
 stampers
 stamps
 stan
+stance
 stanch
 stancher
 stanches
@@ -58745,6 +58852,7 @@ starburst
 starbursts
 starch
 starcher
+starchers
 starches
 starchier
 starchiest
@@ -58790,6 +58898,7 @@ starover
 starovers
 starquake
 stars
+starshine
 starspot
 starspots
 start
@@ -58806,6 +58915,7 @@ startups
 starty
 starve
 starved
+starven
 starver
 starvers
 starves
@@ -58961,6 +59071,7 @@ stearate
 stearates
 stearic
 stearin
+stearine
 steatite
 steatites
 steatitic
@@ -59067,6 +59178,7 @@ stewpot
 stewpots
 stews
 stf
+sthenic
 stibnite
 stibnites
 stick
@@ -59380,6 +59492,8 @@ straw
 strawlike
 straws
 stray
+strayer
+strayers
 strays
 streak
 streaker
@@ -59453,6 +59567,7 @@ stripy
 strive
 striven
 striver
+strivers
 strives
 strobe
 strobes
@@ -60437,6 +60552,8 @@ synapse
 synapses
 synapsis
 synaptic
+synarchic
+synarchy
 synastry
 sync
 synch
@@ -60450,9 +60567,12 @@ synchrotron
 synchrotrons
 synchs
 syncope
+syncretic
 syncs
 syncytia
 syne
+synechia
+synechias
 synesis
 synesises
 synesthete
@@ -60492,6 +60612,8 @@ synthesisers
 synthesises
 synthesist
 synthesists
+synthetic
+synthetics
 synthetise
 synthetises
 synthon
@@ -60662,6 +60784,7 @@ tael
 taels
 taenia
 taeniae
+taenias
 taeniodont
 taenioid
 taenite
@@ -61096,6 +61219,8 @@ tasted
 taster
 tasters
 tastes
+tastevin
+tastevins
 tastier
 tastiest
 tastily
@@ -61202,11 +61327,13 @@ teacakes
 teach
 teacher
 teacherly
+teachers
 teaches
 teachest
 teachests
 teachin
 teaching
+teachins
 teacup
 teacups
 teaed
@@ -61793,6 +61920,7 @@ tetrarchate
 tetrarchates
 tetrarchical
 tetrarchies
+tetrarchs
 tetrarchy
 tetras
 tetrastich
@@ -63513,6 +63641,7 @@ treat
 treatable
 treated
 treater
+treaters
 treaties
 treating
 treatise
@@ -63560,6 +63689,7 @@ trenchcoat
 trenched
 trencher
 trenchermen
+trenchers
 trenches
 trenchman
 trenchmen
@@ -63643,8 +63773,10 @@ tricars
 tricast
 tricasts
 trice
+tricentenary
 trichiasis
 trichina
+trichinae
 trichocyst
 trichocysts
 trichotomic
@@ -64042,11 +64174,14 @@ trysails
 tryst
 trysted
 tryster
+trysters
 trysts
 tsai
 tsar
 tsarevich
 tsareviches
+tsarevna
+tsarevnas
 tsarina
 tsarinas
 tsarism
@@ -66307,6 +66442,7 @@ vent
 ventail
 vented
 venter
+venters
 venti
 ventil
 venting
@@ -66413,6 +66549,8 @@ vers
 versa
 versal
 versals
+versant
+versants
 versatile
 verse
 versed
@@ -66440,6 +66578,7 @@ vertebra
 vertebrae
 vertebrate
 vertebrates
+vertex
 vertical
 vertices
 vertigo
@@ -66481,7 +66620,12 @@ vetch
 vetches
 vetchy
 veteran
+veterans
+veterascent
 veterate
+veterinarian
+veterinarians
+veterinary
 vetitive
 vetiver
 vetivert
@@ -66507,6 +66651,7 @@ vews
 vex
 vexed
 vexer
+vexers
 vexes
 vexil
 vey
@@ -66627,6 +66772,8 @@ vilifying
 vim
 vin
 vina
+vinarterta
+vinartertas
 vinas
 vinca
 vincas
@@ -66661,6 +66808,7 @@ vintner
 vintners
 vints
 viny
+vinyasa
 vinyl
 vinyls
 viol
@@ -66787,6 +66935,7 @@ vitals
 vitamin
 vitamins
 vitas
+vitex
 vitiate
 vitiated
 vitiates
@@ -66835,6 +66984,8 @@ vivisects
 vivo
 vivos
 vivre
+vixen
+vixens
 vizard
 vizier
 vlast
@@ -68245,6 +68396,7 @@ wysiwyg
 wythe
 wythes
 xenia
+xenias
 xenon
 xeric
 xerox
@@ -68263,6 +68415,7 @@ xylan
 xylans
 xylem
 xylene
+xysti
 xystus
 yacht
 yachtie
