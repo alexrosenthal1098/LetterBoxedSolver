@@ -1499,13 +1499,17 @@ aftercare
 aftercast
 aftercasts
 afterfeather
+afterglow
 afterheat
 afterlife
+afterlight
 aftermath
 afters
 aftersale
 aftershaft
 aftershafts
+afterwale
+afterwhile
 afties
 afto
 aftos
@@ -3948,6 +3952,8 @@ artemisia
 arter
 arterial
 arteries
+arteriolar
+arteriole
 arteritic
 arteritis
 artery
@@ -4724,6 +4730,7 @@ aweigh
 awes
 awesome
 awful
+awhile
 awhirl
 awing
 awk
@@ -19003,6 +19010,7 @@ firefly
 fireguard
 firehole
 firelight
+firelighter
 fireline
 firelit
 firelock
@@ -19110,6 +19118,7 @@ fixits
 fixity
 fixture
 fixtures
+fizgig
 flab
 flack
 flacks
@@ -20828,6 +20837,8 @@ ghatam
 ghatams
 ghats
 ghaut
+ghazal
+ghazi
 gherao
 gheraoing
 gheraos
@@ -20864,10 +20875,12 @@ gies
 gift
 gifting
 gifts
+giftware
 gig
 gigabit
 gigabits
 gigaflop
+gigahertz
 gigantic
 gigaton
 gigatons
@@ -21434,6 +21447,7 @@ graduated
 graegle
 graft
 graftage
+grafter
 grafting
 graham
 grail
@@ -22117,6 +22131,7 @@ haematomata
 haere
 haet
 haets
+hafiz
 hafnium
 haft
 hafta
@@ -22656,6 +22671,7 @@ hazardize
 haze
 hazel
 hazelnut
+hazelraw
 hazer
 hazes
 hazier
@@ -23769,6 +23785,7 @@ hotelifies
 hotelify
 hotelise
 hotelish
+hotelize
 hotels
 hothead
 hotheaded
@@ -23799,6 +23816,7 @@ hotspot
 hotspots
 hotspur
 hotspurs
+hotwire
 houbara
 houbaras
 hough
@@ -29218,6 +29236,8 @@ lowkey
 lowland
 lowlier
 lowliest
+lowlife
+lowlifer
 lowlight
 lowlighting
 lowlights
@@ -38963,6 +38983,7 @@ other
 othered
 otherise
 otherises
+otherize
 others
 othersome
 othertime
@@ -61422,6 +61443,7 @@ teak
 teaks
 teal
 tealeaf
+tealight
 teals
 team
 teamer
@@ -62117,6 +62139,7 @@ thence
 theobromine
 theocrat
 theocratic
+theologize
 theor
 theorbist
 theorbists
@@ -63744,6 +63767,7 @@ trecentists
 trecento
 trefa
 trefid
+trefoil
 tregetour
 trek
 treks
@@ -64628,6 +64652,7 @@ twoced
 twocer
 twocker
 twocs
+twofer
 twonk
 twonks
 twopence
@@ -67445,6 +67470,7 @@ wares
 warez
 warfare
 warfarin
+warfighter
 wargame
 wargamer
 wargaming
@@ -67486,6 +67512,7 @@ warsle
 warsled
 warsles
 wart
+warthog
 wartier
 wartime
 wartlike
@@ -67774,6 +67801,7 @@ whack
 whacko
 whale
 whaled
+whaler
 whales
 wham
 whams
@@ -67813,8 +67841,10 @@ when
 whence
 whenever
 where
+whereafter
 whereat
 wherein
+whereof
 whereon
 whereto
 wherever
@@ -67858,6 +67888,7 @@ whiny
 whip
 whir
 whirl
+whirler
 whirligig
 whirligigs
 whirling
